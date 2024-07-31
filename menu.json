@@ -15,7 +15,7 @@
             "icon": "star",
             "label": "Favorites",
             "extensionLabel": "None",
-            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=favorites"
+            "data": "favorites"
         }
         
         ]
