@@ -9,7 +9,7 @@
                     "layout": "0,0,3,3",
                     "icon": "list",
                     "label": "IPTV",
-                    "action": "menu:https://triuduongg.github.io/msx/IPTV.json"
+                    "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/IPTV.json"
                 }
             ]
         }
