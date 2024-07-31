@@ -7,7 +7,7 @@
         {            
             "label": "IPTV",
             "data": {  
-                "items": [
+                "menu": [
                     {
                         "icon": "live-tv",
                         "label": "iptv-list.com",
