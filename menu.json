@@ -9,8 +9,6 @@
             "icon": "live-tv",
             "label": "iptv-list.com",
             "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://iptv-org.github.io/iptv/index.m3u"
-            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
-            
         },
         {
             "icon": "star",
