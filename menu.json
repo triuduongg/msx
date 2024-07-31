@@ -13,7 +13,7 @@
         {
             "icon": "star",
             "label": "Favorites",
-            "data": "favorites"
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=favorites&mode=extended&url=https://raw.githubusercontent.com/triuduongg/iptv-list.com/main/iptv-list.com-all.m3u8"
         }
         
         ]
