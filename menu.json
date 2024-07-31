@@ -2,13 +2,13 @@
     "headline": "TRIUDUONGG MSX",
     "menu": [   
             {
-                "type": "separator",
-                "label": "IPTV"
-            },
-            {
                 "icon": "star",
                 "label": "FAVORITES",
                 "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&context=favorites"
+            },
+            {
+                "type": "separator",
+                "label": "IPTV"
             },
             {
                 "icon": "live-tv",
