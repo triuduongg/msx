@@ -1,10 +1,6 @@
 {
     "headline": "TRIUDUONGG MSX",
-    "menu": [
-        {
-            "type": "separator"
-        }, 
-                   
+    "items": [     
             {
                 "icon": "live-tv",
                 "label": "IPTV",
