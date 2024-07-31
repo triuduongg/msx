@@ -1,0 +1,15 @@
+{
+    "headline": "IPTV",
+    "menu": [
+        {
+            "type": "separator",
+            "label": "PLAYLIST"
+        }, 
+                   
+            {
+                "icon": "live-tv",
+                "label": "iptv-list.com",
+                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/triuduongg/iptv-collection/main/iptv-list.com/iptv-list.com-all.m3u8"
+            }
+        ]
+}
