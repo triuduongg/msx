@@ -1,6 +1,7 @@
 {
     "headline": "TD IPTV MSX",
-    "menu": [{
+    "menu": [
+        {
             "type": "separator",
             "label": "Playlist"
         },  
@@ -9,10 +10,10 @@
             "label": "iptv-list.com",
             "extensionLabel": "None",
             "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/triuduongg/iptv-list.com/main/iptv-list.com-all.m3u8"
-        }
+        },
         {
-            "icon": "live-tv",
-            "label": "iptv-list.com",
+            "icon": "star",
+            "label": "Favorites",
             "extensionLabel": "None",
             "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=favorites"
         }
