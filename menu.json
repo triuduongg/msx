@@ -2,23 +2,13 @@
     "headline": "TRIUDUONGG MSX",
     "menu": [
         {
-            "type": "separator"
+            "type": "separator",
         }, 
-        {            
-            "label": "IPTV",
-            "data": {  
-                "menu": [
-                    {
-                        "icon": "live-tv",
-                        "label": "iptv-list.com",
-                        "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/triuduongg/iptv-collection/main/iptv-list.com/iptv-list.com-all.m3u8"
-                    },
-                    {
-                        "icon": "live-tv",
-                        "label": "freetv.fun",
-                        "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/triuduongg/iptv-collection/main/freetv.fun/test_channels_all_new.m3u"
-                    }
-                    ]
+                   
+            {
+                "icon": "live-tv",
+                "label": "IPTV",
+                "data": "https://triuduongg.github.io/msx/IPTV.json"
             }
-        }]
+        ]
 }
