@@ -1,6 +1,0 @@
-{    
-    "name": "TD IPTV MSX",
-    "version": "1.0.3",
-    "parameter": "menu:https://github.com/triuduongg/msx/menu.json",
-    "welcome": "none"
-}
