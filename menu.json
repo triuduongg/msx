@@ -1,17 +1,14 @@
 {
-    "type": "pages",
-    "headline": "References",
-    "pages": [
+    "headline": "TRIUDUONGG MSX",
+    "menu": [
         {
-            "items": [
-                {
-                    "type": "button",
-                    "layout": "0,0,3,3",
-                    "icon": "list",
-                    "label": "IPTV",
-                    "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/IPTV.json"
-                }
-            ]
-        }
-    ]
+            "type": "separator"
+        }, 
+                   
+            {
+                "icon": "live-tv",
+                "label": "IPTV",
+                "action": "menu:https://triuduongg.github.io/msx/IPTV.json"
+            }
+        ]
 }
