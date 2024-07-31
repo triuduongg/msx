@@ -1,20 +1,24 @@
 {
-    "headline": "TD IPTV MSX",
+    "headline": "TRIUDUONGG MSX",
     "menu": [
         {
-            "type": "separator",
-            "label": "Playlist"
-        },  
-        {
-            "icon": "live-tv",
-            "label": "iptv-list.com",
-            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://iptv-org.github.io/iptv/index.m3u"
-        },
-        {
-            "icon": "star",
-            "label": "Favorites",
-            "data": "user:http://msx.benzac.de/services/m3u.php?type=favorites&mode=extended&url=https://raw.githubusercontent.com/triuduongg/iptv-list.com/main/iptv-list.com-all.m3u8"
-        }
-        
-        ]
+            "type": "separator"
+        }, 
+        {            
+            "label": "IPTV",
+            "data": {  
+                "items": [
+                    {
+                        "icon": "live-tv",
+                        "label": "iptv-list.com",
+                        "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/triuduongg/iptv-collection/main/iptv-list.com/iptv-list.com-all.m3u8"
+                    },
+                    {
+                        "icon": "live-tv",
+                        "label": "freetv.fun",
+                        "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://raw.githubusercontent.com/triuduongg/iptv-collection/main/freetv.fun/test_channels_all_new.m3u"
+                    }
+                    ]
+            }
+        }]
 }
