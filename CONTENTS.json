@@ -17,7 +17,7 @@
             "title": "ONEDRIVE",
             "playerLabel": "ONEDRIVE",
             "icon": "cloud",
-            "action": "link:https://1drv.ms/f/s!AuSLgdsWZECtxmd91AS3djJqWTmu?e=IYPNaL"
+            "parameter": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction"
         }
     ]
 }
