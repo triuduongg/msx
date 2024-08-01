@@ -1,38 +1,11 @@
 {
-  "content": {
-            "name": "Google Drive MSX",
-            "version": "1.0.14",
-            "flag": null,
-            "server": "gd.msx.benzac.de",
-            "secure": false,
-            "parameter": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction",
-            "state": {
-                "start": true,
-                "restored": false,                
-                "menuId": null,
-                "menuFlag": null,
-                "menuFocus": "index:0",
-                "menuIndex": 0,
-                "menuSize": 3,
-                "contentId": "request:interaction:gd:welcome",
-                "contentFlag": null,
-                "contentFocus": null,
-                "contentIndex": -1,
-                "contentSize": -1,
-                "contentVisible": true,
-                "panelId": null,
-                "panelFlag": null,
-                "panelFocus": null,
-                "panelIndex": -1,
-                "panelSize": -1,
-                "panelVisible": false,
-                "videoVisible": false,
-                "videoActive": false,
-                "playerVisible": false,
-                "slideshowVisible": false,
-                "volumeVisible": false,
-                "logVisible": false
+    "headline": "OneDrive",
+    "menu": [   
+            {
+                "icon": "star",
+                "label": "gf",
+                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&context=favorites"
             },
-            "interaction": "http://gd.msx.benzac.de/interaction"            
-        }
+            
+        ]
 }
