@@ -32,7 +32,7 @@
                 "slideshowVisible": false,
                 "volumeVisible": false,
                 "logVisible": false
-            }
+            },
             "interaction": "http://gd.msx.benzac.de/interaction"            
         }
 }
