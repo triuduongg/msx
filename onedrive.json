@@ -1,0 +1,17 @@
+{
+    "type": "pages",
+    "headline": "ONEDRIVE",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "title": "ONEDRIVE",
+            "playerLabel": "ONEDRIVE",
+            "icon": "cloud",
+            "action": "execute:menu:request:interaction:init@http://od.msx.benzac.de/interaction"
+        }
+    ]
+}
