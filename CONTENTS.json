@@ -14,9 +14,9 @@
             "action": "menu:https://triuduongg.github.io/msx/IPTV.json"
         },
         {
-            "title": "GD MSX",
-            "playerLabel": "GD MSX",
-            "icon": "live-tv",
+            "title": "ONEDRIVE",
+            "playerLabel": "ONEDRIVE",
+            "icon": "movie",
             "action": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction"
         }
     ]
