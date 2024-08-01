@@ -10,6 +10,7 @@
         {
             "title": "IPTV",
             "playerLabel": "IPTV",
+            "icon": "live-tv",
             "action": "menu:https://triuduongg.github.io/msx/IPTV.json"
         }
     ]
