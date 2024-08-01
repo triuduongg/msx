@@ -17,7 +17,8 @@
             "title": "ONEDRIVE",
             "playerLabel": "ONEDRIVE",
             "icon": "cloud",
-            "action": "content:https://triuduongg.github.io/msx/gd.msx.json"
+            "server": "od.msx.benzac.de",
+            "action": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction"
         }
     ]
 }
