@@ -2,11 +2,6 @@
     "headline": "TRIUDUONGG MSX",
     "menu": [   
             {
-                "icon": "star",
-                "label": "FAVORITES",
-                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&context=favorites"
-            },
-            {
                 "icon": "apps",
                 "label": "CONTENTS",
                 "data": "https://triuduongg.github.io/msx/CONTENTS.json"
