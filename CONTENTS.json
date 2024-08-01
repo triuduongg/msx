@@ -17,7 +17,7 @@
             "title": "ONEDRIVE",
             "playerLabel": "ONEDRIVE",
             "icon": "cloud",
-            "action": "https://triuduongg.github.io/msx/startod.json"
+            "action": "menu:https://triuduongg.github.io/msx/startod.json"
         }
     ]
 }
