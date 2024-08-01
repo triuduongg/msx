@@ -5,7 +5,7 @@
                 "icon": "star",
                 "label": "gf",
                 "data": "menu:request:interaction:init@http://od.msx.benzac.de/interaction"
-            },
+            }
             
         ]
 }
