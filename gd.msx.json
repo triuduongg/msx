@@ -1,0 +1,118 @@
+{
+    "info": {
+        "host": "local",
+        "secure": false,
+        "client": null,
+        "platform": "android",
+        "id": "Vv58jUgVvufU8pVrq7XCQ5DnrEBwmhfy",
+        "player": "html5/plugin",
+        "userAgent": "Mozilla/5.0 ...",
+        "application": {
+            "name": "Media Station X",
+            "version": "0.1.107",
+            "suffix": null,
+            "settings": {
+                "validateLinks": 1,
+                "randomPlayback": 0,
+                "slideshowInterval": 10000,
+                "hoverEffect": 1,
+                "immersiveMode": 0,
+                "roundedStyle": 0,
+                "menuButton": {
+                    "action": -1,
+                    "keyCode": -1
+                }
+            }
+        },
+        "framework": {
+            "name": "TVX Framework",
+            "version": "0.1.14",
+            "suffix": null,
+            "settings": {
+                "animate": 2,
+                "transform": 1,
+                "input": 3,
+                "remote": 1,
+                "layout": "1",
+                "scale": "auto",
+                "zoom": null,
+                "center": 1,
+                "background": 1,
+                "leave": 0,
+                "exit": 1,
+                "back": 1,
+                "volume": 1,
+                "busy": 1,
+                "speed": 3,
+                "playback": 1,
+                "fullscreen": 1,
+                "suspend": 2,
+                "secure": 0,
+                "caption": 2
+            }
+        },
+        "content": {
+            "name": "Google Drive MSX",
+            "version": "1.0.14",
+            "flag": null,
+            "server": "gd.msx.benzac.de",
+            "secure": false,
+            "parameter": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction",
+            "state": {
+                "start": true,
+                "restored": false,                
+                "menuId": null,
+                "menuFlag": null,
+                "menuFocus": "index:0",
+                "menuIndex": 0,
+                "menuSize": 3,
+                "contentId": "request:interaction:gd:welcome",
+                "contentFlag": null,
+                "contentFocus": null,
+                "contentIndex": -1,
+                "contentSize": -1,
+                "contentVisible": true,
+                "panelId": null,
+                "panelFlag": null,
+                "panelFocus": null,
+                "panelIndex": -1,
+                "panelSize": -1,
+                "panelVisible": false,
+                "videoVisible": false,
+                "videoActive": false,
+                "playerVisible": false,
+                "slideshowVisible": false,
+                "volumeVisible": false,
+                "logVisible": false
+            },
+            "interaction": "http://gd.msx.benzac.de/interaction"            
+        },
+        "dictionary": {
+            "url": "http://msx.benzac.de/dic/en.json",
+            "name": "English",
+            "version": "1.0.0",
+            "size": 277
+        },
+        "screen": {
+            "width": 1280,
+            "height": 720,
+            "factor": 1,
+            "zoomFactor": 1
+        },
+        "time": {
+            "timestamp": 1580465719024,
+            "now": 1580465718178,
+            "zone": 3600000,
+            "offset": 0,
+            "zoneOffset": 0
+        },
+        "urlParams": {},
+        "system": {
+            "name": "Device - Android 8.0.0",
+            "ipAddress": "192.168.0.10",
+            "manufacturer": null,
+            "deviceId": "0000000000000000"
+        }
+    },
+    "data": null
+}
