@@ -10,8 +10,8 @@
         {
             "title": "FAVORITES",
             "playerLabel": "FAVORITES",
-            "icon": "live-tv",
-            "action": "menu:https://triuduongg.github.io/msx/iptv-org.json"
+            "icon": "star",
+            "action": "menu:https://triuduongg.github.io/msx/favorites.json"
         },
         {
             "title": "iptv-org",
