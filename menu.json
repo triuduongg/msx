@@ -9,6 +9,11 @@
                 "icon": "live-tv",
                 "label": "IPTV",
                 "data": "https://triuduongg.github.io/msx/iptv.json"
+            },
+            {
+                "icon": "cloud",
+                "label": "ONEDRIVE",
+                "data": "request:interaction:init@http://od.msx.benzac.de/interaction"
             }
         ]
 }
