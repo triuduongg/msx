@@ -17,9 +17,7 @@
             "title": "GD MSX",
             "playerLabel": "GD MSX",
             "icon": "live-tv",
-            "action": {
-                "parameter": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction",
-            }
+            "action": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction"
         }
     ]
 }
