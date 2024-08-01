@@ -4,7 +4,7 @@
             {
                 "icon": "star",
                 "label": "gf",
-                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&context=favorites"
+                "data": "menu:request:interaction:init@http://od.msx.benzac.de/interaction"
             },
             
         ]
