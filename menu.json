@@ -13,7 +13,7 @@
             {
                 "icon": "cloud",
                 "label": "ONEDRIVE",
-                "data": "content:menu:request:interaction:init@http://od.msx.benzac.de/interaction"
+                "data": "content:request:interaction:init@http://od.msx.benzac.de/interaction"
             }
         ]
 }
