@@ -2,13 +2,8 @@
     "headline": "IPTV",
     "menu": [   
             {
-                "icon": "star",
-                "label": "FAVORITES",
-                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&context=favorites"
-            },
-            {
                 "type": "separator",
-                "label": "IPTV"
+                "label": "PLAYLISTS"
             },
             {
                 "icon": "live-tv",
