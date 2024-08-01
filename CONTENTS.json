@@ -1,0 +1,17 @@
+{
+    "type": "pages",
+    "headline": "CONTENTS",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "icon": "msx-white-soft:live-tv",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "title": "IPTV",
+            "playerLabel": "IPTV",
+            "data": "https://triuduongg.github.io/msx/IPTV.json"
+        }
+    ]
+}
