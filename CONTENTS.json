@@ -12,6 +12,11 @@
             "title": "IPTV",
             "playerLabel": "IPTV",
             "action": "menu:https://triuduongg.github.io/msx/IPTV.json"
+        },
+        {
+            "title": "IPTV",
+            "playerLabel": "IPTV",
+            "action": "menu:https://triuduongg.github.io/msx/IPTV.json"
         }
     ]
 }
