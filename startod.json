@@ -1,6 +1,0 @@
-{    
-    "name": "OneDrive MSX",
-    "version": "1.0.9",
-    "parameter": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction",
-    "welcome": "none"
-}
