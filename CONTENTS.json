@@ -11,11 +11,6 @@
         {
             "title": "IPTV",
             "playerLabel": "IPTV",
-            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://iptv-org.github.io/iptv/index.m3u"
-        },
-        {
-            "title": "IPTV",
-            "playerLabel": "IPTV",
             "action": "menu:https://triuduongg.github.io/msx/IPTV.json"
         }
     ]
