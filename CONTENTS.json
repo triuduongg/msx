@@ -3,7 +3,7 @@
     "headline": "CONTENTS",
     "template": {
         "type": "separate",
-        "layout": "0,0,2,4",
+        "layout": "0,0,3,3",
         "icon": "msx-white-soft:live-tv",
         "color": "msx-glass"
     },
@@ -11,7 +11,7 @@
         {
             "title": "IPTV",
             "playerLabel": "IPTV",
-            "data": "https://triuduongg.github.io/msx/IPTV.json"
+            "action": "menu:https://triuduongg.github.io/msx/IPTV.json"
         }
     ]
 }
