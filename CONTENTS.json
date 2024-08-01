@@ -5,14 +5,13 @@
         "type": "separate",
         "layout": "0,0,2,2",
         "icon": "msx-white-soft:live-tv",
-        "color": "msx-glass",
-        "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://iptv-org.github.io/iptv/index.m3u"
+        "color": "msx-glass"
     },
     "items": [
         {
             "title": "IPTV",
             "playerLabel": "IPTV",
-            "action": "menu:https://triuduongg.github.io/msx/IPTV.json"
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://iptv-org.github.io/iptv/index.m3u"
         },
         {
             "title": "IPTV",
