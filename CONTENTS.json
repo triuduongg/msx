@@ -18,7 +18,7 @@
             "playerLabel": "ONEDRIVE",
             "icon": "cloud",
             "server": "od.msx.benzac.de",
-            "action": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction"
+            "action": "menu:request:interaction:init@http://od.msx.benzac.de/interaction"
         }
     ]
 }
