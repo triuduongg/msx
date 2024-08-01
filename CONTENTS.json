@@ -17,7 +17,9 @@
             "title": "GD MSX",
             "playerLabel": "GD MSX",
             "icon": "live-tv",
-            "action": "content:https://triuduongg.github.io/msx/gd.msx.json"
+            "action": {
+                "parameter": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction",
+            }
         }
     ]
 }
