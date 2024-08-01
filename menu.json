@@ -29,7 +29,45 @@
                 "icon": "live-tv",
                 "label": "i.mjh.nz",
                 "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://i.mjh.nz/all/raw.m3u8"
-            }
+            },
+            {
+    "type": "list",
+    "headline": "Template",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,4",
+        "color": "msx-glass",
+        "icon": "msx-white-soft:movie",
+        "iconSize": "medium",
+        "title": "Title",
+        "titleFooter": "Title Footer"
+    },
+    "items": [{
+            "title": "Item 1"
+        }, {
+            "title": "Item 2"
+        }, {
+            "title": "Item 3"
+        }, {
+            "title": "Item 4"
+        }, {
+            "title": "Item 5"
+        }, {
+            "title": "Item 6"
+        }, {
+            "title": "Item 7"
+        }, {
+            "title": "Item 8"
+        }, {
+            "title": "Item 9"
+        }, {
+            "title": "Item 10"
+        }, {
+            "title": "Item 11"
+        }, {
+            "title": "Item 12"
+        }]
+}
             
         ]
 }
