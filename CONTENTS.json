@@ -17,9 +17,7 @@
             "title": "ONEDRIVE",
             "playerLabel": "ONEDRIVE",
             "icon": "movie",
-            "action": {
-                "parameter": "menu:request:interaction:init@http://od.msx.benzac.de/interaction"
-            }
+            "action": "menu:interaction:init@http://od.msx.benzac.de/interaction"
         }
     ]
 }
