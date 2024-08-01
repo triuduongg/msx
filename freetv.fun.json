@@ -1,0 +1,10 @@
+{
+    "headline": "freetv.fun",
+    "menu": [   
+            {
+                "icon": "live-tv",
+                "label": "PLAYLIST",
+                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://freetv.fun/test_channels_all_new.m3u"
+            }
+        ]
+}

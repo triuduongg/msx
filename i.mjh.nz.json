@@ -1,0 +1,10 @@
+{
+    "headline": "i.mjh.nz",
+    "menu": [   
+            {
+                "icon": "live-tv",
+                "label": "PLAYLIST",
+                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://i.mjh.nz/all/raw.m3u8"
+            }
+        ]
+}

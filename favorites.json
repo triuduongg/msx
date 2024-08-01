@@ -1,0 +1,10 @@
+{
+    "headline": "FAVORITES",
+    "menu": [   
+            {
+                "icon": "live-tv",
+                "label": "PLAYLIST",
+                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&context=favorites"
+            }
+        ]
+}
