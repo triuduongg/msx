@@ -1,0 +1,6 @@
+{    
+    "name": "OneDrive MSX",
+    "version": "1.0.9",
+    "parameter": "menu:https://triuduongg.github.io/msx/menu.json",
+    "welcome": "none"
+}
