@@ -7,7 +7,7 @@
                 "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&context=favorites"
             },
             {
-                "icon": "live-tv",
+                "icon": "apps",
                 "label": "CONTENTS",
                 "data": "https://triuduongg.github.io/msx/CONTENTS.json"
 
