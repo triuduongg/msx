@@ -8,7 +8,7 @@
             {
                 "icon": "apps",
                 "label": "CONTENTS",
-                "data": "https://triuduongg.github.io/msx/CONTENTS.json"
+                "data": "menu:request:interaction:init@http://od.msx.benzac.de/interaction"
             }
         ]
 }
