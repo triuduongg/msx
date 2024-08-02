@@ -1,0 +1,41 @@
+{
+    "type": "pages",
+    "headline": "MOVIE",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "title": "FAVORITES",
+            "playerLabel": "FAVORITES",
+            "icon": "star",
+            "action": "menu:https://triuduongg.github.io/msx/favorites.json"
+        },
+        {
+            "title": "iptv-org",
+            "playerLabel": "iptv-org",
+            "icon": "live-tv",
+            "action": "menu:https://triuduongg.github.io/msx/iptv-org.json"
+        },
+        {
+            "title": "freetv.fun",
+            "playerLabel": "freetv.fun",
+            "icon": "live-tv",
+            "action": "menu:https://triuduongg.github.io/msx/freetv.fun.json"
+        },
+        {
+            "title": "Free-TV",
+            "playerLabel": "Free-TV",
+            "icon": "live-tv",
+            "action": "menu:https://triuduongg.github.io/msx/Free-TV.json"
+        },
+        {
+            "title": "i.mjh.nz",
+            "playerLabel": "i.mjh.nz",
+            "icon": "live-tv",
+            "action": "menu:https://triuduongg.github.io/msx/i.mjh.nz.json"
+        }
+    ]
+}
