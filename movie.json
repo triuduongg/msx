@@ -8,34 +8,10 @@
     },
     "items": [
         {
-            "title": "FAVORITES",
-            "playerLabel": "FAVORITES",
-            "icon": "star",
-            "action": "menu:https://triuduongg.github.io/msx/favorites.json"
-        },
-        {
-            "title": "iptv-org",
-            "playerLabel": "iptv-org",
-            "icon": "live-tv",
-            "action": "menu:https://triuduongg.github.io/msx/iptv-org.json"
-        },
-        {
-            "title": "freetv.fun",
-            "playerLabel": "freetv.fun",
-            "icon": "live-tv",
-            "action": "menu:https://triuduongg.github.io/msx/freetv.fun.json"
-        },
-        {
-            "title": "Free-TV",
-            "playerLabel": "Free-TV",
-            "icon": "live-tv",
-            "action": "menu:https://triuduongg.github.io/msx/Free-TV.json"
-        },
-        {
-            "title": "i.mjh.nz",
-            "playerLabel": "i.mjh.nz",
-            "icon": "live-tv",
-            "action": "menu:https://triuduongg.github.io/msx/i.mjh.nz.json"
+            "title": "MOVIE 1",
+            "playerLabel": "MOVIE 1",
+            "icon": "movie",
+            "action": "video:http://yaichi-streaming.ddns.net:8080/stream/67?hash=b4258f"
         }
     ]
 }
