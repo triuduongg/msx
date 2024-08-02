@@ -66,7 +66,20 @@
             "playerLabel": "MOVIE 10",
             "icon": "movie",
             "action": "video:https://hqth.me/movie10"
+        },
+        {
+            "title": "MOVIE 11",
+            "playerLabel": "MOVIE 11",
+            "icon": "movie",
+            "action": "video:https://hqth.me/movie11"
+        },
+        {
+            "title": "MOVIE 12",
+            "playerLabel": "MOVIE 12",
+            "icon": "movie",
+            "action": "video:https://hqth.me/movie12"    
         }
+        
          
     ]
 }
