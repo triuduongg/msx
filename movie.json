@@ -11,7 +11,7 @@
             "title": "MOVIE 1",
             "playerLabel": "MOVIE 1",
             "icon": "movie",
-            "action": "link:https://hqth.me/movie1"
+            "action": "video:https://hqth.me/movie1"
         },
         {
             "title": "MOVIE 2",
