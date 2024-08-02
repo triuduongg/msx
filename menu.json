@@ -11,9 +11,9 @@
                 "data": "https://triuduongg.github.io/msx/iptv.json"
             },
             {
-                "icon": "cloud",
-                "label": "ONEDRIVE",
-                "data": "https://triuduongg.github.io/msx/onedrive.json"
-            }
+                "icon": "movie",
+                "label": "MOVIE",
+                "data": "https://triuduongg.github.io/msx/iptv.json"
+            },
         ]
 }
