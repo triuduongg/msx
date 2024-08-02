@@ -11,7 +11,62 @@
             "title": "MOVIE 1",
             "playerLabel": "MOVIE 1",
             "icon": "movie",
-            "action": "link:http://yaichi-streaming.ddns.net:8080/stream/67?hash=b4258f"
+            "action": "link:https://hqth.me/movie1"
+        },
+        {
+            "title": "MOVIE 2",
+            "playerLabel": "MOVIE 2",
+            "icon": "movie",
+            "action": "link:https://hqth.me/movie2"
+        },
+        {
+            "title": "MOVIE 3",
+            "playerLabel": "MOVIE 3",
+            "icon": "movie",
+            "action": "link:https://hqth.me/movie3"
+        },
+        {
+            "title": "MOVIE 4",
+            "playerLabel": "MOVIE 4",
+            "icon": "movie",
+            "action": "link:https://hqth.me/movie4"
+        },
+        {
+            "title": "MOVIE 5",
+            "playerLabel": "MOVIE 5",
+            "icon": "movie",
+            "action": "link:https://hqth.me/movie5"
+        },
+        {
+            "title": "MOVIE 6",
+            "playerLabel": "MOVIE 6",
+            "icon": "movie",
+            "action": "link:https://hqth.me/movie6"
+        },
+        {
+            "title": "MOVIE 7",
+            "playerLabel": "MOVIE 7",
+            "icon": "movie",
+            "action": "link:https://hqth.me/movie7"
+        },
+        {
+            "title": "MOVIE 8",
+            "playerLabel": "MOVIE 8",
+            "icon": "movie",
+            "action": "link:https://hqth.me/movie8"
+        },
+        {
+            "title": "MOVIE 9",
+            "playerLabel": "MOVIE 9",
+            "icon": "movie",
+            "action": "link:https://hqth.me/movie9"
+        },
+        {
+            "title": "MOVIE 10",
+            "playerLabel": "MOVIE 10",
+            "icon": "movie",
+            "action": "link:https://hqth.me/movie10"
         }
+         
     ]
 }
