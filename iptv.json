@@ -8,8 +8,8 @@
     },
     "items": [
         {
-            "title": "PLAYLIST",
-            "playerLabel": "PLAYLIST",
+            "title": "PLAYLISTS",
+            "playerLabel": "PLAYLISTS",
             "icon": "playlist-play",
             "action": "menu:https://triuduongg.github.io/msx/playlists.json"
         },
