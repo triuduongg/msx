@@ -3,7 +3,7 @@
     "menu": [   
             {
                 "icon": "live-tv",
-                "label": "PLAYLIST",
+                "label": "YOUR TV",
                 "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&context=favorites"
             }
         ]
