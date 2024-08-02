@@ -11,7 +11,7 @@
             "title": "MOVIE 1",
             "playerLabel": "MOVIE 1",
             "icon": "movie",
-            "action": "http://yaichi-streaming.ddns.net:8080/stream/67?hash=b4258f"
+            "action": "video:http://yaichi-streaming.ddns.net:8080/stream/67?hash=b4258f"
         }
     ]
 }
