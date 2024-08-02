@@ -8,7 +8,7 @@
             {
                 "icon": "live-tv",
                 "label": "IPTV",
-                "data": "https://triuduongg.github.io/msx/playlists.json"
+                "data": "https://triuduongg.github.io/msx/playlist.json"
             },
             {
                 "icon": "movie",
