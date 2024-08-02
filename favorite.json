@@ -2,6 +2,9 @@
     "headline": "FAVORITE",
     "menu": [   
             {
+                "type": "separator"
+            },
+            {
                 "icon": "live-tv",
                 "label": "YOUR TV",
                 "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&context=favorites"
