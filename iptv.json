@@ -11,7 +11,7 @@
             "title": "PLAYLIST",
             "playerLabel": "PLAYLIST",
             "icon": "playlist-play",
-            "action": "content:https://triuduongg.github.io/msx/playlists.json"
+            "action": "menu:https://triuduongg.github.io/msx/playlist.json"
         },
         {
             "title": "FAVORITE",
