@@ -1,6 +1,10 @@
 {
     "type": "pages",
     "headline": "PLAYLIST",
+    "template": {
+        "type": "separate",
+        "color": "msx-glass"
+    },
     "items": [
         {
             "action": "data",
