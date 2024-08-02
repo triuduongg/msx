@@ -13,7 +13,7 @@
             {
                 "icon": "movie",
                 "label": "MOVIE",
-                "data": "https://triuduongg.github.io/msx/iptv.json"
+                ""data": "http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://iptv-org.github.io/iptv/index.m3u"
             },
         ]
 }
