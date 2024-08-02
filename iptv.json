@@ -8,16 +8,16 @@
     },
     "items": [
         {
-            "title": "PLAYLISTS",
-            "playerLabel": "PLAYLISTS",
+            "title": "PLAYLIST",
+            "playerLabel": "PLAYLIST",
             "icon": "playlist-play",
-            "action": "menu:https://triuduongg.github.io/msx/playlists.json"
+            "action": "menu:https://triuduongg.github.io/msx/playlist.json"
         },
         {
-            "title": "FAVORITES",
-            "playerLabel": "FAVORITES",
+            "title": "FAVORITE",
+            "playerLabel": "FAVORITE",
             "icon": "star",
-            "action": "menu:https://triuduongg.github.io/msx/favorites.json"
+            "action": "menu:https://triuduongg.github.io/msx/favorite.json"
         }
     ]
 }
