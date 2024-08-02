@@ -1,0 +1,26 @@
+{
+    "headline": "TRIUDUONGG MSX",
+    "menu": [   
+            {
+                "type": "separator",
+                "label": "MENU"
+            },
+            {
+                "icon": "live-tv",
+                "label": "IPTV",
+                "datas": [
+                        {
+                            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://iptv-org.github.io/iptv/index.m3u"
+                        },
+                        {
+                            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://freetv.fun/test_channels_all_new.m3u"
+                        }
+                ]
+            },
+            {
+                "icon": "movie",
+                "label": "MOVIE",
+                "data": "https://triuduongg.github.io/msx/movie.json"
+            }
+        ]
+}
