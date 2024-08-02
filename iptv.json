@@ -1,0 +1,23 @@
+{
+    "type": "pages",
+    "headline": "IPTV",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,5,3",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "title": "PLAYLIST",
+            "playerLabel": "PLAYLIST",
+            "icon": "playlist-play",
+            "action": "menu:https://triuduongg.github.io/msx/playlist.json"
+        },
+        {
+            "title": "FAVORITES",
+            "playerLabel": "FAVORITES",
+            "icon": "star",
+            "action": "menu:https://triuduongg.github.io/msx/favorites.json"
+        }
+    ]
+}
