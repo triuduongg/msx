@@ -3,7 +3,7 @@
     "menu": [   
         {
             "icon": "live-tv",
-            "label": "iptv",
+            "label": "iptv-org",
             "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://iptv-org.github.io/iptv/index.m3u"
         },
         {
