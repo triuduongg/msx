@@ -1,0 +1,13 @@
+{
+    "headline": "NEWS",
+    "menu": [   
+        {
+            "type": "separator"
+        },
+        {
+            "icon": "chat",
+            "label": "Daily Mail",
+            "data": "request:interaction:https://www.dailymail.co.uk/home/index.rss@http://msx.benzac.de/interaction/mrss.html"
+        }
+        ]
+}

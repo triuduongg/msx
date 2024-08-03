@@ -1,0 +1,17 @@
+{
+    "type": "pages",
+    "headline": "FEED",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "title": "NEWS",
+            "playerLabel": "NEWS",
+            "icon": "chat",
+            "action": "content:https://triuduongg.github.io/msx/news.json"
+        }
+    ]
+}
