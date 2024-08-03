@@ -13,7 +13,7 @@
             "icon": "podcasts",
             "label": "The Daily",
             "data": "request:interaction:https://feeds.simplecast.com/54nAGcIl@http://msx.benzac.de/interaction/mrss.html"
-        }
+        },
         {
             "icon": "podcasts",
             "label": "The",
