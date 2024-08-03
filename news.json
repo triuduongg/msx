@@ -8,6 +8,21 @@
             "icon": "chat",
             "label": "Daily Mail",
             "data": "request:interaction:https://www.dailymail.co.uk/home/index.rss@http://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "chat",
+            "label": "The New York Times",
+            "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml@http://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "chat",
+            "label": "FOX NEWS",
+            "data": "request:interaction:https://moxie.foxnews.com/google-publisher/latest.xml@http://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "chat",
+            "label": "ESPN",
+            "data": "request:interaction:https://www.espn.com/espn/rss/news@http://msx.benzac.de/interaction/mrss.html"
         }
         ]
 }
