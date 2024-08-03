@@ -14,5 +14,10 @@
             "label": "The Daily",
             "data": "request:interaction:https://feeds.simplecast.com/54nAGcIl@http://msx.benzac.de/interaction/mrss.html"
         }
+        {
+            "icon": "podcasts",
+            "label": "The",
+            "data": "request:interaction:https://ru.euronews.com/rss?format=mrss&level=theme&name=news@http://msx.benzac.de/interaction/mrss.html"
+        }
         ]
 }
