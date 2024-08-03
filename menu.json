@@ -14,6 +14,11 @@
                 "icon": "movie",
                 "label": "MOVIE",
                 "data": "https://triuduongg.github.io/msx/movie.json"
+            },
+            {
+                "icon": "movie",
+                "label": "LIVESTREAM",
+                "data": "https://triuduongg.github.io/msx/livestream.json"
             }
         ]
 }
