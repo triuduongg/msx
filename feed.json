@@ -10,7 +10,7 @@
         {
             "title": "NEWS",
             "playerLabel": "NEWS",
-            "icon": "chat",
+            "icon": "today",
             "action": "menu:https://triuduongg.github.io/msx/news.json"
         }
     ]
