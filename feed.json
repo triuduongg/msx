@@ -11,7 +11,7 @@
             "title": "NEWS",
             "playerLabel": "NEWS",
             "icon": "chat",
-            "action": "content:https://triuduongg.github.io/msx/news.json"
+            "action": "menu:https://triuduongg.github.io/msx/news.json"
         }
     ]
 }
