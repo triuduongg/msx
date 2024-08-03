@@ -12,6 +12,12 @@
             "playerLabel": "NEWS",
             "icon": "today",
             "action": "menu:https://triuduongg.github.io/msx/news.json"
+        },
+        {
+            "title": "PODCAST",
+            "playerLabel": "PODCAST",
+            "icon": "podcasts",
+            "action": "menu:https://triuduongg.github.io/msx/podcast.json"
         }
     ]
 }
