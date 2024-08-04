@@ -8,10 +8,10 @@
     },
     "items": [
         {
-            "title": "VIDEO",
-            "playerLabel": "VIDEO",
-            "icon": "ondemand-video",
-            "action": "content:https://triuduongg.github.io/msx/video.json"
+            "title": "MOVIE",
+            "playerLabel": "MOVIE",
+            "icon": "movie",
+            "action": "content:https://triuduongg.github.io/msx/movie.json"
         },
         {
             "title": "LINK",
