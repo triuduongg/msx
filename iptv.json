@@ -16,7 +16,7 @@
         {
             "title": "FAVORITE",
             "playerLabel": "FAVORITE",
-            "icon": "star",
+            "icon": "favorite",
             "action": "menu:https://triuduongg.github.io/msx/favorite.json"
         }
     ]
