@@ -18,12 +18,6 @@
             "playerLabel": "LINK",
             "icon": "link",
             "action": "content:https://triuduongg.github.io/msx/link.json"
-        },
-        {
-            "title": "GD",
-            "playerLabel": "GD",
-            "icon": "link",
-            "action": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction"
         }
     ]
 }
