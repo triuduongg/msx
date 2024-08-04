@@ -17,7 +17,7 @@
             "title": "LIVESTREAM",
             "playerLabel": "LIVESTREAM",
             "icon": "live-tv",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://bongdadem.net/videos/video-11-09-2023.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/facebook.html?id=1096609238556928"
         }
     ]
 }
