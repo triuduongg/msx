@@ -17,7 +17,7 @@
             "title": "LIVESTREAM",
             "playerLabel": "LIVESTREAM",
             "icon": "live-tv",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://video-mia3-2.xx.fbcdn.net/hvideo-eag-prn/_nc_cat-109/_nc_sr_t-4/v/rASckHZFOHTz7A7Ts4h4r3UwXbXI4HQLDCqfHLkNVrUI6rA/_nc_ohc-q8ezGsKKKv4Q7kNvgFMPzdk/live-dash/dash-abr-ibr-audio/1162737095378419.mpd?ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AYCY-JYUPrMSN9gNmZ5DKixv0If3ZorjQiUInh6kVz4TiQ&oe=66B17FB5&dl=1"
+            "action": "video:plugin:http://msx.benzac.de/plugins/dailymotion.html?id=x6nkjg1"
         }
     ]
 }
