@@ -11,7 +11,7 @@
                 "data": "https://triuduongg.github.io/msx/iptv.json"
             },
             {
-                "icon": "feed",
+                "icon": "rss-feed",
                 "label": "FEED",
                 "data": "https://triuduongg.github.io/msx/feed.json"
             },
