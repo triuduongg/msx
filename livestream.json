@@ -1,0 +1,74 @@
+{
+    "type": "pages",
+    "headline": "LIVESTREAM",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "title": "LIVESTREAM 1",
+            "playerLabel": "LIVESTREAM 1",
+            "icon": "live-tv",
+            "action": "link:https://hqth.me/movie1"
+        },
+        {
+            "title": "LIVESTREAM 2",
+            "playerLabel": "LIVESTREAM 2",
+            "icon": "live-tv",
+            "action": "link:https://hqth.me/movie2"
+        },
+        {
+            "title": "LIVESTREAM 3",
+            "playerLabel": "LIVESTREAM 3",
+            "icon": "live-tv",
+            "action": "link:https://hqth.me/movie3"
+        },
+        {
+            "title": "LIVESTREAM 4",
+            "playerLabel": "LIVESTREAM 4",
+            "icon": "live-tv",
+            "action": "link:https://hqth.me/movie4"
+        },
+        {
+            "title": "LIVESTREAM 5",
+            "playerLabel": "LIVESTREAM 5",
+            "icon": "live-tv",
+            "action": "link:https://hqth.me/movie5"
+        },
+        {
+            "title": "LIVESTREAM 6",
+            "playerLabel": "LIVESTREAM 6",
+            "icon": "live-tv",
+            "action": "link:https://hqth.me/movie6"
+        },
+        {
+            "title": "LIVESTREAM 7",
+            "playerLabel": "LIVESTREAM 7",
+            "icon": "live-tv",
+            "action": "link:https://hqth.me/movie7"
+        },
+        {
+            "title": "LIVESTREAM 8",
+            "playerLabel": "LIVESTREAM 8",
+            "icon": "live-tv",
+            "action": "link:https://hqth.me/movie8"
+        },
+        {
+            "title": "LIVESTREAM 9",
+            "playerLabel": "LIVESTREAM 9",
+            "icon": "live-tv",
+            "action": "link:https://hqth.me/movie9"
+        },
+        {
+            "title": "LIVESTREAM 10",
+            "playerLabel": "LIVESTREAM 10",
+            "icon": "live-tv",
+            "action": "link:https://hqth.me/movie10"
+        }
+ 
+        
+         
+    ]
+}
