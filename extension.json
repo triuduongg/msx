@@ -17,7 +17,7 @@
             "title": "LIVESTREAM",
             "playerLabel": "LIVESTREAM",
             "icon": "live-tv",
-            "action": "content:https://triuduongg.github.io/msx/livestream.json"
+            "action": "menu:https://en.msx.benzac.de/msx/service.php%3Fid%3D%7BID%7D"
         }
     ]
 }
