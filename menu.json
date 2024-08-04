@@ -6,7 +6,7 @@
                 "label": "MENU"
             },
             {
-                "icon": "live-tv",
+                "icon": "tv",
                 "label": "IPTV",
                 "data": "https://triuduongg.github.io/msx/iptv.json"
             },
