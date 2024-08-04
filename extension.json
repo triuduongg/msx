@@ -11,7 +11,8 @@
             "title": "MOVIE",
             "playerLabel": "MOVIE",
             "icon": "movie",
-            "action": "content:https://triuduongg.github.io/msx/movie.json"
+            "action": "content:https://triuduongg.github.io/msx/movie.json",
+            "password": "0000"
         },
         {
             "title": "LIVESTREAM",
