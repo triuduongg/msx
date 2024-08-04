@@ -17,7 +17,7 @@
             "title": "LIVESTREAM",
             "playerLabel": "LIVESTREAM",
             "icon": "live-tv",
-            "action": "execute:fetch:https://sc.msx.benzac.de/msx/service.php"
+            "action": "execute:fetch:menu:https://sc.msx.benzac.de/msx/service.php"
         }
     ]
 }
