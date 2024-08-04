@@ -17,7 +17,7 @@
             "title": "LIVESTREAM",
             "playerLabel": "LIVESTREAM",
             "icon": "live-tv",
-            "action": "menu:https://od.msx.benzac.de/msx/service.php"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://playback2.akamaized.net/streams/20917572_11160603_lsi9l3xuiiqmt0n49w2_1/exp=1722874894~acl=%2f*~data=hdntl~hmac=ba7b35ad0a94c3c3f8f2036260103390f20e9607b5d8f3fe14ad245c2fc146a4/media/20917572_11160603_lsi9l3xuiiqmt0n49w2_1@3256000p.m3u8?dw=14400&ts=1722787200"
         }
     ]
 }
