@@ -17,7 +17,7 @@
             "title": "LIVESTREAM",
             "playerLabel": "LIVESTREAM",
             "icon": "live-tv",
-            "action": "video:plugin:http://msx.benzac.de/plugins/facebook.html?id=1687224275365889"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://www.facebook.com/watch/?v=479064618093487"
         }
     ]
 }
