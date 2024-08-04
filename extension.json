@@ -17,7 +17,7 @@
             "title": "LIVESTREAM",
             "playerLabel": "LIVESTREAM",
             "icon": "live-tv",
-            "action": "link:https://msx.benzac.de/?start=menu:https://en.msx.benzac.de/msx/service.php"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://www.youtube.com/watch?v=alSPq1bfijE"
         }
     ]
 }
