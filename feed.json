@@ -8,10 +8,10 @@
     },
     "items": [
         {
-            "title": "NEWS",
-            "playerLabel": "NEWS",
+            "title": "ARTICLE",
+            "playerLabel": "ARTICLE",
             "icon": "feed",
-            "action": "menu:https://triuduongg.github.io/msx/news.json"
+            "action": "menu:https://triuduongg.github.io/msx/article.json"
         },
         {
             "title": "PODCAST",
