@@ -5,8 +5,8 @@
                 "type": "separator"
             },
             {
-                "icon": "live-tv",
-                "label": "YOUR TV",
+                "icon": "favorite",
+                "label": "YOUR FAVORITE",
                 "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&context=favorites"
             }
         ]
