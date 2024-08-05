@@ -16,9 +16,9 @@
                 "data": "https://triuduongg.github.io/msx/feed.json"
             },
             {
-                "icon": "link",
-                "label": "LINK",
-                "data": "https://triuduongg.github.io/msx/link.json"
+                "icon": "stream",
+                "label": "STREAMING",
+                "data": "https://triuduongg.github.io/msx/streaming.json"
             }
         ]
 }
