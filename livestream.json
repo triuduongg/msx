@@ -36,38 +36,7 @@
             "playerLabel": "LIVESTREAM 5",
             "icon": "live-tv",
             "action": "link:https://hqth.me/movie5"
-        },
-        {
-            "title": "LIVESTREAM 6",
-            "playerLabel": "LIVESTREAM 6",
-            "icon": "live-tv",
-            "action": "link:https://hqth.me/movie6"
-        },
-        {
-            "title": "LIVESTREAM 7",
-            "playerLabel": "LIVESTREAM 7",
-            "icon": "live-tv",
-            "action": "link:https://hqth.me/movie7"
-        },
-        {
-            "title": "LIVESTREAM 8",
-            "playerLabel": "LIVESTREAM 8",
-            "icon": "live-tv",
-            "action": "link:https://hqth.me/movie8"
-        },
-        {
-            "title": "LIVESTREAM 9",
-            "playerLabel": "LIVESTREAM 9",
-            "icon": "live-tv",
-            "action": "link:https://hqth.me/movie9"
-        },
-        {
-            "title": "LIVESTREAM 10",
-            "playerLabel": "LIVESTREAM 10",
-            "icon": "live-tv",
-            "action": "link:https://hqth.me/movie10"
         }
- 
         
          
     ]
