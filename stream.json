@@ -15,7 +15,7 @@
         },
         {
             "title": "LIVE",
-            "playerLabel": "LIVESTREAM",
+            "playerLabel": "LIVE",
             "icon": "live-tv",
             "action": "content:https://triuduongg.github.io/msx/live.json"
         }
