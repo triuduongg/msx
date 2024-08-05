@@ -12,7 +12,7 @@
         {
             "icon": "playlist-play",
             "label": "freetv.fun",
-            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://freetv.fun/test_channels_all_new.m3u"
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https://freetv.fun/test_channels_all.m3u"
         },
         {
             "icon": "playlist-play",
