@@ -36,38 +36,7 @@
             "playerLabel": "MOVIE 5",
             "icon": "movie",
             "action": "video:https://hqth.me/movie5"
-        },
-        {
-            "title": "MOVIE 6",
-            "playerLabel": "MOVIE 6",
-            "icon": "movie",
-            "action": "video:https://hqth.me/movie6"
-        },
-        {
-            "title": "MOVIE 7",
-            "playerLabel": "MOVIE 7",
-            "icon": "movie",
-            "action": "video:https://hqth.me/movie7"
-        },
-        {
-            "title": "MOVIE 8",
-            "playerLabel": "MOVIE 8",
-            "icon": "movie",
-            "action": "video:https://hqth.me/movie8"
-        },
-        {
-            "title": "MOVIE 9",
-            "playerLabel": "MOVIE 9",
-            "icon": "movie",
-            "action": "video:https://hqth.me/movie9"
-        },
-        {
-            "title": "MOVIE 10",
-            "playerLabel": "MOVIE 10",
-            "icon": "movie",
-            "action": "video:https://hqth.me/movie10"
         }
- 
         
          
     ]
