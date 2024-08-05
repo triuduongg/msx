@@ -11,7 +11,7 @@
             "title": "LIVE 1",
             "playerLabel": "LIVE 1",
             "icon": "live-tv",
-            "action": "link:https://hqth.me/livestream1"
+            "action": "video:plugin:https://hqth.me/livestream1"
         },
         {
             "title": "LIVE 2",
