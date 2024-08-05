@@ -17,7 +17,7 @@
             "title": "LIVESTREAM",
             "playerLabel": "LIVESTREAM",
             "icon": "live-tv",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=11164623"
+            "action": "menu:request:interaction:init@https://gd.msx.benzac.de/interaction"
         }
     ]
 }
