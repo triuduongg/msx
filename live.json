@@ -1,6 +1,6 @@
 {
     "type": "pages",
-    "headline": "LIVESTREAM",
+    "headline": "LIVE",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -8,32 +8,32 @@
     },
     "items": [
         {
-            "title": "LIVESTREAM 1",
-            "playerLabel": "LIVESTREAM 1",
+            "title": "LIVE 1",
+            "playerLabel": "LIVE 1",
             "icon": "live-tv",
             "action": "video:plugin:https://hqth.me/livestream1"
         },
         {
-            "title": "LIVESTREAM 2",
-            "playerLabel": "LIVESTREAM 2",
+            "title": "LIVE 2",
+            "playerLabel": "LIVE 2",
             "icon": "live-tv",
             "action": "video:plugin:https://hqth.me/livestream2"
         },
         {
-            "title": "LIVESTREAM 3",
-            "playerLabel": "LIVESTREAM 3",
+            "title": "LIVE 3",
+            "playerLabel": "LIVE 3",
             "icon": "live-tv",
             "action": "video:plugin:https://hqth.me/livestream3"
         },
         {
-            "title": "LIVESTREAM 4",
-            "playerLabel": "LIVESTREAM 4",
+            "title": "LIVE 4",
+            "playerLabel": "LIVE 4",
             "icon": "live-tv",
             "action": "video:plugin:https://hqth.me/livestream4"
         },
         {
-            "title": "LIVESTREAM 5",
-            "playerLabel": "LIVESTREAM 5",
+            "title": "LIVE 5",
+            "playerLabel": "LIVE 5",
             "icon": "live-tv",
             "action": "video:plugin:https://hqth.me/livestream5"
         }
