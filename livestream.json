@@ -11,31 +11,31 @@
             "title": "LIVESTREAM 1",
             "playerLabel": "LIVESTREAM 1",
             "icon": "live-tv",
-            "action": "link:https://hqth.me/movie1"
+            "action": "video:plugin:https://hqth.me/livestream1"
         },
         {
             "title": "LIVESTREAM 2",
             "playerLabel": "LIVESTREAM 2",
             "icon": "live-tv",
-            "action": "link:https://hqth.me/movie2"
+            "action": "video:plugin:https://hqth.me/livestream1"
         },
         {
             "title": "LIVESTREAM 3",
             "playerLabel": "LIVESTREAM 3",
             "icon": "live-tv",
-            "action": "link:https://hqth.me/movie3"
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=PRy2CFVlPOA"
         },
         {
             "title": "LIVESTREAM 4",
             "playerLabel": "LIVESTREAM 4",
             "icon": "live-tv",
-            "action": "link:https://hqth.me/movie4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=PRy2CFVlPOA"
         },
         {
             "title": "LIVESTREAM 5",
             "playerLabel": "LIVESTREAM 5",
             "icon": "live-tv",
-            "action": "link:https://hqth.me/movie5"
+            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=PRy2CFVlPOA"
         }
         
          
