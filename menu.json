@@ -16,9 +16,9 @@
                 "data": "https://triuduongg.github.io/msx/feed.json"
             },
             {
-                "icon": "extension",
-                "label": "EXTENSION",
-                "data": "https://triuduongg.github.io/msx/extension.json"
+                "icon": "link",
+                "label": "LINK",
+                "data": "https://triuduongg.github.io/msx/link.json"
             }
         ]
 }
