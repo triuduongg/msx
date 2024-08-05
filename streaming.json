@@ -14,10 +14,10 @@
             "action": "content:https://triuduongg.github.io/msx/movie.json"
         },
         {
-            "title": "LIVESTREAM",
+            "title": "LIVE",
             "playerLabel": "LIVESTREAM",
             "icon": "live-tv",
-            "action": "content:https://triuduongg.github.io/msx/livestream.json"
+            "action": "content:https://triuduongg.github.io/msx/live.json"
         }
     ]
 }
