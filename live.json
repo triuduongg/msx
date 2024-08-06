@@ -23,7 +23,7 @@
             "title": "LIVE 3",
             "playerLabel": "LIVE 3",
             "icon": "live-tv",
-            "action": "video:https://hqth.me/livestream3"
+            "action": "link:https://hqth.me/livestream3"
         },
         {
             "title": "LIVE 4",
