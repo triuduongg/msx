@@ -17,25 +17,25 @@
             "title": "LIVE 2",
             "playerLabel": "LIVE 2",
             "icon": "live-tv",
-            "action": "link:https://hqth.me/livestream2"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://hqth.me/livestream2"
         },
         {
             "title": "LIVE 3",
             "playerLabel": "LIVE 3",
             "icon": "live-tv",
-            "action": "link:https://hqth.me/livestream3"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://hqth.me/livestream3"
         },
         {
             "title": "LIVE 4",
             "playerLabel": "LIVE 4",
             "icon": "live-tv",
-            "action": "link:https://hqth.me/livestream4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://hqth.me/livestream4"
         },
         {
             "title": "LIVE 5",
             "playerLabel": "LIVE 5",
             "icon": "live-tv",
-            "action": "link:https://hqth.me/livestream5"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://hqth.me/livestream5"
         }
         
          
