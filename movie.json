@@ -11,31 +11,31 @@
             "title": "MOVIE 1",
             "playerLabel": "MOVIE 1",
             "icon": "movie",
-            "action": "video:https://hqth.me/movie1"
+            "action": "video:https://hqth.me/tdmovie1"
         },
         {
             "title": "MOVIE 2",
             "playerLabel": "MOVIE 2",
             "icon": "movie",
-            "action": "video:https://hqth.me/movie2"
+            "action": "video:https://hqth.me/tdmovie2"
         },
         {
             "title": "MOVIE 3",
             "playerLabel": "MOVIE 3",
             "icon": "movie",
-            "action": "video:https://hqth.me/movie3"
+            "action": "video:https://hqth.me/tdmovie3"
         },
         {
             "title": "MOVIE 4",
             "playerLabel": "MOVIE 4",
             "icon": "movie",
-            "action": "video:https://hqth.me/movie4"
+            "action": "video:https://hqth.me/tdmovie4"
         },
         {
             "title": "MOVIE 5",
             "playerLabel": "MOVIE 5",
             "icon": "movie",
-            "action": "video:https://hqth.me/movie5"
+            "action": "video:https://hqth.me/tdmovie5"
         }
         
          
