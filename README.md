@@ -5,4 +5,5 @@
 #### App Store: https://apps.apple.com/us/app/media-station-x/id1363036077
 #### Microsoft Store: https://apps.microsoft.com/detail/9p4z98mljplz?amp%3Bgl=VN&hl=vi-vn&gl=VN
 ### Setup start parameter: triuduongg.github.io
+## The application is available on phones, computers, and televisions
 # And enjoy!
