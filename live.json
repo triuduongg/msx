@@ -11,7 +11,7 @@
             "title": "LIVE 1",
             "playerLabel": "LIVE 1",
             "icon": "live-tv",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://hqth.me/tdlive1"
+            "action":"video:https://hqth.me/tdlive1"
         },
         {
             "title": "LIVE 2",
