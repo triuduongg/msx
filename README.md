@@ -1,4 +1,4 @@
-# triuduongg with Media Station
+# triuduongg with Media Station X
 ## Webpage: https://msx.benzac.de
 ### Download app:
 #### Google Play: https://play.google.com/store/apps/details?id=de.benzac.msx
@@ -6,6 +6,6 @@
 #### Microsoft Store: https://apps.microsoft.com/detail/9p4z98mljplz
 #### LG Content Store: https://us.lgappstv.com/main/tvapp/detail?appId=464834
 #### Amazon Appstore: https://www.amazon.com/benzac-de-Media-Station-X/dp/B078TL932D
-### Setup start parameter: triuduongg.github.io
+### Setting -> start parameter: triuduongg.github.io
 ## The application is available on phones, computers, and televisions
 # And enjoy!
