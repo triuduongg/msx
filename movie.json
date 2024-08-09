@@ -42,7 +42,7 @@
             "playerLabel": "ACCESS",
             "icon": "movie",
             "action": "content:https://triuduongg.github.io/msx/access.json"
-        },
+        }
         
          
     ]
