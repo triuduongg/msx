@@ -10,11 +10,7 @@
         {
             "icon": "keyboard",
             "label": "Enter URL",
-            "action": "input",
-            "input": {
-                "placeholder": "Enter URL here",
-                "id": "url_input"
-            }
+            "action": "id:url_input"
         },
         {
             "icon": "navigate",
