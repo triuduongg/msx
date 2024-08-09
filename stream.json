@@ -1,23 +1,25 @@
 {
     "type": "pages",
-    "headline": "MOVIE",
+    "headline": "Input Plugin Test",
     "template": {
-        "type": "separate",
-        "layout": "0,0,2,3",
-        "color": "msx-glass"
+        "enumerate": false,
+        "type": "button",
+        "layout": "0,0,3,3"
     },
     "items": [
         {
-            "title": "MOVIE",
-            "playerLabel": "MOVIE",
-            "icon": "movie",
-            "action": "content:request:interaction:{URL}@http://msx.benzac.de/interaction/input.html"
+            "icon": "keyboard",
+            "label": "Enter URL",
+            "action": "input",
+            "input": {
+                "placeholder": "Enter URL here",
+                "id": "url_input"
+            }
         },
         {
-            "title": "LIVE",
-            "playerLabel": "LIVE",
-            "icon": "live-tv",
-            "action": "content:https://triuduongg.github.io/msx/live.json"
+            "icon": "navigate",
+            "label": "Go to URL",
+            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=${url_input}&type=default|default|en|Navigate to URL|||Click on {ico:msx-white:done} to submit input@http://msx.benzac.de/interaction/input.html"
         }
     ]
 }
