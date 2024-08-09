@@ -6,6 +6,6 @@
 #### Microsoft Store: https://apps.microsoft.com/detail/9p4z98mljplz
 #### LG Content Store: https://us.lgappstv.com/main/tvapp/detail?appId=464834
 #### Amazon Appstore: https://www.amazon.com/benzac-de-Media-Station-X/dp/B078TL932D
-### Setting -> validate links -> yes, start parameter: triuduongg.github.io
-## The application is available on phones, computers, and televisions
+### The application is available on phones, computers, and televisions
+## Setting -> validate links -> yes, start parameter: triuduongg.github.io
 # And enjoy!
