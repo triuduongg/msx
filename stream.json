@@ -1,18 +1,23 @@
 {
-    "headline": "STREAM",
-    "menu": [   
+    "type": "pages",
+    "headline": "IPTV",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "color": "msx-glass"
+    },
+    "items": [
         {
-            "type": "separator"
+            "title": "PLAYLIST",
+            "playerLabel": "PLAYLIST",
+            "icon": "playlist-play",
+            "action": "menu:https://triuduongg.github.io/msx/playlist.json"
         },
         {
-            "icon": "podcasts",
-            "label": "Podnews",
-            "data": "request:interaction:https://podnews.net/rss@http://msx.benzac.de/interaction/mrss.html"
-        },
-        {
-            "icon": "podcasts",
-            "label": "The Daily",
-            "data": "request:interaction:https://rss.art19.com/the-daily@http://msx.benzac.de/interaction/mrss.html"
+            "title": "FAVORITE",
+            "playerLabel": "FAVORITE",
+            "icon": "favorite",
+            "action": "menu:https://triuduongg.github.io/msx/favorite.json"
         }
-        ]
+    ]
 }
