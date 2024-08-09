@@ -36,14 +36,7 @@
             "playerLabel": "MOVIE 5",
             "icon": "movie",
             "action": "video:https://hqth.me/tdmovie5"
-        },
-         {
-            "title": "ACCESS",
-            "playerLabel": "ACCESS",
-            "icon": "movie",
-            "action": "content:https://triuduongg.github.io/msx/access.json"
         }
-        
          
     ]
 }
