@@ -8,11 +8,16 @@
     },
     "items": [
         {
-            "title": "MOVIE 1",
-            "playerLabel": "MOVIE 1",
+            "title": "INPUT",
+            "playerLabel": "INPUT",
             "icon": "movie",
-            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={URL}&type=url|default|en|Enter URL|||Click on {ico:msx-white:done} to submit URL@http://msx.benzac.de/interaction/input.html",
-            "url": "{URL}"
-        }      
+            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={URL}&type=url|default|en|Enter URL|||Click on {ico:msx-white:done} to submit URL@http://msx.benzac.de/interaction/input.html"
+        },
+        {
+            "title": "OUTPUT",
+            "playerLabel": "OUTPUT",
+            "icon": "movie",
+            "action":"link:{URL}"
+        } 
     ]
 }
