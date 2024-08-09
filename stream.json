@@ -1,6 +1,6 @@
 {
     "type": "pages",
-    "headline": "IPTV",
+    "headline": "STREAM",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -8,16 +8,16 @@
     },
     "items": [
         {
-            "title": "PLAYLIST",
-            "playerLabel": "PLAYLIST",
-            "icon": "playlist-play",
-            "action": "menu:https://triuduongg.github.io/msx/playlist.json"
+            "title": "MOVIE",
+            "playerLabel": "MOVIE",
+            "icon": "movie",
+            "action": "content:https://triuduongg.github.io/msx/movie.json"
         },
         {
-            "title": "FAVORITE",
-            "playerLabel": "FAVORITE",
-            "icon": "favorite",
-            "action": "menu:https://triuduongg.github.io/msx/favorite.json"
+            "title": "LIVE",
+            "playerLabel": "LIVE",
+            "icon": "live-tv",
+            "action": "content:https://triuduongg.github.io/msx/live.json"
         }
     ]
 }
