@@ -1,14 +1,18 @@
 {
-  "type": "input",
-  "title": "Enter URL",
-  "description": "Please enter the URL you want to visit:",
-  "input": {
-    "type": "url",
-    "placeholder": "https://www.example.com",
-    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={URL}&type=url|default|en|Enter URL|||Click on {ico:msx-white:done} to submit URL@http://msx.benzac.de/interaction/input.html"
-  },
-  "onSubmit": {
-    "type": "navigate",
-    "url": "{URL}"
-  }
+    "headline": "STREAM",
+    "menu": [   
+        {
+            "type": "separator"
+        },
+        {
+            "icon": "podcasts",
+            "label": "Podnews",
+            "data": "request:interaction:https://podnews.net/rss@http://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "podcasts",
+            "label": "The Daily",
+            "data": "request:interaction:https://rss.art19.com/the-daily@http://msx.benzac.de/interaction/mrss.html"
+        }
+        ]
 }
