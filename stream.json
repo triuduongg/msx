@@ -1,21 +1,14 @@
 {
-    "type": "pages",
-    "headline": "Input Plugin Test",
-    "template": {
-        "enumerate": false,
-        "type": "button",
-        "layout": "0,0,3,3"
-    },
-    "items": [
-        {
-            "icon": "navigate",
-            "label": "Go to URL",
-            "id": "url",
-            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={URL}&type=url|default|en|Enter URL|||Click on {ico:msx-white:done} to submit URL@http://msx.benzac.de/interaction/input.html"
-        },
-        {
-            "label": "alo",
-            "action": "video:id:url"
-        }  
-    ]
+  "type": "input",
+  "title": "Enter URL",
+  "description": "Please enter the URL you want to visit:",
+  "input": {
+    "type": "url",
+    "placeholder": "https://www.example.com",
+    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={URL}&type=url|default|en|Enter URL|||Click on {ico:msx-white:done} to submit URL@http://msx.benzac.de/interaction/input.html"
+  },
+  "onSubmit": {
+    "type": "navigate",
+    "url": "{URL}"
+  }
 }
