@@ -48,6 +48,11 @@
             "icon": "web",
             "label": "Enter URL",
             "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={INPUT}&type=url|url|en|Enter URL|||Click on {ico:msx-white:done} to submit URL@http://msx.benzac.de/interaction/input.html"
+        },
+        {
+            "icon": "web",
+            "label": "Navigate to URL",
+            "action": "execute:fetch:http://msx.benzac.de/services/input.php?input={INPUT}&type=url|url|en|Enter URL|||Click on {ico:msx-white:done} to submit URL@http://msx.benzac.de/interaction/input.html"
         }
     ]
 }
