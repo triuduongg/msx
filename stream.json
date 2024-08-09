@@ -8,18 +8,14 @@
     },
     "items": [
         {
-            "icon": "keyboard",
-            "label": "Enter URL",
-            "action": "data",
-            "data": {
-                "placeholder": "Enter URL here",
-                "id": "url_input"
-            }
-        },
-        {
             "icon": "navigate",
             "label": "Go to URL",
+            "id": "url_input",
             "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=${url_input}&type=default|default|en|Navigate to URL|||Click on {ico:msx-white:done} to submit input@http://msx.benzac.de/interaction/input.html"
-        }
+        },
+        {
+            "label": "alo",
+            "action": "video:plugin:url_input"
+        }  
     ]
 }
