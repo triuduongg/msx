@@ -1,23 +1,9 @@
 {
-    "type": "pages",
-    "headline": "ACCESS",
-    "template": {
-        "type": "separate",
-        "layout": "0,0,2,3",
-        "color": "msx-glass"
-    },
-    "items": [
-        {
-            "title": "INPUT",
-            "playerLabel": "INPUT",
-            "icon": "movie",
-            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={URL}&type=url|default|en|Enter URL|||Click on {ico:msx-white:done} to submit URL@http://msx.benzac.de/interaction/input.html"
-        },
-        {
-            "title": "OUTPUT",
-            "playerLabel": "OUTPUT",
-            "icon": "movie",
-            "action":"video:plugin:{URL}"
-        } 
-    ]
+  "title": "Virtual Keyboard",
+  "type": "input",
+  "inputType": "url",
+  "action": {
+    "type": "navigate",
+    "target": "input"
+  }
 }
