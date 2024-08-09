@@ -10,12 +10,12 @@
         {
             "icon": "navigate",
             "label": "Go to URL",
-            "id": "INPUT",
-            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={INPUT}t@http://msx.benzac.de/interaction/input.html"
+            "id": "url",
+            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={url}@http://msx.benzac.de/interaction/input.html"
         },
         {
             "label": "alo",
-            "action": "video:plugin:{INPUT}"
+            "action": "video:plugin:{url}"
         }  
     ]
 }
