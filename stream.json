@@ -11,7 +11,7 @@
             "icon": "navigate",
             "label": "Go to URL",
             "id": "url",
-            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={url}@http://msx.benzac.de/interaction/input.html"
+            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={URL}&type=url|default|en|Enter URL|||Click on {ico:msx-white:done} to submit URL@http://msx.benzac.de/interaction/input.html"
         },
         {
             "label": "alo",
