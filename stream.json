@@ -15,7 +15,7 @@
         },
         {
             "label": "alo",
-            "action": "video:plugin:{url}"
+            "action": "video:id:url"
         }  
     ]
 }
