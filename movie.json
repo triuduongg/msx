@@ -22,13 +22,13 @@
         {
             "title": "MOVIE 3",
             "playerLabel": "MOVIE 3",
-            "icon": "live-tv",
+            "icon": "movie",
             "action": "video:https://hqth.me/tdmovie3"
         },
         {
             "title": "MOVIE 4",
             "playerLabel": "MOVIE 4",
-            "icon": "live-tv",
+            "icon": "movie",
             "action": "video:https://hqth.me/tdmovie4"
         },
         {
