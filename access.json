@@ -17,7 +17,7 @@
             "title": "OUTPUT",
             "playerLabel": "OUTPUT",
             "icon": "movie",
-            "action":"video:{URL}"
+            "action":"video:plugin:{URL}"
         } 
     ]
 }
