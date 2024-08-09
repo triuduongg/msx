@@ -1,9 +1,12 @@
 {
-  "title": "Virtual Keyboard",
+  "title": "Enter URL",
   "type": "input",
-  "inputType": "url",
+  "input": {
+    "type": "text",
+    "placeholder": "Enter URL here"
+  },
   "action": {
     "type": "navigate",
-    "target": "input"
+    "target": "{input}"
   }
 }
