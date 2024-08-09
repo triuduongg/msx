@@ -11,7 +11,7 @@
             "title": "MOVIE",
             "playerLabel": "MOVIE",
             "icon": "movie",
-            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={INPUT}@http://msx.benzac.de/interaction/input.html"
+            "action": "content:request:interaction:{URL}@http://msx.benzac.de/interaction/input.html"
         },
         {
             "title": "LIVE",
