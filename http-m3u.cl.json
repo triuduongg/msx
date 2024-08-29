@@ -1,0 +1,19 @@
+{
+    "headline": "m3u.cl",
+    "menu": [   
+        {
+            "type": "separator",
+            "label": "list"
+        },
+        {
+            "label": "top",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://m3u.cl/lista/top.m3u"
+        },
+        {
+            "label": "total",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://m3u.cl/lista/total.m3u"
+        }
+        ]
+}

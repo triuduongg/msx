@@ -1,0 +1,14 @@
+{
+    "headline": "iptv-org",
+    "menu": [   
+        {
+            "type": "separator",
+            "label": "list"
+        },
+        {
+            "label": "index",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-org.github.io/iptv/index.m3u"
+        }
+        ]
+}

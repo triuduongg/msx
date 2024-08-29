@@ -1,0 +1,119 @@
+{
+    "headline": "unnews",
+    "menu": [   
+        {
+            "type": "separator",
+            "label": "topic"
+        },
+        {
+            "icon": "topic",
+            "label": "top stories",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/all/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "middle east",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "africa",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "europe",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/region/europe/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "americas",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/region/americas/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "asia pacific",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/region/asia-pacific/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "un affairs",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/topic/un-affairs/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "law and crime prevention",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/topic/law-and-crime-prevention/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "human rights",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/topic/human-rights/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "humanitarian aid",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/topic/humanitarian-aid/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "climate change",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "culture and education",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/topic/culture-and-education/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "economic development",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/topic/economic-development/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "women",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/topic/women/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "peace and security",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "migrants and refugees",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/topic/migrants-and-refugees/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "sdgs",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/news/topic/sdgs/feed/rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "latest audio",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/audio-product/all/audio-rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "dateline geneva",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/audio-product/dateline-geneva/audio-rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "the lid is on",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/audio-product/podcast-the-lid-is-on/audio-rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "interviews",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/audio-product/interviews/audio-rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "uncomplicated",
+            "data": "request:interaction:https://news.un.org/feed/subscribe/en/audio-product/podcast-uncomplicated/audio-rss.xml@https://msx.benzac.de/interaction/mrss.html"
+        }
+        ]
+}

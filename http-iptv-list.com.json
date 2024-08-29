@@ -1,0 +1,154 @@
+{
+    "headline": "iptv-list.com",
+    "menu": [   
+        {
+            "type": "separator",
+            "label": "list"
+        },
+        {
+            "label": "usa",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3430/usa-iptv.m3u8"
+        },
+        {
+            "label": "brazil",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/244/iptv-brazil.m3u8"
+        },
+        {
+            "label": "uk",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/332/uk-iptv.m3u8"
+        },
+        {
+            "label": "canada",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/243/canada_iptv.m3u8"
+        },
+        {
+            "label": "germany",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/261/germany-iptv.m3u8"
+        },
+        {
+            "label": "netherlands",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3421/netherlands-iptv.m3u8"
+        },
+        {
+            "label": "albania",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3445/albania-iptv.m3u8"
+        },
+        {
+            "label": "greece",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3441/greece-iptv.m3u8"
+        },
+        {
+            "label": "romanesti",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3436/romanesti-iptv.m3u8"
+        },
+        {
+            "label": "poland",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3427/poland-iptv.m3u8"
+        },
+        {
+            "label": "switzerland",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3414/switzerland-iptv.m3u8"
+        },
+        {
+            "label": "portugal",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/285/portugal-iptv.m3u8"
+        },
+        {
+            "label": "spain",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/277/spain-iptv.m3u8"
+        },
+        {
+            "label": "italy",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/257/italy-iptv.m3u8"
+        },
+        {
+            "label": "belgique",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/249/belgique-iptv.m3u8"
+        },
+        {
+            "label": "france",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/242/france-iptv.m3u8"
+        },
+        {
+            "label": "sport",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3468/sport-iptv.m3u8"
+        },
+        {
+            "label": "turkish",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3475/turkish-iptv.m3u8"
+        },
+        {
+            "label": "vietnam",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3502/vietnam-iptv.m3u8"
+        },
+        {
+            "label": "malaysia",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3497/malaysia-iptv.m3u8"
+        },
+        {
+            "label": "thailand",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3492/thailand-iptv.m3u8"
+        },
+        {
+            "label": "china",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3483/china-iptv.m3u8"
+        },
+        {
+            "label": "turkish",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3475/turkish-iptv.m3u8"
+        },
+        {
+            "label": "arabic",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3507/arabic-iptv.m3u8"
+        },
+        {
+            "label": "scandinavia",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3511/scandinavia-iptv.m3u8"
+        },
+        {
+            "label": "scandinavia",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3511/scandinavia-iptv.m3u8"
+        },
+        {
+            "label": "ex-yu",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3515/ex-yu-iptv.m3u8"
+        },
+        {
+            "label": "africa",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3528/africa-iptv.m3u8"
+        },
+        {
+            "label": "latinos",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-list.com/Download/109/iptv-m3u-file/3532/latinos-iptv.m3u8"
+        }
+        ]
+}

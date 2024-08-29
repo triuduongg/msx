@@ -1,0 +1,19 @@
+{
+    "headline": "TRIUDUONGG MSX",
+    "menu": [   
+            {
+                "type": "separator",
+                "label": "main"
+            },
+            {
+                "icon": "http",
+                "label": "http",
+                "data": "http://triuduongg.github.io/msx/http.json"
+            },
+            {
+                "icon": "https",
+                "label": "https",
+                "data": "http://triuduongg.github.io/msx/https.json"
+            }
+        ]
+}

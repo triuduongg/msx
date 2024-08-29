@@ -1,0 +1,14 @@
+{
+    "headline": "podnews",
+    "menu": [   
+        {
+            "type": "separator",
+            "label": "topic"
+        },
+        {
+            "icon": "topic",
+            "label": "podnews daily",
+            "data": "request:interaction:https://podnews.net/rss@https://msx.benzac.de/interaction/mrss.html"
+        }
+        ]
+}
