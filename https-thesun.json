@@ -1,0 +1,89 @@
+{
+    "headline": "thesun",
+    "menu": [   
+        {
+            "type": "separator",
+            "label": "topic"
+        },
+        {
+            "icon": "topic",
+            "label": "highlights",
+            "data": "request:interaction:https://thesun.my/rss/home@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "local",
+            "data": "request:interaction:https://thesun.my/rss/local@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "world",
+            "data": "request:interaction:https://thesun.my/rss/world@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "business",
+            "data": "request:interaction:https://thesun.my/rss/business@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "sport",
+            "data": "request:interaction:https://thesun.my/rss/sport@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "entertainment and lifestyle",
+            "data": "request:interaction:https://thesun.my/rss/style-life@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "spotlight",
+            "data": "request:interaction:https://thesun.my/rss/spotlight@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "opinion",
+            "data": "request:interaction:https://thesun.my/rss/opinion@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "supplement",
+            "data": "request:interaction:https://thesun.my/rss/supplement@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "media and marketing",
+            "data": "request:interaction:https://thesun.my/rss/media-marketing@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "motoring",
+            "data": "request:interaction:https://thesun.my/rss/gear-up@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "berita",
+            "data": "request:interaction:https://thesun.my/rss/berita@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "images",
+            "data": "request:interaction:https://thesun.my/rss/images@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "going viral",
+            "data": "request:interaction:https://thesun.my/rss/style-life/going-viral@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "true crimes",
+            "data": "request:interaction:https://thesun.my/rss/true-crimes@https://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "topic",
+            "label": "buzz",
+            "data": "request:interaction:https://thesun.my/rss/buzz@https://msx.benzac.de/interaction/mrss.html"
+        }
+        ]
+}
