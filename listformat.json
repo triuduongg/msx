@@ -7,130 +7,150 @@
          "items": [
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "0,0,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "0,2,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "2,0,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "2,2,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "4,0,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "4,2,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "6,0,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "6,2,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "8,0,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "8,2,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "10,0,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "10,2,2,2",
                "label": "0,1"
             }
          ]
       },
       {
-         "type": "separate",
-         "label": "page 2"
-      },
-      {
          "offset": "0,-0.5,0,0",
          "items": [
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "0,0,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "0,2,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "2,0,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "2,2,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "4,0,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "4,2,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "6,0,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "6,2,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "8,0,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "8,2,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "10,0,2,2",
                "label": "0,1"
             },
             {
                "icon": "movie",
+               "color": "msx-glass",
                "layout": "10,2,2,2",
                "label": "0,1"
             }
