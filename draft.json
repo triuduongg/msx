@@ -1,0 +1,33 @@
+{
+    "headline": "disney+pixar",
+    "menu": [
+       {
+          "type": "separator",
+          "label": "movies"
+       },
+       {
+          "icon": "local-movies",
+          "label": "finding nemo+dory",
+          "data": 
+          {
+            "type": "list",
+            "headline": "finding nemo+dory",
+            "template": {
+               "layout": "0,0,3,3",
+               "color": "msx-glass",
+               "icon": "movie"
+            },
+            "items": [
+               {
+                  "label": "finding nemo",
+                  "action": ""
+               },
+               {
+                  "label": "finding dory",
+                  "action": ""
+               }
+            ]
+         }
+       }
+    ]
+ }
