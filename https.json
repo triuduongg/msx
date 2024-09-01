@@ -1,171 +1,357 @@
 {
-   "type": "pages",
-   "headline": "https",
-   "pages": [
-      {
-         "headline": "page 1",
-         "items": [
-            {
-               "layout": "0,0,2,2",
-               "color": "msx-glass",
-               "label": "iptvcat",
-               "icon": "live-tv",
-               "action": "menu:https://triuduongg.github.io/msx/https-iptvcat.json"
-            },
-            {
-               "layout": "2,0,2,2",
-               "color": "msx-glass",
-               "label": "iptv-org",
-               "icon": "live-tv",
-               "action": "menu:https://triuduongg.github.io/msx/https-iptv-org.json"
-            },
-            {
-               "layout": "4,0,2,2",
-               "color": "msx-glass",
-               "label": "freetv.fun",
-               "icon": "live-tv",
-               "action": "menu:https://triuduongg.github.io/msx/https-freetv.fun.json"
-            },
-            {
-               "layout": "6,0,2,2",
-               "color": "msx-glass",
-               "label": "free-tv",
-               "icon": "live-tv",
-               "action": "menu:https://triuduongg.github.io/msx/https-free-tv.json"
-            },    
-            {
-               "layout": "8,0,2,2",
-               "color": "msx-glass",
-               "label": "i.mjh.nz",
-               "icon": "live-tv",
-               "action": "menu:https://triuduongg.github.io/msx/https-i.mjh.nz.json"
-            },
-            {
-               "layout": "10,0,2,2",
-               "color": "msx-glass",
-               "label": "iptv-list.com",
-               "icon": "live-tv",
-               "action": "menu:https://triuduongg.github.io/msx/https-iptv-list.com.json"
-            },
-            {
-               "layout": "0,2,2,2",
-               "color": "msx-glass",
-               "label": "nytimes",
-               "icon": "rss-feed",
-               "action": "menu:https://triuduongg.github.io/msx/https-nytimes.json"
-            },
-            {
-               "layout": "2,2,2,2",
-               "color": "msx-glass",
-               "label": "dailymail",
-               "icon": "rss-feed",
-               "action": "menu:https://triuduongg.github.io/msx/https-dailymail.json"
-            },
-            {
-               "layout": "4,2,2,2",
-               "color": "msx-glass",
-               "label": "foxnews",
-               "icon": "rss-feed",
-               "action": "menu:https://triuduongg.github.io/msx/https-foxnews.json"
-            },
-            {
-               "layout": "6,2,2,2",
-               "color": "msx-glass",
-               "label": "lequipe",
-               "icon": "rss-feed",
-               "action": "menu:https://triuduongg.github.io/msx/https-lequipe.json"
-            },
-            {
-               "layout": "8,2,2,2",
-               "color": "msx-glass",
-               "label": "unnews",
-               "icon": "rss-feed",
-               "action": "menu:https://triuduongg.github.io/msx/https-unnews.json"
-            },
-            {
-               "layout": "10,2,2,2",
-               "color": "msx-glass",
-               "label": "podnews",
-               "icon": "rss-feed",
-               "action": "menu:https://triuduongg.github.io/msx/https-podnews.json"
-            },
-            {
-               "layout": "0,4,2,2",
-               "color": "msx-glass",
-               "label": "launcher",
-               "icon": "extension",
-               "action": "menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
-            },
-            {
-               "layout": "2,4,2,2",
-               "color": "msx-glass",
-               "label": "googledrive",
-               "icon": "extension",
-               "action": "menu:request:interaction:init@https://gd.msx.benzac.de/interaction"
-            },
-            {
-               "layout": "4,4,2,2",
-               "color": "msx-glass",
-               "label": "onedrive",
-               "icon": "extension",
-               "action": "menu:request:interaction:init@https://od.msx.benzac.de/interaction"
-            },
-            {
-               "layout": "6,4,2,2",
-               "color": "msx-glass",
-               "label": "dropbox",
-               "icon": "extension",
-               "action": "menu:request:interaction:init@https://db.msx.benzac.de/interaction"
-            },
-            {
-               "layout": "8,4,2,2",
-               "color": "msx-glass",
-               "label": "nodejs",
-               "icon": "extension",
-               "action": "menu:request:interaction:init@https://nb.msx.benzac.de/interaction"
-            },
-            {
-               "layout": "10,4,2,2",
-               "color": "msx-glass",
-               "label": "soundcloud",
-               "icon": "extension",
-               "action": "menu:https://sc.msx.benzac.de/msx/service.php"
-            }
-            ]
-      },
-      {
-        "headline": "page 2",
-        "items": [
-           {
-               "layout": "0,0,2,2",
-               "color": "msx-glass",
-               "label": "m3u.cl",
-               "icon": "live-tv",
-               "action": "menu:https://triuduongg.github.io/msx/https-m3u.cl.json"
-           },
-           {
-               "layout": "0,2,2,2",
-               "color": "msx-glass",
-               "label": "theage",
-               "icon": "rss-feed",
-               "action": "menu:https://triuduongg.github.io/msx/https-theage.json"
-           },
-           {
-              "layout": "0,4,2,2",
-              "color": "msx-glass",
-               "label": "tmdb",
-               "icon": "extension",
-               "action": "menu:https://tmdb.msx.benzac.de/msx/service.php"
-           },
-           {
-              "layout": "2,4,2,2",
-              "color": "msx-glass",
-              "label": "euronews",
-              "icon": "extension",
-              "action": "menu:https://en.msx.benzac.de/msx/service.php"
-           }
-
-           ]
-     }
-            ]
-}
+    "type": "list",
+    "headline": "https",
+    "pages": [
+       {
+          "offset": "0,0,0,0.5",
+          "items": [
+             {
+                "icon": "image",
+                "color": "msx-glass",
+                "layout": "0,0,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "image",
+                "color": "msx-glass",
+                "layout": "0,2,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "audiotrack",
+                "color": "msx-glass",
+                "layout": "2,0,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "audiotrack",
+                "color": "msx-glass",
+                "layout": "2,2,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,0,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,2,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "live-tv",
+                "color": "msx-glass",
+                "layout": "6,0,2,2",
+                "label": "iptvcat",
+                "action": "menu:http://triuduongg.github.io/msx/https-iptvcat.json"
+             },
+             {
+                "icon": "live-tv",
+                "color": "msx-glass",
+                "layout": "6,2,2,2",
+                "label": "iptv-org",
+                "action": "menu:http://triuduongg.github.io/msx/https-iptv-org.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,0,2,2",
+                "label": "nytimes",
+                "action": "menu:http://triuduongg.github.io/msx/https-nytimes.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,2,2,2",
+                "label": "dailymail",
+                "action": "menu:http://triuduongg.github.io/msx/https-dailymail.json"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,0,2,2",
+                "label": "launcher",
+                "action": "menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,2,2,2",
+                "label": "googledrive",
+                "action": "menu:request:interaction:init@https://gd.msx.benzac.de/interaction"
+             }
+          ]
+       },
+       {
+          "offset": "0,-0.5,0,0",
+          "items": [
+             {
+                "icon": "image",
+                "color": "msx-glass",
+                "layout": "0,0,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "image",
+                "color": "msx-glass",
+                "layout": "0,2,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "audiotrack",
+                "color": "msx-glass",
+                "layout": "2,0,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "audiotrack",
+                "color": "msx-glass",
+                "layout": "2,2,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,0,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,2,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "live-tv",
+                "color": "msx-glass",
+                "layout": "6,0,2,2",
+                "label": "freetv.fun",
+                "action": "menu:http://triuduongg.github.io/msx/https-freetv.fun.json"
+             },
+             {
+                "icon": "live-tv",
+                "color": "msx-glass",
+                "layout": "6,2,2,2",
+                "label": "free-tv",
+                "action": "menu:http://triuduongg.github.io/msx/https-free-tv.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,0,2,2",
+                "label": "foxnews",
+                "action": "menu:http://triuduongg.github.io/msx/https-foxnews.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,2,2,2",
+                "label": "lequipe",
+                "action": "menu:http://triuduongg.github.io/msx/https-lequipe.json"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,0,2,2",
+                "label": "onedrive",
+                "action": "menu:request:interaction:init@https://od.msx.benzac.de/interaction"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,2,2,2",
+                "label": "dropbox",
+                "action": "menu:request:interaction:init@https://db.msx.benzac.de/interaction"
+             }
+          ]
+       },
+       {
+          "offset": "0,0,0,0.5",
+          "items": [
+             {
+                "icon": "image",
+                "color": "msx-glass",
+                "layout": "0,0,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "image",
+                "color": "msx-glass",
+                "layout": "0,2,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "audiotrack",
+                "color": "msx-glass",
+                "layout": "2,0,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "audiotrack",
+                "color": "msx-glass",
+                "layout": "2,2,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,0,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,2,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "live-tv",
+                "color": "msx-glass",
+                "layout": "6,0,2,2",
+                "label": "i.mjh.nz",
+                "action": "menu:http://triuduongg.github.io/msx/https-i.mjh.nz.json"
+             },
+             {
+                "icon": "live-tv",
+                "color": "msx-glass",
+                "layout": "6,2,2,2",
+                "label": "iptv-list.com",
+                "action": "menu:http://triuduongg.github.io/msx/https-iptv-list.com.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,0,2,2",
+                "label": "unnews",
+                "action": "menu:http://triuduongg.github.io/msx/https-unnews.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,2,2,2",
+                "label": "podnews",
+                "action": "menu:http://triuduongg.github.io/msx/https-podnews.json"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,0,2,2",
+                "label": "nodejs",
+                "action": "menu:request:interaction:init@https://nb.msx.benzac.de/interaction"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,2,2,2",
+                "label": "soundcloud",
+                "action": "menu:http://sc.msx.benzac.de/msx/service.php"
+             }
+          ]
+       },
+       {
+          "offset": "0,-0.5,0,0",
+          "items": [
+             {
+                "icon": "image",
+                "color": "msx-glass",
+                "layout": "0,0,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "image",
+                "color": "msx-glass",
+                "layout": "0,2,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "audiotrack",
+                "color": "msx-glass",
+                "layout": "2,0,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "audiotrack",
+                "color": "msx-glass",
+                "layout": "2,2,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,0,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,2,2,2",
+                "label": "0,1",
+                "action": ""
+             },
+             {
+                "icon": "live-tv",
+                "color": "msx-glass",
+                "layout": "6,0,2,2",
+                "label": "m3u.cl",
+                "action": "menu:http://triuduongg.github.io/msx/https-m3u.cl.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,0,2,2",
+                "label": "theage",
+                "action": "menu:http://triuduongg.github.io/msx/https-theage.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,2,2,2",
+                "label": "thesun",
+                "action": "menu:http://triuduongg.github.io/msx/https-thesun.json"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,0,2,2",
+                "label": "tmdb",
+                "action": "menu:http://tmdb.msx.benzac.de/msx/service.php"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,2,2,2",
+                "label": "euronews",
+                "action": "menu:http://en.msx.benzac.de/msx/service.php"
+             }
+          ]
+       }
+       
+    ]
+ }
+ 
