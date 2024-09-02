@@ -23,8 +23,8 @@
                 "icon": "library-music",
                 "color": "msx-glass",
                 "layout": "2,0,2,2",
-                "label": "0,1",
-                "action": ""
+                "label": "imaginedragons",
+                "action": "menu:http://triuduongg.github.io/msx/http-imaginedragons.json"
              },
              {
                 "icon": "library-music",
