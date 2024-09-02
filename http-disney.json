@@ -1,0 +1,86 @@
+{
+   "headline": "disney",
+   "menu": [
+      {
+         "type": "separator",
+         "label": "movie"
+      },
+      {
+         "icon": "local-movies",
+         "label": "the beauty and the beast",
+         "data": {
+            "type": "list",
+            "headline": "the beauty and the beast",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "movie"
+            },
+            "items": [
+               {
+                  "title": "animated 1",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://1.mimeyot826.workers.dev/3UzY1MWNwUDN1QTNjVDM1YTN1UDNyQjM0IDOygjMlJTM1UjM0MDNzAzM3UjNyAzMyUzN1YjMlJzNzUmMyMDNzkjM3UTOyU2MkJzMyATNyUTZykjM3UzMyETN1UDN1QjM4IDZwITNzUTNxcTNhBTNzImMjFDM1UzMxEzNwMmMyIDZyQTMzIjMzMTMwMjM1YzMkFjMxYmM5QzY1QTM1AjNxQmMlNzYwMDMlNTZyQWM1UTOwEjMiBzM1U2MxIjNzETNwAzMxUzM5QzYxMjMmBDZzYjMiJDZyYDMkJDZwITN5ITN0YDM0ITOwIGM3AjYzATMyAjYwcTMiBjNxcDMkBTOwEGMiBjYzcTMwEjZwATNwUjM1I2M4IzYwUDMkBTNwcTMkJDNykDMiBzNwEGNwETYwQGMiBDNxEDM2ETNwMGM3ETY0QWM5ATO0cTMwEjZwATNwUjM1IGNiRTZ1cTM0EDMxATMjBzLhlGZl12LpBXYv02bj5id0Vmchh2cm9yL6MHc0RHa/,0Xfi8CXt92YuYHdlJXYoNnZvw1LcpzcwRHdoJiOiIXZyVmZlJlIsIiNz4yNzUzLclmchZWYTBiVUBSMz4iNwYDNuAjL0kzLcVWbvJHaDBCMsYzLcJXZzd3byJEIn5Wdz1WYTBSKvt2YldEIltWasBCLM1EVItEKgYzMuczM18CX0l2SiV2VlxGcwFEIpAjL3AiblpXaUByO4VnbpxEI7YFVtQlUB10UoACMuUzLcFGbslmev1kI6ICduV2ZB1iclNXVisnOiMnclRWYlhmIsIydvxGbvZmI6ICdjVmcpRWZyJye?customName=Beauty+and+the+Beast+-+Ng%C6%B0%E1%BB%9Di+%C4%91%E1%BA%B9p+v%C3%A0+qu%C3%A1i+v%E1%BA%ADt+-+H%E1%BB%8Dc+ngo%E1%BA%A1i+ng%E1%BB%AF+qua+phim+c%C3%B9ng+FshareTV_+Original+-+%2F2"
+               },
+               {
+                  "title": "animated 2",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://1.cilado2123.workers.dev/,ETNxUDM1QTN2UTN1MWNjVjM1QjM0IDNyImM0MzNykjM1ITZzM2M2IzM1MTNwITMzQ2M3IjMzczM3UzN1EzMxIzYyMTN0MjMzcTN3UTNzYTNxIDMyImMyUTN1QTN0IDMwYzM3MjNwU2M1MDZyYGMjJDNzYTM1MTYwAjM1MzMycTNiBTMxQmMkVjNxI2MhBjN1cTN2UjYwM2MyADZ1YGMiJTZzETN3UTMxcDMlFzMxImMzETM1ATM1EzNxcTNjFjM1IjM2UTMyEmMzIjZwYDM3MzY1MjMkJjYzAzMyUzN1UDN2ADNykDMiBzNwI2MwEjMwIGM3EjYwYTM3ADZwkDMhBjYwI2MxUDMwEGMyEjYzQTNzUTN1cTM0ITOwIGM3ATY0ATMhBDZwIGM0ETMwYTM1AzYwcTMhRDZxkDM5QTM1ADMhBjMxIGNiRTZ1cTM0EDMxATMjBzLhlGZl12LpBXYv02bj5id0Vmchh2cm9yL6MHc0RHa/,0Xfi8CXt92YuYHdlJXYoNnZvw1LcpzcwRHdoJiOiIXZyVmZlJlIsIiNz4yNzUzLclmchZWYTBiVUBSMz4iNwYDNuAjL0kzLcVWbvJHaDBCMsYzLcJXZzd3byJEIn5Wdz1WYTBSKvt2YldEIltWasBCLM1EVItEKgYzMuczM18CX0l2SiV2VlxGcwFEIpAjL3AiblpXaUByO4VnbpxEI7YFVtQlUB10UoACMuUzLcFGbslmev1kI6ICduV2ZB1iclNXVisnOiMnclRWYlhmIsIydvxGbvZmI6ICdjVmcpRWZyJye?customName=Beauty+and+the+Beast%3A+The+Enchanted+Christmas+-+H%E1%BB%8Dc+ngo%E1%BA%A1i+ng%E1%BB%AF+qua+phim+c%C3%B9ng+FshareTV_+Original+-+%2F2"
+               },
+               {
+                  "title": "live action",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://1.cilado2123.workers.dev/,cTN3UTM1QTN0UjM1MTNxUDM1UTN0IDNyQjMlJTMyEmM3UjNzczMwUDMzQzMjNzYzIzMlNzYyEmMwUzYzM2M1IzMyEjMlNjM1YmM4IDM1IjM3UTZykjMxMzMyUTN0UDNygjMkBjM1MTN1EzN1EGM1MjYyMWMwUTNzETM3AzYyIjMkJDNxMjMyMzMxAzMyUjNzQWMyEjZykDNjVDNxUDM2EDZyU2MjBzMwU2MlJDZxUTN5ATMyQ2M1EzM1QTMiBTYyUWMjFTMxAjMzETNxEjMjVTZwEGMiBDNxUjMjJTYycTN1QjNwQjM5AjYwcDMiNDMxIDMiBzNxIGM2EzNwQGM5ATYwIGMiNzNxATMmBDM1ATNyUjYzgjM1ATYwEGM1AzYwIGMlJDNykDMiBzNwEGNwETYwQGMiBDNxEDM2ETNwMGM3ETY0QWM5ATO0cTMwEjZwATNwUjM1IGNiRTZ1cTM0EDMxATMjBzLhlGZl12LpBXYv02bj5id0Vmchh2cm9yL6MHc0RHa/,0Xfi8CXt92YuYHdlJXYoNnZvw1LcpzcwRHdoJiOiIXZyVmZlJlIsIiNz4yNzUzLclmchZWYTBiVUBSMz4iNwYDNuAjL0kzLcVWbvJHaDBCMsYzLcJXZzd3byJEIn5Wdz1WYTBSKvt2YldEIltWasBCLM1EVItEKgYzMuczM18CX0l2SiV2VlxGcwFEIpAjL3AiblpXaUByO4VnbpxEI7YFVtQlUB10UoACMuUzLcFGbslmev1kI6ICduV2ZB1iclNXVisnOiMnclRWYlhmIsIydvxGbvZmI6ICdjVmcpRWZyJye?customName=Beauty+and+the+Beast+-+Ng%C6%B0%E1%BB%9Di+%C4%91%E1%BA%B9p+v%C3%A0+qu%C3%A1i+v%E1%BA%ADt+-+H%E1%BB%8Dc+ngo%E1%BA%A1i+ng%E1%BB%AF+qua+phim+c%C3%B9ng+FshareTV_+Original+-+%2F2"
+               }
+            ]
+         }
+      },
+      {
+         "icon": "local-movies",
+         "label": "big hero 6",
+         "data": {
+            "type": "list",
+            "headline": "big hero 6",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "movie"
+            },
+            "items": [
+               {
+                  "title": "3d",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://3.rogikon711.workers.dev/,,AM1QTN3UDN1YTNwUzY1ATN1UTN1QjM0IDNyUmMmJTOyczMjNDOyUmMlNTZyAzMyIDZyQ2MyITYyczMlJTOyQzMjJTZzEmM3ITYyMTN1MzMzAjM3MTNzATNxITN1QTN0IjNwczM1EzNycTMxMzMwgjM2EzMwYTM2MTOyITN2UTM1YTM1ATN1I2MzMzN1gDMmJDM1MTN5AjZyQGM3MDMzETMlJDNxIDM1IzMyITN1IDOwUzMyETNxUDM4AjNyQWMwMjNzYDMyATZyMWMkFDN1MWN2MjZyEjMjVTYwQTN4AjMzUDN2ADNykDMiBzNwI2MwEjMwIGM3EjYwYTM3ADZwkDMhBjYwI2MxUDMwEGMyEjYzATN0UzN1cTM0ITOwIGM3ATY0ATMhBDZwIGM0ETMwYTM1AzYwcTMhRDZxkDM5QTM1ADMhBjMxIGNiRTZ1cTM0EDMxATMjBzLhlGZl12LpBXYv02bj5id0Vmchh2cm9yL6MHc0RHa/,0Xfi8CXt92YuYHdlJXYoNnZvw1LcpzcwRHdoJiOiIXZyVmZlJlIsIiNz4yNzUzLclmchZWYTBiVUBSMz4iNwYDNuAjL0kzLcVWbvJHaDBCMsYzLcJXZzd3byJEIn5Wdz1WYTBSKvt2YldEIltWasBCLM1EVItEKgYzMuczM18CX0l2SiV2VlxGcwFEIpAjL3AiblpXaUByO4VnbpxEI7YFVtQlUB10UoACMuUzLcFGbslmev1kI6ICduV2ZB1iclNXVisnOiMnclRWYlhmIsIydvxGbvZmI6ICdjVmcpRWZyJye?customName=Big+Hero+6+-+H%E1%BB%8Dc+ngo%E1%BA%A1i+ng%E1%BB%AF+qua+phim+c%C3%B9ng+FshareTV_+Original+-+%2F2"
+               }
+            ]
+         }
+      },
+      {
+         "icon": "local-movies",
+         "label": "the lion king",
+         "data": {
+            "type": "list",
+            "headline": "the lion king",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "movie"
+            },
+            "items": [
+               {
+                  "title": "animated 1",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://9d62.coxog83781.workers.dev/,,AZ1cTNwUzN1MWNjVDM1QTN1UTN1QjM0IDNyMzMmJDM1EzM1IDZyczMzUzMyYzMjJDMzYmM3ITYyYTN2IzYzATN4ITM1cTN0MjM1kjMjJDM1YjMzIzM1EzMkJTN1QTN0IjNwczM1EzNycTMxMzMwgjM2EzMwYTM2MTOyITN2UTM1YTM1ATN1I2MzMzN1gDMmJDM1MTN5AjZyQGM3MDMzETMlJDNxIDM1IzMyITN1IDOwUzMyEjZyQGM3UTYwUTMkFDZyUDMyAjNyITN3ITMyMDM3ITNxEmMwUDOwYTNwEzNyUDN2ADNykDMiBzNwI2MwEjMwIGM3EjYwYTM3ADZwkDMhBjYwI2MxUDMwEGMyEjYzMTNkVjN1cTM0ITOwIGM3ATY0ATMhBDZwIGM0ETMwYTM1AzYwcTMhRDZxkDM5QTM1ADMhBjMxIGNiRTZ1cTM0EDMxATMjBzLhlGZl12LpBXYv02bj5id0Vmchh2cm9yL6MHc0RHa/,0Xfi8CXt92YuYHdlJXYoNnZvw1LcpzcwRHdoJiOiIXZyVmZlJlIsIiNz4yNzUzLclmchZWYTBiVUBSMz4iNwYDNuAjL0kzLcVWbvJHaDBCMsYzLcJXZzd3byJEIn5Wdz1WYTBSKvt2YldEIltWasBCLM1EVItEKgYzMuczM18CX0l2SiV2VlxGcwFEIpAjL3AiblpXaUByO4VnbpxEI7YFVtQlUB10UoACMuUzLcFGbslmev1kI6ICduV2ZB1iclNXVisnOiMnclRWYlhmIsIydvxGbvZmI6ICdjVmcpRWZyJye?customName=The+Lion+King+-+H%E1%BB%8Dc+ngo%E1%BA%A1i+ng%E1%BB%AF+qua+phim+c%C3%B9ng+FshareTV_+Original+-+%2F2"
+               },
+               {
+                  "title": "animated 2",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://9d62.coxog83781.workers.dev/,QTN2UzM1QjM0IDNyYDM2UDM1gDMwMDMxcTM2AjMyIjM5ITZwUzMyMTZwITNwIzMwgDMyUDMzAzM4AjYzQWMyEDOyEGMxEjYwYTN3MjYygDMlBzMyUTMhJDNxQGM1MTN1IjM1IzLhlGZl12LpBXYv02bj5id0Vmchh2cm9yL6MHc0RHa/,0Xfi8CXt92YuYHdlJXYoNnZvw1LcpzcwRHdoJiOiIXZyVmZlJlIsIiNz4yNzUzLclmchZWYTBiVUBSMz4iNwYDNuAjL0kzLcVWbvJHaDBCMsYzLcJXZzd3byJEIn5Wdz1WYTBSKvt2YldEIltWasBCLM1EVItEKgYzMuczM18CX0l2SiV2VlxGcwFEIpAjL3AiblpXaUByO4VnbpxEI7YFVtQlUB10UoACMuUzLcFGbslmev1kI6ICduV2ZB1iclNXVisnOiMnclRWYlhmIsIydvxGbvZmI6ICdjVmcpRWZyJye?customName=The+Lion+King+2%3A+Simba%27s+Pride+-+Vua+s%C6%B0+t%E1%BB%AD+II%3A+Ni%E1%BB%81m+ki%C3%AAu+h%C3%A3nh+c%E1%BB%A7a+Simba+-+H%E1%BB%8Dc+ngo%E1%BA%A1i+ng%E1%BB%AF_+Original+-+%2F2"
+               },
+               {
+                  "title": "animated 3",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://9d62.coxog83781.workers.dev/,QTN2UzM1QjM0IDNyAzM2UTO0MjMwIDZzMWNlBTN1EmM4IjNwQ2MxMjYykDN4IDN1QTN5IjNzATNmBzYzIGMmBTN1kDMzATYwAzMkNDOwQTMwIDN1IDMiJDNxQGM1MTN1IjM1IzLhlGZl12LpBXYv02bj5id0Vmchh2cm9yL6MHc0RHa/,0Xfi8CXt92YuYHdlJXYoNnZvw1LcpzcwRHdoJiOiIXZyVmZlJlIsIiNz4yNzUzLclmchZWYTBiVUBSMz4iNwYDNuAjL0kzLcVWbvJHaDBCMsYzLcJXZzd3byJEIn5Wdz1WYTBSKvt2YldEIltWasBCLM1EVItEKgYzMuczM18CX0l2SiV2VlxGcwFEIpAjL3AiblpXaUByO4VnbpxEI7YFVtQlUB10UoACMuUzLcFGbslmev1kI6ICduV2ZB1iclNXVisnOiMnclRWYlhmIsIydvxGbvZmI6ICdjVmcpRWZyJye?customName=The+Lion+King+3%3A+Hakuna+Matata+-+The+Lion+King+1%C2%BD+-+H%E1%BB%8Dc+ngo%E1%BA%A1i+ng%E1%BB%AF+qua+phim+c%C3%B9ng+FshareTV_+Original+-+%2F2"
+               },
+               {
+                  "title": "live action",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://3.rogikon711.workers.dev/,,gM1UTN2UDN1QTN2UzM1ETNzUTN1QjM0IDNyQzM2UTM1cjMwMDZzcjM1IjMyMjMyMTMyQmM1IjNzYmMxUTZzM2M1ITM1EmM3MDM1YmMxITZygjMlNDZyUmM3UTN1QTN0IDMwYzM3MjNwU2M1MDZyYGMjJDNzYTM1MTYwAjM1MzMycTNiBTMxQmMkVjNxI2MhBjN1cTN2UjYwM2MyADZ1YGMiJTZzETN3UTMxcDMlFzMxImMzETZzcjMyMTZyQzM2EjN1QWNyATOyMWM3MDN1I2M0UTNwUmMlBTYwczMzADOwUDN2ADNykDMiBzNwI2MwEjMwIGM3EjYwYTM3ADZwkDMhBjYwI2MxUDMwEGMyEjYzQWNjVTN1cTM0ITOwIGM3ATY0ATMhBDZwIGM0ETMwYTM1AzYwcTMhRDZxkDM5QTM1ADMhBjMxIGNiRTZ1cTM0EDMxATMjBzLhlGZl12LpBXYv02bj5id0Vmchh2cm9yL6MHc0RHa/,0Xfi8CXt92YuYHdlJXYoNnZvw1LcpzcwRHdoJiOiIXZyVmZlJlIsIiNz4yNzUzLclmchZWYTBiVUBSMz4iNwYDNuAjL0kzLcVWbvJHaDBCMsYzLcJXZzd3byJEIn5Wdz1WYTBSKvt2YldEIltWasBCLM1EVItEKgYzMuczM18CX0l2SiV2VlxGcwFEIpAjL3AiblpXaUByO4VnbpxEI7YFVtQlUB10UoACMuUzLcFGbslmev1kI6ICduV2ZB1iclNXVisnOiMnclRWYlhmIsIydvxGbvZmI6ICdjVmcpRWZyJye?customName=The+Lion+King+-+Vua+S%C6%B0+T%E1%BB%AD+-+H%E1%BB%8Dc+ngo%E1%BA%A1i+ng%E1%BB%AF+qua+phim+c%C3%B9ng+FshareTV_+Original+-+%2F2"
+               }
+            ]
+         }
+      }
+   ]
+}
