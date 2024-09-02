@@ -1,129 +1,145 @@
 {
-   "headline": "imaginedragons",
-   "menu": [
-      {
-         "type": "separator",
-         "label": "album"
-      },
-      {
-         "icon": "album",
-         "label": "origins",
-         "data": {
-            "type": "list",
-            "headline": "origins",
-            "template": {
-               "layout": "0,0,2,4",
-               "color": "msx-glass",
-               "icon": "music-note"
-            },
-            "items": [
-               {
-                  "label": "natural",
-                  "playerLabel": "natural",
-                  "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=0I647GU3Jsc"
-               },
-               {
-                  "label": "bad liar",
-                  "playerLabel": "bad liar",
-                  "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=I-QfPUz1es8"
-               },
-               {
-                  "label": "zero",
-                  "playerLabel": "zero",
-                  "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=j60ClcNYWu4"
-               },
-               {
-                  "label": "machine",
-                  "playerLabel": "machine",
-                  "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=BahtnT13vH8"
-               },
-               {
-                  "label": "cool out",
-                  "playerLabel": "cool out",
-                  "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=x0ZxutzmFUU"
-               }
-            ]
-         }
-      },
-      {
-         "icon": "album",
-         "label": "night visions",
-         "data": {
-            "type": "list",
-            "headline": "night visions",
-            "template": {
-               "layout": "0,0,2,4",
-               "color": "msx-glass",
-               "icon": "music-note"
-            },
-            "items": [
-               {
-                  "label": "radioactive",
-                  "playerLabel": "radioactive",
-                  "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=ktvTqknDobU"
-               },
-               {
-                  "label": "demons",
-                  "playerLabel": "demons",
-                  "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=mWRsgZuwf_8"
-               },
-               {
-                  "label": "it's time",
-                  "playerLabel": "it's time",
-                  "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=BahtnT13vH8"
-               },
-               {
-                  "label": "on top of the world",
-                  "playerLabel": "on top of the world",
-                  "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=w5tWYmIOWGk"
-               },
-               {
-                  "label": "amsterdam",
-                  "playerLabel": "amsterdam",
-                  "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=s6Nc4qEI3k4"
-               }
-            ]
-         }
-      },
-      {
-         "icon": "album",
-         "label": "mercury act 2",
-         "data": {
-            "type": "list",
-            "headline": "mercury act 2",
-            "template": {
-               "layout": "0,0,2,4",
-               "color": "msx-glass",
-               "icon": "music-note"
-            },
-            "items": [
-               {
-                  "label": "enemy",
-                  "playerLabel": "enemy",
-                  "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=D9G1VOjN_84"
-               },
-               {
-                  "label": "bones",
-                  "playerLabel": "bones",
-                  "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=TO-_3tck2tg"
-               },
-               {
-                  "label": "waves",
-                  "playerLabel": "waves",
-                  "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=anLxLPzgIG4"
-               },
-               {
-                  "label": "sharks",
-                  "playerLabel": "sharks",
-                  "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=Te3_VlimRw0"
-               },
-               {
-                  "label": "sirens",
-                  "playerLabel": "sirens",
-                  "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=ogEhe_v3UwM"
-               }
-            ]
-         }
-      }
-   ]
-}
+    "headline": "imaginedragons",
+    "menu": [
+       {
+          "type": "separator",
+          "label": "album"
+       },
+       {
+          "icon": "album",
+          "label": "origins",
+          "data": {
+             "type": "list",
+             "headline": "origins",
+             "template": {
+                "layout": "0,0,2,4",
+                "color": "msx-glass",
+                "icon": "music-note"
+             },
+             "items": [
+                {
+                   "label": "natural",
+                   "playerLabel": "natural",
+                   "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=0I647GU3Jsc"
+                },
+                {
+                   "label": "bad liar",
+                   "playerLabel": "bad liar",
+                   "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=I-QfPUz1es8"
+                }
+             ]
+          }
+       },
+       {
+          "icon": "album",
+          "label": "night visions",
+          "data": {
+             "type": "list",
+             "headline": "night visions",
+             "template": {
+                "layout": "0,0,2,4",
+                "color": "msx-glass",
+                "icon": "music-note"
+             },
+             "items": [
+                {
+                   "label": "radioactive",
+                   "playerLabel": "radioactive",
+                   "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=ktvTqknDobU"
+                },
+                {
+                   "label": "demons",
+                   "playerLabel": "demons",
+                   "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=mWRsgZuwf_8"
+                }
+             ]
+          }
+       },
+       {
+        "icon": "album",
+        "label": "evolve",
+        "data": {
+           "type": "list",
+           "headline": "evolve",
+           "template": {
+              "layout": "0,0,2,4",
+              "color": "msx-glass",
+              "icon": "music-note"
+           },
+           "items": [
+              {
+                 "label": "believer",
+                 "playerLabel": "believer",
+                 "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=7wtfhZwyrcc"
+              },
+              {
+                 "label": "thunder",
+                 "playerLabel": "thunder",
+                 "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=fKopy74weus"
+              },
+              {
+                "label": "whatever it takes",
+                "playerLabel": "whatever it takes",
+                "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=gOsM-DYAEhY"
+             }
+           ]
+        }
+        },
+       {
+        "icon": "album",
+        "label": "mercury act 1",
+        "data": {
+           "type": "list",
+           "headline": "mercury act 1",
+           "template": {
+              "layout": "0,0,2,4",
+              "color": "msx-glass",
+              "icon": "music-note"
+           },
+           "items": [
+              {
+                 "label": "follow you",
+                 "playerLabel": "follow you",
+                 "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=k3zimSRKqNw"
+              },
+              {
+                 "label": "wrecked",
+                 "playerLabel": "wrecked",
+                 "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=Y2NkuFIlLEo"
+              }
+           ]
+        }
+        },
+        {
+          "icon": "album",
+          "label": "mercury act 2",
+          "data": {
+             "type": "list",
+             "headline": "mercury act 2",
+             "template": {
+                "layout": "0,0,2,4",
+                "color": "msx-glass",
+                "icon": "music-note"
+             },
+             "items": [
+                {
+                   "label": "enemy",
+                   "playerLabel": "enemy",
+                   "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=D9G1VOjN_84"
+                },
+                {
+                   "label": "bones",
+                   "playerLabel": "bones",
+                   "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=TO-_3tck2tg"
+                },
+                {
+                   "label": "sharks",
+                   "playerLabel": "sharks",
+                   "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=Te3_VlimRw0"
+                }
+             ]
+          }
+       }
+    ]
+ }
+ 
