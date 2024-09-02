@@ -6,42 +6,42 @@
           "offset": "0,0,0,0.5",
           "items": [
              {
-                "icon": "image",
+                "icon": "photo-library",
                 "color": "msx-glass",
                 "layout": "0,0,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "image",
+                "icon": "photo-library",
                 "color": "msx-glass",
                 "layout": "0,2,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "music-note",
+                "icon": "library-music",
                 "color": "msx-glass",
                 "layout": "2,0,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "music-note",
+                "icon": "library-music",
                 "color": "msx-glass",
                 "layout": "2,2,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "movie",
+                "icon": "video-library",
                 "color": "msx-glass",
                 "layout": "4,0,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "movie",
+                "icon": "video-library",
                 "color": "msx-glass",
                 "layout": "4,2,2,2",
                 "label": "0,1",
@@ -95,42 +95,42 @@
           "offset": "0,-0.5,0,0",
           "items": [
              {
-                "icon": "image",
+                "icon": "photo-library",
                 "color": "msx-glass",
                 "layout": "0,0,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "image",
+                "icon": "photo-library",
                 "color": "msx-glass",
                 "layout": "0,2,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "music-note",
+                "icon": "library-music",
                 "color": "msx-glass",
                 "layout": "2,0,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "music-note",
+                "icon": "library-music",
                 "color": "msx-glass",
                 "layout": "2,2,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "movie",
+                "icon": "video-library",
                 "color": "msx-glass",
                 "layout": "4,0,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "movie",
+                "icon": "video-library",
                 "color": "msx-glass",
                 "layout": "4,2,2,2",
                 "label": "0,1",
@@ -184,42 +184,42 @@
           "offset": "0,0,0,0.5",
           "items": [
              {
-                "icon": "image",
+                "icon": "photo-library",
                 "color": "msx-glass",
                 "layout": "0,0,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "image",
+                "icon": "photo-library",
                 "color": "msx-glass",
                 "layout": "0,2,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "music-note",
+                "icon": "library-music",
                 "color": "msx-glass",
                 "layout": "2,0,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "music-note",
+                "icon": "library-music",
                 "color": "msx-glass",
                 "layout": "2,2,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "movie",
+                "icon": "video-library",
                 "color": "msx-glass",
                 "layout": "4,0,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "movie",
+                "icon": "video-library",
                 "color": "msx-glass",
                 "layout": "4,2,2,2",
                 "label": "0,1",
@@ -273,42 +273,42 @@
           "offset": "0,-0.5,0,0",
           "items": [
              {
-                "icon": "image",
+                "icon": "photo-library",
                 "color": "msx-glass",
                 "layout": "0,0,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "image",
+                "icon": "photo-library",
                 "color": "msx-glass",
                 "layout": "0,2,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "music-note",
+                "icon": "library-music",
                 "color": "msx-glass",
                 "layout": "2,0,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "music-note",
+                "icon": "library-music",
                 "color": "msx-glass",
                 "layout": "2,2,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "movie",
+                "icon": "video-library",
                 "color": "msx-glass",
                 "layout": "4,0,2,2",
                 "label": "0,1",
                 "action": ""
              },
              {
-                "icon": "movie",
+                "icon": "video-library",
                 "color": "msx-glass",
                 "layout": "4,2,2,2",
                 "label": "0,1",
@@ -354,4 +354,3 @@
        
     ]
  }
- 
