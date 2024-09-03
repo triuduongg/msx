@@ -1,0 +1,94 @@
+{
+   "headline": "warnerbros",
+   "menu": [
+      {
+         "type": "separator",
+         "label": "movie"
+      },
+      {
+         "icon": "local-movies",
+         "label": "harry potter",
+         "data": {
+            "type": "list",
+            "headline": "harry potter",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "movie"
+            },
+            "items": [
+               {
+                  "label": "movie 1",
+                  "playerLabel": "movie 1",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://aq.bigtimedelivery.net/_v13/380720ba45c66a8b75e1290e5b9f05bc359db0a417e052725e6adeedfba50abf3c3f2fae6441d78d668773a9e5bd97e6c736bea81bf0432adf48e67c43c07f5468bb34422b47de87a1c4eee9b7b24e7e558d5b62cfff1962b4ce85b35f42cf3b4ae6e9190d0c3368df4071eb13a10ef43adf5dd2a66353f4b832f480d71e778554a8b36c70479acb922a328c69409605/720/index.m3u8"
+               },
+               {
+                  "label": "movie 2",
+                  "playerLabel": "movie 2",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://as.bigtimedelivery.net/_v13/73b3aebc1abdcc43258ea9e453d7bbc37590ef837ef9d71adc57c4c4e425725b8f11b65db53485ee20752aacc7f949ba0547b54f5ed252c008a25a3cdd92ddf4ffcb897c8a9bbce039efb316c54c5ae7adf49750fa6b0df7d5732b68fc44df1874d1bc4280280294b2a73ab3a0b9694b3efe35444c6dd58511283973c7c114b2d2f5bb91b4d16cd368dcacf9b18f2484/720/index.m3u8"
+               },
+               {
+                  "label": "movie 3",
+                  "playerLabel": "movie 3",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ao.bigtimedelivery.net/_v13/4e53fff3333eb302078dac3cde5f5d24d945b2f5601e4ffcd134ac11a367f7800932cf93a509bafcae058b26f46c405f850af3df2c213f185c73fd2e6b448a7763a7b89da6e6e3c9899856564b6dd979c8f6d4e314eaca0f1601f8d1cc49cc9fc89be72e5bafc96e382250928cb3c5ffac2021a252702b90a71380756379be4be402ce8d77a8c3e5cd05a6eca5138195/720/index.m3u8"
+               },
+               {
+                  "label": "movie 4",
+                  "playerLabel": "movie 4",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://al.bigtimedelivery.net/_v13/e89bbab872e726e24343fdbd8fa60ba91e1f04f4c422d1f6525254f374bb78a399089e16ee2964a5bb4f50824f124d958964049df8156235223ffb781c2366492a7adad8c6fc10ec18da1a37d1e0a35a504006e1c040ac2b137ab65f60568cb3553b8ceb8da8e40e8087f5d0215a956655b3cc05fbd5a66b810d624dcd9337082a65ba0d113a896900e40e4baeae92ac/720/index.m3u8"
+               },
+               {
+                  "label": "movie 5",
+                  "playerLabel": "movie 5",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://at.bigtimedelivery.net/_v13/13857be38a786e8bfdba1fd77572a4bc9763b18eefcfb3924c5bffdd2f59a7255ac1d7ab5ca4e057c41bc75921b1b7eeeeff982e6985fb2ce6a8419b4050a01ca4e124f59b9d0b0f9ae96a7994de6953d45b53dbe18d45435d826bee6fd2ea58b0e58f777b3923095248f8d8a80757ef3b57a437086657dfb4463d85acc2c1a5bc935e243ee9db927f5d6c8058cb1c55/720/index.m3u8"
+               },
+               {
+                  "label": "movie 6",
+                  "playerLabel": "movie 6",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://al.bigtimedelivery.net/_v13/33657729e6c125354229d6dfd0875f26af08501ccee43ab91b6e8bf63da6563b0aa27a4bbc4572b5d41525ad1353b250e006b7c83392aa6e3021a6b859562999af2f8097f04fcf4c5bca5ba0a9e499d23711f30e2aae756477c0eb0dd1ade309224c8d13ee436d0a5e0782e54a386de68c374767554d26df136fdb953b74443d9d4d671fe1bf7d05a8962ae3fc920ca5/720/index.m3u8"
+               },
+               {
+                  "label": "movie 7",
+                  "playerLabel": "movie 7",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ak.bigtimedelivery.net/_v13/dab2998f293ef86ef692b9a0a11a278d08c05b475e3989b5dac536eab81950a31a3c0946561f8d80354440e48a2bf5f5c0c9a356a2c33803c02d0c11c2cd78770b51d37c40135bf098a4efbcbbfa0c87f1a3c6bef77d17c6fa2146a5b092321e64abda19759e2713c5e3e4285db59c8563fa3edce3157440709c78b829bb6a40da044d3fb13d3f279053a3c1e1236c7a/720/index.m3u8"
+               },
+               {
+                  "label": "movie 8",
+                  "playerLabel": "movie 8",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ao.bigtimedelivery.net/_v13/32536b114f226e0595b597679dae27101bef64f7637e8a8bc5a442b8978e55205d67d349e484287596aeae71e6cf3cb27bfe3e80ba8a14f7bdd66c698cec61d0ed19c27dd1e156d6a592278173e5ededfd4e36e73200161ba9a2433d7511883f886eb8af0e77b260e5110304b51059992496122ccad88327948cd54732ecac8a16b9c34dbbf93b807c51164e33b7a779/720/index.m3u8"
+               }
+            ]
+         }
+      },
+      {
+         "icon": "local-movies",
+         "label": "fantastic beasts",
+         "data": {
+            "type": "list",
+            "headline": "fantastic beasts",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "movie"
+            },
+            "items": [
+               {
+                  "label": "movie 1",
+                  "playerLabel": "movie 1",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/6088b61f00f1c83f1f07e61035d3edf61936d99b73da9e14b603117842303913b5099318fac5574749126c65c7496da35b3360e215dcfd3bceab3be21a29d25f37bdb6832e5b74c5c242817cc1a4adda719c4579c8f2de9039260f6846fdab3e35a37418a28981a526af1eafd1c187a819f81d69081c0a7ed522eca40c827b390620a86ae3015e42656ba518fe5ba060/720/index.m3u8"
+               },
+               {
+                  "label": "movie 2",
+                  "playerLabel": "movie 2",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://as.bigtimedelivery.net/_v13/0fd56f8f121790f1bb8986c97f6f69d4c7de2a8d3c3a2e9f276fa1bd7e69a369506c1e11b8765407aa87ccb54f0e3587fe7850e693da6853fe3084a90c8ae9a634c3be3eba4993d000a331f996af165f29ccbb4dee2e24655fdf7f3d63ff96544a89c2414c4e168e892d8968b2a4488fa62b5a2aa66d5ad12e7d57823fcc46c291c2065d8fc818d815991d34d81c11a5/720/index.m3u8"
+               },
+               {
+                  "label": "movie 3",
+                  "playerLabel": "movie 3",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://al.bigtimedelivery.net/_v13/535c20832cd3b0c901beb18896a5143a907eaff95664618798c7144ea4b78402bde10b00c92b1a22f3269ce693917aa2ae975b5936792ffea1fdb853290393afee5483d11e1f711ec4e503e4dbdf7a6dfda2b2a8b59eb617fb1cbdb83811f27879bb8a8d39384e91dc729f9158cf87308d925711d591b969e8229a508f3358d8a5e49b82c5de8a79e9a7d04c1f4290cd/720/index.m3u8"
+               }
+            ]
+         }
+      }
+   ]
+}
