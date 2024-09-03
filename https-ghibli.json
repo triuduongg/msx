@@ -20,17 +20,17 @@
                {
                   "label": "animated",
                   "playerLabel": "animated",
-                  "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://9d62.coxog83781.workers.dev/kVjN1QWN1UTM1YTNjVTM1MTN1UDNyQjM0IjNzYmM2IDZyEjM3IjNyczMzMDOykjMjNzN1EjMxUjM1YTNzMzM1czMkNzM1YzMzUDZyYmMwUzM1QzMxITOyATN1UDN1QjM4IDZwITNzUTNxcTNhBTNzImMjFDM1UzMxEzNwMmMyIDZyQTMzIjMzMTMwMjM1YzMkFjMxYmM5QzY1QTM1AjNxQmMlNzYwMDMlNTZyQWM1UTOwEjMwUTNwETN5AzMycTNxIDOwMTNjVjMwMzM0UDOyMzMyMzY1AjMkVzYwETNxITN0YDM0ITOwIGM3AjYzATMyAjYwcTMiBjNxcDMkBTOwEGMiBjYzcTMwEjZwATNwUjM1I2MzMjNxIGMwEzNxEDMhJDNykDMiBzNwEGNwETYwQGMiBDNxEDM2ETNwMGM3ETY0QWM5ATO0cTMwEjZwATNwUjM1IGNiRTZ1cTM0EDMxATMjBzLhlGZl12LpBXYv02bj5id0Vmchh2cm9yL6MHc0RHa/,0Xfi8CXt92YuYHdlJXYoNnZvw1LcpzcwRHdoJiOiIXZyVmZlJlIsIiNz4yNzUzLclmchZWYTBiVUBSMz4iNwYDNuAjL0kzLcVWbvJHaDBCMsYzLcJXZzd3byJEIn5Wdz1WYTBSKvt2YldEIltWasBCLM1EVItEKgYzMuczM18CX0l2SiV2VlxGcwFEIpAjL3AiblpXaUByO4VnbpxEI7YFVtQlUB10UoACMuUzLcFGbslmev1kI6ICduV2ZB1iclNXVisnOiMnclRWYlhmIsIydvxGbvZmI6ICdjVmcpRWZyJye?customName=Spirited+Away+-+H%E1%BB%8Dc+ngo%E1%BA%A1i+ng%E1%BB%AF+qua+phim+c%C3%B9ng+FshareTV_+Original+-+%2F2"
+                  "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://at.bigtimedelivery.net/_v13/3113ec917f23b79ff3f91f6c90deaf6289dd98a490d311ffbee99c6f2f26a5f6a44674a35641a0601efe545b1e2ca79e69cd9dbe523c79652cc30f3685ccb713571dd3863032b19051cf4c4819375dbd6230c05458fca24fbc80d50551cee1fcce0e2b94f26e47dddb19548ae8436e4815bae7ddd3dd0811f9e8ba14846e8190b483dfbe370982f8b68c9d764b1a7245/720/index.m3u8"
                }
             ]
          }
       },
       {
          "icon": "local-movies",
-         "label": "grave of the fireflies",
+         "label": "my neighbor totoro",
          "data": {
             "type": "list",
-            "headline": "grave of the fireflies",
+            "headline": "my neighbor totoro",
             "template": {
                "layout": "0,0,2,4",
                "color": "msx-glass",
@@ -40,17 +40,17 @@
                {
                   "label": "animated",
                   "playerLabel": "animated",
-                  "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://1.cidir33599.workers.dev/,QTN2UzM1QjM0IDNyQTMxEDZzIzMjJjNyQmM3ITNzUmMlFjMyM2M0EDNzMWMkVzM1ETMyUjNzYjMkVjMxgjMyIDMyUWMxMTYwMWNwMjYwEGMhJTNwMTM0MDNxQGM1MTN1IjM1IzLhlGZl12LpBXYv02bj5id0Vmchh2cm9yL6MHc0RHa/,0Xfi8CXt92YuYHdlJXYoNnZvw1LcpzcwRHdoJiOiIXZyVmZlJlIsIiNz4yNzUzLclmchZWYTBiVUBSMz4iNwYDNuAjL0kzLcVWbvJHaDBCMsYzLcJXZzd3byJEIn5Wdz1WYTBSKvt2YldEIltWasBCLM1EVItEKgYzMuczM18CX0l2SiV2VlxGcwFEIpAjL3AiblpXaUByO4VnbpxEI7YFVtQlUB10UoACMuUzLcFGbslmev1kI6ICduV2ZB1iclNXVisnOiMnclRWYlhmIsIydvxGbvZmI6ICdjVmcpRWZyJye?customName=Grave+of+the+Fireflies+-+H%E1%BB%8Dc+ngo%E1%BA%A1i+ng%E1%BB%AF+qua+phim+c%C3%B9ng+FshareTV_+Original+-+%2F2"
+                  "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://at.bigtimedelivery.net/_v13/46af3d9fdb54d4101f22be1f0de3c4c1d545f193764d1ae3e8fdf63d380e07985534da1cf268b87d80d351bbc0ac073a78c673085cabb74af8efbc9bbb47e76681ad3d9753f2c0e7a9d91dbb0303f01065bcdb9e55a0a319d8b7f470753eeb42ed897cc9a2d88b86b56752aec5596bdccd1275a4a18d8012b0ea5ef89e9cd01a754089b06ff6aacd83b23316d12c09b7/720/index.m3u8"
                }
             ]
          }
       },
       {
          "icon": "local-movies",
-         "label": "5 cm/s",
+         "label": "howl's moving castle",
          "data": {
             "type": "list",
-            "headline": "5 cm/s",
+            "headline": "howl's moving castle",
             "template": {
                "layout": "0,0,2,4",
                "color": "msx-glass",
@@ -60,7 +60,7 @@
                {
                   "label": "animated",
                   "playerLabel": "animated",
-                  "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://9d62.coxog83781.workers.dev/,ITN2UDN1MWNzUzY1UTN3UzM1QjM0IDNyYjMwUjM1AjMxUTZzgjMyUzYyM2MlJzNycTNyITM1ITN5IDNzkjMyMTZyQ2MwUTNykjMwIjZyQzMiJDMzQzMmJTN1QTN0IjNwczM1EzNycTMxMzMwgjM2EzMwYTM2MTOyITN2UTM1YTM1ATN1I2MzMzN1gDMmJDM1MTN5AjZyQGM3MDMzETMlJDNxIDM1IzMyITN1IDOwUzMyEjM1UmM2IzMzUjMlBjN1gDM3ITZxkjMyUDN1MWN2ETYwMWNlBjZwYTM3MTNzUDN2ADNykDMiBzNwI2MwEjMwIGM3EjYwYTM3ADZwkDMhBjYwI2MxUDMwEGMyEjYzQTN0UzN1cTM0ITOwIGM3ATY0ATMhBDZwIGM0ETMwYTM1AzYwcTMhRDZxkDM5QTM1ADMhBjMxIGNiRTZ1cTM0EDMxATMjBzLhlGZl12LpBXYv02bj5id0Vmchh2cm9yL6MHc0RHa/,0Xfi8CXt92YuYHdlJXYoNnZvw1LcpzcwRHdoJiOiIXZyVmZlJlIsIiNz4yNzUzLclmchZWYTBiVUBSMz4iNwYDNuAjL0kzLcVWbvJHaDBCMsYzLcJXZzd3byJEIn5Wdz1WYTBSKvt2YldEIltWasBCLM1EVItEKgYzMuczM18CX0l2SiV2VlxGcwFEIpAjL3AiblpXaUByO4VnbpxEI7YFVtQlUB10UoACMuUzLcFGbslmev1kI6ICduV2ZB1iclNXVisnOiMnclRWYlhmIsIydvxGbvZmI6ICdjVmcpRWZyJye?customName=5+Centimeters+Per+Second+-+5+cm+tr%C3%AAn+gi%C3%A2y+-+H%E1%BB%8Dc+ngo%E1%BA%A1i+ng%E1%BB%AF+qua+phim+c%C3%B9ng+FshareTV_+Original+-+%2F2"
+                  "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/25bec9482788189a8fca66811546aad105004e8c0638540f1ffcbbba1913ef18224a69f696084a24ca29bb2dfab3d077674978f0cf498cb43f1ac78f5152a06b9fe77e243b5a499af343e4a7e519d3a744c775615998bc6756c3865b4b54579a5726d970756f890a6e85c241780afa1b606dae6ceef7e099b19966af36c8a4b2e0c99a1db1300f4bd59e6387e175e2f1/720/index.m3u8"
                }
             ]
          }
