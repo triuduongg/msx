@@ -1,0 +1,149 @@
+{
+   "headline": "marvelcomics",
+   "menu": [
+      {
+         "type": "separator",
+         "label": "book"
+      },
+      {
+         "icon": "book",
+         "label": "spiderbot infinity comic #1",
+         "data": {
+            "type": "list",
+            "headline": "spiderbot infinity comic #1",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "image"
+            },
+            "items": [
+               {
+                  "label": "page 1-3",
+                  "playerLabel": "page 1-3",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api10.iloveimg.com/v1/download/vly34250xzgyc7fqrqs51cyhjx24769d2ybfb1d6n4qbArlAjn2vyAkwbh0xAgy03sm5st8s8A1qz9qpzf71t82rnyAy5g8As9f34j0s6kr4pcslfrk8srtpgv8stlAccr65551256gdthhv05c3mcmnzmbhpftd7jjgjqgghzAl3k910l8q"
+               },
+               {
+                  "label": "page 4-6",
+                  "playerLabel": "page 4-6",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api9.iloveimg.com/v1/download/bkghnp8vx6qb1947k3wlrd96Agg4sl2qssfpnyzA523ffl54A4zqlxgtw6nzt47lgmhpx35n78kgxrdthxkmfq0Aq75x63hlv7yh3tr9zkwvglkrgxv409t0ljjd745h8971tw59h8npmv10pvjkyqwbxvkqfznb5sdhdf60ps04A00y9c21"
+               },
+               {
+                  "label": "page 7-9",
+                  "playerLabel": "page 7-9",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api1.iloveimg.com/v1/download/cymzglrd7kpwr3w10z3m74323spr9fk73x11xv9q1ymj8hrqjys4pkzyc46xv3vvfm2lh27v30vftl9cnA25cl64rmm9vln4hx3d0tlf8jhryp94dAkj43Angjrjl4p0xrw5hwpq7qzdkrrfArvt8hdttzhrgkhsqjj3h3277bprcwqd35p1"
+               },
+               {
+                  "label": "page 10-12",
+                  "playerLabel": "page 10-12",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api9.iloveimg.com/v1/download/Akwsx9m899wjfmvw7bnj6sxkpmjmdx70lxknly4xcrx5czhwc4rhvd8lp0n30frjc9212qAk7bg9661qy0921xc4dblddv6A2jqsnbAnA975kA16jqsbp2y0sjd7dxnkd261j2xq36lxrA15tfh72Adh99h1ws7ht12hA5xsd3hjf77hlv81"
+               },
+               {
+                  "label": "page 13-15",
+                  "playerLabel": "page 13-15",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api11.iloveimg.com/v1/download/2txw1cbjc2s0qs1hg6tqtrxg2f2r5bkmlb7Aj7tgwjlk4hd1gbkx3dtkgtlgm1br38t12pxybk2rzfqmjg7j8pcql3py6pw3lywdy9Atsbnln4t90r4Aqlld9gf4t02sp1rbb46drd6bjyr5y745hmAz49m45jdn8lq7ypw3144c66rxwpnq"
+               },
+               {
+                  "label": "page 16-18",
+                  "playerLabel": "page 16-18",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api16.iloveimg.com/v1/download/x62p4z4c72Am456x6qvmq48ymy1zlA6s7zy9cmm1rdpk9fhghk8fffwgx7wf322tks4A628dzympbv9kq3Apfmdzg946b0vm3lr5tf5bj6cn2bfdpsf5yfgknd1yc59pqlg3A0lk1c5mngdh5fpvf1llwbj4bz5d4315yp5xksA61w4r6p1q"
+               },
+               {
+                  "label": "page 19-21",
+                  "playerLabel": "page 19-21",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api17.iloveimg.com/v1/download/0jknzqt0wdA85747yhw5sqmlz4594vs9cnzgwdz7681nj8qAzcnh5sxcq73lh22lj4qp9cxl61g1A24hrb7msqsfmzc86yxphgr95rbdwybgk5wl8lybd8t7mmx2dwtfr5kckl8qnb5w71k6plv8z2lvqkgtbfx5s6p5tA2h9z06lkycyAk1"
+               }
+            ]
+         }
+      },
+      {
+         "icon": "book",
+         "label": "iam groot infinity comic #4",
+         "data": {
+            "type": "list",
+            "headline": "iam groot infinity comic #4",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "image"
+            },
+            "items": [
+               {
+                  "label": "page 1-3",
+                  "playerLabel": "page 1-3",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api12.iloveimg.com/v1/download/pm6q2xg3bvtblhzx2lAqnlgrfxdq947dksd4h19b98ymlr7s2d2jnmc1hd9hywwgbtyd02klyt3rb0lcw9dxsg948Apbk207z6p366bh3tkr1dh0c8wh5nbj5htpygqcrsfx199jlccz7rh8rr3bfm8gblr9t2ps32dnhjdyAAvqwlg21nj1"
+               },
+               {
+                  "label": "page 4-6",
+                  "playerLabel": "page 4-6",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api5.iloveimg.com/v1/download/j14gvtn3f66fc3g4kwh7c97zm50xx3jxA1lzbnx0pr8hmfj9chh2yz9c0m84sm286v28gnjjmAcAy1bbdrp2m68lnt4A35c059yb72jpAb6zkA499A8674w1mzbfvmAnn487xbfchh60csfsf7Ak48q1gmw6wvnk9jhc470zwlqkrk0bj1j1"
+               },
+               {
+                  "label": "page 7-9",
+                  "playerLabel": "page 7-9",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api8.iloveimg.com/v1/download/8zp9dyrxf4g3t624z4z0nwcf807cxp8brjjbw0fmjgmxcrgjdbtrhj2snzbk69136zhw6z2p51b8ftgnhlqAnywwq91c7zpm539f3rtsx5pc75g9d4kt1hdh4Azll895ztqrqfh2zq12vAh62jr6v0v3ws7grxx852lnyxktd87l1257q731"
+               },
+               {
+                  "label": "page 10-11",
+                  "playerLabel": "page 10-11",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api13.iloveimg.com/v1/download/Arpytqr7bq307wqvg11dt43A6ycy8q56vsy150Awrh68lf12rzzA2hlhty2k341m144m3vb0jqmqdg6zx9nht6l4xs0mzhqftsphm9sbly5n1wl8r1wlbhlmjgkAnb25f25qn5cm5ph8wybf0yg0018Alchqfln2xnbb2z2z3483lfvznw1q"
+               }
+            ]
+         }
+      },
+      {
+         "icon": "book",
+         "label": "ultimate comics ironman #4",
+         "data": {
+            "type": "list",
+            "headline": "ultimate comics ironman #4",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "image"
+            },
+            "items": [
+               {
+                  "label": "page 1-3",
+                  "playerLabel": "page 1-3",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api16.iloveimg.com/v1/download/bcfjt7d4f7x1k0bbcAmt6yksq1fkAkr5cfkcs7j2xs7v8n0gnkhkcg2tn1fj6vqsbh80kqg5gwlb6rq3xs3xftxx5h1s0bk7x74mj9pm4ct4A19h4zc79d3th8wrrzg1vtrn44h2hrbx4nx27brb8vkdnfzx2lnrkAj1t2zks526jkzrgrs1"
+               },
+               {
+                  "label": "page 4-6",
+                  "playerLabel": "page 4-6",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api3.iloveimg.com/v1/download/sd9s70d5n6Aptp60pAs9qqrlpy3dmfftyAg8d96gckpxbrylg2Avr5r289kvpgh48bk4pcx1h6yg5dy15p1xA3rznpdvfpr6c6zptx6fb20gAc0m7lsx19dddj2x4s61p9z6q7dlg7tmnssmdfb8rt99fkq706rl05k9jpcj6nl8sAbnhct1"
+               },
+               {
+                  "label": "page 7-9",
+                  "playerLabel": "page 7-9",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api5.iloveimg.com/v1/download/c10x4zp4b7qf2jx61fcntfc5f4234fxhl1pcA43pfkb7zgmtj9w3dykwhhlvy356Acyw05nzc381nrgkxhnl9c48yf870Aht33904vps20stcdzwy1rAz6ysrjsl9xw9vvg737sp0yxlm8878cvsjgcjbj4xz03kjz66xf6txqfb7rw42tpq"
+               },
+               {
+                  "label": "page 10-12",
+                  "playerLabel": "page 10-12",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api10.iloveimg.com/v1/download/d6jycy9rqt63zrccd7b531nw7hc43lbbc8mkkq9w9mynsgg5hdArk9mpxrmd935fzflz03vfv4q1kc2lbsjypAzd8d8k1Av8s3p89t5y0wkc0vs4w2zkvnw667szvA57kjqh07y6qrvAw93dhm0bjvqrzdtf59g48jgnshjwdbxcjbb8prtq"
+               },
+               {
+                  "label": "page 13-15",
+                  "playerLabel": "page 13-15",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api1.iloveimg.com/v1/download/l0dhj83h0jjfnhsqsA32cgcc7b3h08f86rmq4b9twclb9bhfr766wjznf5f6zm6h9yAcywp8Ahq4tf53rAt185dy9cl7kyl7l72xvz5gyAxhhh6ln8f1whptc94113k4f5018m1pg6l8dywndn0zrvnwcc965v73qcA8qA7cq6vt2ph0lbr1"
+               },
+               {
+                  "label": "page 16-18",
+                  "playerLabel": "page 16-18",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api14.iloveimg.com/v1/download/2kz538gjgvcshd748nr149f0yfqzt2qjm6blgc97zncsx2lds6vhwpmrwn6q6hs2p955hz3qp0fr7h78g1pbpk0b29zx6zjsxj82h8h9kz6yflczz0jjm4yp0fzp44hn8hdsyb24nsmx78tdjl5A41ptrss8pAnsc8mky0kltkqnyn3fdAm1"
+               },
+               {
+                  "label": "page 19-21",
+                  "playerLabel": "page 19-21",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api6.iloveimg.com/v1/download/w6scmd85s6yh4g7b70cAplq8jcAcnjp5pfyAAd0l8k3ch26s2gxv2ydgtwm1kjmwf14qrg6mdx13867jznvt9d7v0y4k8jnsf32jdmskj2Ahn8wArlszf2hfs1b68cj1rg6hfcgwdw8p2rm7Ash4sydsrs5Abq0zvlx0Anwsg6vtq8fmr1m1"
+               },
+               {
+                  "label": "page 22-23",
+                  "playerLabel": "page 22-23",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://api2.iloveimg.com/v1/download/21c5gt6n1bjc8cdsm0446wym96wsjA6lltn6nAhlj7qgq45cz831tA21xg5sngq0bch8trnAp35xt53q3zd0qbqAA2jxbhdA539k9g5hmyp1nbhA93Ajp7yyy98t3h2sxm7fb38rcp4yfb6fAg64yl464j1vy1rphbdd52lk8hkhtnrAcwbq"
+               }
+            ]
+         }
+      }
+   ]
+}
