@@ -72,36 +72,6 @@
       },
       {
          "icon": "local-movies",
-         "label": "the lion king",
-         "data": {
-            "type": "list",
-            "headline": "the lion king",
-            "template": {
-               "layout": "0,0,2,4",
-               "color": "msx-glass",
-               "icon": "movie"
-            },
-            "items": [
-               {
-                  "label": "animated 1",
-                  "playerLabel": "animated 1",
-                  "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ao.bigtimedelivery.net/_v13/948bcc18f94b7d52ac800b18438f644bec693af4d617b07087cccd03b2dd5277f2af35cc2037f94584891d2656d67adf7bcedd30d164e7a359309eb0c5370ab3acc5162c19492d9f5db0f2599086cbdda49762bfb28906fc8a9a4966ebce24b0594152605802b582c9880ac8f0990bea85f17e055a9d240682a1208676b3d33c57e21527da84d8a580d886f7659cbc50/720/index.m3u8"
-               },
-               {
-                  "label": "animated 2",
-                  "playerLabel": "animated 2",
-                  "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/5cd37ebabb77e56dd3393cb7ed31a32213f315de6eb88b109a1b6a217dc0a9e622476dd374f547c801b68dfcb45d5ea0b544e252405cc6fe5a796d84a6f8f32e1dda04eb3fbf50cc38dbf541d7a5e4268a9fa4c034838ca96119f7da77a144da8efb8cdbb566e8c3c197e2c13371976127368f5c199a050c3f47a2d54c14b130a9258fe2477223ecdf3ad4bb929aa642/720/index.m3u8"
-               },
-               {
-                  "label": "live action",
-                  "playerLabel": "live action",
-                  "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ao.bigtimedelivery.net/_v13/27d0c2ac84725adb35cf49e14cc6e1473188fe177425070dec41fd4d3e8d1fb67166dd015a7a12f8de2b45205c57ac210e7a87e6a9dd14bf212cc336110b4de04d45b6f2fc119894c871c97c8f31308f6e118943806d7fa88e9114da7a3906236561b97068651b8a38b47063b8f195d3546fedc9c4b93d10c09281a192183b9736e72b8456feb78f3592224bf8261b2f/720/index.m3u8"
-               }
-            ]
-         }
-      },
-      {
-         "icon": "local-movies",
          "label": "big hero 6",
          "data": {
             "type": "list",
