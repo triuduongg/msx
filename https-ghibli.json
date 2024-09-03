@@ -1,0 +1,69 @@
+{
+   "headline": "ghibli",
+   "menu": [
+      {
+         "type": "separator",
+         "label": "movie"
+      },
+      {
+         "icon": "local-movies",
+         "label": "spirited away",
+         "data": {
+            "type": "list",
+            "headline": "spirited away",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "movie"
+            },
+            "items": [
+               {
+                  "label": "animated",
+                  "playerLabel": "animated",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://9d62.coxog83781.workers.dev/kVjN1QWN1UTM1YTNjVTM1MTN1UDNyQjM0IjNzYmM2IDZyEjM3IjNyczMzMDOykjMjNzN1EjMxUjM1YTNzMzM1czMkNzM1YzMzUDZyYmMwUzM1QzMxITOyATN1UDN1QjM4IDZwITNzUTNxcTNhBTNzImMjFDM1UzMxEzNwMmMyIDZyQTMzIjMzMTMwMjM1YzMkFjMxYmM5QzY1QTM1AjNxQmMlNzYwMDMlNTZyQWM1UTOwEjMwUTNwETN5AzMycTNxIDOwMTNjVjMwMzM0UDOyMzMyMzY1AjMkVzYwETNxITN0YDM0ITOwIGM3AjYzATMyAjYwcTMiBjNxcDMkBTOwEGMiBjYzcTMwEjZwATNwUjM1I2MzMjNxIGMwEzNxEDMhJDNykDMiBzNwEGNwETYwQGMiBDNxEDM2ETNwMGM3ETY0QWM5ATO0cTMwEjZwATNwUjM1IGNiRTZ1cTM0EDMxATMjBzLhlGZl12LpBXYv02bj5id0Vmchh2cm9yL6MHc0RHa/,0Xfi8CXt92YuYHdlJXYoNnZvw1LcpzcwRHdoJiOiIXZyVmZlJlIsIiNz4yNzUzLclmchZWYTBiVUBSMz4iNwYDNuAjL0kzLcVWbvJHaDBCMsYzLcJXZzd3byJEIn5Wdz1WYTBSKvt2YldEIltWasBCLM1EVItEKgYzMuczM18CX0l2SiV2VlxGcwFEIpAjL3AiblpXaUByO4VnbpxEI7YFVtQlUB10UoACMuUzLcFGbslmev1kI6ICduV2ZB1iclNXVisnOiMnclRWYlhmIsIydvxGbvZmI6ICdjVmcpRWZyJye?customName=Spirited+Away+-+H%E1%BB%8Dc+ngo%E1%BA%A1i+ng%E1%BB%AF+qua+phim+c%C3%B9ng+FshareTV_+Original+-+%2F2"
+               }
+            ]
+         }
+      },
+      {
+         "icon": "local-movies",
+         "label": "grave of the fireflies",
+         "data": {
+            "type": "list",
+            "headline": "grave of the fireflies",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "movie"
+            },
+            "items": [
+               {
+                  "label": "animated",
+                  "playerLabel": "animated",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://1.cidir33599.workers.dev/,QTN2UzM1QjM0IDNyQTMxEDZzIzMjJjNyQmM3ITNzUmMlFjMyM2M0EDNzMWMkVzM1ETMyUjNzYjMkVjMxgjMyIDMyUWMxMTYwMWNwMjYwEGMhJTNwMTM0MDNxQGM1MTN1IjM1IzLhlGZl12LpBXYv02bj5id0Vmchh2cm9yL6MHc0RHa/,0Xfi8CXt92YuYHdlJXYoNnZvw1LcpzcwRHdoJiOiIXZyVmZlJlIsIiNz4yNzUzLclmchZWYTBiVUBSMz4iNwYDNuAjL0kzLcVWbvJHaDBCMsYzLcJXZzd3byJEIn5Wdz1WYTBSKvt2YldEIltWasBCLM1EVItEKgYzMuczM18CX0l2SiV2VlxGcwFEIpAjL3AiblpXaUByO4VnbpxEI7YFVtQlUB10UoACMuUzLcFGbslmev1kI6ICduV2ZB1iclNXVisnOiMnclRWYlhmIsIydvxGbvZmI6ICdjVmcpRWZyJye?customName=Grave+of+the+Fireflies+-+H%E1%BB%8Dc+ngo%E1%BA%A1i+ng%E1%BB%AF+qua+phim+c%C3%B9ng+FshareTV_+Original+-+%2F2"
+               }
+            ]
+         }
+      },
+      {
+         "icon": "local-movies",
+         "label": "5 cm/s",
+         "data": {
+            "type": "list",
+            "headline": "5 cm/s",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "movie"
+            },
+            "items": [
+               {
+                  "label": "animated",
+                  "playerLabel": "animated",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://9d62.coxog83781.workers.dev/,ITN2UDN1MWNzUzY1UTN3UzM1QjM0IDNyYjMwUjM1AjMxUTZzgjMyUzYyM2MlJzNycTNyITM1ITN5IDNzkjMyMTZyQ2MwUTNykjMwIjZyQzMiJDMzQzMmJTN1QTN0IjNwczM1EzNycTMxMzMwgjM2EzMwYTM2MTOyITN2UTM1YTM1ATN1I2MzMzN1gDMmJDM1MTN5AjZyQGM3MDMzETMlJDNxIDM1IzMyITN1IDOwUzMyEjM1UmM2IzMzUjMlBjN1gDM3ITZxkjMyUDN1MWN2ETYwMWNlBjZwYTM3MTNzUDN2ADNykDMiBzNwI2MwEjMwIGM3EjYwYTM3ADZwkDMhBjYwI2MxUDMwEGMyEjYzQTN0UzN1cTM0ITOwIGM3ATY0ATMhBDZwIGM0ETMwYTM1AzYwcTMhRDZxkDM5QTM1ADMhBjMxIGNiRTZ1cTM0EDMxATMjBzLhlGZl12LpBXYv02bj5id0Vmchh2cm9yL6MHc0RHa/,0Xfi8CXt92YuYHdlJXYoNnZvw1LcpzcwRHdoJiOiIXZyVmZlJlIsIiNz4yNzUzLclmchZWYTBiVUBSMz4iNwYDNuAjL0kzLcVWbvJHaDBCMsYzLcJXZzd3byJEIn5Wdz1WYTBSKvt2YldEIltWasBCLM1EVItEKgYzMuczM18CX0l2SiV2VlxGcwFEIpAjL3AiblpXaUByO4VnbpxEI7YFVtQlUB10UoACMuUzLcFGbslmev1kI6ICduV2ZB1iclNXVisnOiMnclRWYlhmIsIydvxGbvZmI6ICdjVmcpRWZyJye?customName=5+Centimeters+Per+Second+-+5+cm+tr%C3%AAn+gi%C3%A2y+-+H%E1%BB%8Dc+ngo%E1%BA%A1i+ng%E1%BB%AF+qua+phim+c%C3%B9ng+FshareTV_+Original+-+%2F2"
+               }
+            ]
+         }
+      }
+   ]
+}
