@@ -9,8 +9,8 @@
                 "icon": "photo-library",
                 "color": "msx-glass",
                 "layout": "0,0,2,2",
-                "label": "0,1",
-                "action": ""
+                "label": "marvelcomics",
+                "action": "menu:http://triuduongg.github.io/msx/https-marvelcomics.json"
              },
              {
                 "icon": "photo-library",
