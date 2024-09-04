@@ -1,0 +1,74 @@
+{
+   "headline": "maroon5",
+   "menu": [
+      {
+         "type": "separator",
+         "label": "album"
+      },
+      {
+         "icon": "album",
+         "label": "v",
+         "data": {
+            "type": "list",
+            "headline": "v",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "music-note"
+            },
+            "items": [
+               {
+                  "label": "animals",
+                  "playerLabel": "animals",
+                  "action": "audio:plugin:http://msx.benzac.de/plugins/youtube.html?id=qpgTC9MDx1o"
+               },
+               {
+                  "label": "sugar",
+                  "playerLabel": "sugar",
+                  "action": "audio:plugin:http://msx.benzac.de/plugins/youtube.html?id=09R8_2nJtjg"
+               }
+            ]
+         }
+      },
+      {
+         "icon": "album",
+         "label": "overexposed",
+         "data": {
+            "type": "list",
+            "headline": "overexposed",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "music-note"
+            },
+            "items": [
+               {
+                  "label": "payphone",
+                  "playerLabel": "payphone",
+                  "action": "audio:plugin:http://msx.benzac.de/plugins/youtube.html?id=KRaWnd3LJfs"
+               }
+            ]
+         }
+      },
+      {
+       "icon": "album",
+       "label": "jordi",
+       "data": {
+          "type": "list",
+          "headline": "jordi",
+          "template": {
+             "layout": "0,0,2,4",
+             "color": "msx-glass",
+             "icon": "music-note"
+          },
+          "items": [
+             {
+                "label": "memories",
+                "playerLabel": "memories",
+                "action": "audio:plugin:http://msx.benzac.de/plugins/youtube.html?id=SlPhMPnQ58k"
+             }
+          ]
+       }
+       }
+   ]
+}
