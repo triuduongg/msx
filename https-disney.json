@@ -83,8 +83,8 @@
             },
             "items": [
                {
-                  "label": "3d",
-                  "playerLabel": "3d",
+                  "label": "animated",
+                  "playerLabel": "animated",
                   "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ao.bigtimedelivery.net/_v13/47d65286c66de1b3cf4e7519bbaff3edfea995abc4f13ff4ea04790e9fb41bd2fb057e6fc93671d0c2ab3316c70216913dcbaabd8d9a0e9e25a5e8d9214700eee77c2c68ef9f06507f2b4f49a0dd851971c73b2ada01f3f968f4212c0b9a1291c00ecd22744cec09b8fb785c55e4a71d9a1ed0d50a19cf7a37dac8060a071a2a32fdbc8ccdc7f881df98104190cc9499/720/index.m3u8"
                }
             ]
