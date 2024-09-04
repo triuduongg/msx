@@ -10,14 +10,14 @@
                "color": "msx-glass",
                "layout": "0,0,2,2",
                "label": "marvelcomics",
-               "action": "menu:http://triuduongg.github.io/msx/https-marvelcomics.json"
+               "action": "menu:http://triuduongg.github.io/msx/https-marvel.json"
             },
             {
                "icon": "photo-library",
                "color": "msx-glass",
                "layout": "0,2,2,2",
                "label": "imagecomics",
-               "action": "menu:http://triuduongg.github.io/msx/https-imagecomics.json"
+               "action": "menu:http://triuduongg.github.io/msx/https-image.json"
             },
             {
                "icon": "library-music",
