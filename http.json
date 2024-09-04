@@ -215,8 +215,8 @@
                "icon": "video-library",
                "color": "msx-glass",
                "layout": "4,0,2,2",
-               "label": "draft",
-               "action": ""
+               "label": "20thcenturyfox",
+               "action": "menu:http://triuduongg.github.io/msx/http-20thcenturyfox.json"
             },
             {
                "icon": "video-library",
