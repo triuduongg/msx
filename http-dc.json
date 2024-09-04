@@ -1,0 +1,224 @@
+{
+   "headline": "dc",
+   "menu": [
+      {
+         "type": "separator",
+         "label": "book"
+      },
+      {
+         "icon": "book",
+         "label": "justice league task force #0",
+         "data": {
+            "type": "list",
+            "headline": "justice league task force #0",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "image"
+            },
+            "items": [
+               {
+                  "label": "page 1",
+                  "playerLabel": "page 1",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/uEUI1hdn-_XAuVqBPfrHNhH0yjSATu5pYK1UeZ_ELXQzPgBkFVv1E8GUt3N8QN5LCAON36JeT7mA=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 2",
+                  "playerLabel": "page 2",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/7ZY3DEnDUXn7ibAcY_CDVPggLY-o7rMcFXXWxsgNh8vcMhBt1K9C6VBumsttmrE8-44T1WhISgbD=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 3",
+                  "playerLabel": "page 3",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/iPsgix-ySKZxjxmNd4lq-_OlrAqXWibEssvPa21Mlur2iZVoziMJQg6BgYt88pPl7X88uRyKI1T1=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 4",
+                  "playerLabel": "page 4",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/BtxDKoZEaO_urzlx9Qe83C1v3qGIxEfhuNMs9qmV86RJAMLURr0NiWz7zeSUPAPpApdAit6RQEEV=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 5",
+                  "playerLabel": "page 5",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/jq0bVg7ltrWp0_GkWjo4foWkaokhvsdcxRFzJEuYDBDQ7mxI3tSnZX3zDhN5IeISEfkY1fmJ6Pc-=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 6",
+                  "playerLabel": "page 6",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/j3EhmRkbguxWGT8XBfzMW0zls2rx6lLhUaV3OIfcxWRHGtYbjLXHDxs6hiXxbaCbISbe7sOK9rxv=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 7",
+                  "playerLabel": "page 7",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/RipHYTWxSzz-KPoM1E7HIxlPlaqtZZiVCX4-4TBhAfrcESTCUD7zni2u_akHfW9PZWZNPIE54lsh=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 8",
+                  "playerLabel": "page 8",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/RZedMG-mxRkeWgEfVGlMo4z9rL4HpHK4Wqel72sZt2RfTfWPvUcCWNZ6X6nL73L6zsU7k6ieQ5NP=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 9",
+                  "playerLabel": "page 9",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/V2IIMk82MG7HCvHa-6cyiUwzyaIzy-XwFntjCztXGFmO6SSQSNv2iyCDjgkadgCParbjpeVSBcJp=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 10",
+                  "playerLabel": "page 10",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/c_9ng6vL5pC1xA3V5WC3P_nifH7jXCPTfBU0OpZAHB5CgCswX2bdI8erDaBjOnk7rYKm19N_MJsj=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 11",
+                  "playerLabel": "page 11",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/gCg9OBbh-74MiC97u92dmK6nWPeJ06NEaa_Vt13Cjuw0WvCJRrlhl3tpEtdPw2_P-ciMJ3WQwUYR=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 12",
+                  "playerLabel": "page 12",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/WHFyC9LpLLgTAVit14elpOVzzfW4-tuSQ0I02QOd5kbxdeqfyXcN5m0drTn7XYus5550udE7iXAn=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 13",
+                  "playerLabel": "page 13",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/zro0oQSKz-theF3Pen6xYRhMsDR0iK_jk5JpXaS7OzKeUbY_97_L61tYIEfQe4kIYVx-hvJspIBR=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 14",
+                  "playerLabel": "page 14",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/_w7DQxgsUFfa1_aBHynGqF1ShKI7E1azU1v7IKf98bmc0F0mKlYaIfRS2Q5wN0TDq8rEDEvYI3L1=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 15",
+                  "playerLabel": "page 15",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/wBT5cE2W6YbIRDj7mwcgI4ZOBjP28Fbym2HGMBKvFQh2ZqesJu9owAtIRwj4ZuTeg_bdnh8OcsQb=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 16",
+                  "playerLabel": "page 16",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/20CRFA4oXZka22Qvr6UEjXjjMcE8MwbOlbmBEc_8sVDyWRKIAEUzvxRCDak1GXrRdIOJbIoW0Elz=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 17",
+                  "playerLabel": "page 17",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/xsMbeZMoPpeKIoQfARhOqrtVtbwqzYEyeEi0HyPuihsmWIPVOKRKis60CAq4zpPzjU0dZNsDFXSI=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 18",
+                  "playerLabel": "page 18",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/noj3kEKUpplWVtmirTDnSk9N8CmsKlsbicIY8tGBKT0llWkJ-O5nZpg1a6yBRe6Vz4RvFlTj4yOZ=s0?rhlupa=MTA0LjIzOS44Ni4xNzI=&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               }
+            ]
+         }
+      },
+      {
+         "icon": "book",
+         "label": "justice league task force #6",
+         "data": {
+            "type": "list",
+            "headline": "justice league task force #6",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "image"
+            },
+            "items": [
+               {
+                  "label": "page 1",
+                  "playerLabel": "page 1",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/M6l5tgqXcAS32gF8YX-k0o0kG1eVf0eJBK5X6fDpdSDYKt38FL7spEpZfxzkIACrFHkShTeSaMpIaQ=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 2",
+                  "playerLabel": "page 2",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/Jildd1pyuCT1QDNp6yOWcF953au-NmikHWxciNEtDrB9kwWIbcYtCSTfnTUOb7ukeXZZLMTxivdGbg=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 3",
+                  "playerLabel": "page 3",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/CWVBaXXFC8DH3-c1xsljJVX8Psax0JIF7FMowLVw4HVH6OaLD1B_suvYZEJIduFC5f8NNZbj-7QQaQ=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 4",
+                  "playerLabel": "page 4",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/wvojDGHpuHKa1KjGlJlCw7pwcqiRWB1vKoVbwfDSfPMJbHjtH9bm7tb6ledYIebIphMsS2kPbf5Q4A=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 5",
+                  "playerLabel": "page 5",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/Dqz438J3EZzNJSMiUCVokMXP2sdClIAXJ6FcMU-xnsetSPJVnR4RsAiIK7QKSM9NVJ_owuPnKIJ_BA=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 6",
+                  "playerLabel": "page 6",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/BCE2kQL34zG2j_DB-dIWw-oa_Gx6AVJWaaKyq-bcCNmN9ilZy1CXUP4u3UGv7UY1DGznXW6WiVUIMg=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 7",
+                  "playerLabel": "page 7",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/WNDXX7rSLBqC7gURWFUarDKly92hDsCsvLZS6OrFMmo93iny4eZj3FAgzB6F2pFX94trN5Y0TclpyA=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 8",
+                  "playerLabel": "page 8",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/d4m8OD1ZjAmlOj9BaePw0d6QpcNnuFDGDtKvo3z9v9qtyOvAnqe-ZDczPxDfb90eklu7kAWxvdqDZA=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 9",
+                  "playerLabel": "page 9",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/15niFdqDcmgNU9JibHfPpurStuCmSu9dRQLRgALTtVvNNGwoNz7rK18Zf6dwvF_6jyeD9_brM1Z77A=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 10",
+                  "playerLabel": "page 10",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/i2-qz84JpSHbJiIVmLkvVHsdPhw9pxvVLwsXkM_8pNKrJS0TJcexvUSkVCmmNO6Pc41WTrP0IirJhA=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 11",
+                  "playerLabel": "page 11",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/jguiqDPlSDJ7lgv6zQNV_iVfXbe2e6L5e_ixUOs9PshVy9V9XNJw3Zp2QT5oGBjeFv9zvb_v1THsfA=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 12",
+                  "playerLabel": "page 12",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/w2CECqTo8G9st4Df4xl7JB4jTSg8xKRLGpxEiwdDdtcE2c69Ppmk5Mz1DdfEF5I2WFfwjKne9ofL2Q=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 13",
+                  "playerLabel": "page 13",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/btFzeCc_wmt4K8XFZqQlVqgWqWU7_-711UdqtP3owmbiy0DnKXSwww4AN0Pd5eOluItXP-bJ2qPRfg=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 14",
+                  "playerLabel": "page 14",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/tAddAyBgtoa9QEtcolIyLtRZy632IlBEF0dChS3C41zqP_4YxMyUxlSNw5o3IY71KohikpVK1yTdpA=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 15",
+                  "playerLabel": "page 15",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/op_Qy_by-MUAJhYtlGA0II_Lu8aJdYSbJev6FycQRU5ZBT7RAJYrFy1fCn4_Xm3Y-Dc51neOk4aw9w=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 16",
+                  "playerLabel": "page 16",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/4YtuOce-ytz5qayy1I1FlQqhcv_uBtHeCb9myX-7_RTNZq9MuAmcG2OBi5EQbFfCEuXZHyVH-RTc6g=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 17",
+                  "playerLabel": "page 17",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/eQdWkn7PHtJtVxweP-Nze11Z7uF8koAku_KVeF8poAZ7O37zSm80sAD74jHpqZZeROAfeXJixf4XGA=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 18",
+                  "playerLabel": "page 18",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/UB81v_za2kt3TbPgeVV04npkKSq-wCDjeFUzSwZyhz2918828vU8G-u1jsOHIcMkP6vJ-k10Fxwk8A=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               },
+               {
+                  "label": "page 19",
+                  "playerLabel": "page 19",
+                  "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://batcave.biz/-UsQJb_hvf5RSjaJYnGqfVFeUCmQU1fug3LAV9jD0StVZMtNrXdp4blYV3hwCDfEiOJQ1ECPIbGtpg=s0?rhlupa=MjA5LjI0Mi4yMDEuMTA2&rnvuka=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExNy4wLjAuMCBTYWZhcmkvNTM3LjM2"
+               }
+            ]
+         }
+      }
+   ]
+}
