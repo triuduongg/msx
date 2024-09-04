@@ -98,11 +98,6 @@
              },
              "items": [
                 {
-                   "label": "enemy",
-                   "playerLabel": "enemy",
-                   "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=D9G1VOjN_84"
-                },
-                {
                    "label": "bones",
                    "playerLabel": "bones",
                    "action": "audio:plugin:https://msx.benzac.de/plugins/youtube.html?id=TO-_3tck2tg"
