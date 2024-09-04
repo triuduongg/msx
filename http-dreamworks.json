@@ -18,23 +18,23 @@
             },
             "items": [
                {
-                  "label": "3d 1",
-                  "playerLabel": "3d 1",
+                  "label": "animated 1",
+                  "playerLabel": "animated 1",
                   "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ak.bigtimedelivery.net/_v13/582795244dedd66b58c16e21711a29d3205517f46b9bcf9ec0f0934aba7827ab01510ba79dc93007da3819a8717307396cde71e366269807668daa34a226923d556264db2a7d677c26638e6e75f006e87f8bfc197769f4586e129dc795a4fdb21b274d71e508d830e87beddf135e78d986e710d49b10b033566669102773805b0756893393864866e80b152898c2c919/720/index.m3u8"
                },
                {
-                  "label": "3d 2",
-                  "playerLabel": "3d 2",
+                  "label": "animated 2",
+                  "playerLabel": "animated 2",
                   "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://al.bigtimedelivery.net/_v13/4d637d69232305c583f664df034fb52775bdc7a566082def1334d6aa884d2e3073b648667d3b81fae2fda7fbbe4941ac8fb9dcc925539060f6b497dc4a708293009b6270d8bf3c5a23787c65abb6f835094b528e0de229134105a793d86433fccac225dcd0abe92035386bd6206f670aa5ca268073fb3476d6a55878a164e43d8ceb4d19593b590ca1efd1cea65fd84d/720/index.m3u8"
                },
                {
-                  "label": "3d 3",
-                  "playerLabel": "3d 3",
+                  "label": "animated 3",
+                  "playerLabel": "animated 3",
                   "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://as.bigtimedelivery.net/_v13/e4ded6fdd5aa8971b3c016fef6a6a084660ec1491276d9961e0e7a2be0024227414d3ea23875e6f4661df7054cbe53716a8073e58a383de7e06a2521ce7ed585a6c60a72ec07c6eebd3e785824dee54364dbd6a4e8b9423abf3b74c3c52588f7fc7be13269944f7eff81c3c9b77f85fe673a68dfcf80cd6704177609253d1ffc4009c32ea81c75f720b46c3fb9a8a34f/720/index.m3u8"
                },
                {
-                  "label": "3d 4",
-                  "playerLabel": "3d 4",
+                  "label": "animated 4",
+                  "playerLabel": "animated 4",
                   "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://aq.bigtimedelivery.net/_v13/c41c216d3db48c026987456278f3ac2528a9ab0814eb2c9212b508f9b2f441e7299cf9eb3dd2919a287c6d3c6c496a5326dfdb2b4939a0ff05b757bb8655d71fed833e5a56ca0b2953f34023c13b4ee60b7f38edef1bf580abb972386fc3c46ffc6831257b943c785d5d1e649a966a5bf2f51487040eba6d2680180f300ed07ba9fadbdb979e66ce530724062ed46b54/720/index.m3u8"
                }
             ]
@@ -53,18 +53,18 @@
             },
             "items": [
                {
-                  "label": "3d 1",
-                  "playerLabel": "3d 1",
+                  "label": "animated 1",
+                  "playerLabel": "animated 1",
                   "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://at.bigtimedelivery.net/_v13/2e67fedd769f958d047141d718e1a8ee78a01d2a5ad04e6c578aba304c1729ae5839a87433d38dc600ce6a7b54a06763a0c2a027fa8bcc01032c175f8a2025a4a8870bc20621c9da44c71e71e0660028569ea370e3d199588ef8bce2e24baed400ec6e88d26c897d68303cc1d6d26ca0977e0096fcc0ebcc4ba29c1ba5d570f6613fbb0a4430a15f3460e09e5a026d45/720/index.m3u8"
                },
                {
-                  "label": "3d 2",
-                  "playerLabel": "3d 2",
+                  "label": "animated 2",
+                  "playerLabel": "animated 2",
                   "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://aq.bigtimedelivery.net/_v13/daf134207b837195cc9c81f0255df7186c997143ecfcfd6bf914c6fcc963182cb0bbdb29e53381a015c3c7d3825ebf34b71a1e05b835eb9cae8a530b00cd18b94ef0fdf951db6e7c4c8be99aff4fc606373253a4084ab6a3aa7eb85191ef62ed28cbdf4ae7e0ee8b4f99493c041029fa5b9d0835a9945def3a22e6bad271f42ec726fa249630e4eb0be2503b210f0753/720/index.m3u8"
                },
                {
-                  "label": "3d 3",
-                  "playerLabel": "3d 3",
+                  "label": "animated 3",
+                  "playerLabel": "animated 3",
                   "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://as.bigtimedelivery.net/_v13/6e9ecf6537c7b621d4e2dc8c8b3fcb3609ccdbd2f273faf2adac085805c1211403eba8163e2fd6c3da8e8f14afec10b67a644b54cbd1d1092388350c3b47343a2d25d075b7eff8d4c73c317789462a1d466512fb5130a77c48e241e477fb9ebd5d26a694d585029ff09868fba592abdc7fd4d39d47fb0e1d945f85c127fadc805e5b7a5eab1c01d93d0ccecdaf7755e1/720/index.m3u8"
                }
             ]
