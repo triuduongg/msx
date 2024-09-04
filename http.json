@@ -112,8 +112,8 @@
                "icon": "library-music",
                "color": "msx-glass",
                "layout": "2,0,2,2",
-               "label": "0,1",
-               "action": ""
+               "label": "maroon5",
+               "action": "menu:http://triuduongg.github.io/msx/http-maroon5.json"
             },
             {
                "icon": "library-music",
