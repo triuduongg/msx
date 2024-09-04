@@ -30,7 +30,7 @@
                {
                   "label": "movie 3",
                   "playerLabel": "movie 3",
-                  "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://ao.bigtimedelivery.net/_v13/4e53fff3333eb302078dac3cde5f5d24d945b2f5601e4ffcd134ac11a367f7800932cf93a509bafcae058b26f46c405f850af3df2c213f185c73fd2e6b448a7763a7b89da6e6e3c9899856564b6dd979c8f6d4e314eaca0f1601f8d1cc49cc9fc89be72e5bafc96e382250928cb3c5ffac2021a252702b90a71380756379be4be402ce8d77a8c3e5cd05a6eca5138195/720/index.m3u8"
+                  "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ao.bigtimedelivery.net/_v13/4e53fff3333eb302078dac3cde5f5d24d945b2f5601e4ffcd134ac11a367f7800932cf93a509bafcae058b26f46c405f850af3df2c213f185c73fd2e6b448a7763a7b89da6e6e3c9899856564b6dd979c8f6d4e314eaca0f1601f8d1cc49cc9fc89be72e5bafc96e382250928cb3c5ffac2021a252702b90a71380756379be4be402ce8d77a8c3e5cd05a6eca5138195/720/index.m3u8"
                },
                {
                   "label": "movie 4",
