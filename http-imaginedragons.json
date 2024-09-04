@@ -85,31 +85,6 @@
            ]
         }
         },
-       {
-        "icon": "album",
-        "label": "mercury act 1",
-        "data": {
-           "type": "list",
-           "headline": "mercury act 1",
-           "template": {
-              "layout": "0,0,2,4",
-              "color": "msx-glass",
-              "icon": "music-note"
-           },
-           "items": [
-              {
-                 "label": "follow you",
-                 "playerLabel": "follow you",
-                 "action": "audio:plugin:http://msx.benzac.de/plugins/youtube.html?id=k3zimSRKqNw"
-              },
-              {
-                 "label": "wrecked",
-                 "playerLabel": "wrecked",
-                 "action": "audio:plugin:http://msx.benzac.de/plugins/youtube.html?id=Y2NkuFIlLEo"
-              }
-           ]
-        }
-        },
         {
           "icon": "album",
           "label": "mercury act 2",
