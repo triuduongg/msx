@@ -80,14 +80,14 @@
                "color": "msx-glass",
                "layout": "10,0,2,2",
                "label": "launcher",
-               "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction"
+               "action": "menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
             },
             {
                "icon": "extension",
                "color": "msx-glass",
                "layout": "10,2,2,2",
                "label": "googledrive",
-               "action": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction"
+               "action": "menu:request:interaction:init@https://gd.msx.benzac.de/interaction"
             }
          ]
       },
@@ -169,14 +169,14 @@
                "color": "msx-glass",
                "layout": "10,0,2,2",
                "label": "onedrive",
-               "action": "menu:request:interaction:init@http://od.msx.benzac.de/interaction"
+               "action": "menu:request:interaction:init@https://od.msx.benzac.de/interaction"
             },
             {
                "icon": "extension",
                "color": "msx-glass",
                "layout": "10,2,2,2",
                "label": "dropbox",
-               "action": "menu:request:interaction:init@http://db.msx.benzac.de/interaction"
+               "action": "menu:request:interaction:init@https://db.msx.benzac.de/interaction"
             }
          ]
       },
@@ -258,14 +258,14 @@
                "color": "msx-glass",
                "layout": "10,0,2,2",
                "label": "nodejs",
-               "action": "menu:request:interaction:init@http://nb.msx.benzac.de/interaction"
+               "action": "menu:request:interaction:init@https://nb.msx.benzac.de/interaction"
             },
             {
                "icon": "extension",
                "color": "msx-glass",
                "layout": "10,2,2,2",
                "label": "soundcloud",
-               "action": "menu:http://sc.msx.benzac.de/msx/service.php"
+               "action": "menu:https://sc.msx.benzac.de/msx/service.php"
             }
          ]
       },
@@ -340,14 +340,14 @@
                "color": "msx-glass",
                "layout": "10,0,2,2",
                "label": "tmdb",
-               "action": "menu:http://tmdb.msx.benzac.de/msx/service.php"
+               "action": "menu:https://tmdb.msx.benzac.de/msx/service.php"
             },
             {
                "icon": "extension",
                "color": "msx-glass",
                "layout": "10,2,2,2",
                "label": "euronews",
-               "action": "menu:http://en.msx.benzac.de/msx/service.php"
+               "action": "menu:https://en.msx.benzac.de/msx/service.php"
             }
          ]
       }
