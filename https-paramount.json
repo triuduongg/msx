@@ -1,0 +1,79 @@
+{
+   "headline": "paramount",
+   "menu": [
+      {
+         "type": "separator",
+         "label": "movie"
+      },
+      {
+         "icon": "local-movies",
+         "label": "the godfather",
+         "data": {
+            "type": "list",
+            "headline": "the godfather",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "movie"
+            },
+            "items": [
+               {
+                  "label": "movie 1",
+                  "playerLabel": "movie 1",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://at.bigtimedelivery.net/_v13/179d380d96d40b6ab9edfc117b1ca6f6ee4b829541ad36949d1fe65686add06b03775bc8c8c5b244bf109452e7b7f302c21e6dc1ca76475249192371823855873268709bb4580399965f6e1e41c9b959792d60dd7988a7e7947e8586f9ffac8bbe77914f37d4dbdbc18ccdeaf2b3bccc8a247b1ce278f7b6290dced76b2adc65daaf85c1e5b22262f15abea54f6f3242/720/index.m3u8"
+               },
+               {
+                  "label": "movie 2",
+                  "playerLabel": "movie 2",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://am.bigtimedelivery.net/_v13/de02cc10d9982e2df5a73a9da36b4ac098c27d622ba2d95d45afb2329b343549d57423b8c0a6c3cbd082cd69b55a5f7f29538da6286866185c05f112dd89b9afc87dfbde1ff1e572637f073bad4796e9ee4b07aaf0ead8838eed7413854f95791aef9bea4bb51b938e23d59de4f64a99ef96ffae0b722c1c6594d90f3f6d18e29b93b38599c1720e4c0c71e2d1671df1/720/index.m3u8"
+               },
+               {
+                  "label": "movie 3",
+                  "playerLabel": "movie 3",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://an.bigtimedelivery.net/_v13/cd6a6a1eebc52c9e9d6271266550f95c09918fd117c4bfa68059825d81af4b3d862d49c76aa189ed1251f1104bdbf8acf263f6784c2a0d1f2f27846a26660157f36ca97a6ee9645533f2286a63cae0f15a631258a41cc4e93560753cac084956d4968f5d876d79da84e79c2b56bf9aff00ad74c323b5e19dcc761649ff0595ff1c93af5f1006db4ac1229abc50174133/720/index.m3u8"
+               }
+            ]
+         }
+      },
+      {
+         "icon": "local-movies",
+         "label": "the untouchables",
+         "data": {
+            "type": "list",
+            "headline": "the untouchables",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "movie"
+            },
+            "items": [
+               {
+                  "label": "movie",
+                  "playerLabel": "movie",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://aq.bigtimedelivery.net/_v13/56613967c18c9623148f495fc2bcd2441883eec546916ba696d50cd61718f3b27c32630fa4f9352dde7a65f4926218a1b7ed31984cf6a5212366143ee2ebb466762d4dbfb42415d105544dc202123850c509d6d821cee136516b738a6abee44a7e44ef2c6cc16ae6e593c772a975d9f3dc58dab6647e5fb59256733221dee8174823927df9fd268aa81deb56af6d1e8d/720/index.m3u8"
+               }
+            ]
+         }
+      },
+      {
+         "icon": "local-movies",
+         "label": "forrest gump",
+         "data": {
+            "type": "list",
+            "headline": "forrest gump",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "movie"
+            },
+            "items": [
+               {
+                  "label": "movie",
+                  "playerLabel": "movie",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://as.bigtimedelivery.net/_v13/f526a17dde339d94b90002bf8daf252783d33426ecfdd6b7bfcd9264daa8783b25c75dff425fac01fbc165a87706646215ac35ead19a8cfc04f3d2124b7cd74bcdf5da54173929006cc3c2628fa4fdc35a8bece0d3d6df74a2b426d477cfa137788a2b164525be302c3b8d668dd383861d2d6f8bdb306a4a37b6640d50d4c052f491d132429b6574cbc07b2331f61407/720/index.m3u8"
+               }
+            ]
+         }
+      }
+   ]
+}
