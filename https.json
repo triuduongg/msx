@@ -304,8 +304,8 @@
                "icon": "video-library",
                "color": "msx-glass",
                "layout": "4,0,2,2",
-               "label": "0,1",
-               "action": ""
+               "label": "paramount",
+               "action": "menu:http://triuduongg.github.io/msx/https-paramount.json"
             },
             {
                "icon": "video-library",
