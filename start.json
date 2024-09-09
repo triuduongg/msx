@@ -1,6 +1,0 @@
-{    
-    "name": "TRIUDUONGG MSX",
-    "version": "1.0.0",
-    "parameter": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json",
-    "welcome": "none"
-}
