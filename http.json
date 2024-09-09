@@ -322,6 +322,13 @@
                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-m3u.cl.json"
             },
             {
+               "icon": "live-tv",
+               "color": "msx-glass",
+               "layout": "6,2,2,2",
+               "label": "empty",
+               "action": ""
+            },
+            {
                "icon": "rss-feed",
                "color": "msx-glass",
                "layout": "8,0,2,2",
