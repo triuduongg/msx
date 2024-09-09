@@ -10,70 +10,70 @@
                "color": "msx-glass",
                "layout": "0,0,2,2",
                "label": "marvel",
-               "action": "menu:http://triuduongg.github.io/msx/http-marvel.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-marvel.json"
             },
             {
                "icon": "photo-library",
                "color": "msx-glass",
                "layout": "0,2,2,2",
                "label": "image",
-               "action": "menu:http://triuduongg.github.io/msx/http-image.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-image.json"
             },
             {
                "icon": "library-music",
                "color": "msx-glass",
                "layout": "2,0,2,2",
                "label": "imaginedragons",
-               "action": "menu:http://triuduongg.github.io/msx/http-imaginedragons.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-imaginedragons.json"
             },
             {
                "icon": "library-music",
                "color": "msx-glass",
                "layout": "2,2,2,2",
                "label": "coldplay",
-               "action": "menu:http://triuduongg.github.io/msx/http-coldplay.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-coldplay.json"
             },
             {
                "icon": "video-library",
                "color": "msx-glass",
                "layout": "4,0,2,2",
                "label": "disney",
-               "action": "menu:http://triuduongg.github.io/msx/http-disney.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-disney.json"
             },
             {
                "icon": "video-library",
                "color": "msx-glass",
                "layout": "4,2,2,2",
                "label": "ghibli",
-               "action": "menu:http://triuduongg.github.io/msx/http-ghibli.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-ghibli.json"
             },
             {
                "icon": "live-tv",
                "color": "msx-glass",
                "layout": "6,0,2,2",
                "label": "iptvcat",
-               "action": "menu:http://triuduongg.github.io/msx/http-iptvcat.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-iptvcat.json"
             },
             {
                "icon": "live-tv",
                "color": "msx-glass",
                "layout": "6,2,2,2",
                "label": "iptv-org",
-               "action": "menu:http://triuduongg.github.io/msx/http-iptv-org.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-iptv-org.json"
             },
             {
                "icon": "rss-feed",
                "color": "msx-glass",
                "layout": "8,0,2,2",
                "label": "nytimes",
-               "action": "menu:http://triuduongg.github.io/msx/http-nytimes.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-nytimes.json"
             },
             {
                "icon": "rss-feed",
                "color": "msx-glass",
                "layout": "8,2,2,2",
                "label": "dailymail",
-               "action": "menu:http://triuduongg.github.io/msx/http-dailymail.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-dailymail.json"
             },
             {
                "icon": "extension",
@@ -99,21 +99,21 @@
                "color": "msx-glass",
                "layout": "0,0,2,2",
                "label": "darkhorse",
-               "action": "menu:http://triuduongg.github.io/msx/http-darkhorse.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-darkhorse.json"
             },
             {
                "icon": "photo-library",
                "color": "msx-glass",
                "layout": "0,2,2,2",
                "label": "dc",
-               "action": "menu:http://triuduongg.github.io/msx/http-dc.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-dc.json"
             },
             {
                "icon": "library-music",
                "color": "msx-glass",
                "layout": "2,0,2,2",
                "label": "maroon5",
-               "action": "menu:http://triuduongg.github.io/msx/http-maroon5.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-maroon5.json"
             },
             {
                "icon": "library-music",
@@ -127,42 +127,42 @@
                "color": "msx-glass",
                "layout": "4,0,2,2",
                "label": "dreamworks",
-               "action": "menu:http://triuduongg.github.io/msx/http-dreamworks.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-dreamworks.json"
             },
             {
                "icon": "video-library",
                "color": "msx-glass",
                "layout": "4,2,2,2",
                "label": "warnerbros",
-               "action": "menu:http://triuduongg.github.io/msx/http-warnerbros.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-warnerbros.json"
             },
             {
                "icon": "live-tv",
                "color": "msx-glass",
                "layout": "6,0,2,2",
                "label": "freetv.fun",
-               "action": "menu:http://triuduongg.github.io/msx/http-freetv.fun.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-freetv.fun.json"
             },
             {
                "icon": "live-tv",
                "color": "msx-glass",
                "layout": "6,2,2,2",
                "label": "free-tv",
-               "action": "menu:http://triuduongg.github.io/msx/http-free-tv.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-free-tv.json"
             },
             {
                "icon": "rss-feed",
                "color": "msx-glass",
                "layout": "8,0,2,2",
                "label": "foxnews",
-               "action": "menu:http://triuduongg.github.io/msx/http-foxnews.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-foxnews.json"
             },
             {
                "icon": "rss-feed",
                "color": "msx-glass",
                "layout": "8,2,2,2",
                "label": "lequipe",
-               "action": "menu:http://triuduongg.github.io/msx/http-lequipe.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-lequipe.json"
             },
             {
                "icon": "extension",
@@ -216,42 +216,42 @@
                "color": "msx-glass",
                "layout": "4,0,2,2",
                "label": "20thcenturyfox",
-               "action": "menu:http://triuduongg.github.io/msx/http-20thcenturyfox.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-20thcenturyfox.json"
             },
             {
                "icon": "video-library",
                "color": "msx-glass",
                "layout": "4,2,2,2",
                "label": "universal",
-               "action": "menu:http://triuduongg.github.io/msx/http-universal.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-universal.json"
             },
             {
                "icon": "live-tv",
                "color": "msx-glass",
                "layout": "6,0,2,2",
                "label": "i.mjh.nz",
-               "action": "menu:http://triuduongg.github.io/msx/http-i.mjh.nz.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-i.mjh.nz.json"
             },
             {
                "icon": "live-tv",
                "color": "msx-glass",
                "layout": "6,2,2,2",
                "label": "iptv-list.com",
-               "action": "menu:http://triuduongg.github.io/msx/http-iptv-list.com.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-iptv-list.com.json"
             },
             {
                "icon": "rss-feed",
                "color": "msx-glass",
                "layout": "8,0,2,2",
                "label": "unnews",
-               "action": "menu:http://triuduongg.github.io/msx/http-unnews.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-unnews.json"
             },
             {
                "icon": "rss-feed",
                "color": "msx-glass",
                "layout": "8,2,2,2",
                "label": "podnews",
-               "action": "menu:http://triuduongg.github.io/msx/http-podnews.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-podnews.json"
             },
             {
                "icon": "extension",
@@ -305,7 +305,7 @@
                "color": "msx-glass",
                "layout": "4,0,2,2",
                "label": "paramount",
-               "action": "menu:http://triuduongg.github.io/msx/http-paramount.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-paramount.json"
             },
             {
                "icon": "video-library",
@@ -319,21 +319,21 @@
                "color": "msx-glass",
                "layout": "6,0,2,2",
                "label": "m3u.cl",
-               "action": "menu:http://triuduongg.github.io/msx/http-m3u.cl.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-m3u.cl.json"
             },
             {
                "icon": "rss-feed",
                "color": "msx-glass",
                "layout": "8,0,2,2",
                "label": "theage",
-               "action": "menu:http://triuduongg.github.io/msx/http-theage.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-theage.json"
             },
             {
                "icon": "rss-feed",
                "color": "msx-glass",
                "layout": "8,2,2,2",
                "label": "thesun",
-               "action": "menu:http://triuduongg.github.io/msx/http-thesun.json"
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-thesun.json"
             },
             {
                "icon": "extension",
