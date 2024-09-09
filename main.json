@@ -13,7 +13,7 @@
             {
                 "icon": "https",
                 "label": "https",
-                "data": "http://triuduongg.github.io/msx/https.json"
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/https.json"
             }
         ]
 }
