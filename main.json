@@ -8,7 +8,7 @@
             {
                 "icon": "http",
                 "label": "http",
-                "data": "http://triuduongg.github.io/msx/http.json"
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/http.json"
             },
             {
                 "icon": "https",
