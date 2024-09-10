@@ -47,10 +47,10 @@
       },
       {
          "icon": "local-movies",
-         "label": "mononoke",
+         "label": "princess mononoke",
          "data": {
             "type": "list",
-            "headline": "mononoke",
+            "headline": "princess mononoke",
             "template": {
                "layout": "0,0,2,4",
                "color": "msx-glass",
