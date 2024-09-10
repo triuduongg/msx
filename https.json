@@ -311,8 +311,8 @@
                "icon": "video-library",
                "color": "msx-glass",
                "layout": "4,2,2,2",
-               "label": "0,1",
-               "action": ""
+               "label": "columbia",
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-columbia.json"
             },
             {
                "icon": "live-tv",
