@@ -194,8 +194,8 @@
                "icon": "photo-library",
                "color": "msx-glass",
                "layout": "0,2,2,2",
-               "label": "0,1",
-               "action": ""
+               "label": "valiant",
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-valiant.json"
             },
             {
                "icon": "library-music",
