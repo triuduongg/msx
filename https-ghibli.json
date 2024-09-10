@@ -47,6 +47,26 @@
       },
       {
          "icon": "local-movies",
+         "label": "mononoke",
+         "data": {
+            "type": "list",
+            "headline": "mononoke",
+            "template": {
+               "layout": "0,0,2,4",
+               "color": "msx-glass",
+               "icon": "movie"
+            },
+            "items": [
+               {
+                  "label": "animated",
+                  "playerLabel": "animated",
+                  "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://al.bigtimedelivery.net/_v13/06019950369e1364e6815869e1f54d60791e1e449fcf724ae634717f5fc16cfd794b5978964bad58e3ec33e7fa5852f2cdb653c499539d6263935b2ab71037c6f8c267eff62866b428fea9ee86462e0cdcee91af131674ff4640bd5f1674a4814a1f9246a60a5d1ad75cb986447361eddb6f927fcf2c6ccf0be9ac82c463b616c1e6ccac41876a9e22fcb144afdc7dcf/720/index.m3u8"
+               }
+            ]
+         }
+      },
+      {
+         "icon": "local-movies",
          "label": "howl's moving castle",
          "data": {
             "type": "list",
