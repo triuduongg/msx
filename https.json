@@ -187,8 +187,8 @@
                "icon": "photo-library",
                "color": "msx-glass",
                "layout": "0,0,2,2",
-               "label": "0,1",
-               "action": ""
+               "label": "idw",
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-idw.json"
             },
             {
                "icon": "photo-library",
