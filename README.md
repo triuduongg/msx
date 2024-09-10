@@ -7,5 +7,5 @@
 #### LG Content Store: https://us.lgappstv.com/main/tvapp/detail?appId=464834
 #### Amazon Appstore: https://www.amazon.com/benzac-de-Media-Station-X/dp/B078TL932D
 ### The application is available on phones, computers, and televisions
-## Setting -> start parameter: triuduongg.github.io
+## Setting -> start parameter: id:bly:triuduonggmsx
 # And enjoy!
