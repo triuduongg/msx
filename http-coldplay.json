@@ -20,7 +20,7 @@
                {
                   "label": "viva la vida",
                   "playerLabel": "viva la vida",
-                  "action": "audio:plugin:http://msx.benzac.de/plugins/youtube.html?id=dvgZkm1xWPE"
+                  "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=dvgZkm1xWPE"
                }
             ]
          }
