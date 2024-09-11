@@ -325,8 +325,8 @@
                "icon": "live-tv",
                "color": "msx-glass",
                "layout": "6,2,2,2",
-               "label": "empty",
-               "action": ""
+               "label": "m3upt",
+               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-m3upt.json"
             },
             {
                "icon": "rss-feed",
