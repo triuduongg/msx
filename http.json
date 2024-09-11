@@ -1,363 +1,387 @@
 {
-   "type": "list",
-   "headline": "http",
-   "pages": [
-      {
-         "offset": "0,0,0,0.5",
-         "items": [
-            {
-               "icon": "photo-library",
-               "color": "msx-glass",
-               "layout": "0,0,2,2",
-               "label": "marvel",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-marvel.json"
-            },
-            {
-               "icon": "photo-library",
-               "color": "msx-glass",
-               "layout": "0,2,2,2",
-               "label": "image",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-image.json"
-            },
-            {
-               "icon": "library-music",
-               "color": "msx-glass",
-               "layout": "2,0,2,2",
-               "label": "imaginedragons",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-imaginedragons.json"
-            },
-            {
-               "icon": "library-music",
-               "color": "msx-glass",
-               "layout": "2,2,2,2",
-               "label": "coldplay",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-coldplay.json"
-            },
-            {
-               "icon": "video-library",
-               "color": "msx-glass",
-               "layout": "4,0,2,2",
-               "label": "disney",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-disney.json"
-            },
-            {
-               "icon": "video-library",
-               "color": "msx-glass",
-               "layout": "4,2,2,2",
-               "label": "ghibli",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-ghibli.json"
-            },
-            {
-               "icon": "live-tv",
-               "color": "msx-glass",
-               "layout": "6,0,2,2",
-               "label": "iptvcat",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-iptvcat.json"
-            },
-            {
-               "icon": "live-tv",
-               "color": "msx-glass",
-               "layout": "6,2,2,2",
-               "label": "iptv-org",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-iptv-org.json"
-            },
-            {
-               "icon": "rss-feed",
-               "color": "msx-glass",
-               "layout": "8,0,2,2",
-               "label": "nytimes",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-nytimes.json"
-            },
-            {
-               "icon": "rss-feed",
-               "color": "msx-glass",
-               "layout": "8,2,2,2",
-               "label": "dailymail",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-dailymail.json"
-            },
-            {
-               "icon": "extension",
-               "color": "msx-glass",
-               "layout": "10,0,2,2",
-               "label": "launcher",
-               "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction"
-            },
-            {
-               "icon": "extension",
-               "color": "msx-glass",
-               "layout": "10,2,2,2",
-               "label": "googledrive",
-               "action": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction"
-            }
-         ]
-      },
-      {
-         "offset": "0,-0.5,0,0",
-         "items": [
-            {
-               "icon": "photo-library",
-               "color": "msx-glass",
-               "layout": "0,0,2,2",
-               "label": "darkhorse",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-darkhorse.json"
-            },
-            {
-               "icon": "photo-library",
-               "color": "msx-glass",
-               "layout": "0,2,2,2",
-               "label": "dc",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-dc.json"
-            },
-            {
-               "icon": "library-music",
-               "color": "msx-glass",
-               "layout": "2,0,2,2",
-               "label": "maroon5",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-maroon5.json"
-            },
-            {
-               "icon": "library-music",
-               "color": "msx-glass",
-               "layout": "2,2,2,2",
-               "label": "0,1",
-               "action": ""
-            },
-            {
-               "icon": "video-library",
-               "color": "msx-glass",
-               "layout": "4,0,2,2",
-               "label": "dreamworks",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-dreamworks.json"
-            },
-            {
-               "icon": "video-library",
-               "color": "msx-glass",
-               "layout": "4,2,2,2",
-               "label": "warnerbros",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-warnerbros.json"
-            },
-            {
-               "icon": "live-tv",
-               "color": "msx-glass",
-               "layout": "6,0,2,2",
-               "label": "freetv.fun",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-freetv.fun.json"
-            },
-            {
-               "icon": "live-tv",
-               "color": "msx-glass",
-               "layout": "6,2,2,2",
-               "label": "free-tv",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-free-tv.json"
-            },
-            {
-               "icon": "rss-feed",
-               "color": "msx-glass",
-               "layout": "8,0,2,2",
-               "label": "foxnews",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-foxnews.json"
-            },
-            {
-               "icon": "rss-feed",
-               "color": "msx-glass",
-               "layout": "8,2,2,2",
-               "label": "lequipe",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-lequipe.json"
-            },
-            {
-               "icon": "extension",
-               "color": "msx-glass",
-               "layout": "10,0,2,2",
-               "label": "onedrive",
-               "action": "menu:request:interaction:init@http://od.msx.benzac.de/interaction"
-            },
-            {
-               "icon": "extension",
-               "color": "msx-glass",
-               "layout": "10,2,2,2",
-               "label": "dropbox",
-               "action": "menu:request:interaction:init@http://db.msx.benzac.de/interaction"
-            }
-         ]
-      },
-      {
-         "offset": "0,0,0,0.5",
-         "items": [
-            {
-               "icon": "photo-library",
-               "color": "msx-glass",
-               "layout": "0,0,2,2",
-               "label": "idw",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-idw.json"
-            },
-            {
-               "icon": "photo-library",
-               "color": "msx-glass",
-               "layout": "0,2,2,2",
-               "label": "valiant",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-valiant.json"
-            },
-            {
-               "icon": "library-music",
-               "color": "msx-glass",
-               "layout": "2,0,2,2",
-               "label": "0,1",
-               "action": ""
-            },
-            {
-               "icon": "library-music",
-               "color": "msx-glass",
-               "layout": "2,2,2,2",
-               "label": "0,1",
-               "action": ""
-            },
-            {
-               "icon": "video-library",
-               "color": "msx-glass",
-               "layout": "4,0,2,2",
-               "label": "20thcenturyfox",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-20thcenturyfox.json"
-            },
-            {
-               "icon": "video-library",
-               "color": "msx-glass",
-               "layout": "4,2,2,2",
-               "label": "universal",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-universal.json"
-            },
-            {
-               "icon": "live-tv",
-               "color": "msx-glass",
-               "layout": "6,0,2,2",
-               "label": "i.mjh.nz",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-i.mjh.nz.json"
-            },
-            {
-               "icon": "live-tv",
-               "color": "msx-glass",
-               "layout": "6,2,2,2",
-               "label": "iptv-list.com",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-iptv-list.com.json"
-            },
-            {
-               "icon": "rss-feed",
-               "color": "msx-glass",
-               "layout": "8,0,2,2",
-               "label": "unnews",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-unnews.json"
-            },
-            {
-               "icon": "rss-feed",
-               "color": "msx-glass",
-               "layout": "8,2,2,2",
-               "label": "podnews",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-podnews.json"
-            },
-            {
-               "icon": "extension",
-               "color": "msx-glass",
-               "layout": "10,0,2,2",
-               "label": "nodejs",
-               "action": "menu:request:interaction:init@http://nb.msx.benzac.de/interaction"
-            },
-            {
-               "icon": "extension",
-               "color": "msx-glass",
-               "layout": "10,2,2,2",
-               "label": "soundcloud",
-               "action": "menu:http://sc.msx.benzac.de/msx/service.php"
-            }
-         ]
-      },
-      {
-         "offset": "0,-0.5,0,0",
-         "items": [
-            {
-               "icon": "photo-library",
-               "color": "msx-glass",
-               "layout": "0,0,2,2",
-               "label": "archie",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-archie.json"
-            },
-            {
-               "icon": "photo-library",
-               "color": "msx-glass",
-               "layout": "0,2,2,2",
-               "label": "boom!",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-boom!.json"
-            },
-            {
-               "icon": "library-music",
-               "color": "msx-glass",
-               "layout": "2,0,2,2",
-               "label": "0,1",
-               "action": ""
-            },
-            {
-               "icon": "library-music",
-               "color": "msx-glass",
-               "layout": "2,2,2,2",
-               "label": "0,1",
-               "action": ""
-            },
-            {
-               "icon": "video-library",
-               "color": "msx-glass",
-               "layout": "4,0,2,2",
-               "label": "paramount",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-paramount.json"
-            },
-            {
-               "icon": "video-library",
-               "color": "msx-glass",
-               "layout": "4,2,2,2",
-               "label": "columbia",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-columbia.json"
-            },
-            {
-               "icon": "live-tv",
-               "color": "msx-glass",
-               "layout": "6,0,2,2",
-               "label": "m3u.cl",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-m3u.cl.json"
-            },
-            {
-               "icon": "live-tv",
-               "color": "msx-glass",
-               "layout": "6,2,2,2",
-               "label": "m3upt",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-m3upt.json"
-            },
-            {
-               "icon": "rss-feed",
-               "color": "msx-glass",
-               "layout": "8,0,2,2",
-               "label": "theage",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-theage.json"
-            },
-            {
-               "icon": "rss-feed",
-               "color": "msx-glass",
-               "layout": "8,2,2,2",
-               "label": "thesun",
-               "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-thesun.json"
-            },
-            {
-               "icon": "extension",
-               "color": "msx-glass",
-               "layout": "10,0,2,2",
-               "label": "tmdb",
-               "action": "menu:http://tmdb.msx.benzac.de/msx/service.php"
-            },
-            {
-               "icon": "extension",
-               "color": "msx-glass",
-               "layout": "10,2,2,2",
-               "label": "euronews",
-               "action": "menu:http://en.msx.benzac.de/msx/service.php"
-            }
-         ]
-      }
-      
-   ]
-}
+    "type": "list",
+    "headline": "http",
+    "pages": [
+       {
+          "offset": "0,0,0,0.5",
+          "items": [
+             {
+                "icon": "photo",
+                "color": "msx-glass",
+                "layout": "0,0,2,2",
+                "label": "tokyo",
+                "playerLabel": "tokyo",
+                "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://img1.wallspic.com/crops/8/4/9/7/6/167948/167948-anime-anime_art-ken_kaneki-tokyo-cloud-1280x720.jpg"
+             },
+             {
+                "icon": "photo",
+                "color": "msx-glass",
+                "layout": "0,2,2,2",
+                "label": "venice",
+                "playerLabel": "venice",
+                "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://img2.wallspic.com/crops/1/6/1/2/3/132161/132161-rome-town-tourism-channel-bed_and_breakfast-1280x720.jpg"
+             },
+             {
+                "icon": "music-note",
+                "color": "msx-glass",
+                "layout": "2,0,2,2",
+                "label": "faded",
+                "playerLabel": "faded",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=60ItHLz5WEA"
+             },
+             {
+                "icon": "music-note",
+                "color": "msx-glass",
+                "layout": "2,2,2,2",
+                "label": "roar",
+                "playerLabel": "roar",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=CevxZvSJLk8"
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,0,2,2",
+                "label": "titanic",
+                "playerLabel": "titanic",
+                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ak.bigtimedelivery.net/_v13/4a869b9fced8c1862007b4ad9294731d4697982a809c08663db368625f33a8a068965e4272eaf87aebae2ccae63f0f51f1d35f35d9879452355591180e5683c8872b77a64783887ce53492165e49b9659b613f03df78c595e5087abc85a4bf7d45446cc318cb67361cfbb567c1f8c0ee5b4154b556ce62aa086d1546a32a937aab7d169326e4c72185ce680b76144a4b/720/index.m3u8"
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,2,2,2",
+                "label": "wall-e",
+                "playerLabel": "wall-e",
+                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://an.bigtimedelivery.net/_v13/2ace03a4030ba21002362fce19ca8faf537ec839f6b58d2311276ffb08c70145e3f2508c4c6055a9ca52d258dd1422ed3e08c760b71cbbe3485228b5192ce36eff422f3bf07901fc52ba55292cc79dcede4464e2cc96c16273d2e7308bcb1253edf2ab2084fbe3473739251fd12c91e4f5a6b3501a0914d39d4e76c373e22de7157c9c14892ffae0664d71188d185576/720/index.m3u8"
+             },
+             {
+                "icon": "live-tv",
+                "color": "msx-glass",
+                "layout": "6,0,2,2",
+                "label": "iptvcat",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-iptvcat.json"
+             },
+             {
+                "icon": "live-tv",
+                "color": "msx-glass",
+                "layout": "6,2,2,2",
+                "label": "iptv-org",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-iptv-org.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,0,2,2",
+                "label": "nytimes",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-nytimes.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,2,2,2",
+                "label": "dailymail",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-dailymail.json"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,0,2,2",
+                "label": "launcher",
+                "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,2,2,2",
+                "label": "googledrive",
+                "action": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction"
+             }
+          ]
+       },
+       {
+          "offset": "0,-0.5,0,0",
+          "items": [
+             {
+                "icon": "photo",
+                "color": "msx-glass",
+                "layout": "0,0,2,2",
+                "label": "sydney",
+                "playerLabel": "sydney",
+                "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://img3.wallspic.com/crops/2/4/9/3/0/103942/103942-capital_city-darling_harbour-metropolis-water_transportation-opera_house-1280x720.jpg"
+             },
+             {
+                "icon": "photo",
+                "color": "msx-glass",
+                "layout": "0,2,2,2",
+                "label": "paris",
+                "playerLabel": "paris",
+                "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://img3.wallspic.com/crops/0/2/5/6/5/156520/156520-paris_city-eiffel_tower-city-building-daytime-1280x720.jpg"
+             },
+             {
+                "icon": "music-note",
+                "color": "msx-glass",
+                "layout": "2,0,2,2",
+                "label": "demons",
+                "playerLabel": "demons",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=mWRsgZuwf_8"
+             },
+             {
+                "icon": "music-note",
+                "color": "msx-glass",
+                "layout": "2,2,2,2",
+                "label": "symphony",
+                "playerLabel": "symphony",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=aatr_2MstrI"
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,0,2,2",
+                "label": "turbo",
+                "playerLabel": "turbo",
+                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://al.bigtimedelivery.net/_v13/060f9d855f36cfad8bd7231d619d36a87d923ab589153eb0c0d0b1719458863ec89240cbd70beb8ba5d259e37fdb4d4b963c0b3f33952492a38f81c015c9695ae06511884e07ef289ba6d8ab5b6e5acc538a433788ec6af45e25975b5af8c2895a26a29d1284ac60f7411b90797a569b36a79f90d17241554b00c60c283d238d031ae102eb7dd19c93ceee887db8ccc7/720/index.m3u8"
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,2,2,2",
+                "label": "spirited-away",
+                "playerLabel": "spirited-away",
+                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/3113ec917f23b79ff3f91f6c90deaf6289dd98a490d311ffbee99c6f2f26a5f6a44674a35641a0601efe545b1e2ca79e69cd9dbe523c79652cc30f3685ccb713571dd3863032b19051cf4c4819375dbd6230c05458fca24fbc80d50551cee1fcce0e2b94f26e47dddb19548ae8436e481742e67203c5a53bfc7cf94702cdcee35ef0c84167781d6727398276892b0066/720/index.m3u8"
+             },
+             {
+                "icon": "live-tv",
+                "color": "msx-glass",
+                "layout": "6,0,2,2",
+                "label": "freetv.fun",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-freetv.fun.json"
+             },
+             {
+                "icon": "live-tv",
+                "color": "msx-glass",
+                "layout": "6,2,2,2",
+                "label": "free-tv",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-free-tv.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,0,2,2",
+                "label": "foxnews",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-foxnews.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,2,2,2",
+                "label": "lequipe",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-lequipe.json"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,0,2,2",
+                "label": "onedrive",
+                "action": "menu:request:interaction:init@http://od.msx.benzac.de/interaction"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,2,2,2",
+                "label": "dropbox",
+                "action": "menu:request:interaction:init@http://db.msx.benzac.de/interaction"
+             }
+          ]
+       },
+       {
+          "offset": "0,0,0,0.5",
+          "items": [
+             {
+                "icon": "photo",
+                "color": "msx-glass",
+                "layout": "0,0,2,2",
+                "label": "newyork",
+                "playerLabel": "newyork",
+                "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://img1.wallspic.com/crops/6/9/9/2/7/172996/172996-new_york-city-tablet-water-cloud-1280x720.jpg"
+             },
+             {
+                "icon": "photo",
+                "color": "msx-glass",
+                "layout": "0,2,2,2",
+                "label": "london",
+                "playerLabel": "london",
+                "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://img2.wallspic.com/crops/1/4/9/8/88941/88941-london_eye-tourist_attraction-reflection-capital_city-river-1280x720.jpg"
+             },
+             {
+                "icon": "music-note",
+                "color": "msx-glass",
+                "layout": "2,0,2,2",
+                "label": "titanium",
+                "playerLabel": "titanium",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=JRfuAukYTKg"
+             },
+             {
+                "icon": "music-note",
+                "color": "msx-glass",
+                "layout": "2,2,2,2",
+                "label": "closer",
+                "playerLabel": "closer",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=PT2_F-1esPk"
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,0,2,2",
+                "label": "man-of-steel",
+                "playerLabel": "man-of-steel",
+                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://aq.bigtimedelivery.net/_v13/e29d5710499e5ddbee1be62f196b6ead484169a66d76cd55572a5da30bf9c36915490b46e8af3b66ee380dc4eb4eafde81c2498f72d6ec137e9a87ff5f16731757c6216e570d1b6c5c477ca6a31f9a2ced3c3febe94bf315e0e0d6b8e36b564b71873bfdd39bd3b9aaf81f220c331e0362b584ca993782f0d635efd1758d7bdcc19b72cd6cdbfc5cb6c7928d5fcc260a/720/index.m3u8"
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,2,2,2",
+                "label": "king-kong",
+                "playerLabel": "king-kong",
+                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://an.bigtimedelivery.net/_v13/e932e285b233714f5bd3ef12ee8157ab856a2c3cd8390f6a665678ed2339332bafcba4fdd9db7613b86d05803607c6de30a3c7cd6553ddd685c2d859cffc15997ccd7fe461c1e1b9384afa448d818af76dfcc14107d008ff0b078e3ecee99c6c0182f70f4b85392350a5636dc6b40ecf8d73d25a9e06714483226824665dfca566cc82b25b3d70eb3b66052a940492e0/720/index.m3u8"
+             },
+             {
+                "icon": "live-tv",
+                "color": "msx-glass",
+                "layout": "6,0,2,2",
+                "label": "i.mjh.nz",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-i.mjh.nz.json"
+             },
+             {
+                "icon": "live-tv",
+                "color": "msx-glass",
+                "layout": "6,2,2,2",
+                "label": "iptv-list.com",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-iptv-list.com.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,0,2,2",
+                "label": "unnews",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-unnews.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,2,2,2",
+                "label": "podnews",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-podnews.json"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,0,2,2",
+                "label": "nodejs",
+                "action": "menu:request:interaction:init@http://nb.msx.benzac.de/interaction"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,2,2,2",
+                "label": "soundcloud",
+                "action": "menu:http://sc.msx.benzac.de/msx/service.php"
+             }
+          ]
+       },
+       {
+          "offset": "0,-0.5,0,0",
+          "items": [
+             {
+                "icon": "photo",
+                "color": "msx-glass",
+                "layout": "0,0,2,2",
+                "label": "budapest",
+                "playerLabel": "budapest",
+                "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://img1.wallspic.com/crops/6/7/3/2/6/162376/162376-budapest-hungarian_parliament_building-nature-mountainous_landforms-architecture-1280x720.jpg"
+             },
+             {
+                "icon": "photo",
+                "color": "msx-glass",
+                "layout": "0,2,2,2",
+                "label": "amsterdam",
+                "playerLabel": "amsterdam",
+                "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://img3.wallspic.com/crops/4/2/9/7/6/167924/167924-amsterdam-water-bicycle-wheel-building-1280x720.jpg"
+             },
+             {
+                "icon": "music-note",
+                "color": "msx-glass",
+                "layout": "2,0,2,2",
+                "label": "attention",
+                "playerLabel": "attention",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=nfs8NYg7yQM"
+             },
+             {
+                "icon": "music-note",
+                "color": "msx-glass",
+                "layout": "2,2,2,2",
+                "label": "happier",
+                "playerLabel": "happier",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=m7Bc3pLyij0"
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,0,2,2",
+                "label": "hobbs&shaw",
+                "playerLabel": "hobbs&shaw",
+                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://at.bigtimedelivery.net/_v13/c8fe20bcc6c6a5961d9546a93b737b507ca9eb3da7dac05e2f45de163369b202d1f02d63c79c9201859d92c6f8f35ab2b8180894f84b2bbf687d85729d740e5ecd60ac65052710a3bc61885b58091e17c499bfb9590064ef9d07e6d25d9b59ae4e2405af8e0025e0f53a12074550115163a189b6e7f2f2548be6dee6063fd5cd291f2abf38f82fda5c2efbfbfe1a1a9b/720/index.m3u8"
+             },
+             {
+                "icon": "movie",
+                "color": "msx-glass",
+                "layout": "4,2,2,2",
+                "label": "tenet",
+                "playerLabel": "tenet",
+                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/3bfe3a8eac638eca48ba0ff8fc275aa0423cd0a38d8eaf47a1ab4588340ebfc45e99e6e190f0a59ac3c219cf606d968de8bb60fa8ca46d74eb0027055c97a36b361ddd31b40d821bca92062bec409de903f525664cfb39fa804ad4e579dbfd71d9d7025f600115a73fd65a36778fb3d82498ad03516546fc1da5afe0e2f47052ccf62ae21b92306a14d3e33588d082ec/720/index.m3u8"
+             },
+             {
+                "icon": "live-tv",
+                "color": "msx-glass",
+                "layout": "6,0,2,2",
+                "label": "m3u.cl",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-m3u.cl.json"
+             },
+             {
+                "icon": "live-tv",
+                "color": "msx-glass",
+                "layout": "6,2,2,2",
+                "label": "m3upt",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-m3upt.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,0,2,2",
+                "label": "theage",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-theage.json"
+             },
+             {
+                "icon": "rss-feed",
+                "color": "msx-glass",
+                "layout": "8,2,2,2",
+                "label": "thesun",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-thesun.json"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,0,2,2",
+                "label": "tmdb",
+                "action": "menu:http://tmdb.msx.benzac.de/msx/service.php"
+             },
+             {
+                "icon": "extension",
+                "color": "msx-glass",
+                "layout": "10,2,2,2",
+                "label": "euronews",
+                "action": "menu:http://en.msx.benzac.de/msx/service.php"
+             }
+          ]
+       }
+       
+    ]
+ }
