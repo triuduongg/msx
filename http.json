@@ -233,7 +233,7 @@
                 "layout": "4,0,2,2",
                 "label": "man-of-steel",
                 "playerLabel": "man-of-steel",
-                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://al.bigtimedelivery.net/_v13/e29d5710499e5ddbee1be62f196b6ead484169a66d76cd55572a5da30bf9c36915490b46e8af3b66ee380dc4eb4eafde81c2498f72d6ec137e9a87ff5f16731757c6216e570d1b6c5c477ca6a31f9a2ced3c3febe94bf315e0e0d6b8e36b564b71873bfdd39bd3b9aaf81f220c331e0362b584ca993782f0d635efd1758d7bdcc19b72cd6cdbfc5cb6c7928d5fcc260a/720/index.m3u8"
+                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ap.bigtimedelivery.net/_v13/e29d5710499e5ddbee1be62f196b6ead484169a66d76cd55572a5da30bf9c36915490b46e8af3b66ee380dc4eb4eafde81c2498f72d6ec137e9a87ff5f16731757c6216e570d1b6c5c477ca6a31f9a2ced3c3febe94bf315e0e0d6b8e36b564b71873bfdd39bd3b9aaf81f220c331e03eba24b1ae132ed88b94dcc5812aa3777b27c3478f5b22f4e12ec67e848b34a83/720/index.m3u8"
              },
              {
                 "icon": "movie",
