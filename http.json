@@ -51,7 +51,7 @@
                 "layout": "4,2,2,2",
                 "label": "wall-e",
                 "playerLabel": "wall-e",
-                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://an.bigtimedelivery.net/_v13/2ace03a4030ba21002362fce19ca8faf537ec839f6b58d2311276ffb08c70145e3f2508c4c6055a9ca52d258dd1422ed3e08c760b71cbbe3485228b5192ce36eff422f3bf07901fc52ba55292cc79dcede4464e2cc96c16273d2e7308bcb1253edf2ab2084fbe3473739251fd12c91e4f5a6b3501a0914d39d4e76c373e22de7157c9c14892ffae0664d71188d185576/720/index.m3u8"
+                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/2ace03a4030ba21002362fce19ca8faf537ec839f6b58d2311276ffb08c70145e3f2508c4c6055a9ca52d258dd1422ed3e08c760b71cbbe3485228b5192ce36eff422f3bf07901fc52ba55292cc79dcede4464e2cc96c16273d2e7308bcb1253edf2ab2084fbe3473739251fd12c91e4f5a6b3501a0914d39d4e76c373e22de7157c9c14892ffae0664d71188d185576/720/index.m3u8"
              },
              {
                 "icon": "live-tv",
