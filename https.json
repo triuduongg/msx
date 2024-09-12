@@ -49,9 +49,9 @@
                 "icon": "movie",
                 "color": "msx-glass",
                 "layout": "4,2,2,2",
-                "label": "wall-e",
-                "playerLabel": "wall-e",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/2ace03a4030ba21002362fce19ca8faf537ec839f6b58d2311276ffb08c70145e3f2508c4c6055a9ca52d258dd1422ed3e08c760b71cbbe3485228b5192ce36eff422f3bf07901fc52ba55292cc79dcede4464e2cc96c16273d2e7308bcb1253edf2ab2084fbe3473739251fd12c91e4f5a6b3501a0914d39d4e76c373e22de7157c9c14892ffae0664d71188d185576/720/index.m3u8"
+                "label": "finding-nemo",
+                "playerLabel": "finding-nemo",
+                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/1d2fb54590dbc0a58bc8043aa8b4a4d7dc3e00b8aee4cc9e86000e8f563e0559eb5ef589b7786488b91897f4e7573cc0184853be18bbf778c99206db243744c02b23200dce7c11e8113884c4f69948c5918ea04014bdcd6b7e440f989c764bd16ff0c1b60c932009010c277ad8fbe7ced5cb9060c596a0271aaa4d7b8c784f37da9ebcdd57e72a9f95f15e84afae98a3/720/index.m3u8"
              },
              {
                 "icon": "live-tv",
