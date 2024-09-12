@@ -336,7 +336,7 @@
                 "layout": "4,2,2,2",
                 "label": "tenet",
                 "playerLabel": "tenet",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/3bfe3a8eac638eca48ba0ff8fc275aa0423cd0a38d8eaf47a1ab4588340ebfc45e99e6e190f0a59ac3c219cf606d968de8bb60fa8ca46d74eb0027055c97a36b361ddd31b40d821bca92062bec409de903f525664cfb39fa804ad4e579dbfd71d9d7025f600115a73fd65a36778fb3d82498ad03516546fc1da5afe0e2f47052ccf62ae21b92306a14d3e33588d082ec/720/index.m3u8"
+                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://at.bigtimedelivery.net/_v13/3bfe3a8eac638eca48ba0ff8fc275aa0423cd0a38d8eaf47a1ab4588340ebfc45e99e6e190f0a59ac3c219cf606d968de8bb60fa8ca46d74eb0027055c97a36b361ddd31b40d821bca92062bec409de903f525664cfb39fa804ad4e579dbfd71d9d7025f600115a73fd65a36778fb3d8a210ad4b990ae13d4c0d56aeb857d83c93c85e483e87f44fa12d89c1d04dd355/720/index.m3u8"
              },
              {
                 "icon": "live-tv",
