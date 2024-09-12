@@ -1,0 +1,14 @@
+{
+    "headline": "thedaily",
+    "menu": [   
+        {
+            "type": "separator",
+            "label": "topic"
+        },
+        {
+            "icon": "topic",
+            "label": "latest",
+            "data": "request:interaction:https://rss.art19.com/the-daily@http://msx.benzac.de/interaction/mrss.html"
+        }
+        ]
+}
