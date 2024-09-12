@@ -138,7 +138,7 @@
                 "layout": "4,0,2,2",
                 "label": "turbo",
                 "playerLabel": "turbo",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://al.bigtimedelivery.net/_v13/060f9d855f36cfad8bd7231d619d36a87d923ab589153eb0c0d0b1719458863ec89240cbd70beb8ba5d259e37fdb4d4b963c0b3f33952492a38f81c015c9695ae06511884e07ef289ba6d8ab5b6e5acc538a433788ec6af45e25975b5af8c2895a26a29d1284ac60f7411b90797a569b36a79f90d17241554b00c60c283d238d031ae102eb7dd19c93ceee887db8ccc7/720/index.m3u8"
+                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://am.bigtimedelivery.net/_v13/060f9d855f36cfad8bd7231d619d36a87d923ab589153eb0c0d0b1719458863ec89240cbd70beb8ba5d259e37fdb4d4b963c0b3f33952492a38f81c015c9695ae06511884e07ef289ba6d8ab5b6e5acc538a433788ec6af45e25975b5af8c2895a26a29d1284ac60f7411b90797a569bb37cbd0fa8de83445bb6cac105fa3dc81d77d4764447533130964c6c1927895d/720/index.m3u8"
              },
              {
                 "icon": "movie",
