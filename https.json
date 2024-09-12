@@ -43,7 +43,7 @@
                 "layout": "4,0,2,2",
                 "label": "titanic",
                 "playerLabel": "titanic",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ao.bigtimedelivery.net/_v13/8555570a154229fb5f91c1381b93da6ee7aefd31582a6ef3ddf27d0694b5e7583c339266f28086ab8fbc82cc2f268b8b9adfcbbf20eac18d23cb2d01383d6204205078bba8efb82593339a5bccb77d5f54fd988198164b76a24e7b67401bb5dbe4f2a435fbf51e16f4d2e345e04c72586d28af10bbc3dc758619f4a671bbdfc0b60e6d7014e3e4af8b3ed4d8d5f22830/720/index.m3u8"
+                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://al.bigtimedelivery.net/_v13/8555570a154229fb5f91c1381b93da6ee7aefd31582a6ef3ddf27d0694b5e7583c339266f28086ab8fbc82cc2f268b8b9adfcbbf20eac18d23cb2d01383d6204205078bba8efb82593339a5bccb77d5f54fd988198164b76a24e7b67401bb5dbe4f2a435fbf51e16f4d2e345e04c7258f081e233d30011299de2585cb4989d509a049c7a1164eea24de4890bb8499714/720/index.m3u8"
              },
              {
                 "icon": "movie",
