@@ -268,8 +268,8 @@
                 "icon": "rss-feed",
                 "color": "msx-glass",
                 "layout": "8,2,2,2",
-                "label": "podnews",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-podnews.json"
+                "label": "thedaily",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-thedaily.json"
              },
              {
                 "icon": "extension",
