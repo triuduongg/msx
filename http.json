@@ -146,7 +146,7 @@
                 "layout": "4,2,2,2",
                 "label": "spirited-away",
                 "playerLabel": "spirited-away",
-                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/3113ec917f23b79ff3f91f6c90deaf6289dd98a490d311ffbee99c6f2f26a5f6a44674a35641a0601efe545b1e2ca79e69cd9dbe523c79652cc30f3685ccb713571dd3863032b19051cf4c4819375dbd6230c05458fca24fbc80d50551cee1fcce0e2b94f26e47dddb19548ae8436e481742e67203c5a53bfc7cf94702cdcee35ef0c84167781d6727398276892b0066/720/index.m3u8"
+                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ap.bigtimedelivery.net/_v13/3113ec917f23b79ff3f91f6c90deaf6289dd98a490d311ffbee99c6f2f26a5f6a44674a35641a0601efe545b1e2ca79e69cd9dbe523c79652cc30f3685ccb713571dd3863032b19051cf4c4819375dbd6230c05458fca24fbc80d50551cee1fcce0e2b94f26e47dddb19548ae8436e4815bae7ddd3dd0811f9e8ba14846e8190b483dfbe370982f8b68c9d764b1a7245/720/index.m3u8"
              },
              {
                 "icon": "live-tv",
