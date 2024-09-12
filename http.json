@@ -328,7 +328,7 @@
                 "layout": "4,0,2,2",
                 "label": "hobbs&shaw",
                 "playerLabel": "hobbs&shaw",
-                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://at.bigtimedelivery.net/_v13/c8fe20bcc6c6a5961d9546a93b737b507ca9eb3da7dac05e2f45de163369b202d1f02d63c79c9201859d92c6f8f35ab2b8180894f84b2bbf687d85729d740e5ecd60ac65052710a3bc61885b58091e17c499bfb9590064ef9d07e6d25d9b59ae4e2405af8e0025e0f53a12074550115163a189b6e7f2f2548be6dee6063fd5cd291f2abf38f82fda5c2efbfbfe1a1a9b/720/index.m3u8"
+                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/c8fe20bcc6c6a5961d9546a93b737b507ca9eb3da7dac05e2f45de163369b202d1f02d63c79c9201859d92c6f8f35ab2b8180894f84b2bbf687d85729d740e5ecd60ac65052710a3bc61885b58091e17c499bfb9590064ef9d07e6d25d9b59ae4e2405af8e0025e0f53a120745501151f02d7c53fabeac1dbf17719b0a49e90b337a22074d46cef853ea69aeddf75c9e/720/index.m3u8"
              },
              {
                 "icon": "movie",
