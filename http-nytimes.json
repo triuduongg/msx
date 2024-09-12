@@ -109,11 +109,6 @@
             "icon": "topic",
             "label": "sunday opinions",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml@http://msx.benzac.de/interaction/mrss.html"
-        },
-        {
-            "icon": "topic",
-            "label": "the daily",
-            "data": "request:interaction:https://rss.art19.com/the-daily@http://msx.benzac.de/interaction/mrss.html"
         }
         ]
 }
