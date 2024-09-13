@@ -1,5 +1,6 @@
 {
     "headline": "TRIUDUONGG MSX",
+    "background": "https://raw.githubusercontent.com/triuduongg/msx/main/triuduonggmsx.jpg",
     "menu": [   
             {
                 "type": "separator",
