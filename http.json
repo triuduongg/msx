@@ -334,9 +334,9 @@
                 "icon": "movie",
                 "color": "msx-glass",
                 "layout": "4,2,2,2",
-                "label": "tenet",
-                "playerLabel": "tenet",
-                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://at.bigtimedelivery.net/_v13/3bfe3a8eac638eca48ba0ff8fc275aa0423cd0a38d8eaf47a1ab4588340ebfc45e99e6e190f0a59ac3c219cf606d968de8bb60fa8ca46d74eb0027055c97a36b361ddd31b40d821bca92062bec409de903f525664cfb39fa804ad4e579dbfd71d9d7025f600115a73fd65a36778fb3d8a210ad4b990ae13d4c0d56aeb857d83c93c85e483e87f44fa12d89c1d04dd355/720/index.m3u8"
+                "label": "troy",
+                "playerLabel": "troy",
+                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://at.bigtimedelivery.net/_v13/fca472b5f71f65b5db4466316a1f037cc1332a27a2b8ab6c6ea6d2ade87c0ddf442613f3df45c55b8a0aef710a208ac19c93b78716e20c11bb8755e9c858c8d35a03c97818057909adbb926e42bfa194df84f7d39596b65a36c449a389ac72a67cfcc821c88e980f19eb772cfebb0f9cddb790773f2da0a581f32362feb2afb3c7c9059de818741d3df712f2a17e43e1/720/index.m3u8"
              },
              {
                 "icon": "live-tv",
