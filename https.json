@@ -136,9 +136,9 @@
                 "icon": "movie",
                 "color": "msx-glass",
                 "layout": "4,0,2,2",
-                "label": "warcraft",
-                "playerLabel": "warcraft",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ap.bigtimedelivery.net/_v13/ee88f20793d3bd826ebc9b26fe8a65971b98e2bfb00019e6cb56c1fbdf6ecd77cc4a1bf7454d14d1fe6eb88cd7a4e1b7e8340db259cb89533d172c9b64d5573821f99a6004fcf9f1b228006a83306b7aae299bb4c1c09cd13e4eeb774e7251f03eb27cb5639951ab93868b75527ddfe72d7913af181d3c356e731747357049b3f7899b0b04db37e6b5fb48560957634f/720/index.m3u8"
+                "label": "face/off",
+                "playerLabel": "face/off",
+                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://as.bigtimedelivery.net/_v13/fc14be2c7c4104e91181db2800f2722cef984ecbc26b593a304664fca24e26dfa547ece49e297968526a7e95f5701879a69bd1a1d5c63b94608dbe0029a729a5a9b0d4b66988b8c9b3aab26d766faf5bba3f8759700553d2f441dd45a2e0bf51667d5463164422fe775deadbac7797dc90f15952eaa760bc6086af392589572ed0799155e5d1e8c4d336b06ba6e28bcf/720/index.m3u8"
              },
              {
                 "icon": "movie",
