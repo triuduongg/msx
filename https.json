@@ -334,8 +334,8 @@
                 "icon": "movie",
                 "color": "msx-glass",
                 "layout": "4,2,2,2",
-                "label": "robinhood",
-                "playerLabel": "robinhood",
+                "label": "robinhood2010",
+                "playerLabel": "robinhood2010",
                 "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://al.bigtimedelivery.net/_v13/e8689abd78d04c04e7b5f806ff8a13b418bedd253f7d45b9ff26eafae05063f0be2880dd6e090ec0823a91d21ffb6848cedf6845169731e212b398cdcefed8158ac52d75e25530f364f0aa3cb91c5146fcbf28bcc92bde659f08d33e6866317e9a790f01e3f93231225c2cd40b2eae924594f7157ea9bf890dc2f067a28220b3585e6e79215eed0facabb96f4a964d60/720/index.m3u8"
              },
              {
