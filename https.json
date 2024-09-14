@@ -334,9 +334,9 @@
                 "icon": "movie",
                 "color": "msx-glass",
                 "layout": "4,2,2,2",
-                "label": "troy",
-                "playerLabel": "troy",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://at.bigtimedelivery.net/_v13/fca472b5f71f65b5db4466316a1f037cc1332a27a2b8ab6c6ea6d2ade87c0ddf442613f3df45c55b8a0aef710a208ac19c93b78716e20c11bb8755e9c858c8d35a03c97818057909adbb926e42bfa194df84f7d39596b65a36c449a389ac72a67cfcc821c88e980f19eb772cfebb0f9cddb790773f2da0a581f32362feb2afb3c7c9059de818741d3df712f2a17e43e1/720/index.m3u8"
+                "label": "robinhood",
+                "playerLabel": "robinhood",
+                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://al.bigtimedelivery.net/_v13/e8689abd78d04c04e7b5f806ff8a13b418bedd253f7d45b9ff26eafae05063f0be2880dd6e090ec0823a91d21ffb6848cedf6845169731e212b398cdcefed8158ac52d75e25530f364f0aa3cb91c5146fcbf28bcc92bde659f08d33e6866317e9a790f01e3f93231225c2cd40b2eae924594f7157ea9bf890dc2f067a28220b3585e6e79215eed0facabb96f4a964d60/720/index.m3u8"
              },
              {
                 "icon": "live-tv",
