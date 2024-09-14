@@ -136,9 +136,9 @@
                 "icon": "movie",
                 "color": "msx-glass",
                 "layout": "4,0,2,2",
-                "label": "face/off",
-                "playerLabel": "face/off",
-                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://as.bigtimedelivery.net/_v13/fc14be2c7c4104e91181db2800f2722cef984ecbc26b593a304664fca24e26dfa547ece49e297968526a7e95f5701879a69bd1a1d5c63b94608dbe0029a729a5a9b0d4b66988b8c9b3aab26d766faf5bba3f8759700553d2f441dd45a2e0bf51667d5463164422fe775deadbac7797dc90f15952eaa760bc6086af392589572ed0799155e5d1e8c4d336b06ba6e28bcf/720/index.m3u8"
+                "label": "transformers",
+                "playerLabel": "transformers",
+                "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://aq.bigtimedelivery.net/_v13/4d9bde9ff1b07a98bf42c83ee803ef5253350b15c5b90e74a3b4018fa8a471e1c7afd1faa6c83e1f2267123e9536bfc316bf7441bbf35a61c043a8c5d6a750cfb1a016f01c4c1e090879599b82c67edd6afc2a8d6d3dc6ddf97cd7d3ff1212b4bf19c590b0c4020bfd8cdcebee7c14fd68f88355a754439652386de147a138b8d9e742f2fa3d81565b499389a066cb0c/720/index.m3u8"
              },
              {
                 "icon": "movie",
