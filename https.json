@@ -239,8 +239,8 @@
                 "icon": "movie",
                 "color": "msx-glass",
                 "layout": "4,2,2,2",
-                "label": "king-kong",
-                "playerLabel": "king-kong",
+                "label": "kingkong",
+                "playerLabel": "kingkong",
                 "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ao.bigtimedelivery.net/_v13/e932e285b233714f5bd3ef12ee8157ab856a2c3cd8390f6a665678ed2339332bafcba4fdd9db7613b86d05803607c6de30a3c7cd6553ddd685c2d859cffc15997ccd7fe461c1e1b9384afa448d818af76dfcc14107d008ff0b078e3ecee99c6c0182f70f4b85392350a5636dc6b40ecf4f53077b824926ece12eb99396c4710da8495df272ccf132586b13471e869f4b/720/index.m3u8"
              },
              {
