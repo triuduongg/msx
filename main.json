@@ -14,6 +14,11 @@
                 "icon": "https",
                 "label": "https",
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/https.json"
+            },
+            {
+                "icon": "private-connectivity",
+                "label": "private",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/private.json"
             }
         ]
 }
