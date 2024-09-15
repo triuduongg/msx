@@ -57,8 +57,8 @@
                 "icon": "live-tv",
                 "color": "msx-glass",
                 "layout": "6,0,2,2",
-                "label": "iptvcat",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-iptvcat.json"
+                "label": "thetivi.us",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-thetivi.us.json"
              },
              {
                 "icon": "live-tv",
