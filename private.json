@@ -1,0 +1,25 @@
+{
+    "type": "list",
+    "headline": "http",
+    "pages": [
+       {
+          "offset": "0,0,0,0.5",
+          "items": [
+             {
+                "icon": "http",
+                "color": "msx-glass",
+                "layout": "0,0,2,2",
+                "label": "http",
+                "action": "panel:content:http://msx.benzac.de/services/m3u.php?type=video&mode=default&url=code%3AW5m3%3F_Rd%3F%3AbL%23%26%2C%3AmVI%2F%245!rvW3j(c1V-%27*z%2CaONwA%3D%5Bt-jL%2Co"
+             },
+             {
+                "icon": "https",
+                "color": "msx-glass",
+                "layout": "2,0,2,2",
+                "label": "https",
+                "action": "panel:content:https://msx.benzac.de/services/m3u.php?type=video&mode=default&url=code%3AW5m3%3F_Rd%3F%3AbL%23%26%2C%3AmVI%2F%245!rvW3j(c1V-%27*z%2CaONwA%3D%5Bt-jL%2Co"
+             }
+          ]
+       } 
+    ]
+ }
