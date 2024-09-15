@@ -10,14 +10,14 @@
                 "color": "msx-glass",
                 "layout": "0,0,2,2",
                 "label": "http",
-                "action": "content:http://msx.benzac.de/services/m3u.php?type=video&mode=default&url=code:W5m3%3F_Rd%3F%3AbL%23%26%2C%3AmVI%2F%245!rvW3j(c1V-%27*z%2CaONwA%3D%5Bt-jL%2Co"
+                "action": "content:user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=code%3AW5m3%3F_Rd%3F%3AbL%23%26%2C%3AmVI%2F%245!rvW3j(c1V-%27*z%2CaONwA%3D%5Bt-jL%2Co"
              },
              {
                 "icon": "https",
                 "color": "msx-glass",
                 "layout": "2,0,2,2",
                 "label": "https",
-                "action": "content:https://msx.benzac.de/services/m3u.php?type=video&mode=default&url=code:W5m3%3F_Rd%3F%3AbL%23%26%2C%3AmVI%2F%245!rvW3j(c1V-%27*z%2CaONwA%3D%5Bt-jL%2Co"
+                "action": "content:user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=code%3AW5m3%3F_Rd%3F%3AbL%23%26%2C%3AmVI%2F%245!rvW3j(c1V-%27*z%2CaONwA%3D%5Bt-jL%2Co"
              }
           ]
        } 
