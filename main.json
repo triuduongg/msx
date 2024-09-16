@@ -16,8 +16,8 @@
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/https.json"
             },
             {
-                "icon": "hide-source",
-                "label": "hide",
+                "icon": "more",
+                "label": "more",
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/more.json"
             }
         ]
