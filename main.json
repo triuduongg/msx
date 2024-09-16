@@ -16,9 +16,9 @@
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/https.json"
             },
             {
-                "icon": "private-connectivity",
-                "label": "private",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/private.json"
+                "icon": "hide-source",
+                "label": "hide",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/hide.json"
             }
         ]
 }
