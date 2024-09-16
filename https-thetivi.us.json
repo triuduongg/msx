@@ -16,99 +16,14 @@
             "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/2line.m3u"
         },
         {
-            "label": "A123line",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/A123line.m3u"
-        },
-        {
-            "label": "AABline",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/AABline.m3u"
-        },
-        {
-            "label": "AAline",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/AAline.m3u"
-        },
-        {
-            "label": "axAline",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/axAline.m3u"
-        },
-        {
             "label": "country",
             "icon": "list",
             "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/country.m3u"
         },
         {
-            "label": "feb24-line",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/feb24-line.m3u"
-        },
-        {
             "label": "Legal-playlist",
             "icon": "list",
             "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/Legal-playlist.m3u"
-        },
-        {
-            "label": "line(1)",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/line%281%29.m3u"
-        },
-        {
-            "label": "line",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/line.m3u"
-        },
-        {
-            "label": "lineXXXC",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/line.m3uXXXC"
-        },
-        {
-            "label": "may1624line",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/may1624line.m3u"
-        },
-        {
-            "label": "may16_2024line",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/may16_2024line.m3u"
-        },
-        {
-            "label": "may17_2024line",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/may17_2024line.m3u"
-        },
-        {
-            "label": "may19_2024line",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/may19_2024line.m3u"
-        },
-        {
-            "label": "plex",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/plex.m3u"
-        },
-        {
-            "label": "xxx",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/xxx.m3u"
-        },
-        {
-            "label": "xxx1",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/xxx1.m3u"
-        },
-        {
-            "label": "zzzline",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/zzzline.m3u"
-        },
-        {
-            "label": "m3u2/2line",
-            "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/m3u2/2line.m3u"
         }
         ]
 }
