@@ -10,7 +10,7 @@
                 "color": "msx-glass",
                 "layout": "0,0,2,2",
                 "label": "private",
-                "action": ""
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/private.json"
              }
           ]
        } 
