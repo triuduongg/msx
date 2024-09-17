@@ -43,7 +43,7 @@
                 "layout": "4,0,2,2",
                 "label": "titanic",
                 "playerLabel": "titanic",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://al.bigtimedelivery.net/_v13/8555570a154229fb5f91c1381b93da6ee7aefd31582a6ef3ddf27d0694b5e7583c339266f28086ab8fbc82cc2f268b8b9adfcbbf20eac18d23cb2d01383d6204205078bba8efb82593339a5bccb77d5f54fd988198164b76a24e7b67401bb5dbe4f2a435fbf51e16f4d2e345e04c7258f081e233d30011299de2585cb4989d509a049c7a1164eea24de4890bb8499714/720/index.m3u8"
+                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://aq.bigtimedelivery.net/_v13/8555570a154229fb5f91c1381b93da6ee7aefd31582a6ef3ddf27d0694b5e7583c339266f28086ab8fbc82cc2f268b8b9adfcbbf20eac18d23cb2d01383d6204205078bba8efb82593339a5bccb77d5f54fd988198164b76a24e7b67401bb5dbe4f2a435fbf51e16f4d2e345e04c7258f081e233d30011299de2585cb4989d509a049c7a1164eea24de4890bb8499714/720/index.m3u8"
              },
              {
                 "icon": "movie",
@@ -241,7 +241,7 @@
                 "layout": "4,2,2,2",
                 "label": "kingkong",
                 "playerLabel": "kingkong",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ao.bigtimedelivery.net/_v13/e932e285b233714f5bd3ef12ee8157ab856a2c3cd8390f6a665678ed2339332bafcba4fdd9db7613b86d05803607c6de30a3c7cd6553ddd685c2d859cffc15997ccd7fe461c1e1b9384afa448d818af76dfcc14107d008ff0b078e3ecee99c6c0182f70f4b85392350a5636dc6b40ecf4f53077b824926ece12eb99396c4710da8495df272ccf132586b13471e869f4b/720/index.m3u8"
+                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/e932e285b233714f5bd3ef12ee8157ab856a2c3cd8390f6a665678ed2339332bafcba4fdd9db7613b86d05803607c6de30a3c7cd6553ddd685c2d859cffc15997ccd7fe461c1e1b9384afa448d818af76dfcc14107d008ff0b078e3ecee99c6c0182f70f4b85392350a5636dc6b40ecf8d73d25a9e06714483226824665dfca566cc82b25b3d70eb3b66052a940492e0/720/index.m3u8"
              },
              {
                 "icon": "live-tv",
@@ -336,7 +336,7 @@
                 "layout": "4,2,2,2",
                 "label": "robinhood",
                 "playerLabel": "robinhood",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://al.bigtimedelivery.net/_v13/e8689abd78d04c04e7b5f806ff8a13b418bedd253f7d45b9ff26eafae05063f0be2880dd6e090ec0823a91d21ffb6848cedf6845169731e212b398cdcefed8158ac52d75e25530f364f0aa3cb91c5146fcbf28bcc92bde659f08d33e6866317e9a790f01e3f93231225c2cd40b2eae924594f7157ea9bf890dc2f067a28220b3585e6e79215eed0facabb96f4a964d60/720/index.m3u8"
+                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/e8689abd78d04c04e7b5f806ff8a13b418bedd253f7d45b9ff26eafae05063f0be2880dd6e090ec0823a91d21ffb6848cedf6845169731e212b398cdcefed8158ac52d75e25530f364f0aa3cb91c5146fcbf28bcc92bde659f08d33e6866317e9a790f01e3f93231225c2cd40b2eae924594f7157ea9bf890dc2f067a28220b3585e6e79215eed0facabb96f4a964d60/720/index.m3u8"
              },
              {
                 "icon": "live-tv",
