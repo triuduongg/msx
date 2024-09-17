@@ -1,0 +1,19 @@
+{
+    "headline": "jsosao",
+    "menu": [   
+        {
+            "type": "separator",
+            "label": "list"
+        },
+        {
+            "label": "mylist",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/1line.m3u"
+        },
+        {
+            "label": "test",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://thetivi.us/M3U/2line.m3u"
+        }
+        ]
+}
