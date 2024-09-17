@@ -57,8 +57,8 @@
                 "icon": "live-tv",
                 "color": "msx-glass",
                 "layout": "6,0,2,2",
-                "label": "thetivi.us",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-thetivi.us.json"
+                "label": "jsosao",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-jsosao.json"
              },
              {
                 "icon": "live-tv",
