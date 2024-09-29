@@ -1,387 +1,307 @@
 {
     "type": "list",
     "headline": "https",
-    "pages": [
-       {
-          "offset": "0,0,0,0.5",
-          "items": [
-             {
-                "icon": "photo",
-                "color": "msx-glass",
-                "layout": "0,0,2,2",
-                "label": "tokyo",
-                "playerLabel": "tokyo",
-                "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://img1.wallspic.com/crops/8/4/9/7/6/167948/167948-anime-anime_art-ken_kaneki-tokyo-cloud-1280x720.jpg"
-             },
-             {
-                "icon": "photo",
-                "color": "msx-glass",
-                "layout": "0,2,2,2",
-                "label": "venice",
-                "playerLabel": "venice",
-                "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://img2.wallspic.com/crops/1/6/1/2/3/132161/132161-rome-town-tourism-channel-bed_and_breakfast-1280x720.jpg"
-             },
-             {
-                "icon": "music-note",
-                "color": "msx-glass",
-                "layout": "2,0,2,2",
-                "label": "faded",
-                "playerLabel": "faded",
-                "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=60ItHLz5WEA"
-             },
-             {
-                "icon": "music-note",
-                "color": "msx-glass",
-                "layout": "2,2,2,2",
-                "label": "roar",
-                "playerLabel": "roar",
-                "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=CevxZvSJLk8"
-             },
-             {
-                "icon": "movie",
-                "color": "msx-glass",
-                "layout": "4,0,2,2",
-                "label": "titanic",
-                "playerLabel": "titanic",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://aq.bigtimedelivery.net/_v13/8555570a154229fb5f91c1381b93da6ee7aefd31582a6ef3ddf27d0694b5e7583c339266f28086ab8fbc82cc2f268b8b9adfcbbf20eac18d23cb2d01383d6204205078bba8efb82593339a5bccb77d5f54fd988198164b76a24e7b67401bb5dbe4f2a435fbf51e16f4d2e345e04c7258f081e233d30011299de2585cb4989d509a049c7a1164eea24de4890bb8499714/720/index.m3u8"
-             },
-             {
-                "icon": "movie",
-                "color": "msx-glass",
-                "layout": "4,2,2,2",
-                "label": "finding-nemo",
-                "playerLabel": "finding-nemo",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/1d2fb54590dbc0a58bc8043aa8b4a4d7dc3e00b8aee4cc9e86000e8f563e0559eb5ef589b7786488b91897f4e7573cc0184853be18bbf778c99206db243744c02b23200dce7c11e8113884c4f69948c5918ea04014bdcd6b7e440f989c764bd16ff0c1b60c932009010c277ad8fbe7ced5cb9060c596a0271aaa4d7b8c784f37da9ebcdd57e72a9f95f15e84afae98a3/720/index.m3u8"
-             },
-             {
-                "icon": "live-tv",
-                "color": "msx-glass",
-                "layout": "6,0,2,2",
-                "label": "jsosao",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-jsosao.json"
-             },
-             {
-                "icon": "live-tv",
-                "color": "msx-glass",
-                "layout": "6,2,2,2",
-                "label": "iptv-org",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-iptv-org.json"
-             },
-             {
-                "icon": "rss-feed",
-                "color": "msx-glass",
-                "layout": "8,0,2,2",
-                "label": "nytimes",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-nytimes.json"
-             },
-             {
-                "icon": "rss-feed",
-                "color": "msx-glass",
-                "layout": "8,2,2,2",
-                "label": "dailymail",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-dailymail.json"
-             },
-             {
-                "icon": "extension",
-                "color": "msx-glass",
-                "layout": "10,0,2,2",
-                "label": "launcher",
-                "action": "menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
-             },
-             {
-                "icon": "extension",
-                "color": "msx-glass",
-                "layout": "10,2,2,2",
-                "label": "googledrive",
-                "action": "menu:request:interaction:init@https://gd.msx.benzac.de/interaction"
-             }
-          ]
-       },
-       {
-          "offset": "0,-0.5,0,0",
-          "items": [
-             {
-                "icon": "photo",
-                "color": "msx-glass",
-                "layout": "0,0,2,2",
-                "label": "sydney",
-                "playerLabel": "sydney",
-                "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://img3.wallspic.com/crops/2/4/9/3/0/103942/103942-capital_city-darling_harbour-metropolis-water_transportation-opera_house-1280x720.jpg"
-             },
-             {
-                "icon": "photo",
-                "color": "msx-glass",
-                "layout": "0,2,2,2",
-                "label": "paris",
-                "playerLabel": "paris",
-                "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://img3.wallspic.com/crops/0/2/5/6/5/156520/156520-paris_city-eiffel_tower-city-building-daytime-1280x720.jpg"
-             },
-             {
-                "icon": "music-note",
-                "color": "msx-glass",
-                "layout": "2,0,2,2",
-                "label": "demons",
-                "playerLabel": "demons",
-                "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=mWRsgZuwf_8"
-             },
-             {
-                "icon": "music-note",
-                "color": "msx-glass",
-                "layout": "2,2,2,2",
-                "label": "symphony",
-                "playerLabel": "symphony",
-                "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=aatr_2MstrI"
-             },
-             {
-                "icon": "movie",
-                "color": "msx-glass",
-                "layout": "4,0,2,2",
-                "label": "transformers",
-                "playerLabel": "transformers",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://aq.bigtimedelivery.net/_v13/4d9bde9ff1b07a98bf42c83ee803ef5253350b15c5b90e74a3b4018fa8a471e1c7afd1faa6c83e1f2267123e9536bfc316bf7441bbf35a61c043a8c5d6a750cfb1a016f01c4c1e090879599b82c67edd6afc2a8d6d3dc6ddf97cd7d3ff1212b4bf19c590b0c4020bfd8cdcebee7c14fd68f88355a754439652386de147a138b8d9e742f2fa3d81565b499389a066cb0c/720/index.m3u8"
-             },
-             {
-                "icon": "movie",
-                "color": "msx-glass",
-                "layout": "4,2,2,2",
-                "label": "spiritedaway",
-                "playerLabel": "spiritedaway",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ap.bigtimedelivery.net/_v13/3113ec917f23b79ff3f91f6c90deaf6289dd98a490d311ffbee99c6f2f26a5f6a44674a35641a0601efe545b1e2ca79e69cd9dbe523c79652cc30f3685ccb713571dd3863032b19051cf4c4819375dbd6230c05458fca24fbc80d50551cee1fcce0e2b94f26e47dddb19548ae8436e4815bae7ddd3dd0811f9e8ba14846e8190b483dfbe370982f8b68c9d764b1a7245/720/index.m3u8"
-             },
-             {
-                "icon": "live-tv",
-                "color": "msx-glass",
-                "layout": "6,0,2,2",
-                "label": "freetv.fun",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-freetv.fun.json"
-             },
-             {
-                "icon": "live-tv",
-                "color": "msx-glass",
-                "layout": "6,2,2,2",
-                "label": "free-tv",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-free-tv.json"
-             },
-             {
-                "icon": "rss-feed",
-                "color": "msx-glass",
-                "layout": "8,0,2,2",
-                "label": "foxnews",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-foxnews.json"
-             },
-             {
-                "icon": "rss-feed",
-                "color": "msx-glass",
-                "layout": "8,2,2,2",
-                "label": "lequipe",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-lequipe.json"
-             },
-             {
-                "icon": "extension",
-                "color": "msx-glass",
-                "layout": "10,0,2,2",
-                "label": "onedrive",
-                "action": "menu:request:interaction:init@https://od.msx.benzac.de/interaction"
-             },
-             {
-                "icon": "extension",
-                "color": "msx-glass",
-                "layout": "10,2,2,2",
-                "label": "dropbox",
-                "action": "menu:request:interaction:init@https://db.msx.benzac.de/interaction"
-             }
-          ]
-       },
-       {
-          "offset": "0,0,0,0.5",
-          "items": [
-             {
-                "icon": "photo",
-                "color": "msx-glass",
-                "layout": "0,0,2,2",
-                "label": "newyork",
-                "playerLabel": "newyork",
-                "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://img1.wallspic.com/crops/6/9/9/2/7/172996/172996-new_york-city-tablet-water-cloud-1280x720.jpg"
-             },
-             {
-                "icon": "photo",
-                "color": "msx-glass",
-                "layout": "0,2,2,2",
-                "label": "london",
-                "playerLabel": "london",
-                "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://img2.wallspic.com/crops/1/4/9/8/88941/88941-london_eye-tourist_attraction-reflection-capital_city-river-1280x720.jpg"
-             },
-             {
-                "icon": "music-note",
-                "color": "msx-glass",
-                "layout": "2,0,2,2",
-                "label": "titanium",
-                "playerLabel": "titanium",
-                "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=JRfuAukYTKg"
-             },
-             {
-                "icon": "music-note",
-                "color": "msx-glass",
-                "layout": "2,2,2,2",
-                "label": "closer",
-                "playerLabel": "closer",
-                "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=PT2_F-1esPk"
-             },
-             {
-                "icon": "movie",
-                "color": "msx-glass",
-                "layout": "4,0,2,2",
-                "label": "justiceleague",
-                "playerLabel": "justiceleague",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/28ff1aaf7fabd54117d27033d6a03988b530247e4d99a6375d9d714230cf7bc7faafb0d120fb35b684ea42c6ee3052a8916248895adc0e8480e4738a117230c7d424598d416441be4dce85a6884ae6f14a140f47fdb067f03c2aff9b65eca636ed4c186e3d430585e6e610413ed162f94306db4c4bde56609f30995b3ff2a1780596fbe033366cef15119174028df2b8/720/index.m3u8"
-             },
-             {
-                "icon": "movie",
-                "color": "msx-glass",
-                "layout": "4,2,2,2",
-                "label": "kingkong",
-                "playerLabel": "kingkong",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/e932e285b233714f5bd3ef12ee8157ab856a2c3cd8390f6a665678ed2339332bafcba4fdd9db7613b86d05803607c6de30a3c7cd6553ddd685c2d859cffc15997ccd7fe461c1e1b9384afa448d818af76dfcc14107d008ff0b078e3ecee99c6c0182f70f4b85392350a5636dc6b40ecf8d73d25a9e06714483226824665dfca566cc82b25b3d70eb3b66052a940492e0/720/index.m3u8"
-             },
-             {
-                "icon": "live-tv",
-                "color": "msx-glass",
-                "layout": "6,0,2,2",
-                "label": "i.mjh.nz",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-i.mjh.nz.json"
-             },
-             {
-                "icon": "live-tv",
-                "color": "msx-glass",
-                "layout": "6,2,2,2",
-                "label": "iptv-list.com",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-iptv-list.com.json"
-             },
-             {
-                "icon": "rss-feed",
-                "color": "msx-glass",
-                "layout": "8,0,2,2",
-                "label": "unnews",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-unnews.json"
-             },
-             {
-                "icon": "rss-feed",
-                "color": "msx-glass",
-                "layout": "8,2,2,2",
-                "label": "thedaily",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-thedaily.json"
-             },
-             {
-                "icon": "extension",
-                "color": "msx-glass",
-                "layout": "10,0,2,2",
-                "label": "nodejs",
-                "action": "menu:request:interaction:init@https://nb.msx.benzac.de/interaction"
-             },
-             {
-                "icon": "extension",
-                "color": "msx-glass",
-                "layout": "10,2,2,2",
-                "label": "soundcloud",
-                "action": "menu:https://sc.msx.benzac.de/msx/service.php"
-             }
-          ]
-       },
-       {
-          "offset": "0,-0.5,0,0",
-          "items": [
-             {
-                "icon": "photo",
-                "color": "msx-glass",
-                "layout": "0,0,2,2",
-                "label": "budapest",
-                "playerLabel": "budapest",
-                "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://img1.wallspic.com/crops/6/7/3/2/6/162376/162376-budapest-hungarian_parliament_building-nature-mountainous_landforms-architecture-1280x720.jpg"
-             },
-             {
-                "icon": "photo",
-                "color": "msx-glass",
-                "layout": "0,2,2,2",
-                "label": "amsterdam",
-                "playerLabel": "amsterdam",
-                "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://img3.wallspic.com/crops/4/2/9/7/6/167924/167924-amsterdam-water-bicycle-wheel-building-1280x720.jpg"
-             },
-             {
-                "icon": "music-note",
-                "color": "msx-glass",
-                "layout": "2,0,2,2",
-                "label": "attention",
-                "playerLabel": "attention",
-                "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=nfs8NYg7yQM"
-             },
-             {
-                "icon": "music-note",
-                "color": "msx-glass",
-                "layout": "2,2,2,2",
-                "label": "happier",
-                "playerLabel": "happier",
-                "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=m7Bc3pLyij0"
-             },
-             {
-                "icon": "movie",
-                "color": "msx-glass",
-                "layout": "4,0,2,2",
-                "label": "hobbs&shaw",
-                "playerLabel": "hobbs&shaw",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/c8fe20bcc6c6a5961d9546a93b737b507ca9eb3da7dac05e2f45de163369b202d1f02d63c79c9201859d92c6f8f35ab2b8180894f84b2bbf687d85729d740e5ecd60ac65052710a3bc61885b58091e17c499bfb9590064ef9d07e6d25d9b59ae4e2405af8e0025e0f53a120745501151f02d7c53fabeac1dbf17719b0a49e90b337a22074d46cef853ea69aeddf75c9e/720/index.m3u8"
-             },
-             {
-                "icon": "movie",
-                "color": "msx-glass",
-                "layout": "4,2,2,2",
-                "label": "robinhood",
-                "playerLabel": "robinhood",
-                "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ay.bigtimedelivery.net/_v13/e8689abd78d04c04e7b5f806ff8a13b418bedd253f7d45b9ff26eafae05063f0be2880dd6e090ec0823a91d21ffb6848cedf6845169731e212b398cdcefed8158ac52d75e25530f364f0aa3cb91c5146fcbf28bcc92bde659f08d33e6866317e9a790f01e3f93231225c2cd40b2eae924594f7157ea9bf890dc2f067a28220b3585e6e79215eed0facabb96f4a964d60/720/index.m3u8"
-             },
-             {
-                "icon": "live-tv",
-                "color": "msx-glass",
-                "layout": "6,0,2,2",
-                "label": "m3u.cl",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-m3u.cl.json"
-             },
-             {
-                "icon": "live-tv",
-                "color": "msx-glass",
-                "layout": "6,2,2,2",
-                "label": "m3upt",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-m3upt.json"
-             },
-             {
-                "icon": "rss-feed",
-                "color": "msx-glass",
-                "layout": "8,0,2,2",
-                "label": "theage",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-theage.json"
-             },
-             {
-                "icon": "rss-feed",
-                "color": "msx-glass",
-                "layout": "8,2,2,2",
-                "label": "crimejunkie",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-crimejunkie.json"
-             },
-             {
-                "icon": "extension",
-                "color": "msx-glass",
-                "layout": "10,0,2,2",
-                "label": "tmdb",
-                "action": "menu:http://tmdb.msx.benzac.de/msx/service.php"
-             },
-             {
-                "icon": "extension",
-                "color": "msx-glass",
-                "layout": "10,2,2,2",
-                "label": "euronews",
-                "action": "menu:https://en.msx.benzac.de/msx/service.php"
-             }
-          ]
-       }
-       
+    "template": {
+       "layout": "0,0,2,2",
+       "color": "msx-glass"
+    },
+    "items": [
+        {
+            "icon": "photo",
+            "label": "earthrise",
+            "playerLabel": "earthrise",
+            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/commons/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg?download"
+        },
+        {
+            "icon": "music-note",
+            "label": "faded",
+            "playerLabel": "faded",
+            "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=60ItHLz5WEA"
+        },
+        {
+            "icon": "movie",
+            "label": "titanic",
+            "playerLabel": "titanic",
+            "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://bf.wldishere.com/_v16/8555570a154229fb5f91c1381b93da6ee7aefd31582a6ef3ddf27d0694b5e7583c339266f28086ab8fbc82cc2f268b8b9adfcbbf20eac18d23cb2d01383d6204205078bba8efb82593339a5bccb77d5f54fd988198164b76a24e7b67401bb5dbe4f2a435fbf51e16f4d2e345e04c72586d28af10bbc3dc758619f4a671bbdfc0a86d20fa0b350c22129619cd2fd1d0b9cf0b89433b5af8ae5063e8ce24f90ef7/720/index.m3u8"
+        },
+        {
+            "icon": "live-tv",
+            "label": "jsosao",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-jsosao.json"
+        },
+        {
+            "icon": "rss-feed",
+            "label": "nytimes",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-nytimes.json"
+        },
+        {
+            "icon": "extension",
+            "label": "launcher",
+            "action": "menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
+        },
+        {
+            "icon": "photo",
+            "label": "bliss",
+            "playerLabel": "bliss",
+            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/vi/7/7d/Bliss.png?download"
+        },
+        {
+            "icon": "music-note",
+            "label": "roar",
+            "playerLabel": "roar",
+            "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=60ItHLz5WEA"
+        },
+        {
+            "icon": "movie",
+            "label": "findingnemo",
+            "playerLabel": "findingnemo",
+            "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ap.wldishere.com/_v16/1d2fb54590dbc0a58bc8043aa8b4a4d7dc3e00b8aee4cc9e86000e8f563e0559eb5ef589b7786488b91897f4e7573cc0184853be18bbf778c99206db243744c02b23200dce7c11e8113884c4f69948c5918ea04014bdcd6b7e440f989c764bd16ff0c1b60c932009010c277ad8fbe7ced5cb9060c596a0271aaa4d7b8c784f37160b06fdc8ca36b46d00e2e12e8882dd18711e2af58af2d0448c5f8984c0446a/720/index.m3u8"
+        },
+        {
+            "icon": "live-tv",
+            "label": "iptv-org",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-iptv-org.json"
+        },
+        {
+            "icon": "rss-feed",
+            "label": "dailymail",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-dailymail.json"
+        },
+        {
+            "icon": "extension",
+            "label": "googledrive",
+            "action": "menu:request:interaction:init@https://gd.msx.benzac.de/interaction"
+        },
+        {
+            "icon": "photo",
+            "label": "fallingwater",
+            "playerLabel": "fallingwater",
+            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/commons/b/bc/Fallingwater3.jpg?download"
+        },
+        {
+            "icon": "music-note",
+            "label": "demons",
+            "playerLabel": "demons",
+            "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=mWRsgZuwf_8"
+        },
+        {
+            "icon": "movie",
+            "label": "transformers",
+            "playerLabel": "transformers",
+            "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://be.wldishere.com/_v16/4d9bde9ff1b07a98bf42c83ee803ef5253350b15c5b90e74a3b4018fa8a471e1c7afd1faa6c83e1f2267123e9536bfc316bf7441bbf35a61c043a8c5d6a750cfb1a016f01c4c1e090879599b82c67edd6afc2a8d6d3dc6ddf97cd7d3ff1212b4bf19c590b0c4020bfd8cdcebee7c14fd68f88355a754439652386de147a138b85c8da99613137459db9d8f40ee88415d84b4088c8375ead141bd1798f43aaafd/720/index.m3u8"
+        },
+        {
+            "icon": "live-tv",
+            "label": "freetv.fun",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-freetv.fun.json"
+        },
+        {
+            "icon": "rss-feed",
+            "label": "foxnews",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-foxnews.json"
+        },
+        {
+            "icon": "extension",
+            "label": "onedrive",
+            "action": "menu:request:interaction:init@https://od.msx.benzac.de/interaction"
+        },
+        {
+            "icon": "photo",
+            "label": "tankman",
+            "playerLabel": "tankman",
+            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/en/d/dd/Tank_Man_%28Tiananmen_Square_protester%29.jpg?download"
+        },
+        {
+            "icon": "music-note",
+            "label": "symphony",
+            "playerLabel": "symphony",
+            "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=aatr_2MstrI"
+        },
+        {
+            "icon": "movie",
+            "label": "spiritedaway",
+            "playerLabel": "spiritedaway",
+            "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://be.wldishere.com/_v16/3113ec917f23b79ff3f91f6c90deaf6289dd98a490d311ffbee99c6f2f26a5f6a44674a35641a0601efe545b1e2ca79e69cd9dbe523c79652cc30f3685ccb713571dd3863032b19051cf4c4819375dbd6230c05458fca24fbc80d50551cee1fcce0e2b94f26e47dddb19548ae8436e481742e67203c5a53bfc7cf94702cdcee384cbb7a811dccc78b65c04e0116b8d65ed9654e60918d908cbfe337eacbe0d81/720/index.m3u8"
+        },
+        {
+            "icon": "live-tv",
+            "label": "free-tv",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-free-tv.json"
+        },
+        {
+            "icon": "rss-feed",
+            "label": "lequipe",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-lequipe.json"
+        },
+        {
+            "icon": "extension",
+            "label": "dropbox",
+            "action": "menu:request:interaction:init@https://db.msx.benzac.de/interaction"
+        },
+        {
+            "icon": "photo",
+            "label": "daliatomicus",
+            "playerLabel": "daliatomicus",
+            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/commons/4/4c/Dal%C3%AD_Atomicus_%28final_version%29.jpg?download"
+        },
+        {
+            "icon": "music-note",
+            "label": "titanium",
+            "playerLabel": "titanium",
+            "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=JRfuAukYTKg"
+        },
+        {
+            "icon": "movie",
+            "label": "justiceleague",
+            "playerLabel": "justiceleague",
+            "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://at.wldishere.com/_v16/28ff1aaf7fabd54117d27033d6a03988b530247e4d99a6375d9d714230cf7bc7faafb0d120fb35b684ea42c6ee3052a8916248895adc0e8480e4738a117230c7d424598d416441be4dce85a6884ae6f14a140f47fdb067f03c2aff9b65eca636ed4c186e3d430585e6e610413ed162f917b0a78c338a73a2367c1ba2618bc919eed7fe20909aec2243f15203466090f4937b254058c5de930afa2bda5ecfa1fa/720/index.m3u8"
+        },
+        {
+            "icon": "live-tv",
+            "label": "i.mjh.nz",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-i.mjh.nz.json"
+        },
+        {
+            "icon": "rss-feed",
+            "label": "unnews",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-unnews.json"
+        },
+        {
+            "icon": "extension",
+            "label": "nodejs",
+            "action": "menu:request:interaction:init@https://nb.msx.benzac.de/interaction"
+        },
+        {
+            "icon": "photo",
+            "label": "cryinggirl",
+            "playerLabel": "cryinggirl",
+            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/en/0/04/Crying_Girl_%28lithograph%29.jpg?download"
+        },
+        {
+            "icon": "music-note",
+            "label": "closer",
+            "playerLabel": "closer",
+            "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=PT2_F-1esPk"
+        },
+        {
+            "icon": "movie",
+            "label": "kingkong",
+            "playerLabel": "kingkong",
+            "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://ay.wldishere.com/_v16/e932e285b233714f5bd3ef12ee8157ab856a2c3cd8390f6a665678ed2339332bafcba4fdd9db7613b86d05803607c6de30a3c7cd6553ddd685c2d859cffc15997ccd7fe461c1e1b9384afa448d818af76dfcc14107d008ff0b078e3ecee99c6c0182f70f4b85392350a5636dc6b40ecf4f53077b824926ece12eb99396c4710d3e3e628e2a74774d63f127462bcd80ea5870c9f39776125b6d7b5fa84b46ada6/720/index.m3u8"
+        },
+        {
+            "icon": "live-tv",
+            "label": "m3upt",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-m3upt.json"
+        },
+        {
+            "icon": "rss-feed",
+            "label": "thedaily",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-thedaily.json"
+        },
+        {
+            "icon": "extension",
+            "label": "soundcloud",
+            "action": "menu:https://sc.msx.benzac.de/msx/service.php"
+        },
+        {
+            "icon": "photo",
+            "label": "vjday",
+            "playerLabel": "vjday",
+            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/en/9/95/Legendary_kiss_V%E2%80%93J_day_in_Times_Square_Alfred_Eisenstaedt.jpg?download"
+        },
+        {
+            "icon": "music-note",
+            "label": "attention",
+            "playerLabel": "attention",
+            "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=nfs8NYg7yQM"
+        },
+        {
+            "icon": "movie",
+            "label": "expendables",
+            "playerLabel": "expendables",
+            "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://be.wldishere.com/_v16/7481d2e8a1c16fbc5716c82b4ea5a8936cb8f0590823378164a9214a1aa518905db8dbf59877b1e48ea6c8a73bc83dfa2912fb1dd4edd827c444539a27e8de3a346ef9a1364f319c03cf152e28b1e05db271ad91720795fc8a53f1eaf14a5a7be621602261ea7bfad9ab3d5d0640455f0017ed6590b1080ab90bd80e21a6da686d737baa8295f1b7f04f0431413fefee88ad956489ec16b556d8ecf753b8831a/720/index.m3u8"
+        },
+        {
+            "icon": "live-tv",
+            "label": "iptv-list.com",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-iptv-list.com.json"
+        },
+        {
+            "icon": "rss-feed",
+            "label": "theage",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-theage.json"
+        },
+        {
+            "icon": "extension",
+            "label": "tmdb",
+            "action": "menu:https://tmdb.msx.benzac.de/msx/service.php"
+        },
+        {
+            "icon": "photo",
+            "label": "afghangirl",
+            "playerLabel": "afghangirl",
+            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/en/b/b4/Sharbat_Gula.jpg?download"
+        },
+        {
+            "icon": "music-note",
+            "label": "happier",
+            "playerLabel": "happier",
+            "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=m7Bc3pLyij0"
+        },
+        {
+            "icon": "movie",
+            "label": "troy",
+            "playerLabel": "troy",
+            "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://at.wldishere.com/_v16/fca472b5f71f65b5db4466316a1f037cc1332a27a2b8ab6c6ea6d2ade87c0ddf442613f3df45c55b8a0aef710a208ac19c93b78716e20c11bb8755e9c858c8d35a03c97818057909adbb926e42bfa194df84f7d39596b65a36c449a389ac72a67cfcc821c88e980f19eb772cfebb0f9c9c15cc236963fe1cfa5dca509ec6f6d04e21fda6beae4d92c4b0ba3dbe2f3fe46bfe2a72c64f83a614f5783597adebb8/720/index.m3u8"
+        },
+        {
+            "icon": "live-tv",
+            "label": "m3u.cl",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-m3u.cl.json"
+        },
+        {
+            "icon": "rss-feed",
+            "label": "crimejunkie",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-crimejunkie.json"
+        },
+        {
+            "icon": "extension",
+            "label": "euronews",
+            "action": "menu:https://en.msx.benzac.de/msx/service.php"
+        },
+        {
+            "icon": "photo",
+            "label": "lunch",
+            "playerLabel": "lunch",
+            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/commons/9/9c/Lunch_atop_a_Skyscraper_-_Charles_Clyde_Ebbets.jpg?download"
+        },
+        {
+            "icon": "music-note",
+            "label": "shapeofyou",
+            "playerLabel": "shapeofyou",
+            "action": "video:plugin:https://msx.benzac.de/plugins/youtube.html?id=JGwWNGJdvx8"
+        },
+        {
+            "icon": "movie",
+            "label": "homealone",
+            "playerLabel": "homealone",
+            "action": "video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://be.wldishere.com/_v16/4a869b9fced8c1862007b4ad9294731d4697982a809c08663db368625f33a8a068965e4272eaf87aebae2ccae63f0f51f1d35f35d9879452355591180e5683c8872b77a64783887ce53492165e49b9659b613f03df78c595e5087abc85a4bf7d45446cc318cb67361cfbb567c1f8c0ee535687f935b29ca0d11dfd6c79e47b6860a6978729ecf8d1a35f2220e1a15fa3db3da764b13a05d64734635348a8df69/720/index.m3u8"
+        },
+        {
+            "icon": "live-tv",
+            "label": "inspiration",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-inspiration.json"
+        },
+        {
+            "icon": "rss-feed",
+            "label": "smh",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-smh.json"
+        },
+        {
+            "icon": "extension",
+            "label": "rbtv",
+            "action": "menu:request:interaction:init@https://rbtv.msx.benzac.de"
+        }
     ]
- }
+}
