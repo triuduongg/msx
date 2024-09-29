@@ -363,8 +363,8 @@
                 "icon": "rss-feed",
                 "color": "msx-glass",
                 "layout": "8,2,2,2",
-                "label": "thesun",
-                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-thesun.json"
+                "label": "crimejunkie",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-crimejunkie.json"
              },
              {
                 "icon": "extension",
