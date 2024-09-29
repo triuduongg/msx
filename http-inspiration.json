@@ -1,0 +1,19 @@
+{
+    "headline": "inspiration",
+    "menu": [   
+        {
+            "type": "separator",
+            "label": "list"
+        },
+        {
+            "label": "pt",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/pt.m3u8"
+        },
+        {
+            "label": "RevolutionIPTV",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/RevolutionIPTV.m3u"
+        }
+        ]
+}
