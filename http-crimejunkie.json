@@ -7,7 +7,7 @@
         },
         {
             "icon": "topic",
-            "label": "episodes",
+            "label": "latest episodes",
             "data": "request:interaction:https://feeds.simplecast.com/qm_9xx0g@http://msx.benzac.de/interaction/mrss.html"
         }
         ]
