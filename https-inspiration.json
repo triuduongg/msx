@@ -11,9 +11,14 @@
             "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/pt.m3u8"
         },
         {
-            "label": "RevolutionIPTV",
+            "label": "FREETV",
             "icon": "list",
-            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/RevolutionIPTV.m3u"
+            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Lista%20Canais%20FREETV"
+        },
+        {
+            "label": "LIVETV",
+            "icon": "list",
+            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Lista%20Canais%20LIVETV"
         }
         ]
 }
