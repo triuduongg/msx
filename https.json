@@ -251,9 +251,9 @@
         },
         {
             "icon": "movie",
-            "label": "redballoon",
-            "playerLabel": "redballoon",
-            "action": "video:plugin:https://msx.benzac.de/plugins/vimeo.html?id=499813272"
+            "label": "elephantsdream",
+            "playerLabel": "elephantsdream",
+            "action": "video:plugin:https://msx.benzac.de/plugins/vimeo.html?id=1132937"
         },
         {
             "icon": "live-tv",
