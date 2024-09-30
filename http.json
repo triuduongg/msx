@@ -20,9 +20,9 @@
         },
         {
             "icon": "movie",
-            "label": "partlycloudy",
-            "playerLabel": "partlycloudy",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=164192263"
+            "label": "charge",
+            "playerLabel": "charge",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=788823625"
         },
         {
             "icon": "live-tv",
