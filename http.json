@@ -16,13 +16,13 @@
             "icon": "music-note",
             "label": "faded",
             "playerLabel": "faded",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=60ItHLz5WEA"
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=317404294"
         },
         {
             "icon": "movie",
-            "label": "titanic",
-            "playerLabel": "titanic",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://bf.wldishere.com/_v16/8555570a154229fb5f91c1381b93da6ee7aefd31582a6ef3ddf27d0694b5e7583c339266f28086ab8fbc82cc2f268b8b9adfcbbf20eac18d23cb2d01383d6204205078bba8efb82593339a5bccb77d5f54fd988198164b76a24e7b67401bb5dbe4f2a435fbf51e16f4d2e345e04c72586d28af10bbc3dc758619f4a671bbdfc0a86d20fa0b350c22129619cd2fd1d0b9cf0b89433b5af8ae5063e8ce24f90ef7/720/index.m3u8"
+            "label": "partlycloudy",
+            "playerLabel": "partlycloudy",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=164192263"
         },
         {
             "icon": "live-tv",
@@ -49,13 +49,13 @@
             "icon": "music-note",
             "label": "roar",
             "playerLabel": "roar",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=60ItHLz5WEA"
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=160883302"
         },
         {
             "icon": "movie",
-            "label": "findingnemo",
-            "playerLabel": "findingnemo",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ap.wldishere.com/_v16/1d2fb54590dbc0a58bc8043aa8b4a4d7dc3e00b8aee4cc9e86000e8f563e0559eb5ef589b7786488b91897f4e7573cc0184853be18bbf778c99206db243744c02b23200dce7c11e8113884c4f69948c5918ea04014bdcd6b7e440f989c764bd16ff0c1b60c932009010c277ad8fbe7ced5cb9060c596a0271aaa4d7b8c784f37160b06fdc8ca36b46d00e2e12e8882dd18711e2af58af2d0448c5f8984c0446a/720/index.m3u8"
+            "label": "sintel",
+            "playerLabel": "sintel",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=59785024"
         },
         {
             "icon": "live-tv",
@@ -82,13 +82,13 @@
             "icon": "music-note",
             "label": "demons",
             "playerLabel": "demons",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=mWRsgZuwf_8"
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=222763321"
         },
         {
             "icon": "movie",
-            "label": "transformers",
-            "playerLabel": "transformers",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://be.wldishere.com/_v16/4d9bde9ff1b07a98bf42c83ee803ef5253350b15c5b90e74a3b4018fa8a471e1c7afd1faa6c83e1f2267123e9536bfc316bf7441bbf35a61c043a8c5d6a750cfb1a016f01c4c1e090879599b82c67edd6afc2a8d6d3dc6ddf97cd7d3ff1212b4bf19c590b0c4020bfd8cdcebee7c14fd68f88355a754439652386de147a138b85c8da99613137459db9d8f40ee88415d84b4088c8375ead141bd1798f43aaafd/720/index.m3u8"
+            "label": "agent327",
+            "playerLabel": "agent327",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=217499569"
         },
         {
             "icon": "live-tv",
@@ -115,13 +115,13 @@
             "icon": "music-note",
             "label": "symphony",
             "playerLabel": "symphony",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=aatr_2MstrI"
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=209004479"
         },
         {
             "icon": "movie",
-            "label": "spiritedaway",
-            "playerLabel": "spiritedaway",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://be.wldishere.com/_v16/3113ec917f23b79ff3f91f6c90deaf6289dd98a490d311ffbee99c6f2f26a5f6a44674a35641a0601efe545b1e2ca79e69cd9dbe523c79652cc30f3685ccb713571dd3863032b19051cf4c4819375dbd6230c05458fca24fbc80d50551cee1fcce0e2b94f26e47dddb19548ae8436e481742e67203c5a53bfc7cf94702cdcee384cbb7a811dccc78b65c04e0116b8d65ed9654e60918d908cbfe337eacbe0d81/720/index.m3u8"
+            "label": "spring",
+            "playerLabel": "spring",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=325910798"
         },
         {
             "icon": "live-tv",
@@ -148,13 +148,13 @@
             "icon": "music-note",
             "label": "titanium",
             "playerLabel": "titanium",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=JRfuAukYTKg"
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=34035823"
         },
         {
             "icon": "movie",
-            "label": "justiceleague",
-            "playerLabel": "justiceleague",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://at.wldishere.com/_v16/28ff1aaf7fabd54117d27033d6a03988b530247e4d99a6375d9d714230cf7bc7faafb0d120fb35b684ea42c6ee3052a8916248895adc0e8480e4738a117230c7d424598d416441be4dce85a6884ae6f14a140f47fdb067f03c2aff9b65eca636ed4c186e3d430585e6e610413ed162f917b0a78c338a73a2367c1ba2618bc919eed7fe20909aec2243f15203466090f4937b254058c5de930afa2bda5ecfa1fa/720/index.m3u8"
+            "label": "tearsofsteel",
+            "playerLabel": "tearsofsteel",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=60884787"
         },
         {
             "icon": "live-tv",
@@ -179,15 +179,15 @@
         },
         {
             "icon": "music-note",
-            "label": "closer",
-            "playerLabel": "closer",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=PT2_F-1esPk"
+            "label": "sugar",
+            "playerLabel": "sugar",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=922559638"
         },
         {
             "icon": "movie",
-            "label": "kingkong",
-            "playerLabel": "kingkong",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://ay.wldishere.com/_v16/e932e285b233714f5bd3ef12ee8157ab856a2c3cd8390f6a665678ed2339332bafcba4fdd9db7613b86d05803607c6de30a3c7cd6553ddd685c2d859cffc15997ccd7fe461c1e1b9384afa448d818af76dfcc14107d008ff0b078e3ecee99c6c0182f70f4b85392350a5636dc6b40ecf4f53077b824926ece12eb99396c4710d3e3e628e2a74774d63f127462bcd80ea5870c9f39776125b6d7b5fa84b46ada6/720/index.m3u8"
+            "label": "bigbuckbunny",
+            "playerLabel": "bigbuckbunny",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=1084537"
         },
         {
             "icon": "live-tv",
@@ -212,15 +212,15 @@
         },
         {
             "icon": "music-note",
-            "label": "attention",
-            "playerLabel": "attention",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=nfs8NYg7yQM"
+            "label": "seeyouagain",
+            "playerLabel": "seeyouagain",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=270134945"
         },
         {
             "icon": "movie",
-            "label": "expendables",
-            "playerLabel": "expendables",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://be.wldishere.com/_v16/7481d2e8a1c16fbc5716c82b4ea5a8936cb8f0590823378164a9214a1aa518905db8dbf59877b1e48ea6c8a73bc83dfa2912fb1dd4edd827c444539a27e8de3a346ef9a1364f319c03cf152e28b1e05db271ad91720795fc8a53f1eaf14a5a7be621602261ea7bfad9ab3d5d0640455f0017ed6590b1080ab90bd80e21a6da686d737baa8295f1b7f04f0431413fefee88ad956489ec16b556d8ecf753b8831a/720/index.m3u8"
+            "label": "hero",
+            "playerLabel": "hero",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=265010648"
         },
         {
             "icon": "live-tv",
@@ -245,15 +245,15 @@
         },
         {
             "icon": "music-note",
-            "label": "happier",
-            "playerLabel": "happier",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=m7Bc3pLyij0"
+            "label": "gangnamstyle",
+            "playerLabel": "gangnamstyle",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=474153803"
         },
         {
             "icon": "movie",
-            "label": "troy",
-            "playerLabel": "troy",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://at.wldishere.com/_v16/fca472b5f71f65b5db4466316a1f037cc1332a27a2b8ab6c6ea6d2ade87c0ddf442613f3df45c55b8a0aef710a208ac19c93b78716e20c11bb8755e9c858c8d35a03c97818057909adbb926e42bfa194df84f7d39596b65a36c449a389ac72a67cfcc821c88e980f19eb772cfebb0f9c9c15cc236963fe1cfa5dca509ec6f6d04e21fda6beae4d92c4b0ba3dbe2f3fe46bfe2a72c64f83a614f5783597adebb8/720/index.m3u8"
+            "label": "redballoon",
+            "playerLabel": "redballoon",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=499813272"
         },
         {
             "icon": "live-tv",
@@ -280,13 +280,13 @@
             "icon": "music-note",
             "label": "shapeofyou",
             "playerLabel": "shapeofyou",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=JGwWNGJdvx8"
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=303968333"
         },
         {
             "icon": "movie",
-            "label": "homealone",
-            "playerLabel": "homealone",
-            "action": "video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://be.wldishere.com/_v16/4a869b9fced8c1862007b4ad9294731d4697982a809c08663db368625f33a8a068965e4272eaf87aebae2ccae63f0f51f1d35f35d9879452355591180e5683c8872b77a64783887ce53492165e49b9659b613f03df78c595e5087abc85a4bf7d45446cc318cb67361cfbb567c1f8c0ee535687f935b29ca0d11dfd6c79e47b6860a6978729ecf8d1a35f2220e1a15fa3db3da764b13a05d64734635348a8df69/720/index.m3u8"
+            "label": "gerisgame",
+            "playerLabel": "gerisgame",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=168651722"
         },
         {
             "icon": "live-tv",
