@@ -218,9 +218,9 @@
         },
         {
             "icon": "movie",
-            "label": "hero",
-            "playerLabel": "hero",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=265010648"
+            "label": "spritefright",
+            "playerLabel": "spritefright",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=640499893"
         },
         {
             "icon": "live-tv",
