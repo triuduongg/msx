@@ -284,9 +284,9 @@
         },
         {
             "icon": "movie",
-            "label": "gerisgame",
-            "playerLabel": "gerisgame",
-            "action": "video:plugin:https://msx.benzac.de/plugins/vimeo.html?id=168651722"
+            "label": "cosmoslaundromat",
+            "playerLabel": "cosmoslaundromat",
+            "action": "video:plugin:https://msx.benzac.de/plugins/vimeo.html?id=237943713"
         },
         {
             "icon": "live-tv",
