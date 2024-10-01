@@ -80,9 +80,9 @@
         },
         {
             "icon": "music-note",
-            "label": "demons",
-            "playerLabel": "demons",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=222763321"
+            "label": "mortals",
+            "playerLabel": "mortals",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=239237744"
         },
         {
             "icon": "movie",
