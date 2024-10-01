@@ -278,9 +278,9 @@
         },
         {
             "icon": "music-note",
-            "label": "shapeofyou",
-            "playerLabel": "shapeofyou",
-            "action": "video:plugin:https://msx.benzac.de/plugins/vimeo.html?id=303968333"
+            "label": "invincible",
+            "playerLabel": "invincible",
+            "action": "video:plugin:https://msx.benzac.de/plugins/vimeo.html?id=228489504"
         },
         {
             "icon": "movie",
