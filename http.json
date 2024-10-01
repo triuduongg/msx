@@ -16,13 +16,13 @@
             "icon": "music-note",
             "label": "heartafire",
             "playerLabel": "heartafire",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=169185810"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-4729373/Defqwop_-_Heart_Afire_feat._Strix_NCS_Release-4729373.mp4"
         },
         {
             "icon": "movie",
             "label": "charge",
             "playerLabel": "charge",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=788823625"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/charge-blender-open-movie-1608p/Charge%20-%20Blender%20Open%20Movie%201608p.mp4"
         },
         {
             "icon": "live-tv",
@@ -47,15 +47,15 @@
         },
         {
             "icon": "music-note",
-            "label": "blank",
-            "playerLabel": "blank",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=169169291"
+            "label": "dreams2",
+            "playerLabel": "dreams2",
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-39074403/Lost_Sky_-_Dreams_pt._II_feat._Sara_Skinner_NCS_Release-39074403.mp4"
         },
         {
             "icon": "movie",
             "label": "sintel",
             "playerLabel": "sintel",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=59785024"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/Sintel/sintel-2048-stereo.mp4"
         },
         {
             "icon": "live-tv",
@@ -82,13 +82,13 @@
             "icon": "music-note",
             "label": "mortals",
             "playerLabel": "mortals",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=239237744"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/warriyo-mortals-feat.laura-brehm-ncs-release-ytmate.xyz/warriyo-mortals-feat.laura-brehm-ncs-release-ytmate.xyz.mp4"
         },
         {
             "icon": "movie",
             "label": "agent327",
             "playerLabel": "agent327",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=217499569"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/maxresdefault_20240626/agent327.mp4"
         },
         {
             "icon": "live-tv",
@@ -115,13 +115,13 @@
             "icon": "music-note",
             "label": "savannah",
             "playerLabel": "savannah",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=168537568"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/vimeo-168537568/Diviners_-_Savannah_feat._Philly_K_NCS_Release-168537568.mp4"
         },
         {
             "icon": "movie",
             "label": "spring",
             "playerLabel": "spring",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=325910798"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/springblenderopenmoviedownloadlagump3.com/Spring%20-%20Blender%20Open%20Movie%20%28download-lagu-mp3.com%29.mp4"
         },
         {
             "icon": "live-tv",
@@ -146,15 +146,15 @@
         },
         {
             "icon": "music-note",
-            "label": "skyhigh",
-            "playerLabel": "skyhigh",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=414418565"
+            "label": "heroestonight",
+            "playerLabel": "heroestonight",
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/soundcloud-209579854/Janji_-_Heroes_Tonight_feat._Johnning_NCS_Release-209579854.mp3"
         },
         {
             "icon": "movie",
             "label": "tearsofsteel",
             "playerLabel": "tearsofsteel",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=60884787"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/Tears-of-Steel/tears_of_steel_1080p.mp4"
         },
         {
             "icon": "live-tv",
@@ -181,13 +181,13 @@
             "icon": "music-note",
             "label": "myheart",
             "playerLabel": "myheart",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=147991612"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=147991612"
         },
         {
             "icon": "movie",
             "label": "bigbuckbunny",
             "playerLabel": "bigbuckbunny",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=1084537"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
         },
         {
             "icon": "live-tv",
@@ -214,13 +214,13 @@
             "icon": "music-note",
             "label": "hope",
             "playerLabel": "hope",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=196844852"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=196844852"
         },
         {
             "icon": "movie",
             "label": "spritefright",
             "playerLabel": "spritefright",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=640499893"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/sprite-fright/Sprite%20Fright%20-%20Open%20Movie%20by%20Blender%20Studio-804p.mp4"
         },
         {
             "icon": "live-tv",
@@ -247,13 +247,13 @@
             "icon": "music-note",
             "label": "limitless",
             "playerLabel": "limitless",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=207397353"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=207397353"
         },
         {
             "icon": "movie",
             "label": "elephantsdream",
             "playerLabel": "elephantsdream",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=1132937"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ElephantsDream/ed_hd.mp4"
         },
         {
             "icon": "live-tv",
@@ -280,13 +280,13 @@
             "icon": "music-note",
             "label": "invincible",
             "playerLabel": "invincible",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=228489504"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=228489504"
         },
         {
             "icon": "movie",
             "label": "cosmoslaundromat",
             "playerLabel": "cosmoslaundromat",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=237943713"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20%281080p%29.mp4"
         },
         {
             "icon": "live-tv",
