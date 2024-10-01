@@ -146,9 +146,9 @@
         },
         {
             "icon": "music-note",
-            "label": "titanium",
-            "playerLabel": "titanium",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=34035823"
+            "label": "skyhigh",
+            "playerLabel": "skyhigh",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=414418565"
         },
         {
             "icon": "movie",
