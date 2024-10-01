@@ -13,7 +13,7 @@
             {
                 "icon": "more",
                 "label": "more",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/http-more.json"
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/webmore.json"
             }
         ]
 }
