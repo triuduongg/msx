@@ -14,12 +14,12 @@
         {
             "icon": "http",
             "label": "http",
-            "action": "link:http://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json"
+            "action": "link:http://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/web-main.json&leave=1"
         },
         {
             "icon": "https",
             "label": "https",
-            "action": "link:https://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json"
+            "action": "link:https://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/web-main.json&leave=1"
         }
     ]
 }
