@@ -47,9 +47,9 @@
         },
         {
             "icon": "music-note",
-            "label": "roar",
-            "playerLabel": "roar",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=160883302"
+            "label": "blank",
+            "playerLabel": "blank",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=169169291"
         },
         {
             "icon": "movie",
