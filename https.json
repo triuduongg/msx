@@ -14,9 +14,9 @@
         },
         {
             "icon": "music-note",
-            "label": "faded",
-            "playerLabel": "faded",
-            "action": "video:plugin:https://msx.benzac.de/plugins/vimeo.html?id=317404294"
+            "label": "heartafire",
+            "playerLabel": "heartafire",
+            "action": "video:plugin:https://msx.benzac.de/plugins/vimeo.html?id=169185810"
         },
         {
             "icon": "movie",
