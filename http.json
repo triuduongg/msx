@@ -113,9 +113,9 @@
         },
         {
             "icon": "music-note",
-            "label": "symphony",
-            "playerLabel": "symphony",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=209004479"
+            "label": "savannah",
+            "playerLabel": "savannah",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=168537568"
         },
         {
             "icon": "movie",
