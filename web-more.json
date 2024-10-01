@@ -1,0 +1,18 @@
+{
+    "type": "list",
+    "headline": "more",
+    "pages": [
+       {
+          "offset": "0,0,0,0.5",
+          "items": [
+             {
+                "icon": "private-connectivity",
+                "color": "msx-glass",
+                "layout": "0,0,2,2",
+                "label": "private",
+                "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/private.json"
+             }
+          ]
+       } 
+    ]
+ }
