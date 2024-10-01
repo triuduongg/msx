@@ -245,9 +245,9 @@
         },
         {
             "icon": "music-note",
-            "label": "gangnamstyle",
-            "playerLabel": "gangnamstyle",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=474153803"
+            "label": "limitless",
+            "playerLabel": "limitless",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=207397353"
         },
         {
             "icon": "movie",
