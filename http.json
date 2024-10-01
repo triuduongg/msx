@@ -146,9 +146,9 @@
         },
         {
             "icon": "music-note",
-            "label": "heroestonight",
-            "playerLabel": "heroestonight",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/soundcloud-209579854/Janji_-_Heroes_Tonight_feat._Johnning_NCS_Release-209579854.mp3"
+            "label": "fearless2",
+            "playerLabel": "fearless2",
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/lost-sky-fearless-ptii-feat-chris-linton-ncs-release_v240p.mp4/Lost%20Sky%20%20Fearless%20ptII%20feat%20Chris%20Linton%20NCS%20Release_v240P.ia.mp4"
         },
         {
             "icon": "movie",
@@ -181,7 +181,7 @@
             "icon": "music-note",
             "label": "myheart",
             "playerLabel": "myheart",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=147991612"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/dailymotion-x6biqw2/x6biqw2.mp4"
         },
         {
             "icon": "movie",
@@ -212,9 +212,9 @@
         },
         {
             "icon": "music-note",
-            "label": "hope",
-            "playerLabel": "hope",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=196844852"
+            "label": "symbolism",
+            "playerLabel": "symbolism",
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/electro-light-symbolism/Electro-Light%20-%20Symbolism%20%5BNCS%20Release%5D.mp4"
         },
         {
             "icon": "movie",
@@ -245,9 +245,9 @@
         },
         {
             "icon": "music-note",
-            "label": "limitless",
-            "playerLabel": "limitless",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=207397353"
+            "label": "blank",
+            "playerLabel": "blank",
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/disfigure-blank-ncs-release/Disfigure%20-%20Blank%20%5BNCS%20Release%5D.mp4"
         },
         {
             "icon": "movie",
@@ -278,9 +278,9 @@
         },
         {
             "icon": "music-note",
-            "label": "invincible",
-            "playerLabel": "invincible",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=228489504"
+            "label": "skyhigh",
+            "playerLabel": "skyhigh",
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/dailymotion-x64n0lx/Nocopyrightsounds-Elektronomia_-_Sky_High_NCS_Release-x64n0lx.mp4"
         },
         {
             "icon": "movie",
