@@ -179,9 +179,9 @@
         },
         {
             "icon": "music-note",
-            "label": "sugar",
-            "playerLabel": "sugar",
-            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=922559638"
+            "label": "myheart",
+            "playerLabel": "myheart",
+            "action": "video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=147991612"
         },
         {
             "icon": "movie",
