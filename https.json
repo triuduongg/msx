@@ -212,9 +212,9 @@
         },
         {
             "icon": "music-note",
-            "label": "seeyouagain",
-            "playerLabel": "seeyouagain",
-            "action": "video:plugin:https://msx.benzac.de/plugins/vimeo.html?id=270134945"
+            "label": "hope",
+            "playerLabel": "hope",
+            "action": "video:plugin:https://msx.benzac.de/plugins/vimeo.html?id=196844852"
         },
         {
             "icon": "movie",
