@@ -245,9 +245,9 @@
         },
         {
             "icon": "music-note",
-            "label": "blank",
-            "playerLabel": "blank",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/disfigure-blank-ncs-release/Disfigure%20-%20Blank%20%5BNCS%20Release%5D.mp4"
+            "label": "whydoi",
+            "playerLabel": "whydoi",
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-22412239/Unknown_Brain_-_Why_Do_I_feat._Bri_Tolani_NCS_Release-22412239.mp4"
         },
         {
             "icon": "movie",
