@@ -212,9 +212,9 @@
         },
         {
             "icon": "music-note",
-            "label": "symbolism",
-            "playerLabel": "symbolism",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/electro-light-symbolism/Electro-Light%20-%20Symbolism%20%5BNCS%20Release%5D.mp4"
+            "label": "saygoodbye",
+            "playerLabel": "saygoodbye",
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-75147436/Unknown_Brain_-_Say_Goodbye_ft._Marvin_Divine_NCS_Release-75147436.mp4"
         },
         {
             "icon": "movie",
