@@ -74,8 +74,8 @@
         },
         {
             "icon": "photo",
-            "label": "thebluemarble",
-            "playerLabel": "thebluemarble",
+            "label": "bluemarble",
+            "playerLabel": "bluemarble",
             "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/VE-IMG-1597/AS17-148-22727.jpg"
         },
         {
