@@ -74,9 +74,9 @@
         },
         {
             "icon": "photo",
-            "label": "fallingwater",
-            "playerLabel": "fallingwater",
-            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/commons/b/bc/Fallingwater3.jpg?download"
+            "label": "bluemarble",
+            "playerLabel": "bluemarble",
+            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/VE-IMG-1597/AS17-148-22727.jpg"
         },
         {
             "icon": "music-note",
