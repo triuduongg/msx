@@ -107,9 +107,9 @@
         },
         {
             "icon": "photo",
-            "label": "tankman",
-            "playerLabel": "tankman",
-            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/en/d/dd/Tank_Man_%28Tiananmen_Square_protester%29.jpg?download"
+            "label": "pillarsofcreation",
+            "playerLabel": "pillarsofcreation",
+            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/CHAN-1288/m16.jpg"
         },
         {
             "icon": "music-note",
