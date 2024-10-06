@@ -41,9 +41,9 @@
         },
         {
             "icon": "photo",
-            "label": "bliss",
-            "playerLabel": "bliss",
-            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/vi/7/7d/Bliss.png?download"
+            "label": "hubbledeepfield",
+            "playerLabel": "hubbledeepfield",
+            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/337648main_hs-1996-01-a-deepfield/337648main_hs-1996-01-a-full-deepfield_full.jpg"
         },
         {
             "icon": "music-note",
