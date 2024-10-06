@@ -10,7 +10,7 @@
             "icon": "photo",
             "label": "earthrise",
             "playerLabel": "earthrise",
-            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/commons/a/a8/NASA-Apollo8-Dec24-Earthrise.jpg?download"
+            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/297755main_GPN-2001-000009_full/297755main_GPN-2001-000009_full.jpg"
         },
         {
             "icon": "music-note",
