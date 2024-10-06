@@ -140,9 +140,9 @@
         },
         {
             "icon": "photo",
-            "label": "daliatomicus",
-            "playerLabel": "daliatomicus",
-            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/commons/4/4c/Dal%C3%AD_Atomicus_%28final_version%29.jpg?download"
+            "label": "greatredspot",
+            "playerLabel": "greatredspot",
+            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/PLAN-PIA00014/PIA00014.jpg"
         },
         {
             "icon": "music-note",
