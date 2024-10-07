@@ -173,9 +173,9 @@
         },
         {
             "icon": "photo",
-            "label": "cryinggirl",
-            "playerLabel": "cryinggirl",
-            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/en/0/04/Crying_Girl_%28lithograph%29.jpg?download"
+            "label": "palebluedot",
+            "playerLabel": "palebluedot",
+            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/PLAN-PIA00452/PIA00452.jpg"
         },
         {
             "icon": "music-note",
