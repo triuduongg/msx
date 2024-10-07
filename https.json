@@ -272,9 +272,9 @@
         },
         {
             "icon": "photo",
-            "label": "lunch",
-            "playerLabel": "lunch",
-            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/commons/9/9c/Lunch_atop_a_Skyscraper_-_Charles_Clyde_Ebbets.jpg?download"
+            "label": "horseheadnebula",
+            "playerLabel": "horseheadnebula",
+            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/NIX-PIA04215/PIA04215.jpg"
         },
         {
             "icon": "music-note",
