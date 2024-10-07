@@ -206,9 +206,9 @@
         },
         {
             "icon": "photo",
-            "label": "vjday",
-            "playerLabel": "vjday",
-            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/en/9/95/Legendary_kiss_V%E2%80%93J_day_in_Times_Square_Alfred_Eisenstaedt.jpg?download"
+            "label": "cosmiccliffs",
+            "playerLabel": "cosmiccliffs",
+            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/cosmic-cliffs-in-the-carina-nebula-nircam-image-uploaded-by-shashankpoojaricreators/_Cosmic%20Cliffs_%20in%20the%20Carina%20Nebula%20%28NIRCam%20Image%29.png"
         },
         {
             "icon": "music-note",
