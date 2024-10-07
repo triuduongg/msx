@@ -239,9 +239,9 @@
         },
         {
             "icon": "photo",
-            "label": "afghangirl",
-            "playerLabel": "afghangirl",
-            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://upload.wikimedia.org/wikipedia/en/b/b4/Sharbat_Gula.jpg?download"
+            "label": "whirlpoolgalaxy",
+            "playerLabel": "whirlpoolgalaxy",
+            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/PLAN-PIA04230/PIA04230.jpg"
         },
         {
             "icon": "music-note",
