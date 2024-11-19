@@ -3,70 +3,70 @@
     "menu": [   
         {
             "type": "separator",
-            "label": "topic"
+            "label": "source"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "home",
             "data": "request:interaction:https://www.dailymail.co.uk/home/index.rss@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "news",
             "data": "request:interaction:https://www.dailymail.co.uk/news/index.rss@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "royals",
             "data": "request:interaction:https://www.dailymail.co.uk/news/royals/index.rss@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "sport",
             "data": "request:interaction:https://www.dailymail.co.uk/sport/index.rss@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "tv",
             "data": "request:interaction:https://www.dailymail.co.uk/tv/index.rss@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "showbiz",
             "data": "request:interaction:https://www.dailymail.co.uk/tvshowbiz/index.rss@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "femail",
             "data": "request:interaction:https://www.dailymail.co.uk/femail/index.rss@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "health",
             "data": "request:interaction:https://www.dailymail.co.uk/health/index.rss@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "science",
             "data": "request:interaction:https://www.dailymail.co.uk/sciencetech/index.rss@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "money",
             "data": "request:interaction:https://www.dailymail.co.uk/money/index.rss@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "travel",
             "data": "request:interaction:https://www.dailymail.co.uk/travel/index.rss@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "podcasts",
             "data": "request:interaction:https://www.dailymail.co.uk/podcasts/index.rss@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "shopping",
             "data": "request:interaction:https://www.dailymail.co.uk/shopping-uk/index.rss@https://msx.benzac.de/interaction/mrss.html"
         }
