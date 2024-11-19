@@ -3,110 +3,110 @@
     "menu": [   
         {
             "type": "separator",
-            "label": "topic"
+            "label": "source"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "homepage",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "world",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/World.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "u.s",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/US.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "business",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/Business.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "technology",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "sports",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "science",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/Science.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "health",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/Health.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "arts",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "fashion and style",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "travel",
             "data": "request:interaction:https://www.nytimes.com/services/xml/rss/nyt/Travel.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "jobs",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/Jobs.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "real estate",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/RealEstate.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "autos",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/Automobiles.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "lens blog",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/Lens.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "obituaries",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/Obituaries.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "times wire",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/recent.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "most e-mailed",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/MostEmailed.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "most shared",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/MostShared.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "most viewed",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/MostViewed.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "sunday opinions",
             "data": "request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/sunday-review.xml@https://msx.benzac.de/interaction/mrss.html"
         }
