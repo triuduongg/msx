@@ -3,10 +3,10 @@
     "menu": [   
         {
             "type": "separator",
-            "label": "topic"
+            "label": "source"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "latest",
             "data": "request:interaction:https://rss.art19.com/the-daily@https://msx.benzac.de/interaction/mrss.html"
         }
