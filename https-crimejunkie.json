@@ -3,10 +3,10 @@
     "menu": [   
         {
             "type": "separator",
-            "label": "topic"
+            "label": "source"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "episodes",
             "data": "request:interaction:https://feeds.simplecast.com/qm_9xx0g@https://msx.benzac.de/interaction/mrss.html"
         }
