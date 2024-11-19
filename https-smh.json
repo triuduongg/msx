@@ -3,90 +3,90 @@
     "menu": [   
         {
             "type": "separator",
-            "label": "topic"
+            "label": "source"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "latest news",
             "data": "request:interaction:https://www.smh.com.au/rss/feed.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "federal politics",
             "data": "request:interaction:https://www.smh.com.au/rss/politics/federal.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "nsw news",
             "data": "request:interaction:https://www.smh.com.au/rss/national/nsw.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "world",
             "data": "request:interaction:https://www.smh.com.au/rss/world.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "national",
             "data": "request:interaction:https://www.smh.com.au/rss/national.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "business",
             "data": "request:interaction:https://www.smh.com.au/rss/business.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "culture",
             "data": "request:interaction:https://www.smh.com.au/rss/culture.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "technology",
             "data": "request:interaction:https://www.smh.com.au/rss/technology.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "environment",
             "data": "request:interaction:https://www.smh.com.au/rss/environment.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "lifestyle",
             "data": "request:interaction:https://www.smh.com.au/rss/lifestyle.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "property",
             "data": "request:interaction:https://www.smh.com.au/rss/property.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "good food",
             "data": "request:interaction:https://www.smh.com.au/rss/goodfood.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "traveller",
             "data": "request:interaction:https://www.smh.com.au/rss/traveller.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "sport",
             "data": "request:interaction:https://www.smh.com.au/rss/sport.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "rugby league",
             "data": "request:interaction:https://www.smh.com.au/rss/sport/nrl.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "rugby union",
             "data": "request:interaction:https://www.smh.com.au/rss/sport/rugby-union.xml@https://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "afl",
             "data": "request:interaction:https://www.smh.com.au/rss/sport/afl.xml@https://msx.benzac.de/interaction/mrss.html"
         }
