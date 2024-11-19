@@ -3,90 +3,90 @@
     "menu": [   
         {
             "type": "separator",
-            "label": "topic"
+            "label": "source"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "latest news",
             "data": "request:interaction:https://www.theage.com.au/rss/feed.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "federal politics",
             "data": "request:interaction:https://www.theage.com.au/rss/politics/federal.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "victoria news",
             "data": "request:interaction:https://www.theage.com.au/rss/national/victoria.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "world",
             "data": "request:interaction:https://www.theage.com.au/rss/world.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "national",
             "data": "request:interaction:https://www.theage.com.au/rss/national.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "business",
             "data": "request:interaction:https://www.theage.com.au/rss/business.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "culture",
             "data": "request:interaction:https://www.theage.com.au/rss/culture.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "technology",
             "data": "request:interaction:https://www.theage.com.au/rss/technology.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "environment",
             "data": "request:interaction:https://www.theage.com.au/rss/environment.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "lifestyle",
             "data": "request:interaction:https://www.theage.com.au/rss/lifestyle.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "property",
             "data": "request:interaction:https://www.theage.com.au/rss/property.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "good food",
             "data": "request:interaction:https://www.theage.com.au/rss/goodfood.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "traveller",
             "data": "request:interaction:https://www.theage.com.au/rss/traveller.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "sport",
             "data": "request:interaction:https://www.theage.com.au/rss/sport.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "rugby league",
             "data": "request:interaction:https://www.theage.com.au/rss/sport/nrl.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "rugby union",
             "data": "request:interaction:https://www.theage.com.au/rss/sport/rugby-union.xml@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "afl",
             "data": "request:interaction:https://www.theage.com.au/rss/sport/afl.xml@http://msx.benzac.de/interaction/mrss.html"
         } 
