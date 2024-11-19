@@ -3,135 +3,135 @@
     "menu": [   
         {
             "type": "separator",
-            "label": "topic"
+            "label": "source"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "lequipe",
             "data": "request:interaction:http://dwh.lequipe.fr/api/edito/rss?path=/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "football",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Football/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "mercato",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Football/Transferts-football/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "tennis",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Tennis/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "rugby",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Rugby/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "cyclisme",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Cyclisme/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "basket",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Basket/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "nba",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Basket/Nba/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "sports auto",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Auto-moto/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "formule 1",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Formule-1/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "rallye",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Rallye/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "moto",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Moto/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "handball",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Handball/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "volley",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Volley-ball/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "ski",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Ski/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "golf",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Golf/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "athletisme",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Athletisme/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "natation",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Natation/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "voile",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Voile/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "judo",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Judo/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "escrime",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Escrime/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "esport",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Esport/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "sports de combat",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Aussi/Sports-de-combat/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "adrenaline",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Adrenaline/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "medias",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss?path=/Medias/@http://msx.benzac.de/interaction/mrss.html"
         },
         {
-            "icon": "topic",
+            "icon": "source",
             "label": "guides dachat",
             "data": "request:interaction:https://dwh.lequipe.fr/api/edito/rss/guide-d-achat?path=%2F@http://msx.benzac.de/interaction/mrss.html"
         }
