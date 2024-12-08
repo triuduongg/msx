@@ -243,10 +243,9 @@
             "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-22412239/Unknown_Brain_-_Why_Do_I_feat._Bri_Tolani_NCS_Release-22412239.mp4"
         },
         {
-            "icon": "movie",
-            "label": "elephantsdream",
-            "playerLabel": "elephantsdream",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ElephantsDream/ed_hd.mp4"
+            "icon": "video-library",
+            "label": "abominable",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-abominable.json"
         },
         {
             "icon": "live-tv",
