@@ -1,0 +1,58 @@
+{
+    "type": "list",
+    "headline": "mrbean",
+    "template": {
+       "layout": "0,0,2,4",
+       "color": "msx-glass"
+    },
+    "items": [
+       {
+          "icon": "movie",
+          "label": "bean01",
+          "playerLabel": "bean01",
+          "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean01.mp4"
+       },
+       {
+        "icon": "movie",
+        "label": "bean02",
+        "playerLabel": "bean02",
+        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean02.mp4"
+       },
+       {
+        "icon": "movie",
+        "label": "bean03",
+        "playerLabel": "bean03",
+        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean03.mp4"
+       },
+       {
+        "icon": "movie",
+        "label": "bean04",
+        "playerLabel": "bean04",
+        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean04.mp4"
+       },
+       {
+        "icon": "movie",
+        "label": "bean05",
+        "playerLabel": "bean05",
+        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean05.mp4"
+       },
+       {
+        "icon": "movie",
+        "label": "bean06",
+        "playerLabel": "bean06",
+        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean06.mp4"
+       },
+       {
+        "icon": "movie",
+        "label": "bean07",
+        "playerLabel": "bean07",
+        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean07.mp4"
+       },
+       {
+        "icon": "movie",
+        "label": "bean08",
+        "playerLabel": "bean08",
+        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean08.mp4"
+       }
+    ]
+ }
