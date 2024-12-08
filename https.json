@@ -1,6 +1,6 @@
 {
     "type": "list",
-    "headline": "http",
+    "headline": "https",
     "template": {
        "layout": "0,0,2,2",
        "color": "msx-glass"
@@ -26,17 +26,17 @@
         {
             "icon": "live-tv",
             "label": "jsosao",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-jsosao.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-jsosao.json"
         },
         {
             "icon": "rss-feed",
             "label": "nytimes",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-nytimes.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-nytimes.json"
         },
         {
             "icon": "extension",
             "label": "launcher",
-            "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction"
+            "action": "menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
         },
         {
             "icon": "photo",
@@ -58,17 +58,17 @@
         {
             "icon": "live-tv",
             "label": "iptv-org",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-iptv-org.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-iptv-org.json"
         },
         {
             "icon": "rss-feed",
             "label": "dailymail",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-dailymail.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-dailymail.json"
         },
         {
             "icon": "extension",
             "label": "googledrive",
-            "action": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction"
+            "action": "menu:request:interaction:init@https://gd.msx.benzac.de/interaction"
         },
         {
             "icon": "photo",
@@ -90,17 +90,17 @@
         {
             "icon": "live-tv",
             "label": "freetv.fun",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-freetv.fun.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-freetv.fun.json"
         },
         {
             "icon": "rss-feed",
             "label": "foxnews",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-foxnews.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-foxnews.json"
         },
         {
             "icon": "extension",
             "label": "onedrive",
-            "action": "menu:request:interaction:init@http://od.msx.benzac.de/interaction"
+            "action": "menu:request:interaction:init@https://od.msx.benzac.de/interaction"
         },
         {
             "icon": "photo",
@@ -123,17 +123,17 @@
         {
             "icon": "live-tv",
             "label": "free-tv",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-free-tv.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-free-tv.json"
         },
         {
             "icon": "rss-feed",
             "label": "lequipe",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-lequipe.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-lequipe.json"
         },
         {
             "icon": "extension",
             "label": "dropbox",
-            "action": "menu:request:interaction:init@http://db.msx.benzac.de/interaction"
+            "action": "menu:request:interaction:init@https://db.msx.benzac.de/interaction"
         },
         {
             "icon": "photo",
@@ -156,17 +156,17 @@
         {
             "icon": "live-tv",
             "label": "i.mjh.nz",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-i.mjh.nz.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-i.mjh.nz.json"
         },
         {
             "icon": "rss-feed",
             "label": "unnews",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-unnews.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-unnews.json"
         },
         {
             "icon": "extension",
             "label": "nodejs",
-            "action": "menu:request:interaction:init@http://nb.msx.benzac.de/interaction"
+            "action": "menu:request:interaction:init@https://nb.msx.benzac.de/interaction"
         },
         {
             "icon": "photo",
@@ -189,17 +189,17 @@
         {
             "icon": "live-tv",
             "label": "m3upt",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-m3upt.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-m3upt.json"
         },
         {
             "icon": "rss-feed",
             "label": "thedaily",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-thedaily.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-thedaily.json"
         },
         {
             "icon": "extension",
             "label": "soundcloud",
-            "action": "menu:http://sc.msx.benzac.de/msx/service.php"
+            "action": "menu:https://sc.msx.benzac.de/msx/service.php"
         },
         {
             "icon": "photo",
@@ -222,17 +222,17 @@
         {
             "icon": "live-tv",
             "label": "iptv-list.com",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-iptv-list.com.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-iptv-list.com.json"
         },
         {
             "icon": "rss-feed",
             "label": "theage",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-theage.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-theage.json"
         },
         {
             "icon": "extension",
             "label": "tmdb",
-            "action": "menu:http://tmdb.msx.benzac.de/msx/service.php"
+            "action": "menu:https://tmdb.msx.benzac.de/msx/service.php"
         },
         {
             "icon": "photo",
@@ -255,17 +255,17 @@
         {
             "icon": "live-tv",
             "label": "m3u.cl",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-m3u.cl.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-m3u.cl.json"
         },
         {
             "icon": "rss-feed",
             "label": "crimejunkie",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-crimejunkie.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-crimejunkie.json"
         },
         {
             "icon": "extension",
             "label": "euronews",
-            "action": "menu:http://en.msx.benzac.de/msx/service.php"
+            "action": "menu:https://en.msx.benzac.de/msx/service.php"
         },
         {
             "icon": "photo",
@@ -288,17 +288,17 @@
         {
             "icon": "live-tv",
             "label": "inspiration",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-inspiration.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-inspiration.json"
         },
         {
             "icon": "rss-feed",
             "label": "smh",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-smh.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-smh.json"
         },
         {
             "icon": "extension",
             "label": "rbtv",
-            "action": "menu:request:interaction:init@http://rbtv.msx.benzac.de"
+            "action": "menu:request:interaction:init@https://rbtv.msx.benzac.de"
         }
     ]
 }
