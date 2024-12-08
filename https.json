@@ -179,10 +179,9 @@
             "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/dailymotion-x6biqw2/x6biqw2.mp4"
         },
         {
-            "icon": "movie",
-            "label": "bigbuckbunny",
-            "playerLabel": "bigbuckbunny",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+            "icon": "video-library",
+            "label": "zorro",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-zorro.json"
         },
         {
             "icon": "live-tv",
