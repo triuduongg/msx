@@ -83,10 +83,9 @@
             "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/warriyo-mortals-feat.laura-brehm-ncs-release-ytmate.xyz/warriyo-mortals-feat.laura-brehm-ncs-release-ytmate.xyz.mp4"
         },
         {
-            "icon": "movie",
-            "label": "agent327",
-            "playerLabel": "agent327",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/maxresdefault_20240626/agent327.mp4"
+            "icon": "video-library",
+            "label": "mrbean",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-mrbean.json"
         },
         {
             "icon": "live-tv",
