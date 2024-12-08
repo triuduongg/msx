@@ -115,10 +115,9 @@
             "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/vimeo-168537568/Diviners_-_Savannah_feat._Philly_K_NCS_Release-168537568.mp4"
         },
         {
-            "icon": "movie",
-            "label": "spring",
-            "playerLabel": "spring",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/springblenderopenmoviedownloadlagump3.com/Spring%20-%20Blender%20Open%20Movie%20%28download-lagu-mp3.com%29.mp4"
+            "icon": "video-library",
+            "label": "ultramangreat",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-ultramangreat.json"
         },
         {
             "icon": "live-tv",
