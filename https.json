@@ -1,6 +1,6 @@
 {
     "type": "list",
-    "headline": "https",
+    "headline": "http",
     "template": {
        "layout": "0,0,2,2",
        "color": "msx-glass"
@@ -10,298 +10,297 @@
             "icon": "photo",
             "label": "earthrise",
             "playerLabel": "earthrise",
-            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/297755main_GPN-2001-000009_full/297755main_GPN-2001-000009_full.jpg"
+            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/297755main_GPN-2001-000009_full/297755main_GPN-2001-000009_full.jpg"
         },
         {
             "icon": "music-note",
             "label": "heartafire",
             "playerLabel": "heartafire",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-4729373/Defqwop_-_Heart_Afire_feat._Strix_NCS_Release-4729373.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-4729373/Defqwop_-_Heart_Afire_feat._Strix_NCS_Release-4729373.mp4"
         },
         {
-            "icon": "movie",
-            "label": "charge",
-            "playerLabel": "charge",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/charge-blender-open-movie-1608p/Charge%20-%20Blender%20Open%20Movie%201608p.mp4"
+            "icon": "video-library",
+            "label": "tom&jerrytales",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-tom&jerrytales.json"
         },
         {
             "icon": "live-tv",
             "label": "jsosao",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-jsosao.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-jsosao.json"
         },
         {
             "icon": "rss-feed",
             "label": "nytimes",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-nytimes.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-nytimes.json"
         },
         {
             "icon": "extension",
             "label": "launcher",
-            "action": "menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
+            "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction"
         },
         {
             "icon": "photo",
             "label": "hubbledeepfield",
             "playerLabel": "hubbledeepfield",
-            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/337648main_hs-1996-01-a-deepfield/337648main_hs-1996-01-a-full-deepfield_full.jpg"
+            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/337648main_hs-1996-01-a-deepfield/337648main_hs-1996-01-a-full-deepfield_full.jpg"
         },
         {
             "icon": "music-note",
             "label": "dreams2",
             "playerLabel": "dreams2",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-39074403/Lost_Sky_-_Dreams_pt._II_feat._Sara_Skinner_NCS_Release-39074403.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-39074403/Lost_Sky_-_Dreams_pt._II_feat._Sara_Skinner_NCS_Release-39074403.mp4"
         },
         {
             "icon": "movie",
             "label": "sintel",
             "playerLabel": "sintel",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/Sintel/sintel-2048-stereo.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/Sintel/sintel-2048-stereo.mp4"
         },
         {
             "icon": "live-tv",
             "label": "iptv-org",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-iptv-org.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-iptv-org.json"
         },
         {
             "icon": "rss-feed",
             "label": "dailymail",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-dailymail.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-dailymail.json"
         },
         {
             "icon": "extension",
             "label": "googledrive",
-            "action": "menu:request:interaction:init@https://gd.msx.benzac.de/interaction"
+            "action": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction"
         },
         {
             "icon": "photo",
             "label": "bluemarble",
             "playerLabel": "bluemarble",
-            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/VE-IMG-1597/AS17-148-22727.jpg"
+            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/VE-IMG-1597/AS17-148-22727.jpg"
         },
         {
             "icon": "music-note",
             "label": "mortals",
             "playerLabel": "mortals",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/warriyo-mortals-feat.laura-brehm-ncs-release-ytmate.xyz/warriyo-mortals-feat.laura-brehm-ncs-release-ytmate.xyz.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/warriyo-mortals-feat.laura-brehm-ncs-release-ytmate.xyz/warriyo-mortals-feat.laura-brehm-ncs-release-ytmate.xyz.mp4"
         },
         {
             "icon": "movie",
             "label": "agent327",
             "playerLabel": "agent327",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/maxresdefault_20240626/agent327.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/maxresdefault_20240626/agent327.mp4"
         },
         {
             "icon": "live-tv",
             "label": "freetv.fun",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-freetv.fun.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-freetv.fun.json"
         },
         {
             "icon": "rss-feed",
             "label": "foxnews",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-foxnews.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-foxnews.json"
         },
         {
             "icon": "extension",
             "label": "onedrive",
-            "action": "menu:request:interaction:init@https://od.msx.benzac.de/interaction"
+            "action": "menu:request:interaction:init@http://od.msx.benzac.de/interaction"
         },
         {
             "icon": "photo",
             "label": "pillarsofcreation",
             "playerLabel": "pillarsofcreation",
-            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/CHAN-1288/m16.jpg"
+            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/CHAN-1288/m16.jpg"
         },
         {
             "icon": "music-note",
             "label": "savannah",
             "playerLabel": "savannah",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/vimeo-168537568/Diviners_-_Savannah_feat._Philly_K_NCS_Release-168537568.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/vimeo-168537568/Diviners_-_Savannah_feat._Philly_K_NCS_Release-168537568.mp4"
         },
         {
             "icon": "movie",
             "label": "spring",
             "playerLabel": "spring",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/springblenderopenmoviedownloadlagump3.com/Spring%20-%20Blender%20Open%20Movie%20%28download-lagu-mp3.com%29.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/springblenderopenmoviedownloadlagump3.com/Spring%20-%20Blender%20Open%20Movie%20%28download-lagu-mp3.com%29.mp4"
         },
         {
             "icon": "live-tv",
             "label": "free-tv",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-free-tv.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-free-tv.json"
         },
         {
             "icon": "rss-feed",
             "label": "lequipe",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-lequipe.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-lequipe.json"
         },
         {
             "icon": "extension",
             "label": "dropbox",
-            "action": "menu:request:interaction:init@https://db.msx.benzac.de/interaction"
+            "action": "menu:request:interaction:init@http://db.msx.benzac.de/interaction"
         },
         {
             "icon": "photo",
             "label": "greatredspot",
             "playerLabel": "greatredspot",
-            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/PLAN-PIA00014/PIA00014.jpg"
+            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/PLAN-PIA00014/PIA00014.jpg"
         },
         {
             "icon": "music-note",
             "label": "fearless2",
             "playerLabel": "fearless2",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/lost-sky-fearless-ptii-feat-chris-linton-ncs-release_v240p.mp4/Lost%20Sky%20%20Fearless%20ptII%20feat%20Chris%20Linton%20NCS%20Release_v240P.ia.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/lost-sky-fearless-ptii-feat-chris-linton-ncs-release_v240p.mp4/Lost%20Sky%20%20Fearless%20ptII%20feat%20Chris%20Linton%20NCS%20Release_v240P.ia.mp4"
         },
         {
             "icon": "movie",
             "label": "tearsofsteel",
             "playerLabel": "tearsofsteel",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/Tears-of-Steel/tears_of_steel_1080p.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/Tears-of-Steel/tears_of_steel_1080p.mp4"
         },
         {
             "icon": "live-tv",
             "label": "i.mjh.nz",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-i.mjh.nz.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-i.mjh.nz.json"
         },
         {
             "icon": "rss-feed",
             "label": "unnews",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-unnews.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-unnews.json"
         },
         {
             "icon": "extension",
             "label": "nodejs",
-            "action": "menu:request:interaction:init@https://nb.msx.benzac.de/interaction"
+            "action": "menu:request:interaction:init@http://nb.msx.benzac.de/interaction"
         },
         {
             "icon": "photo",
             "label": "palebluedot",
             "playerLabel": "palebluedot",
-            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/PLAN-PIA00452/PIA00452.jpg"
+            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/PLAN-PIA00452/PIA00452.jpg"
         },
         {
             "icon": "music-note",
             "label": "myheart",
             "playerLabel": "myheart",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/dailymotion-x6biqw2/x6biqw2.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/dailymotion-x6biqw2/x6biqw2.mp4"
         },
         {
             "icon": "movie",
             "label": "bigbuckbunny",
             "playerLabel": "bigbuckbunny",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
         },
         {
             "icon": "live-tv",
             "label": "m3upt",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-m3upt.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-m3upt.json"
         },
         {
             "icon": "rss-feed",
             "label": "thedaily",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-thedaily.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-thedaily.json"
         },
         {
             "icon": "extension",
             "label": "soundcloud",
-            "action": "menu:https://sc.msx.benzac.de/msx/service.php"
+            "action": "menu:http://sc.msx.benzac.de/msx/service.php"
         },
         {
             "icon": "photo",
             "label": "cosmiccliffs",
             "playerLabel": "cosmiccliffs",
-            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/cosmic-cliffs-in-the-carina-nebula-nircam-image-uploaded-by-shashankpoojaricreators/_Cosmic%20Cliffs_%20in%20the%20Carina%20Nebula%20%28NIRCam%20Image%29.png"
+            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/cosmic-cliffs-in-the-carina-nebula-nircam-image-uploaded-by-shashankpoojaricreators/_Cosmic%20Cliffs_%20in%20the%20Carina%20Nebula%20%28NIRCam%20Image%29.png"
         },
         {
             "icon": "music-note",
             "label": "saygoodbye",
             "playerLabel": "saygoodbye",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-75147436/Unknown_Brain_-_Say_Goodbye_ft._Marvin_Divine_NCS_Release-75147436.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-75147436/Unknown_Brain_-_Say_Goodbye_ft._Marvin_Divine_NCS_Release-75147436.mp4"
         },
         {
             "icon": "movie",
             "label": "spritefright",
             "playerLabel": "spritefright",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/sprite-fright/Sprite%20Fright%20-%20Open%20Movie%20by%20Blender%20Studio-804p.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/sprite-fright/Sprite%20Fright%20-%20Open%20Movie%20by%20Blender%20Studio-804p.mp4"
         },
         {
             "icon": "live-tv",
             "label": "iptv-list.com",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-iptv-list.com.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-iptv-list.com.json"
         },
         {
             "icon": "rss-feed",
             "label": "theage",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-theage.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-theage.json"
         },
         {
             "icon": "extension",
             "label": "tmdb",
-            "action": "menu:https://tmdb.msx.benzac.de/msx/service.php"
+            "action": "menu:http://tmdb.msx.benzac.de/msx/service.php"
         },
         {
             "icon": "photo",
             "label": "whirlpoolgalaxy",
             "playerLabel": "whirlpoolgalaxy",
-            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/PLAN-PIA04230/PIA04230.jpg"
+            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/PLAN-PIA04230/PIA04230.jpg"
         },
         {
             "icon": "music-note",
             "label": "whydoi",
             "playerLabel": "whydoi",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-22412239/Unknown_Brain_-_Why_Do_I_feat._Bri_Tolani_NCS_Release-22412239.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-22412239/Unknown_Brain_-_Why_Do_I_feat._Bri_Tolani_NCS_Release-22412239.mp4"
         },
         {
             "icon": "movie",
             "label": "elephantsdream",
             "playerLabel": "elephantsdream",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ElephantsDream/ed_hd.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ElephantsDream/ed_hd.mp4"
         },
         {
             "icon": "live-tv",
             "label": "m3u.cl",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-m3u.cl.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-m3u.cl.json"
         },
         {
             "icon": "rss-feed",
             "label": "crimejunkie",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-crimejunkie.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-crimejunkie.json"
         },
         {
             "icon": "extension",
             "label": "euronews",
-            "action": "menu:https://en.msx.benzac.de/msx/service.php"
+            "action": "menu:http://en.msx.benzac.de/msx/service.php"
         },
         {
             "icon": "photo",
             "label": "horseheadnebula",
             "playerLabel": "horseheadnebula",
-            "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/NIX-PIA04215/PIA04215.jpg"
+            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/NIX-PIA04215/PIA04215.jpg"
         },
         {
             "icon": "music-note",
             "label": "firefly",
             "playerLabel": "firefly",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/dailymotion-x6bb9lu/NoCopyrightSounds-Andromedik_Firefly_NCS_Release-x6bb9lu.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/dailymotion-x6bb9lu/NoCopyrightSounds-Andromedik_Firefly_NCS_Release-x6bb9lu.mp4"
         },
         {
             "icon": "movie",
             "label": "cosmoslaundromat",
             "playerLabel": "cosmoslaundromat",
-            "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20%281080p%29.mp4"
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20%281080p%29.mp4"
         },
         {
             "icon": "live-tv",
             "label": "inspiration",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-inspiration.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-inspiration.json"
         },
         {
             "icon": "rss-feed",
             "label": "smh",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/https-smh.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/http-smh.json"
         },
         {
             "icon": "extension",
             "label": "rbtv",
-            "action": "menu:request:interaction:init@https://rbtv.msx.benzac.de"
+            "action": "menu:request:interaction:init@http://rbtv.msx.benzac.de"
         }
     ]
 }
