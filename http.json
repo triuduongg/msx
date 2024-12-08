@@ -51,10 +51,9 @@
             "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-39074403/Lost_Sky_-_Dreams_pt._II_feat._Sara_Skinner_NCS_Release-39074403.mp4"
         },
         {
-            "icon": "movie",
-            "label": "sintel",
-            "playerLabel": "sintel",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/Sintel/sintel-2048-stereo.mp4"
+            "icon": "video-library",
+            "label": "tom&jerrytales",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-drunkenmaster.json"
         },
         {
             "icon": "live-tv",
