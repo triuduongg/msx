@@ -1,6 +1,6 @@
 {
     "type": "list",
-    "headline": "abominable",
+    "headline": "bugslife",
     "template": {
        "layout": "0,0,2,4",
        "color": "msx-glass"
@@ -10,7 +10,7 @@
           "icon": "movie",
           "label": "3D",
           "playerLabel": "3D",
-          "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/a-goofy-movie-1995-vhs/Abominable%20%282017%20DVD%29.ia.mp4"
+          "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/a-goofy-movie-1995-vhs/A%20Bug%27s%20Life%20%281999%20VHS%29.ia.mp4"
        }
     ]
  }
