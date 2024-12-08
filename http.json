@@ -21,7 +21,7 @@
         {
             "icon": "video-library",
             "label": "tom&jerrytales",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-tom&jerry.json"
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-tom&jerrytales.json"
         },
         {
             "icon": "live-tv",
