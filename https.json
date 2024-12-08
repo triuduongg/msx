@@ -244,8 +244,8 @@
         },
         {
             "icon": "video-library",
-            "label": "abominable",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-abominable.json"
+            "label": "bugslife",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-bugslife.json"
         },
         {
             "icon": "live-tv",
