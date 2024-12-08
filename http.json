@@ -19,10 +19,10 @@
             "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-4729373/Defqwop_-_Heart_Afire_feat._Strix_NCS_Release-4729373.mp4"
         },
         {
-            "icon": "movie",
-            "label": "charge",
-            "playerLabel": "charge",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/charge-blender-open-movie-1608p/Charge%20-%20Blender%20Open%20Movie%201608p.mp4"
+            "icon": "video-library",
+            "label": "tom&jerry",
+            "playerLabel": "tom&jerry",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-tom&jerry.json"
         },
         {
             "icon": "live-tv",
