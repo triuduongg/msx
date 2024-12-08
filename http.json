@@ -244,8 +244,8 @@
         },
         {
             "icon": "video-library",
-            "label": "bugslife",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-bugslife.json"
+            "label": "aristocats",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-aristocats.json"
         },
         {
             "icon": "live-tv",
