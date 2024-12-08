@@ -211,10 +211,9 @@
             "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-75147436/Unknown_Brain_-_Say_Goodbye_ft._Marvin_Divine_NCS_Release-75147436.mp4"
         },
         {
-            "icon": "movie",
-            "label": "spritefright",
-            "playerLabel": "spritefright",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/sprite-fright/Sprite%20Fright%20-%20Open%20Movie%20by%20Blender%20Studio-804p.mp4"
+            "icon": "video-library",
+            "label": "truelies",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-truelies.json"
         },
         {
             "icon": "live-tv",
