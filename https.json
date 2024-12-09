@@ -162,10 +162,9 @@
             "action": "menu:request:interaction:init@https://nb.msx.benzac.de/interaction"
         },
         {
-            "icon": "photo",
-            "label": "palebluedot",
-            "playerLabel": "palebluedot",
-            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/PLAN-PIA00452/PIA00452.jpg"
+            "icon": "photo-library",
+            "label": "muppetstakemanhattan",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-muppetstakemanhattan.json"
         },
         {
             "icon": "music-note",
