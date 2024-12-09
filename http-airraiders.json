@@ -1,0 +1,166 @@
+{
+   "type": "list",
+   "headline": "airraiders",
+   "template": {
+      "layout": "0,0,2,4",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "icon": "photo",
+         "label": "page 1",
+         "playerLabel": "airraiders page 1",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2001.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 2",
+         "playerLabel": "airraiders page 2",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2002.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 3",
+         "playerLabel": "airraiders page 3",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2003.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 4",
+         "playerLabel": "airraiders page 4",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2004.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 5",
+         "playerLabel": "airraiders page 5",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2005.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 6",
+         "playerLabel": "airraiders page 6",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2006.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 7",
+         "playerLabel": "airraiders page 7",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2007.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 8",
+         "playerLabel": "airraiders page 8",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2008.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 9",
+         "playerLabel": "airraiders page 9",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2009.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 10",
+         "playerLabel": "airraiders page 10",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2010.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 11",
+         "playerLabel": "airraiders page 11",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2011.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 12",
+         "playerLabel": "airraiders page 12",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2012.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 13",
+         "playerLabel": "airraiders page 13",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2013.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 14",
+         "playerLabel": "airraiders page 14",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2014.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 15",
+         "playerLabel": "airraiders page 15",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2015.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 16",
+         "playerLabel": "airraiders page 16",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2016.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 17",
+         "playerLabel": "airraiders page 17",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2017.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 18",
+         "playerLabel": "airraiders page 18",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2018.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 19",
+         "playerLabel": "airraiders page 19",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2019.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 20",
+         "playerLabel": "airraiders page 20",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2020.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 21",
+         "playerLabel": "airraiders page 21",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2021.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 22",
+         "playerLabel": "airraiders page 22",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2022.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 23",
+         "playerLabel": "airraiders page 23",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2023.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 24",
+         "playerLabel": "airraiders page 24",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2024.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 25",
+         "playerLabel": "airraiders page 25",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2025.jpg"
+      },
+      {
+         "icon": "photo",
+         "label": "page 26",
+         "playerLabel": "airraiders page 26",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/air-raiders-star-comics/Air%20Raiders%2001.cbz/Air%20Raiders%2001%2FAir%20Raiders%2001%2026.jpg"
+      }
+   ]
+}
