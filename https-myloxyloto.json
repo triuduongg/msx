@@ -1,0 +1,94 @@
+{
+   "type": "list",
+   "headline": "myloxyloto",
+   "template": {
+      "layout": "0,0,2,4",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "icon": "music-note",
+         "label": "mylo xyloto",
+         "playerLabel": "myloxyloto mylo xyloto",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/01%20Mylo%20Xyloto.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "hurts like heaven",
+         "playerLabel": "myloxyloto hurts like heaven",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/02%20Hurts%20Like%20Heaven.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "paradise",
+         "playerLabel": "myloxyloto paradise",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/03%20Paradise.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "charlie brown",
+         "playerLabel": "myloxyloto charlie brown",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/04%20Charlie%20Brown.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "us against the world",
+         "playerLabel": "myloxyloto us against the world",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/05%20Us%20Against%20The%20World.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "m.m.i.x",
+         "playerLabel": "myloxyloto m.m.i.x",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/06%20M.M.I.X.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "every teardrop is a waterfall",
+         "playerLabel": "myloxyloto every teardrop is waterfall",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/07%20Every%20Teardrop%20Is%20A%20Waterfall.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "major minus",
+         "playerLabel": "myloxyloto major minus",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/08%20Major%20Minus.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "u.f.o",
+         "playerLabel": "myloxyloto u.f.o",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/09%20U.F.O..mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "princess of china",
+         "playerLabel": "myloxyloto princess of china",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/10%20Princess%20Of%20China.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "up in flames",
+         "playerLabel": "myloxyloto up in flames",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/11%20Up%20In%20Flames.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "a hopeful transmission",
+         "playerLabel": "myloxyloto a hopeful transmission",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/12%20A%20Hopeful%20Transmission.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "don't let it break your heart",
+         "playerLabel": "myloxyloto don't let it break your heart",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/13%20Don%27t%20Let%20It%20Break%20Your%20Heart.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "up the birds",
+         "playerLabel": "myloxyloto up the birds",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/14%20Up%20With%20The%20Birds.mp3"
+      }
+   ]
+}
