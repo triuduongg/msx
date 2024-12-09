@@ -65,18 +65,6 @@
          "label": "the way old friends do",
          "playerLabel": "supertrouper the way old friends do",
          "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/05-me-and-i/10%20-%20The%20Way%20Old%20Friends%20Do.mp3"
-      },
-      {
-         "icon": "music-note",
-         "label": "elaine",
-         "playerLabel": "supertrouper elaine",
-         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/05-me-and-i/11%20-%20Elaine.mp3"
-      },
-      {
-         "icon": "music-note",
-         "label": "put your white sombrero",
-         "playerLabel": "supertrouper put your white sombrero",
-         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/05-me-and-i/12%20-%20Put%20On%20Your%20White%20Sombrero.mp3"
       }
    ]
 }
