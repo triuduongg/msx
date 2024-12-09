@@ -275,10 +275,9 @@
             "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/dailymotion-x6bb9lu/NoCopyrightSounds-Andromedik_Firefly_NCS_Release-x6bb9lu.mp4"
         },
         {
-            "icon": "movie",
-            "label": "cosmoslaundromat",
-            "playerLabel": "cosmoslaundromat",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20%281080p%29.mp4"
+            "icon": "video-library",
+            "label": "starshiptroopers",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-starshiptroopers.json"
         },
         {
             "icon": "live-tv",
