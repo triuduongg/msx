@@ -1,22 +1,22 @@
 {
-    "type": "list",
-    "headline": "drunkenmaster",
-    "template": {
-       "layout": "0,0,2,4",
-       "color": "msx-glass"
-    },
-    "items": [
-       {
-          "icon": "movie",
-          "label": "movie 1",
-          "playerLabel": "movie 1",
-          "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/drunken-master-uncut-0/Drunken%20Master%20uncut_0.ia.mp4"
-       },
-       {
-        "icon": "movie",
-        "label": "movie 2",
-        "playerLabel": "movie 2",
-        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/drunken-master-ii-cantonese/Drunken%20Master%20II%20-%20Cantonese.mp4"
-       }
-    ]
- }
+   "type": "list",
+   "headline": "drunkenmaster",
+   "template": {
+      "layout": "0,0,2,4",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "icon": "movie",
+         "label": "movie 1",
+         "playerLabel": "drunkenmaster movie 1",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/drunken-master-uncut-0/Drunken%20Master%20uncut_0.ia.mp4"
+      },
+      {
+       "icon": "movie",
+       "label": "movie 2",
+       "playerLabel": "drunkenmaster movie 2",
+       "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/drunken-master-ii-cantonese/Drunken%20Master%20II%20-%20Cantonese.mp4"
+      }
+   ]
+}
