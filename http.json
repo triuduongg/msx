@@ -69,10 +69,9 @@
             "action": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction"
         },
         {
-            "icon": "photo",
-            "label": "bluemarble",
-            "playerLabel": "bluemarble",
-            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/VE-IMG-1597/AS17-148-22727.jpg"
+            "icon": "photo-library",
+            "label": "fragglerock",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-fragglerock.json"
         },
         {
             "icon": "music-note",
