@@ -180,8 +180,8 @@
         },
         {
             "icon": "video-library",
-            "label": "zorro",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-zorro.json"
+            "label": "maskofzorro",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-maskofzorro.json"
         },
         {
             "icon": "live-tv",
