@@ -255,10 +255,9 @@
             "action": "menu:http://en.msx.benzac.de/msx/service.php"
         },
         {
-            "icon": "photo",
-            "label": "horseheadnebula",
-            "playerLabel": "horseheadnebula",
-            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/NIX-PIA04215/PIA04215.jpg"
+            "icon": "photo-library",
+            "label": "thundercats",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-thundercats.json"
         },
         {
             "icon": "music-note",
