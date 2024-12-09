@@ -193,10 +193,9 @@
             "action": "menu:https://sc.msx.benzac.de/msx/service.php"
         },
         {
-            "icon": "photo",
-            "label": "cosmiccliffs",
-            "playerLabel": "cosmiccliffs",
-            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/cosmic-cliffs-in-the-carina-nebula-nircam-image-uploaded-by-shashankpoojaricreators/_Cosmic%20Cliffs_%20in%20the%20Carina%20Nebula%20%28NIRCam%20Image%29.png"
+            "icon": "photo-library",
+            "label": "chucknorris",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-chucknorris.json"
         },
         {
             "icon": "music-note",
