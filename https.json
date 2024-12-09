@@ -194,8 +194,8 @@
         },
         {
             "icon": "photo-library",
-            "label": "chucknorris",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-chucknorris.json"
+            "label": "mastersofuniverse",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-mastersofuniverse.json"
         },
         {
             "icon": "music-note",
