@@ -8,8 +8,8 @@
    "items": [
       {
          "icon": "movie",
-         "label": "mrbean bean01",
-         "playerLabel": "bean01",
+         "label": "bean01",
+         "playerLabel": "mrbean bean01",
          "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean01.mp4"
       },
       {
