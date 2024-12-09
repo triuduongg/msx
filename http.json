@@ -131,10 +131,9 @@
             "action": "menu:request:interaction:init@http://db.msx.benzac.de/interaction"
         },
         {
-            "icon": "photo",
-            "label": "greatredspot",
-            "playerLabel": "greatredspot",
-            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/PLAN-PIA00014/PIA00014.jpg"
+            "icon": "photo-library",
+            "label": "planetterry",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-planetterry.json"
         },
         {
             "icon": "music-note",
