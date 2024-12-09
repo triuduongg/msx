@@ -244,8 +244,8 @@
         },
         {
             "icon": "video-library",
-            "label": "aristocats",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-aristocats.json"
+            "label": "lockstock&2smokingbarrels",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-lockstock&2smokingbarrels.json"
         },
         {
             "icon": "live-tv",
