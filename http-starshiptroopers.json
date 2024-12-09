@@ -1,0 +1,28 @@
+{
+    "type": "list",
+    "headline": "starshiptroopers",
+    "template": {
+       "layout": "0,0,2,4",
+       "color": "msx-glass"
+    },
+    "items": [
+       {
+          "icon": "movie",
+          "label": "movie 1",
+          "playerLabel": "movie 1",
+          "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/dvd-video_202103/DVD_VIDEO%28Side%20A%29.mp4"
+       },
+       {
+         "icon": "movie",
+         "label": "movie 2",
+         "playerLabel": "movie 2",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/starship-troopers-2/STARSHIP_TROOPERS_2.mp4"
+       },
+       {
+         "icon": "movie",
+         "label": "movie 3",
+         "playerLabel": "movie 3",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/starship-troopers-3-marauder/Starship%20Troopers%203%20Marauder.mp4"
+       }
+    ]
+ }
