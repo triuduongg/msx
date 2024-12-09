@@ -42,10 +42,9 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-silverhawks.json"
         },
         {
-            "icon": "music-note",
-            "label": "dreams2",
-            "playerLabel": "dreams2",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-39074403/Lost_Sky_-_Dreams_pt._II_feat._Sara_Skinner_NCS_Release-39074403.mp4"
+            "icon": "library-music",
+            "label": "prism",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-prism.json"
         },
         {
             "icon": "video-library",
