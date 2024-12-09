@@ -7,10 +7,9 @@
     },
     "items": [
         {
-            "icon": "photo",
-            "label": "earthrise",
-            "playerLabel": "earthrise",
-            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/297755main_GPN-2001-000009_full/297755main_GPN-2001-000009_full.jpg"
+            "icon": "photo-library",
+            "label": "madballs",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-madballs.json"
         },
         {
             "icon": "music-note",
