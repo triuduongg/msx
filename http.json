@@ -38,10 +38,9 @@
             "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction"
         },
         {
-            "icon": "photo",
-            "label": "hubbledeepfield",
-            "playerLabel": "hubbledeepfield",
-            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/337648main_hs-1996-01-a-deepfield/337648main_hs-1996-01-a-full-deepfield_full.jpg"
+            "icon": "photo-library",
+            "label": "silverhawks",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-silverhawks.json"
         },
         {
             "icon": "music-note",
