@@ -12,10 +12,9 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-madballs.json"
         },
         {
-            "icon": "music-note",
-            "label": "heartafire",
-            "playerLabel": "heartafire",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-4729373/Defqwop_-_Heart_Afire_feat._Strix_NCS_Release-4729373.mp4"
+            "icon": "library-music",
+            "label": "supertrouper",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-supertrouper.json"
         },
         {
             "icon": "video-library",
