@@ -100,10 +100,9 @@
             "action": "menu:request:interaction:init@http://od.msx.benzac.de/interaction"
         },
         {
-            "icon": "photo",
-            "label": "pillarsofcreation",
-            "playerLabel": "pillarsofcreation",
-            "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/CHAN-1288/m16.jpg"
+            "icon": "photo-library",
+            "label": "wallywizard",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-wallywizard.json"
         },
         {
             "icon": "music-note",
