@@ -72,10 +72,9 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-fragglerock.json"
         },
         {
-            "icon": "music-note",
-            "label": "mortals",
-            "playerLabel": "mortals",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/warriyo-mortals-feat.laura-brehm-ncs-release-ytmate.xyz/warriyo-mortals-feat.laura-brehm-ncs-release-ytmate.xyz.mp4"
+            "icon": "library-music",
+            "label": "myloxyloto",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-myloxyloto.json"
         },
         {
             "icon": "video-library",
