@@ -228,8 +228,8 @@
         },
         {
             "icon": "video-library",
-            "label": "lockstock&2smokingbarrels",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-lockstock&2smokingbarrels.json"
+            "label": "leagueofextraordinarygentlemen",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-leagueofextraordinarygentlemen.json"
         },
         {
             "icon": "live-tv",
