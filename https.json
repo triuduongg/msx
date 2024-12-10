@@ -252,10 +252,9 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-thundercats.json"
         },
         {
-            "icon": "music-note",
-            "label": "firefly",
-            "playerLabel": "firefly",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/dailymotion-x6bb9lu/NoCopyrightSounds-Andromedik_Firefly_NCS_Release-x6bb9lu.mp4"
+            "icon": "library-music",
+            "label": "voicenotes",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-voicenotes.json"
         },
         {
             "icon": "video-library",
