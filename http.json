@@ -162,10 +162,9 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-muppetstakemanhattan.json"
         },
         {
-            "icon": "music-note",
-            "label": "myheart",
-            "playerLabel": "myheart",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/dailymotion-x6biqw2/x6biqw2.mp4"
+            "icon": "library-music",
+            "label": "doowops&hooligans",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-doowops&hooligans.json"
         },
         {
             "icon": "video-library",
