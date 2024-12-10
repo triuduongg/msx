@@ -102,10 +102,9 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-wallywizard.json"
         },
         {
-            "icon": "music-note",
-            "label": "savannah",
-            "playerLabel": "savannah",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/vimeo-168537568/Diviners_-_Savannah_feat._Philly_K_NCS_Release-168537568.mp4"
+            "icon": "library-music",
+            "label": "smile",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-smile.json"
         },
         {
             "icon": "video-library",
