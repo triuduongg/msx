@@ -1,0 +1,94 @@
+{
+   "type": "list",
+   "headline": "everytimewetouch",
+   "template": {
+      "layout": "0,0,2,4",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "icon": "music-note",
+         "label": "everytime we touch",
+         "playerLabel": "everytimewetouch everytime we touch",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/EverytimeWeTouch_201701/01%20Everytime%20We%20Touch.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "how do you do",
+         "playerLabel": "everytimewetouch how do you do",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/EverytimeWeTouch_201701/02%20How%20Do%20You%20Do%20.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "bad boy",
+         "playerLabel": "everytimewetouch bad boy",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/EverytimeWeTouch_201701/03%20Bad%20Boy.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "miracle",
+         "playerLabel": "everytimewetouch miracle",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/EverytimeWeTouch_201701/04%20Miracle.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "another you",
+         "playerLabel": "everytimewetouch another you",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/EverytimeWeTouch_201701/05%20Another%20You.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "ready for love",
+         "playerLabel": "everytimewetouch ready for love",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/EverytimeWeTouch_201701/06%20Ready%20for%20Love.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "can't stop the rain",
+         "playerLabel": "everytimewetouch can't stop the rain",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/EverytimeWeTouch_201701/07%20Can%27t%20Stop%20the%20Rain.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "kids in america",
+         "playerLabel": "everytimewetouch kids in america",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/EverytimeWeTouch_201701/08%20Kids%20in%20America.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "a neverending dream",
+         "playerLabel": "everytimewetouch a neverending dream",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/EverytimeWeTouch_201701/09%20A%20Neverending%20Dream.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "truly madly deeply",
+         "playerLabel": "everytimewetouch truly madly deeply",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/EverytimeWeTouch_201701/10%20Truly%20Madly%20Deeply.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "one more night",
+         "playerLabel": "everytimewetouch one more night",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/EverytimeWeTouch_201701/11%20One%20More%20Night.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "wouldn't it be good",
+         "playerLabel": "everytimewetouch wouldn't it be good",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/EverytimeWeTouch_201701/12%20Wouldn%27t%20It%20Be%20Good.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "love again",
+         "playerLabel": "everytimewetouch love again",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/EverytimeWeTouch_201701/13%20Love%20Again.mp3"
+      },
+      {
+         "icon": "music-note",
+         "label": "everytime we touch yanou s candlelight mix",
+         "playerLabel": "everytimewetouch everytime we touch yanou s candlelight mix",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/EverytimeWeTouch_201701/14%20Everytime%20We%20Touch%20%28Yanou%20s%20Candlelight%20Mix%29.mp3"
+      }
+   ]
+}
