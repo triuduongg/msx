@@ -192,10 +192,9 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-mastersofuniverse.json"
         },
         {
-            "icon": "music-note",
-            "label": "saygoodbye",
-            "playerLabel": "saygoodbye",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/BiliBili-75147436/Unknown_Brain_-_Say_Goodbye_ft._Marvin_Divine_NCS_Release-75147436.mp4"
+            "icon": "library-music",
+            "label": "aquarium",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-aquarium.json"
         },
         {
             "icon": "video-library",
