@@ -62,6 +62,12 @@
       },
       {
          "icon": "music-note",
+         "label": "walk of shame",
+         "playerLabel": "truthaboutlove walk of shame",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/C4%20-%20Walk%20Of%20Shame.mp3"
+      },
+      {
+         "icon": "music-note",
          "label": "here comes the weekend",
          "playerLabel": "truthaboutlove here comes the weekend",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/D1%20-%20Here%20Comes%20The%20Weekend.mp3"
