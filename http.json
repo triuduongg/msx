@@ -132,10 +132,9 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-planetterry.json"
         },
         {
-            "icon": "music-note",
-            "label": "fearless2",
-            "playerLabel": "fearless2",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/lost-sky-fearless-ptii-feat-chris-linton-ncs-release_v240p.mp4/Lost%20Sky%20%20Fearless%20ptII%20feat%20Chris%20Linton%20NCS%20Release_v240P.ia.mp4"
+            "icon": "library-music",
+            "label": "mercury",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-mercury.json"
         },
         {
             "icon": "video-library",
