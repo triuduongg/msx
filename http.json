@@ -43,8 +43,8 @@
         },
         {
             "icon": "library-music",
-            "label": "prism",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-prism.json"
+            "label": "everytimewetouch",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-everytimewetouch.json"
         },
         {
             "icon": "video-library",
