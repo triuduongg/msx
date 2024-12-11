@@ -1,0 +1,160 @@
+{
+   "type": "list",
+   "headline": "jamesbond",
+   "template": {
+      "layout": "0,0,2,4",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "icon": "movie",
+         "label": "movie 1",
+         "playerLabel": "jamesbond movie 1",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M1.Dr.%20No%20%281962%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 2",
+         "playerLabel": "jamesbond movie 2",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M2.From%20Russia%20With%20Love%20%281964%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 3",
+         "playerLabel": "jamesbond movie 3",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M3.Goldfinger%20%281965%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 4",
+         "playerLabel": "jamesbond movie 4",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M4.Thunderball%20%281965%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 5",
+         "playerLabel": "jamesbond movie 5",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M5.You%20Only%20Live%20Twice%20%281967%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 6",
+         "playerLabel": "jamesbond movie 6",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M6.OHMSS%20%281969%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 7",
+         "playerLabel": "jamesbond movie 7",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M7.Diamonds%20Are%20Forever%20%281971%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 8",
+         "playerLabel": "jamesbond movie 8",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M8.Live%20And%20Let%20Die%20%281973%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 9",
+         "playerLabel": "jamesbond movie 9",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M9.Man%20With%20the%20Golden%20Gun%20%281974%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 10",
+         "playerLabel": "jamesbond movie 10",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M10.Spy%20Who%20Loved%20Me%20%281977%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 11",
+         "playerLabel": "jamesbond movie 11",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M11.Moonraker%20%281979%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 12",
+         "playerLabel": "jamesbond movie 12",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M12.For%20Your%20Eyes%20Only%20%281981%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 13",
+         "playerLabel": "jamesbond movie 13",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M13.Octopussy%20%281983%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 14",
+         "playerLabel": "jamesbond movie 14",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M14.A%20View%20to%20a%20Kill%20%281985%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 15",
+         "playerLabel": "jamesbond movie 15",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M15.Living%20Daylights%20%281987%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 16",
+         "playerLabel": "jamesbond movie 16",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M16.License%20to%20Kill%20%281989%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 17",
+         "playerLabel": "jamesbond movie 17",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M17.Goldeneye%20%281995%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 18",
+         "playerLabel": "jamesbond movie 18",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M18.Tomorrow%20Never%20Dies%20%281997%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 19",
+         "playerLabel": "jamesbond movie 19",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M19.The%20World%20is%20Not%20Enough%20%281999%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 20",
+         "playerLabel": "jamesbond movie 20",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M20.Die%20Another%20Day%20%282002%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 21",
+         "playerLabel": "jamesbond movie 21",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M21.Casino%20Royale%20%282006%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 22",
+         "playerLabel": "jamesbond movie 22",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M22.Quantum%20of%20Solace%20%282008%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 23",
+         "playerLabel": "jamesbond movie 23",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M23.Skyfall%20%282012%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 24",
+         "playerLabel": "jamesbond movie 24",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M24.Spectre%20%282015%29.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 25",
+         "playerLabel": "jamesbond movie 25",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/completejamesbond/All%2025%20James%20Bond%20Movies/M25.No%20Time%20to%20Die%20%282021%29.mp4"
+      }
+   ]
+}
