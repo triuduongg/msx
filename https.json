@@ -48,8 +48,8 @@
         },
         {
             "icon": "video-library",
-            "label": "drunkenmaster",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-drunkenmaster.json"
+            "label": "jamesbond",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/https-jamesbond.json"
         },
         {
             "icon": "live-tv",
