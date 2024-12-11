@@ -218,8 +218,8 @@
         },
         {
             "icon": "photo-library",
-            "label": "airraiders",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-airraiders.json"
+            "label": "inhumanoids",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-inhumanoids.json"
         },
         {
             "icon": "library-music",
