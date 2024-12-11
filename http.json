@@ -158,8 +158,8 @@
         },
         {
             "icon": "photo-library",
-            "label": "muppetstakemanhattan",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-muppetstakemanhattan.json"
+            "label": "defendersofearth",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-defendersofearth.json"
         },
         {
             "icon": "library-music",
