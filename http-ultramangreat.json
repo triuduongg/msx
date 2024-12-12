@@ -9,79 +9,79 @@
       {
          "icon": "movie",
          "label": "episode 1",
-         "playerLabel": "ultramangreat episode 1",
+         "playerLabel": "ultramangreat - episode 1",
          "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ultraman-great-collection-1/Ultraman%20Great%20Episode%201%20-%20Signs%20of%20Life%20%5BRAW%5D.mp4"
       },
       {
        "icon": "movie",
        "label": "episode 2",
-       "playerLabel": "ultramangreat episode 2",
+       "playerLabel": "ultramangreat - episode 2",
        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ultraman-great-collection-1/Ultraman%20Great%20Episode%202%20-%20The%20Hibernator%20%5BRAW%5D.mp4"
       },
       {
        "icon": "movie",
        "label": "episode 3",
-       "playerLabel": "ultramangreat episode 3",
+       "playerLabel": "ultramangreat - episode 3",
        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ultraman-great-collection-1/Ultraman%20Great%20Episode%203%20-%20The%20Child%27s%20Dream%20%5BRAW%5D.mp4"
       },
       {
        "icon": "movie",
        "label": "episode 4",
-       "playerLabel": "ultramangreat episode 4",
+       "playerLabel": "ultramangreat - episode 4",
        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ultraman-great-collection-1/Ultraman%20Great%20Episode%204%20-%20The%20Storm%20Hunter%20%5BRAW%5D.mp4"
       },
       {
        "icon": "movie",
        "label": "episode 5",
-       "playerLabel": "ultramangreat episode 5",
+       "playerLabel": "ultramangreat - episode 5",
        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ultraman-great-collection-2/Ultraman%20Great%20Episode%205%20-%20Blast%20from%20the%20Past%20%5BRAW%5D.mp4"
       },
       {
        "icon": "movie",
        "label": "episode 6",
-       "playerLabel": "ultramangreat episode 6",
+       "playerLabel": "ultramangreat - episode 6",
        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ultraman-great-collection-2/Ultraman%20Great%20Episode%206%20-%20The%20Showdown%20%5BRAW%5D.mp4"
       },
       {
        "icon": "movie",
        "label": "episode 7",
-       "playerLabel": "ultramangreat episode 7",
+       "playerLabel": "ultramangreat - episode 7",
        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ultraman-great-collection-2/Ultraman%20Great%20Episode%207%20-%20The%20Forest%20Guardian%20%5BRAW%5D.mp4"
       },
       {
        "icon": "movie",
        "label": "episode 8",
-       "playerLabel": "ultramangreat episode 8",
+       "playerLabel": "ultramangreat - episode 8",
        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ultraman-great-collection-2/Ultraman%20Great%20Episode%208%20-%20Bitter%20Harvest%20%5BRAW%5D.mp4"
       },
       {
        "icon": "movie",
        "label": "episode 9",
-       "playerLabel": "ultramangreat episode 9",
+       "playerLabel": "ultramangreat - episode 9",
        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ultraman-great-collection-3/Ultraman%20Great%20Episode%209%20-%20The%20Biospherians%20%5BRAW%5D.mp4"
       },
       {
        "icon": "movie",
        "label": "episode 10",
-       "playerLabel": "ultramangreat episode 10",
+       "playerLabel": "ultramangreat - episode 10",
        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ultraman-great-collection-3/Ultraman%20Great%20Episode%2010%20-%20Tourists%20from%20the%20Stars%20%5BRAW%5D.mp4"
       },
       {
        "icon": "movie",
        "label": "episode 11",
-       "playerLabel": "ultramangreat episode 11",
+       "playerLabel": "ultramangreat - episode 11",
        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ultraman-great-collection-3/Ultraman%20Great%20Episode%2011%20-%20The%20Survivalists%20%5BRAW%5D.mp4"
       },
       {
        "icon": "movie",
        "label": "episode 12",
-       "playerLabel": "ultramangreat episode 12",
+       "playerLabel": "ultramangreat - episode 12",
        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ultraman-great-collection-3/Ultraman%20Great%20Episode%2012%20-%20The%20Age%20of%20Plagues%20%5BRAW%5D.mp4"
       },
       {
        "icon": "movie",
        "label": "episode 13",
-       "playerLabel": "ultramangreat episode 13",
+       "playerLabel": "ultramangreat - episode 13",
        "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ultraman-great-collection-3/Ultraman%20Great%20Episode%2013%20%28Final%29%20-%20Nemesis%20%5BRAW%5D.mp4"
       }
    ]
