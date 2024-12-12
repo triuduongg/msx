@@ -9,49 +9,49 @@
       {
          "icon": "movie",
          "label": "bean01",
-         "playerLabel": "mrbean bean01",
+         "playerLabel": "mrbean - bean01",
          "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean01.mp4"
       },
       {
        "icon": "movie",
        "label": "bean02",
-       "playerLabel": "mrbean bean02",
+       "playerLabel": "mrbean - bean02",
        "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean02.mp4"
       },
       {
        "icon": "movie",
        "label": "bean03",
-       "playerLabel": "mrbean bean03",
+       "playerLabel": "mrbean - bean03",
        "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean03.mp4"
       },
       {
        "icon": "movie",
        "label": "bean04",
-       "playerLabel": "mrbean bean04",
+       "playerLabel": "mrbean - bean04",
        "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean04.mp4"
       },
       {
        "icon": "movie",
        "label": "bean05",
-       "playerLabel": "mrbean bean05",
+       "playerLabel": "mrbean - bean05",
        "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean05.mp4"
       },
       {
        "icon": "movie",
        "label": "bean06",
-       "playerLabel": "mrbean bean06",
+       "playerLabel": "mrbean - bean06",
        "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean06.mp4"
       },
       {
        "icon": "movie",
        "label": "bean07",
-       "playerLabel": "mrbean bean07",
+       "playerLabel": "mrbean - bean07",
        "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean07.mp4"
       },
       {
        "icon": "movie",
        "label": "bean08",
-       "playerLabel": "mrbean bean08",
+       "playerLabel": "mrbean - bean08",
        "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/mrbeanvhscollection/Bean08.mp4"
       }
    ]
