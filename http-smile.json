@@ -9,61 +9,61 @@
       {
          "icon": "music-note",
          "label": "butterfly",
-         "playerLabel": "smile butterfly",
+         "playerLabel": "smile - butterfly",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/01%20Butterfly.mp3"
       },
       {
          "icon": "music-note",
          "label": "coconut",
-         "playerLabel": "smile coconut",
+         "playerLabel": "smile - coconut",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/02%20Coconut.mp3"
       },
       {
          "icon": "music-note",
          "label": "sweet senorita",
-         "playerLabel": "smile sweet senorita",
+         "playerLabel": "smile - sweet senorita",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/03%20Sweet%20Senorita.mp3"
       },
       {
          "icon": "music-note",
          "label": "middle of the night",
-         "playerLabel": "smile middle of the night",
+         "playerLabel": "smile - middle of the night",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/04%20Middle%20Of%20The%20Night.mp3"
       },
       {
          "icon": "music-note",
          "label": "tic toc",
-         "playerLabel": "smile tic toc",
+         "playerLabel": "smile - tic toc",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/05%20Tic%20Toc.mp3"
       },
       {
          "icon": "music-note",
          "label": "get out",
-         "playerLabel": "smile get out",
+         "playerLabel": "smile - get out",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/06%20Get%20Out.mp3"
       },
       {
          "icon": "music-note",
          "label": "boys",
-         "playerLabel": "smile boys",
+         "playerLabel": "smile - boys",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/07%20Boys.mp3"
       },
       {
          "icon": "music-note",
          "label": "mr. wonderful",
-         "playerLabel": "smile mr. wonderful",
+         "playerLabel": "smile - mr. wonderful",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/08%20Mr.%20Wonderful.mp3"
       },
       {
          "icon": "music-note",
          "label": "knock knock",
-         "playerLabel": "smile knock knock",
+         "playerLabel": "smile - knock knock",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/09%20Knock%20Knock.mp3"
       },
       {
          "icon": "music-note",
          "label": "comme ci comme ca",
-         "playerLabel": "smile comme ci comme ca",
+         "playerLabel": "smile - comme ci comme ca",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/10%20Comme%20Ci%20Comme%20CA.mp3"
       }
    ]
