@@ -9,61 +9,61 @@
       {
          "icon": "music-note",
          "label": "super trouper",
-         "playerLabel": "supertrouper super trouper",
+         "playerLabel": "supertrouper - super trouper",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/05-me-and-i/01%20-%20Super%20Trouper.mp3"
       },
       {
          "icon": "music-note",
          "label": "the winner takes it all",
-         "playerLabel": "supertrouper the winner takes it all",
+         "playerLabel": "supertrouper - the winner takes it all",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/05-me-and-i/02%20-%20The%20Winner%20Takes%20It%20All.mp3"
       },
       {
          "icon": "music-note",
          "label": "on and on and on",
-         "playerLabel": "supertrouper on and on and on",
+         "playerLabel": "supertrouper - on and on and on",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/05-me-and-i/03%20-%20On%20And%20On%20And%20On.mp3"
       },
       {
          "icon": "music-note",
          "label": "andante, andante",
-         "playerLabel": "supertrouper andante, andante",
+         "playerLabel": "supertrouper - andante, andante",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/05-me-and-i/04%20-%20Andante%2C%20Andante.mp3"
       },
       {
          "icon": "music-note",
          "label": "me and i",
-         "playerLabel": "supertrouper me and i",
+         "playerLabel": "supertrouper - me and i",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/05-me-and-i/05%20-%20Me%20And%20I.mp3"
       },
       {
          "icon": "music-note",
          "label": "happy new year",
-         "playerLabel": "supertrouper happy new year",
+         "playerLabel": "supertrouper - happy new year",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/05-me-and-i/06%20-%20Happy%20New%20Year.mp3"
       },
       {
          "icon": "music-note",
          "label": "our last summer",
-         "playerLabel": "supertrouper our last summer",
+         "playerLabel": "supertrouper - our last summer",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/05-me-and-i/07%20-%20Our%20Last%20Summer.mp3"
       },
       {
          "icon": "music-note",
          "label": "the piper",
-         "playerLabel": "supertrouper the piper",
+         "playerLabel": "supertrouper - the piper",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/05-me-and-i/08%20-%20The%20Piper.mp3"
       },
       {
          "icon": "music-note",
          "label": "lay all your love on me",
-         "playerLabel": "supertrouper lay all your love on me",
+         "playerLabel": "supertrouper - lay all your love on me",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/05-me-and-i/09%20-%20Lay%20All%20Your%20Love%20On%20Me.mp3"
       },
       {
          "icon": "music-note",
          "label": "the way old friends do",
-         "playerLabel": "supertrouper the way old friends do",
+         "playerLabel": "supertrouper - the way old friends do",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/05-me-and-i/10%20-%20The%20Way%20Old%20Friends%20Do.mp3"
       }
    ]
