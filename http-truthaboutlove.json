@@ -9,79 +9,79 @@
       {
          "icon": "music-note",
          "label": "are we all we are",
-         "playerLabel": "truthaboutlove happy boys & girls",
+         "playerLabel": "truthaboutlove - happy boys & girls",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/A1%20-%20Are%20We%20All%20We%20Are.mp3"
       },
       {
          "icon": "music-note",
          "label": "blow me",
-         "playerLabel": "truthaboutlove blow me",
+         "playerLabel": "truthaboutlove - blow me",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/A2%20-%20Blow%20Me%20%28One%20Last%20Kiss%29.mp3"
       },
       {
          "icon": "music-note",
          "label": "try",
-         "playerLabel": "truthaboutlove try",
+         "playerLabel": "truthaboutlove - try",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/A3%20-%20Try.mp3"
       },
       {
          "icon": "music-note",
          "label": "just give me a reason",
-         "playerLabel": "truthaboutlove just give me a reason",
+         "playerLabel": "truthaboutlove - just give me a reason",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/B1%20-%20Just%20Give%20Me%20A%20Reason.mp3"
       },
       {
          "icon": "music-note",
          "label": "true love",
-         "playerLabel": "truthaboutlove true love",
+         "playerLabel": "truthaboutlove - true love",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/B2%20-%20True%20Love.mp3"
       },
       {
          "icon": "music-note",
          "label": "how come you're not here",
-         "playerLabel": "truthaboutlove how come you're not here",
+         "playerLabel": "truthaboutlove - how come you're not here",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/B3%20-%20How%20Come%20You%27re%20Not%20Here.mp3"
       },
       {
          "icon": "music-note",
          "label": "slut like you",
-         "playerLabel": "truthaboutlove slut like you",
+         "playerLabel": "truthaboutlove - slut like you",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/C1%20-%20Slut%20Like%20You.mp3"
       },
       {
          "icon": "music-note",
          "label": "the truth about love",
-         "playerLabel": "truthaboutlove the truth about love",
+         "playerLabel": "truthaboutlove - the truth about love",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/C2%20-%20The%20Truth%20About%20Love.mp3"
       },
       {
          "icon": "music-note",
          "label": "beam me up",
-         "playerLabel": "truthaboutlove beam me up",
+         "playerLabel": "truthaboutlove - beam me up",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/C3%20-%20Beam%20Me%20Up.mp3"
       },
       {
          "icon": "music-note",
          "label": "walk of shame",
-         "playerLabel": "truthaboutlove walk of shame",
+         "playerLabel": "truthaboutlove - walk of shame",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/C4%20-%20Walk%20Of%20Shame.mp3"
       },
       {
          "icon": "music-note",
          "label": "here comes the weekend",
-         "playerLabel": "truthaboutlove here comes the weekend",
+         "playerLabel": "truthaboutlove - here comes the weekend",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/D1%20-%20Here%20Comes%20The%20Weekend.mp3"
       },
       {
          "icon": "music-note",
          "label": "where did the beat go",
-         "playerLabel": "truthaboutlove where did the beat go",
+         "playerLabel": "truthaboutlove - where did the beat go",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/D2%20-%20Where%20Did%20The%20Beat%20Go.mp3"
       },
       {
          "icon": "music-note",
          "label": "the great escape",
-         "playerLabel": "truthaboutlove the great escape",
+         "playerLabel": "truthaboutlove - the great escape",
          "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/D3%20-%20The%20Great%20Escape.mp3"
       }
    ]
