@@ -48,8 +48,8 @@
         },
         {
             "icon": "video-library",
-            "label": "jamesbond",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-jamesbond.json"
+            "label": "spawn",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-spawn.json"
         },
         {
             "icon": "live-tv",
