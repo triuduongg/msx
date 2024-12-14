@@ -138,8 +138,8 @@
         },
         {
             "icon": "video-library",
-            "label": "castlevania",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-castlevania.json"
+            "label": "oscarsoasis",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-oscarsoasis.json"
         },
         {
             "icon": "live-tv",
