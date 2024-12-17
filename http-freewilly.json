@@ -1,0 +1,34 @@
+{
+   "type": "list",
+   "headline": "freewilly",
+   "template": {
+      "layout": "0,0,2,4",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "icon": "movie",
+         "label": "movie 1",
+         "playerLabel": "freewilly - movie 1",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/20191123_20191123_1259/Free%20Willy.theatrical.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 2",
+         "playerLabel": "freewilly - movie 2",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/20191123_20191123_1259/FREE_WILLY_2.Title1.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 3",
+         "playerLabel": "freewilly - movie 3",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/20191123_20191123_1259/FREE_WILLY_3.Title1.mp4"
+      },
+      {
+         "icon": "movie",
+         "label": "movie 4",
+         "playerLabel": "freewilly - movie 4",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/20191123_20191123_1259/FREE_WILLY_4.Title1.mp4"
+      }
+   ]
+}
