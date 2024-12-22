@@ -7,6 +7,30 @@
     },
     "items": [
         {
+            "title": "photo",
+            "layout": "0,0,2,1"
+        },
+        {
+            "title": "music",
+            "layout": "0,0,2,1"
+        },
+        {
+            "title": "movie",
+            "layout": "0,0,2,1"
+        },
+        {
+            "title": "iptv",
+            "layout": "0,0,2,1"
+        },
+        {
+            "title": "feed",
+            "layout": "0,0,2,1"
+        },
+        {
+            "title": "extension",
+            "layout": "0,0,2,1"
+        },
+        {
             "icon": "photo-library",
             "label": "madballs",
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/http-madballs.json"
