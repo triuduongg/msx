@@ -3,7 +3,8 @@
     "headline": "http",
     "template": {
        "layout": "0,0,2,2",
-       "color": "msx-glass"
+       "color": "msx-glass",
+        "offset": "0,0,0,0.17"
     },
     "items": [
         {
