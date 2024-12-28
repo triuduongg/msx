@@ -1,0 +1,17 @@
+{
+   "type": "list",
+   "headline": "lockstock&2smokingbarrels",
+   "template": {
+      "layout": "0,0,2,2",
+      "color": "msx-glass",
+      "icon": "movie",
+      "iconSize": "medium"
+   },
+   "items": [
+      {
+         "label": "movie",
+         "playerLabel": "lockstock&2smokingbarrels - movie",
+         "action": "video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/c-2-t-01_202407/LOCKSTOK/B1_t00.mp4"
+      }
+   ]
+}

@@ -1,0 +1,59 @@
+{
+    "headline": "foxnews",
+    "menu": [   
+        {
+            "type": "separator",
+            "label": "source"
+        },
+        {
+            "icon": "source",
+            "label": "latest",
+            "data": "request:interaction:https://moxie.foxnews.com/google-publisher/latest.xml@http://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "source",
+            "label": "world",
+            "data": "request:interaction:https://moxie.foxnews.com/google-publisher/world.xml@http://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "source",
+            "label": "politics",
+            "data": "request:interaction:https://moxie.foxnews.com/google-publisher/politics.xml@http://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "source",
+            "label": "science",
+            "data": "request:interaction:https://moxie.foxnews.com/google-publisher/science.xml@http://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "source",
+            "label": "health",
+            "data": "request:interaction:https://moxie.foxnews.com/google-publisher/health.xml@http://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "source",
+            "label": "sports",
+            "data": "request:interaction:https://moxie.foxnews.com/google-publisher/sports.xml@http://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "source",
+            "label": "travel",
+            "data": "request:interaction:https://moxie.foxnews.com/google-publisher/travel.xml@http://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "source",
+            "label": "tech",
+            "data": "request:interaction:https://moxie.foxnews.com/google-publisher/tech.xml@http://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "source",
+            "label": "opinion",
+            "data": "request:interaction:https://www.dailymail.co.uk/sciencetech/index.rss@http://msx.benzac.de/interaction/mrss.html"
+        },
+        {
+            "icon": "source",
+            "label": "u.s",
+            "data": "request:interaction:https://moxie.foxnews.com/google-publisher/us.xml@http://msx.benzac.de/interaction/mrss.html"
+        }
+        ]
+}

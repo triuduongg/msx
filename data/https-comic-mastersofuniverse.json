@@ -1,0 +1,142 @@
+{
+   "type": "list",
+   "headline": "mastersofuniverse",
+   "template": {
+      "layout": "0,0,2,2",
+      "color": "msx-glass",
+      "icon": "photo",
+      "iconSize": "medium"
+   },
+   "items": [
+      {
+         "label": "page 1",
+         "playerLabel": "mastersofuniverse - page 1",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_01.jpg"
+      },
+      {
+         "label": "page 2",
+         "playerLabel": "mastersofuniverse - page 2",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_02.jpg"
+      },
+      {
+         "label": "page 3",
+         "playerLabel": "mastersofuniverse - page 3",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_03.jpg"
+      },
+      {
+         "label": "page 4",
+         "playerLabel": "mastersofuniverse - page 4",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_04.jpg"
+      },
+      {
+         "label": "page 5",
+         "playerLabel": "mastersofuniverse - page 5",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_05.jpg"
+      },
+      {
+         "label": "page 6",
+         "playerLabel": "mastersofuniverse - page 6",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_06.jpg"
+      },
+      {
+         "label": "page 7",
+         "playerLabel": "mastersofuniverse - page 7",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_07.jpg"
+      },
+      {
+         "label": "page 8",
+         "playerLabel": "mastersofuniverse - page 8",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_08.jpg"
+      },
+      {
+         "label": "page 9",
+         "playerLabel": "mastersofuniverse - page 9",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_09.jpg"
+      },
+      {
+         "label": "page 10",
+         "playerLabel": "mastersofuniverse - page 10",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_10.jpg"
+      },
+      {
+         "label": "page 11",
+         "playerLabel": "mastersofuniverse - page 11",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_11.jpg"
+      },
+      {
+         "label": "page 12",
+         "playerLabel": "mastersofuniverse - page 12",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_12.jpg"
+      },
+      {
+         "label": "page 13",
+         "playerLabel": "mastersofuniverse - page 13",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_13.jpg"
+      },
+      {
+         "label": "page 14",
+         "playerLabel": "mastersofuniverse - page 14",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_14.jpg"
+      },
+      {
+         "label": "page 15",
+         "playerLabel": "mastersofuniverse - page 15",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_15.jpg"
+      },
+      {
+         "label": "page 16",
+         "playerLabel": "mastersofuniverse - page 16",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_16.jpg"
+      },
+      {
+         "label": "page 17",
+         "playerLabel": "mastersofuniverse - page 17",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_17.jpg"
+      },
+      {
+         "label": "page 18",
+         "playerLabel": "mastersofuniverse - page 18",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_18.jpg"
+      },
+      {
+         "label": "page 19",
+         "playerLabel": "mastersofuniverse - page 19",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_19.jpg"
+      },
+      {
+         "label": "page 20",
+         "playerLabel": "mastersofuniverse - page 20",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_20.jpg"
+      },
+      {
+         "label": "page 21",
+         "playerLabel": "mastersofuniverse - page 21",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_21.jpg"
+      },
+      {
+         "label": "page 22",
+         "playerLabel": "mastersofuniverse - page 22",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_22.jpg"
+      },
+      {
+         "label": "page 23",
+         "playerLabel": "mastersofuniverse - page 23",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_23.jpg"
+      },
+      {
+         "label": "page 24",
+         "playerLabel": "mastersofuniverse - page 24",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_24.jpg"
+      },
+      {
+         "label": "page 25",
+         "playerLabel": "mastersofuniverse - page 25",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_25.jpg"
+      },
+      {
+         "label": "page 26",
+         "playerLabel": "mastersofuniverse - page 26",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/masters-of-the-universe-star-comics/Masters%20Of%20The%20Universe%20v1%20001%5B1986-05%5D.cbz/__Page_26.jpg"
+      }
+   ]
+}

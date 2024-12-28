@@ -1,0 +1,77 @@
+{
+   "type": "list",
+   "headline": "voicenotes",
+   "template": {
+      "layout": "0,0,2,2",
+      "color": "msx-glass",
+      "icon": "music-note",
+      "iconSize": "medium"
+   },
+   "items": [
+      {
+         "label": "the way i am",
+         "playerLabel": "voicenotes - the way i am",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/voicenotes_181105/01%20The%20Way%20I%20Am.mp3"
+      },
+      {
+         "label": "attention",
+         "playerLabel": "voicenotes - attention",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/voicenotes_181105/02%20Attention.mp3"
+      },
+      {
+         "label": "la girls",
+         "playerLabel": "voicenotes - la girls",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/voicenotes_181105/03%20LA%20Girls.mp3"
+      },
+      {
+         "label": "how long",
+         "playerLabel": "voicenotes - how long",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/voicenotes_181105/04%20How%20Long.mp3"
+      },
+      {
+         "label": "done for me",
+         "playerLabel": "voicenotes - done for me",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/voicenotes_181105/05%20Done%20For%20Me%20%28feat.%20Kehlani%29.mp3"
+      },
+      {
+         "label": "patient",
+         "playerLabel": "voicenotes - patient",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/voicenotes_181105/06%20Patient.mp3"
+      },
+      {
+         "label": "if you leave me now",
+         "playerLabel": "voicenotes - if you leave me now",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/voicenotes_181105/07%20If%20You%20Leave%20Me%20Now%20%28feat.%20Boyz%20I.mp3"
+      },
+      {
+         "label": "boy",
+         "playerLabel": "voicenotes - boy",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/voicenotes_181105/08%20BOY.mp3"
+      },
+      {
+         "label": "slow it down",
+         "playerLabel": "voicenotes - slow it down",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/voicenotes_181105/09%20Slow%20It%20Down.mp3"
+      },
+      {
+         "label": "change",
+         "playerLabel": "voicenotes - change",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/voicenotes_181105/10%20Change%20%28feat.%20James%20Taylor%29.mp3"
+      },
+      {
+         "label": "somebody told me",
+         "playerLabel": "voicenotes - somebody told me",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/voicenotes_181105/11%20Somebody%20Told%20Me.mp3"
+      },
+      {
+         "label": "empty cups",
+         "playerLabel": "voicenotes - empty cups",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/voicenotes_181105/12%20Empty%20Cups.mp3"
+      },
+      {
+         "label": "through it all",
+         "playerLabel": "voicenotes - through it all",
+         "action": "audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/voicenotes_181105/13%20Through%20It%20All.mp3"
+      }
+   ]
+}

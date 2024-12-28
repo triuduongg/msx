@@ -1,0 +1,24 @@
+{
+    "headline": "jsosao",
+    "menu": [   
+        {
+            "type": "separator",
+            "label": "list"
+        },
+        {
+            "label": "mylist",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/jsosao/m3u/refs/heads/main/mylist.m3u8"
+        },
+        {
+            "label": "test",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/jsosao/m3u/refs/heads/main/test.m3u8"
+        },
+        {
+            "label": "test1",
+            "icon": "list",
+            "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/jsosao/m3u/refs/heads/main/test1.m3u8"
+        }
+        ]
+}

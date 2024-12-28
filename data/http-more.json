@@ -1,0 +1,48 @@
+{
+   "type": "list",
+   "headline": "more",
+   "template": {
+      "layout": "0,0,2,6",
+      "color": "msx-glass",
+      "icon": "extension",
+      "iconSize": "large"
+   },
+   "items": [
+       {
+           "label": "launcher",
+           "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction"
+       },
+       {
+           "label": "googledrive",
+           "action": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction"
+       },
+       {
+           "label": "onedrive",
+           "action": "menu:request:interaction:init@http://od.msx.benzac.de/interaction"
+       },
+       {
+           "label": "dropbox",
+           "action": "menu:request:interaction:init@http://db.msx.benzac.de/interaction"
+       },
+       {
+           "label": "nodejs",
+           "action": "menu:request:interaction:init@http://nb.msx.benzac.de/interaction"
+       },
+       {
+           "label": "soundcloud",
+           "action": "menu:http://sc.msx.benzac.de/msx/service.php"
+       },
+       {
+           "label": "tmdb",
+           "action": "menu:http://tmdb.msx.benzac.de/msx/service.php"
+       },
+       {
+           "label": "euronews",
+           "action": "menu:http://en.msx.benzac.de/msx/service.php"
+       },
+       {
+           "label": "rbtv",
+           "action": "menu:request:interaction:init@http://rbtv.msx.benzac.de"
+       }
+   ]
+}
