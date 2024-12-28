@@ -1,0 +1,17 @@
+{
+   "type": "list",
+   "headline": "leagueofextraordinarygentlemen",
+   "template": {
+      "layout": "0,0,2,2",
+      "color": "msx-glass",
+      "icon": "movie",
+      "iconSize": "medium"
+   },
+   "items": [
+      {
+         "label": "movie",
+         "playerLabel": "leagueofextraordinarygentlemen - movie",
+         "action": "video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/the-league-of-extraordinary-gentlemen-2003-blu-ray-1080p-dts-ac-3-x-264-3-li/The%20League%20of%20Extraordinary%20Gentlemen%202003%20BluRay%201080p%20DTS%20AC3%20x264-3Li.mp4"
+      }
+   ]
+}

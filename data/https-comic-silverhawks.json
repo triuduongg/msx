@@ -1,0 +1,132 @@
+{
+   "type": "list",
+   "headline": "silverhawks",
+   "template": {
+      "layout": "0,0,2,2",
+      "color": "msx-glass",
+      "icon": "photo",
+      "iconSize": "medium"
+   },
+   "items": [
+      {
+         "label": "page 1",
+         "playerLabel": "silverhawks - page 1",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/01.jpg"
+      },
+      {
+         "label": "page 2",
+         "playerLabel": "silverhawks - page 2",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/02.jpg"
+      },
+      {
+         "label": "page 3",
+         "playerLabel": "silverhawks - page 3",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/03.jpg"
+      },
+      {
+         "label": "page 4",
+         "playerLabel": "silverhawks - page 4",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/04.jpg"
+      },
+      {
+         "label": "page 5",
+         "playerLabel": "silverhawks - page 5",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/05.jpg"
+      },
+      {
+         "label": "page 6",
+         "playerLabel": "silverhawks - page 6",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/06.jpg"
+      },
+      {
+         "label": "page 7",
+         "playerLabel": "silverhawks - page 7",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/07.jpg"
+      },
+      {
+         "label": "page 8",
+         "playerLabel": "silverhawks - page 8",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/08.jpg"
+      },
+      {
+         "label": "page 9",
+         "playerLabel": "silverhawks - page 9",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/09.jpg"
+      },
+      {
+         "label": "page 10",
+         "playerLabel": "silverhawks - page 10",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/10.jpg"
+      },
+      {
+         "label": "page 11",
+         "playerLabel": "silverhawks - page 11",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/11.jpg"
+      },
+      {
+         "label": "page 12",
+         "playerLabel": "silverhawks - page 12",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/12.jpg"
+      },
+      {
+         "label": "page 13",
+         "playerLabel": "silverhawks - page 13",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/13.jpg"
+      },
+      {
+         "label": "page 14",
+         "playerLabel": "silverhawks - page 14",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/14.jpg"
+      },
+      {
+         "label": "page 15",
+         "playerLabel": "silverhawks - page 15",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/15.jpg"
+      },
+      {
+         "label": "page 16",
+         "playerLabel": "silverhawks - page 16",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/16.jpg"
+      },
+      {
+         "label": "page 17",
+         "playerLabel": "silverhawks - page 17",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/17.jpg"
+      },
+      {
+         "label": "page 18",
+         "playerLabel": "silverhawks - page 18",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/18.jpg"
+      },
+      {
+         "label": "page 19",
+         "playerLabel": "silverhawks - page 19",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/19.jpg"
+      },
+      {
+         "label": "page 20",
+         "playerLabel": "silverhawks - page 20",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/20.jpg"
+      },
+      {
+         "label": "page 21",
+         "playerLabel": "silverhawks - page 21",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/21.jpg"
+      },
+      {
+         "label": "page 22",
+         "playerLabel": "silverhawks - page 22",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/22.jpg"
+      },
+      {
+         "label": "page 23",
+         "playerLabel": "silverhawks - page 23",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/23.jpg"
+      },
+      {
+         "label": "page 24",
+         "playerLabel": "silverhawks - page 24",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/silverhawks-star-comics/Silverhawks%20v1%20001%20%281987%29.cbz/24.jpg"
+      }
+   ]
+}

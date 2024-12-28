@@ -1,0 +1,14 @@
+{
+   "headline": "m3upt",
+   "menu": [   
+       {
+           "type": "separator",
+           "label": "list"
+       },
+       {
+           "label": "m3upt",
+           "icon": "list",
+           "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u"
+       }
+       ]
+}

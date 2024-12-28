@@ -1,0 +1,14 @@
+{
+    "headline": "free-tv",
+    "menu": [   
+        {
+            "type": "separator",
+            "label": "list"
+        },
+        {
+            "label": "playlist",
+            "icon": "list",
+            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
+        }
+        ]
+}

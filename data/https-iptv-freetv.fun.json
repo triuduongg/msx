@@ -1,0 +1,49 @@
+{
+    "headline": "freetv.fun",
+    "menu": [   
+        {
+            "type": "separator",
+            "label": "list"
+        },
+        {
+            "label": "old",
+            "icon": "list",
+            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://freetv.fun/test_channels.m3u"
+        },
+        {
+            "label": "new",
+            "icon": "list",
+            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://freetv.fun/test_channels_new.m3u"
+        },
+        {
+            "label": "banned old",
+            "icon": "list",
+            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://freetv.fun/test_channels_banned_cn.m3u"
+        },
+        {
+            "label": "banned new",
+            "icon": "list",
+            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://freetv.fun/test_channels_banned_cn_new.m3u"
+        },
+        {
+            "label": "all old",
+            "icon": "list",
+            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://freetv.fun/test_channels_all.m3u"
+        },
+        {
+            "label": "all new",
+            "icon": "list",
+            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://freetv.fun/test_channels_all_new.m3u"
+        },
+        {
+            "label": "unknown old",
+            "icon": "list",
+            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://freetv.fun/test_channels_unknown.m3u"
+        },
+        {
+            "label": "unknown new",
+            "icon": "list",
+            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://freetv.fun/test_channels_unknown_new.m3u"
+        }
+        ]
+}

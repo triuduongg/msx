@@ -1,0 +1,192 @@
+{
+   "type": "list",
+   "headline": "thundercats",
+   "template": {
+      "layout": "0,0,2,2",
+      "color": "msx-glass",
+      "icon": "photo",
+      "iconSize": "medium"
+   },
+   "items": [
+      {
+         "label": "page 0",
+         "playerLabel": "thundercats - page 0",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20000.jpg"
+      },
+      {
+         "label": "page 1",
+         "playerLabel": "thundercats - page 1",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20001.jpg"
+      },
+      {
+         "label": "page 2",
+         "playerLabel": "thundercats - page 2",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20002.jpg"
+      },
+      {
+         "label": "page 3",
+         "playerLabel": "thundercats - page 3",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20003.jpg"
+      },
+      {
+         "label": "page 4",
+         "playerLabel": "thundercats - page 4",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20004.jpg"
+      },
+      {
+         "label": "page 5",
+         "playerLabel": "thundercats - page 5",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20005.jpg"
+      },
+      {
+         "label": "page 6",
+         "playerLabel": "thundercats - page 6",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20006.jpg"
+      },
+      {
+         "label": "page 7",
+         "playerLabel": "thundercats - page 7",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20007.jpg"
+      },
+      {
+         "label": "page 8",
+         "playerLabel": "thundercats - page 8",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20008.jpg"
+      },
+      {
+         "label": "page 9",
+         "playerLabel": "thundercats - page 9",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20009.jpg"
+      },
+      {
+         "label": "page 10",
+         "playerLabel": "thundercats - page 10",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20010.jpg"
+      },
+      {
+         "label": "page 11",
+         "playerLabel": "thundercats - page 11",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20011.jpg"
+      },
+      {
+         "label": "page 12",
+         "playerLabel": "thundercats - page 12",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20012.jpg"
+      },
+      {
+         "label": "page 13",
+         "playerLabel": "thundercats - page 13",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20013.jpg"
+      },
+      {
+         "label": "page 14",
+         "playerLabel": "thundercats - page 14",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20014.jpg"
+      },
+      {
+         "label": "page 15",
+         "playerLabel": "thundercats - page 15",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20015.jpg"
+      },
+      {
+         "label": "page 16",
+         "playerLabel": "thundercats - page 16",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20016.jpg"
+      },
+      {
+         "label": "page 17",
+         "playerLabel": "thundercats - page 17",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20017.jpg"
+      },
+      {
+         "label": "page 18",
+         "playerLabel": "thundercats - page 18",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20018.jpg"
+      },
+      {
+         "label": "page 19",
+         "playerLabel": "thundercats - page 19",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20019.jpg"
+      },
+      {
+         "label": "page 20",
+         "playerLabel": "thundercats - page 20",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20020.jpg"
+      },
+      {
+         "label": "page 21",
+         "playerLabel": "thundercats - page 21",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20021.jpg"
+      },
+      {
+         "label": "page 22",
+         "playerLabel": "thundercats - page 22",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20022.jpg"
+      },
+      {
+         "label": "page 23",
+         "playerLabel": "thundercats - page 23",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20023.jpg"
+      },
+      {
+         "label": "page 24",
+         "playerLabel": "thundercats - page 24",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20024.jpg"
+      },
+      {
+         "label": "page 25",
+         "playerLabel": "thundercats - page 25",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20025.jpg"
+      },
+      {
+         "label": "page 26",
+         "playerLabel": "thundercats - page 26",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20026.jpg"
+      },
+      {
+         "label": "page 27",
+         "playerLabel": "thundercats - page 27",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20027.jpg"
+      },
+      {
+         "label": "page 28",
+         "playerLabel": "thundercats - page 28",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20028.jpg"
+      },
+      {
+         "label": "page 29",
+         "playerLabel": "thundercats - page 29",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20029.jpg"
+      },
+      {
+         "label": "page 30",
+         "playerLabel": "thundercats - page 30",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20030.jpg"
+      },
+      {
+         "label": "page 31",
+         "playerLabel": "thundercats - page 31",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20031.jpg"
+      },
+      {
+         "label": "page 32",
+         "playerLabel": "thundercats - page 32",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20032.jpg"
+      },
+      {
+         "label": "page 33",
+         "playerLabel": "thundercats - page 33",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20033.jpg"
+      },
+      {
+         "label": "page 34",
+         "playerLabel": "thundercats - page 34",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20034.jpg"
+      },
+      {
+         "label": "page 35",
+         "playerLabel": "thundercats - page 35",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/thundercats-star-comics/Thundercats%20v1%20001.cbz/Thundercats-1985%20001%20035.jpg"
+      }
+   ]
+}
