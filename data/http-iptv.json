@@ -39,6 +39,10 @@
        {
            "label": "inspiration",
            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-iptv-inspiration.json"
+       },
+       {
+           "label": "aktv.top",
+           "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-iptv-aktv.top.json"
        }
    ]
 }
