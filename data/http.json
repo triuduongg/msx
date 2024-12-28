@@ -33,9 +33,9 @@
          "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed.json"
       },
       {
-         "icon": "more",
-         "label": "more",
-         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-more.json"
+         "icon": "extension",
+         "label": "extension",
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-extension.json"
       }
    ]
 }
