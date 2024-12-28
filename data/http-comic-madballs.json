@@ -1,0 +1,127 @@
+{
+   "type": "list",
+   "headline": "madballs",
+   "template": {
+      "layout": "0,0,2,2",
+      "color": "msx-glass",
+      "icon": "photo",
+      "iconSize": "medium"
+   },
+   "items": [
+      {
+         "label": "page 1",
+         "playerLabel": "madballs - page 1",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/01.jpg"
+      },
+      {
+         "label": "page 2",
+         "playerLabel": "madballs - page 2",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/02.jpg"
+      },
+      {
+         "label": "page 3",
+         "playerLabel": "madballs - page 3",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/03.jpg"
+      },
+      {
+         "label": "page 4",
+         "playerLabel": "madballs - page 4",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/04.jpg"
+      },
+      {
+         "label": "page 5",
+         "playerLabel": "madballs - page 5",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/05.jpg"
+      },
+      {
+         "label": "page 6",
+         "playerLabel": "madballs - page 6",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/06.jpg"
+      },
+      {
+         "label": "page 7",
+         "playerLabel": "madballs - page 7",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/07.jpg"
+      },
+      {
+         "label": "page 8",
+         "playerLabel": "madballs - page 8",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/08.jpg"
+      },
+      {
+         "label": "page 9",
+         "playerLabel": "madballs - page 9",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/09.jpg"
+      },
+      {
+         "label": "page 10",
+         "playerLabel": "madballs - page 10",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/10.jpg"
+      },
+      {
+         "label": "page 11",
+         "playerLabel": "madballs - page 11",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/11.jpg"
+      },
+      {
+         "label": "page 12",
+         "playerLabel": "madballs - page 12",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/12.jpg"
+      },
+      {
+         "label": "page 13",
+         "playerLabel": "madballs - page 13",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/13.jpg"
+      },
+      {
+         "label": "page 14",
+         "playerLabel": "madballs - page 14",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/14.jpg"
+      },
+      {
+         "label": "page 15",
+         "playerLabel": "madballs - page 15",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/15.jpg"
+      },
+      {
+         "label": "page 16",
+         "playerLabel": "madballs - page 16",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/16.jpg"
+      },
+      {
+         "label": "page 17",
+         "playerLabel": "madballs - page 17",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/17.jpg"
+      },
+      {
+         "label": "page 18",
+         "playerLabel": "madballs - page 18",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/18.jpg"
+      },
+      {
+         "label": "page 19",
+         "playerLabel": "madballs - page 19",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/19.jpg"
+      },
+      {
+         "label": "page 20",
+         "playerLabel": "madballs - page 20",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/20.jpg"
+      },
+      {
+         "label": "page 21",
+         "playerLabel": "madballs - page 21",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/21.jpg"
+      },
+      {
+         "label": "page 22",
+         "playerLabel": "madballs - page 22",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/22.jpg"
+      },
+      {
+         "label": "page 23",
+         "playerLabel": "madballs - page 23",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/madballs-star-comics/Madballs%2001.cbz/23.jpg"
+      }
+   ]
+}

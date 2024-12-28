@@ -1,0 +1,117 @@
+{
+   "type": "list",
+   "headline": "fragglerock",
+   "template": {
+      "layout": "0,0,2,2",
+      "color": "msx-glass",
+      "icon": "photo",
+      "iconSize": "medium"
+   },
+   "items": [
+      {
+         "label": "page 0",
+         "playerLabel": "fragglerock - page 0",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F00.jpg"
+      },
+      {
+         "label": "page 1",
+         "playerLabel": "fragglerock - page 1",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F01.jpg"
+      },
+      {
+         "label": "page 2",
+         "playerLabel": "fragglerock - page 2",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F02.jpg"
+      },
+      {
+         "label": "page 3",
+         "playerLabel": "fragglerock - page 3",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F03.jpg"
+      },
+      {
+         "label": "page 4",
+         "playerLabel": "fragglerock - page 4",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F04.jpg"
+      },
+      {
+         "label": "page 5",
+         "playerLabel": "fragglerock - page 5",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F05.jpg"
+      },
+      {
+         "label": "page 6",
+         "playerLabel": "fragglerock - page 6",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F06.jpg"
+      },
+      {
+         "label": "page 7",
+         "playerLabel": "fragglerock - page 7",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F07.jpg"
+      },
+      {
+         "label": "page 8",
+         "playerLabel": "fragglerock - page 8",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F08.jpg"
+      },
+      {
+         "label": "page 9",
+         "playerLabel": "fragglerock - page 9",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F09.jpg"
+      },
+      {
+         "label": "page 10",
+         "playerLabel": "fragglerock - page 10",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F10.jpg"
+      },
+      {
+         "label": "page 11",
+         "playerLabel": "fragglerock - page 11",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F11.jpg"
+      },
+      {
+         "label": "page 12",
+         "playerLabel": "fragglerock - page 12",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F12.jpg"
+      },
+      {
+         "label": "page 13",
+         "playerLabel": "fragglerock - page 13",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F13.jpg"
+      },
+      {
+         "label": "page 14",
+         "playerLabel": "fragglerock - page 14",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F14.jpg"
+      },
+      {
+         "label": "page 15",
+         "playerLabel": "fragglerock - page 15",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F15.jpg"
+      },
+      {
+         "label": "page 16",
+         "playerLabel": "fragglerock - page 16",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F16.jpg"
+      },
+      {
+         "label": "page 17",
+         "playerLabel": "fragglerock - page 17",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F17.jpg"
+      },
+      {
+         "label": "page 18",
+         "playerLabel": "fragglerock - page 18",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F18.jpg"
+      },
+      {
+         "label": "page 19",
+         "playerLabel": "fragglerock - page 19",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F19.jpg"
+      },
+      {
+         "label": "page 20",
+         "playerLabel": "fragglerock - page 20",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/fraggle-rock-star-comics/Fraggle%20Rock%2001.cbr/Fraggle%20Rock%2001%2FFraggle%20Rock%201%2F20.jpg"
+      }
+   ]
+}

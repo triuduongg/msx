@@ -1,0 +1,62 @@
+{
+   "type": "list",
+   "headline": "smile",
+   "template": {
+      "layout": "0,0,2,2",
+      "color": "msx-glass",
+      "icon": "music-note",
+      "iconSize": "medium"
+   },
+   "items": [
+      {
+         "label": "butterfly",
+         "playerLabel": "smile - butterfly",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/01%20Butterfly.mp3"
+      },
+      {
+         "label": "coconut",
+         "playerLabel": "smile - coconut",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/02%20Coconut.mp3"
+      },
+      {
+         "label": "sweet senorita",
+         "playerLabel": "smile - sweet senorita",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/03%20Sweet%20Senorita.mp3"
+      },
+      {
+         "label": "middle of the night",
+         "playerLabel": "smile - middle of the night",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/04%20Middle%20Of%20The%20Night.mp3"
+      },
+      {
+         "label": "tic toc",
+         "playerLabel": "smile - tic toc",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/05%20Tic%20Toc.mp3"
+      },
+      {
+         "label": "get out",
+         "playerLabel": "smile - get out",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/06%20Get%20Out.mp3"
+      },
+      {
+         "label": "boys",
+         "playerLabel": "smile - boys",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/07%20Boys.mp3"
+      },
+      {
+         "label": "mr. wonderful",
+         "playerLabel": "smile - mr. wonderful",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/08%20Mr.%20Wonderful.mp3"
+      },
+      {
+         "label": "knock knock",
+         "playerLabel": "smile - knock knock",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/09%20Knock%20Knock.mp3"
+      },
+      {
+         "label": "comme ci comme ca",
+         "playerLabel": "smile - comme ci comme ca",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/smile_202104/Smile/10%20Comme%20Ci%20Comme%20CA.mp3"
+      }
+   ]
+}

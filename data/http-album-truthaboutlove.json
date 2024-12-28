@@ -1,0 +1,77 @@
+{
+   "type": "list",
+   "headline": "truthaboutlove",
+   "template": {
+      "layout": "0,0,2,2",
+      "color": "msx-glass",
+      "icon": "music-note",
+      "iconSize": "medium"
+   },
+   "items": [
+      {
+         "label": "are we all we are",
+         "playerLabel": "truthaboutlove - happy boys & girls",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/A1%20-%20Are%20We%20All%20We%20Are.mp3"
+      },
+      {
+         "label": "blow me",
+         "playerLabel": "truthaboutlove - blow me",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/A2%20-%20Blow%20Me%20%28One%20Last%20Kiss%29.mp3"
+      },
+      {
+         "label": "try",
+         "playerLabel": "truthaboutlove - try",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/A3%20-%20Try.mp3"
+      },
+      {
+         "label": "just give me a reason",
+         "playerLabel": "truthaboutlove - just give me a reason",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/B1%20-%20Just%20Give%20Me%20A%20Reason.mp3"
+      },
+      {
+         "label": "true love",
+         "playerLabel": "truthaboutlove - true love",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/B2%20-%20True%20Love.mp3"
+      },
+      {
+         "label": "how come you're not here",
+         "playerLabel": "truthaboutlove - how come you're not here",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/B3%20-%20How%20Come%20You%27re%20Not%20Here.mp3"
+      },
+      {
+         "label": "slut like you",
+         "playerLabel": "truthaboutlove - slut like you",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/C1%20-%20Slut%20Like%20You.mp3"
+      },
+      {
+         "label": "the truth about love",
+         "playerLabel": "truthaboutlove - the truth about love",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/C2%20-%20The%20Truth%20About%20Love.mp3"
+      },
+      {
+         "label": "beam me up",
+         "playerLabel": "truthaboutlove - beam me up",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/C3%20-%20Beam%20Me%20Up.mp3"
+      },
+      {
+         "label": "walk of shame",
+         "playerLabel": "truthaboutlove - walk of shame",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/C4%20-%20Walk%20Of%20Shame.mp3"
+      },
+      {
+         "label": "here comes the weekend",
+         "playerLabel": "truthaboutlove - here comes the weekend",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/D1%20-%20Here%20Comes%20The%20Weekend.mp3"
+      },
+      {
+         "label": "where did the beat go",
+         "playerLabel": "truthaboutlove - where did the beat go",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/D2%20-%20Where%20Did%20The%20Beat%20Go.mp3"
+      },
+      {
+         "label": "the great escape",
+         "playerLabel": "truthaboutlove - the great escape",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/pnk-the-truth-about-love-vinyl-rip/D3%20-%20The%20Great%20Escape.mp3"
+      }
+   ]
+}

@@ -1,0 +1,62 @@
+{
+   "type": "list",
+   "headline": "doowops&hooligans",
+   "template": {
+      "layout": "0,0,2,2",
+      "color": "msx-glass",
+      "icon": "music-note",
+      "iconSize": "medium"
+   },
+   "items": [
+      {
+         "label": "grenade",
+         "playerLabel": "doowops&hooligans - grenade",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/doowopshooligans/01%20Grenade.mp3"
+      },
+      {
+         "label": "just the way you are",
+         "playerLabel": "doowops&hooligans - just the way you are",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/doowopshooligans/02%20Just%20The%20Way%20You%20Are.mp3"
+      },
+      {
+         "label": "our first time",
+         "playerLabel": "doowops&hooligans - our first time",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/doowopshooligans/03%20Our%20First%20Time.mp3"
+      },
+      {
+         "label": "runaway baby",
+         "playerLabel": "doowops&hooligans - runaway baby",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/doowopshooligans/04%20Runaway%20Baby.mp3"
+      },
+      {
+         "label": "the lazy song",
+         "playerLabel": "doowops&hooligans - the lazy song",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/doowopshooligans/05%20The%20Lazy%20Song.mp3"
+      },
+      {
+         "label": "marry you",
+         "playerLabel": "doowops&hooligans - marry you",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/doowopshooligans/06%20Marry%20You.mp3"
+      },
+      {
+         "label": "talking to the moon",
+         "playerLabel": "doowops&hooligans - talking to the moon",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/doowopshooligans/07%20Talking%20To%20The%20Moon.mp3"
+      },
+      {
+         "label": "liquor store blues",
+         "playerLabel": "doowops&hooligans - liquor store blues",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/doowopshooligans/08%20Liquor%20Store%20Blues.mp3"
+      },
+      {
+         "label": "count on me",
+         "playerLabel": "doowops&hooligans - count on me",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/doowopshooligans/09%20Count%20On%20Me.mp3"
+      },
+      {
+         "label": "the other side",
+         "playerLabel": "doowops&hooligans - the other side",
+         "action": "audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/doowopshooligans/10%20The%20Other%20Side.mp3"
+      }
+   ]
+}
