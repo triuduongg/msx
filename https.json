@@ -1,0 +1,41 @@
+{
+   "type": "list",
+   "headline": "https",
+   "template": {
+      "layout": "0,0,12,6",
+      "color": "msx-glass",
+      "iconSize": "extra-large"
+   },
+   "items": [
+      {
+         "icon": "photo-library",
+         "label": "comic",
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic.json"
+      },
+      {
+         "icon": "library-music",
+         "label": "album",
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-album.json"
+      },
+      {
+         "icon": "video-library",
+         "label": "movie",
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-movie.json"
+      },
+      {
+         "icon": "live-tv",
+         "label": "iptv",
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv.json"
+      },
+      {
+         "icon": "rss-feed",
+         "label": "feed",
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-feed.json"
+      },
+      {
+         "icon": "more",
+         "label": "more",
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-more.json"
+      }
+   ]
+}

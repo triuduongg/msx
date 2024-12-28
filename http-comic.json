@@ -1,0 +1,48 @@
+{
+    "type": "list",
+    "headline": "comic",
+    "template": {
+       "layout": "0,0,2,6",
+       "color": "msx-glass",
+       "icon": "book",
+       "iconSize": "large"
+    },
+    "items": [
+        {
+            "label": "madballs",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-madballs.json"
+        },
+        {
+            "label": "silverhawks",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-silverhawks.json"
+        },
+        {
+            "label": "fragglerock",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-fragglerock.json"
+        },
+        {
+            "label": "wallywizard",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-wallywizard.json"
+        },
+        {
+            "label": "planetterry",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-planetterry.json"
+        },
+        {
+            "label": "defendersofearth",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-defendersofearth.json"
+        },
+        {
+            "label": "mastersofuniverse",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-mastersofuniverse.json"
+        },
+        {
+            "label": "inhumanoids",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-inhumanoids.json"
+        },
+        {
+            "label": "thundercats",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-thundercats.json"
+        }
+    ]
+}

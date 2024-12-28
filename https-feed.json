@@ -1,0 +1,48 @@
+{
+   "type": "list",
+   "headline": "feed",
+   "template": {
+      "layout": "0,0,2,6",
+      "color": "msx-glass",
+      "icon": "feed",
+      "iconSize": "large"
+   },
+   "items": [
+       {
+           "label": "nytimes",
+           "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-feed-nytimes.json"
+       },
+       {
+           "label": "dailymail",
+           "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-feed-dailymail.json"
+       },
+       {
+           "label": "foxnews",
+           "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-feed-foxnews.json"
+       },
+       {
+           "label": "lequipe",
+           "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-feed-lequipe.json"
+       },
+       {
+           "label": "unnews",
+           "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-feed-unnews.json"
+       },
+       {
+           "label": "thedaily",
+           "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-feed-thedaily.json"
+       },
+       {
+           "label": "theage",
+           "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-feed-theage.json"
+       },
+       {
+           "label": "crimejunkie",
+           "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-feed-crimejunkie.json"
+       },
+       {
+           "label": "smh",
+           "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-feed-smh.json"
+       }
+   ]
+}
