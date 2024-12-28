@@ -1,0 +1,14 @@
+{
+   "headline": "aktv.top",
+   "menu": [   
+       {
+           "type": "separator",
+           "label": "list"
+       },
+       {
+           "label": "livelive",
+           "icon": "list",
+           "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://aktv.top/live.m3u"
+       }
+       ]
+}
