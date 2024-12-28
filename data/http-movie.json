@@ -51,6 +51,10 @@
        {
          "label": "lockstock&2smokingbarrels",
          "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie-lockstock&2smokingbarrels.json"
+       },
+       {
+         "label": "junglefury",
+         "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie-junglefury.json"
        }
    ]
 }
