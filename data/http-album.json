@@ -43,6 +43,10 @@
        {
            "label": "voicenotes",
            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-album-voicenotes.json"
+       },
+       {
+           "label": "readyforromance",
+           "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-album-readyforromance.json"
        }
    ]
 }
