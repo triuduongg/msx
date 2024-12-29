@@ -43,6 +43,10 @@
        {
            "label": "aktv.top",
            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-aktv.top.json"
+       },
+       {
+           "label": "yuechan",
+           "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-yuechan.json"
        }
    ]
 }
