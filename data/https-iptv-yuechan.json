@@ -1,0 +1,14 @@
+{
+    "headline": "yuechan",
+    "menu": [   
+        {
+            "type": "separator",
+            "label": "list"
+        },
+        {
+            "label": "global",
+            "icon": "list",
+            "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/YueChan/Live/raw/refs/heads/main/Global.m3u"
+        }
+        ]
+ }
