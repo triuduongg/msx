@@ -1,10 +1,10 @@
 {
    "type": "list",
-   "headline": "extension",
+   "headline": "widget",
    "template": {
       "layout": "0,0,8,3",
       "color": "msx-glass",
-      "icon": "widgets",
+      "icon": "extension",
       "iconSize": "large"
    },
    "items": [
