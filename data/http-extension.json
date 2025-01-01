@@ -9,10 +9,6 @@
    },
    "items": [
        {
-           "label": "launcher",
-           "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction"
-       },
-       {
            "label": "googledrive",
            "action": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction"
        },
