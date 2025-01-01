@@ -23,9 +23,9 @@
           "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-movie.json"
        },
        {
-        "icon": "extension",
-        "label": "extension",
-        "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-extension.json"
+        "icon": "widgets",
+        "label": "widget",
+        "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-widget.json"
        },
        {
           "icon": "live-tv",
