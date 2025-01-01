@@ -1,41 +1,51 @@
 {
-   "type": "list",
-   "headline": "http",
-   "template": {
-      "layout": "0,0,4,6",
-      "color": "msx-glass",
-      "iconSize": "extra-large"
-   },
-   "items": [
-      {
-         "icon": "photo-library",
-         "label": "comic",
-         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic.json"
-      },
-      {
-         "icon": "library-music",
-         "label": "album",
-         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-album.json"
-      },
-      {
-         "icon": "video-library",
-         "label": "movie",
-         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie.json"
-      },
-      {
-         "icon": "live-tv",
-         "label": "iptv",
-         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-iptv.json"
-      },
-      {
-         "icon": "rss-feed",
-         "label": "feed",
-         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed.json"
-      },
-      {
-         "icon": "extension",
-         "label": "extension",
-         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-extension.json"
-      }
-   ]
-}
+    "type": "list",
+    "headline": "http",
+    "template": {
+       "layout": "0,0,3,6",
+       "color": "msx-glass",
+       "iconSize": "extra-large"
+    },
+    "items": [
+       {
+          "icon": "photo-library",
+          "label": "comic",
+          "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic.json"
+       },
+       {
+          "icon": "library-music",
+          "label": "album",
+          "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-album.json"
+       },
+       {
+          "icon": "video-library",
+          "label": "movie",
+          "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie.json"
+       },
+       {
+        "icon": "extension",
+        "label": "extension",
+        "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-extension.json"
+       },
+       {
+          "icon": "live-tv",
+          "label": "iptv",
+          "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-iptv.json"
+       },
+       {
+          "icon": "rss-feed",
+          "label": "feed",
+          "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed.json"
+       },
+       {
+        "icon": "launch",
+        "label": "launcher",
+        "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction"
+       },
+       {
+        "icon": "web",
+        "label": "web",
+        "action": "link:http://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json&leave=1"
+       }
+    ]
+ }
