@@ -2,10 +2,10 @@
    "type": "list",
    "headline": "iptv",
    "template": {
-      "layout": "0,0,8,3",
+      "layout": "0,0,8,2",
       "color": "msx-glass",
       "icon": "tv",
-      "iconSize": "large"
+      "iconSize": "medium"
    },
    "items": [
        {
