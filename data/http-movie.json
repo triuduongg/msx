@@ -2,10 +2,10 @@
    "type": "list",
    "headline": "movie",
    "template": {
-      "layout": "0,0,8,3",
+      "layout": "0,0,8,2",
       "color": "msx-glass",
       "icon": "local-movies",
-      "iconSize": "large"
+      "iconSize": "medium"
    },
    "items": [
        {
