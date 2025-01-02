@@ -2,10 +2,10 @@
    "type": "list",
    "headline": "freewilly",
    "template": {
-      "layout": "0,0,2,2",
+      "layout": "0,0,3,3",
       "color": "msx-glass",
       "icon": "movie",
-      "iconSize": "medium"
+      "iconSize": "large"
    },
    "items": [
       {
