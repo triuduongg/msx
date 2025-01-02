@@ -2,10 +2,10 @@
    "type": "list",
    "headline": "thundercats",
    "template": {
-      "layout": "0,0,2,2",
+      "layout": "0,0,3,3",
       "color": "msx-glass",
       "icon": "photo",
-      "iconSize": "medium"
+      "iconSize": "large"
    },
    "items": [
       {
