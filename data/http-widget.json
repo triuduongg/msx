@@ -25,6 +25,10 @@
            "action": "menu:request:interaction:init@http://nb.msx.benzac.de/interaction"
        },
        {
+           "label": "twitch",
+           "action": "menu:request:interaction:init@http://ttv.msx.benzac.de/interaction"
+       },
+       {
            "label": "soundcloud",
            "action": "menu:http://sc.msx.benzac.de/msx/service.php"
        },
