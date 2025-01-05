@@ -1,51 +1,51 @@
 {
-    "type": "list",
-    "headline": "https",
-    "template": {
-       "layout": "0,0,3,6",
-       "color": "msx-glass",
-       "iconSize": "extra-large"
-    },
-    "items": [
-       {
-          "icon": "photo-library",
-          "label": "comic",
-          "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic.json"
-       },
-       {
-          "icon": "library-music",
-          "label": "album",
-          "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-album.json"
-       },
-       {
-          "icon": "video-library",
-          "label": "movie",
-          "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-movie.json"
-       },
-       {
-        "icon": "widgets",
-        "label": "widget",
-        "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-widget.json"
-       },
-       {
-          "icon": "live-tv",
-          "label": "iptv",
-          "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv.json"
-       },
-       {
-          "icon": "rss-feed",
-          "label": "feed",
-          "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-feed.json"
-       },
-       {
-        "icon": "launch",
-        "label": "launcher",
-        "action": "menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
-       },
-       {
-        "icon": "web",
-        "label": "web",
-        "action": "link:https://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json&leave=1"
-       }
-    ]
- }
+   "type": "list",
+   "headline": "https",
+   "template": {
+      "layout": "0,0,3,6",
+      "color": "msx-glass",
+      "iconSize": "extra-large"
+   },
+   "items": [
+      {
+         "icon": "photo-library",
+         "label": "comic",
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic.json"
+      },
+      {
+         "icon": "library-music",
+         "label": "album",
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-album.json"
+      },
+      {
+         "icon": "video-library",
+         "label": "movie",
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-movie.json"
+      },
+      {
+         "icon": "call-to-action",
+         "label": "action",
+         "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input={INPUT}&type=action|default|en|action|||Click on {ico:msx-white:done} to execute any action (e.g. '{txt:msx-white:video:https://...}', '{txt:msx-white:audio:https://...}', '{txt:msx-white:image:https://...}', '{txt:msx-white:link:https://...}', etc.)@https://msx.benzac.de/interaction/input.html"
+      },
+      {
+         "icon": "live-tv",
+         "label": "iptv",
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv.json"
+      },
+      {
+         "icon": "rss-feed",
+         "label": "feed",
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-feed.json"
+      },
+      {
+         "icon": "launch",
+         "label": "launcher",
+         "action": "menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
+      },
+      {
+       "icon": "web",
+       "label": "web",
+       "action": "link:https://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json&leave=1"
+      }
+   ]
+}
