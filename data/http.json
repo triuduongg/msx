@@ -25,7 +25,7 @@
       {
          "icon": "call-to-action",
          "label": "action",
-         "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={INPUT}&type=action|default|en|action|||Click on {ico:msx-white:done} to execute any action (e.g. '{txt:msx-white:video:https://...}', '{txt:msx-white:audio:https://...}', '{txt:msx-white:image:https://...}', '{txt:msx-white:link:https://...}', etc.)@http://msx.benzac.de/interaction/input.html"
+         "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={INPUT}&type=action|default|en|action@http://msx.benzac.de/interaction/input.html"
       },
       {
          "icon": "live-tv",
