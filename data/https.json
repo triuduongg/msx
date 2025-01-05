@@ -43,8 +43,8 @@
          "action": "menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
       },
       {
-       "icon": "web",
-       "label": "web",
+       "icon": "open-in-browser",
+       "label": "browser",
        "action": "link:https://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json&leave=1"
       }
    ]
