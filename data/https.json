@@ -1,6 +1,6 @@
 {
    "type": "list",
-   "headline": "http",
+   "headline": "https",
    "template": {
       "layout": "0,0,3,6",
       "color": "msx-glass",
@@ -10,37 +10,37 @@
       {
          "icon": "photo-library",
          "label": "comic",
-         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic.json"
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic.json"
       },
       {
          "icon": "library-music",
          "label": "album",
-         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-album.json"
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-album.json"
       },
       {
          "icon": "video-library",
          "label": "movie",
-         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie.json"
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-movie.json"
       },
       {
          "icon": "call-to-action",
          "label": "action",
-         "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={INPUT}&type=action|default|en|action@http://msx.benzac.de/interaction/input.html"
+         "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input={INPUT}&type=action|default|en|action@https://msx.benzac.de/interaction/input.html"
       },
       {
          "icon": "live-tv",
          "label": "iptv",
-         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-iptv.json"
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv.json"
       },
       {
          "icon": "rss-feed",
          "label": "feed",
-         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed.json"
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-feed.json"
       },
       {
          "icon": "widgets",
          "label": "widget",
-         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-widget.json"
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-widget.json"
       },
       {
          "icon": "open-in-browser",
