@@ -38,14 +38,14 @@
          "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed.json"
       },
       {
+         "icon": "widgets",
+         "label": "widget",
+         "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-widget.json"
+      },
+      {
          "icon": "launch",
          "label": "launcher",
          "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction"
-      },
-      {
-       "icon": "open-in-browser",
-       "label": "browser",
-       "action": "link:http://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json&leave=1"
       }
    ]
 }
