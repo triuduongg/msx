@@ -34,7 +34,7 @@
        },
        {
            "label": "twitch",
-           "action": "link:https://msx.benzac.de/?start=menu:request:interaction:init@https://ttv.msx.benzac.de/interaction"
+           "action": "link:https://msx.benzac.de/?start=menu:request:interaction:init@https://ttv.msx.benzac.de/interaction&leave=1"
        },
        {
            "label": "rbtv",
