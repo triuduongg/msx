@@ -34,7 +34,7 @@
        },
        {
            "label": "twitch",
-           "action": "link:https://msx.benzac.de/?start=menu:request:interaction:init@https://ttv.msx.benzac.de/interaction&leave=1"
+           "action": "menu:request:interaction:init@https://ttv.msx.benzac.de/interaction"
        },
        {
            "label": "rbtv",
@@ -43,6 +43,10 @@
        {
            "label": "euronews",
            "action": "menu:https://en.msx.benzac.de/msx/service.php"
+       },
+       {
+           "label": "launcher",
+           "action": "menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
        }
    ]
 }
