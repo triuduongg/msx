@@ -14,12 +14,6 @@
                "icon": "https",
                "label": "https",
                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/https.json"
-           },
-           {
-               "type": "separator"
-           },
-           {
-               "type": "settings"
            }
        ]
 }
