@@ -43,10 +43,6 @@
        {
            "label": "euronews",
            "action": "menu:http://en.msx.benzac.de/msx/service.php"
-       },
-       {
-           "label": "launcher",
-           "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction"
        }
    ]
 }
