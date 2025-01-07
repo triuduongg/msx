@@ -9,6 +9,14 @@
    },
    "items": [
        {
+           "label": "favorites",
+           "action": "content:user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&context=favorites"
+       },
+       {
+           "label": "jsosao",
+           "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-jsosao.json"
+       },
+       {
            "label": "jsosao",
            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-jsosao.json"
        },
