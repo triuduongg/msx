@@ -9,8 +9,8 @@
     },
     "items": [
         {
-            "label": "madballs",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-madballs.json"
+            "label": "parallax",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-parallax.json"
         },
         {
             "label": "silverhawks",
