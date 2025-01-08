@@ -1,0 +1,177 @@
+{
+    "type": "list",
+    "headline": "parallax",
+    "template": {
+       "layout": "0,0,3,3",
+       "color": "msx-glass",
+       "icon": "photo",
+       "iconSize": "large"
+    },
+    "items": [
+       {
+          "label": "page 0",
+          "playerLabel": "parallax - page 0",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F0.png"
+       },
+       {
+          "label": "page 1",
+          "playerLabel": "parallax - page 1",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F1.png"
+       },
+       {
+          "label": "page 2",
+          "playerLabel": "parallax - page 2",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F2.png"
+       },
+       {
+          "label": "page 3",
+          "playerLabel": "parallax - page 3",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F3.png"
+       },
+       {
+          "label": "page 4",
+          "playerLabel": "parallax - page 4",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F4.png"
+       },
+       {
+          "label": "page 5",
+          "playerLabel": "parallax - page 5",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F5.png"
+       },
+       {
+          "label": "page 6",
+          "playerLabel": "parallax - page 6",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F6.png"
+       },
+       {
+          "label": "page 7",
+          "playerLabel": "parallax - page 7",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F7.png"
+       },
+       {
+          "label": "page 8",
+          "playerLabel": "parallax - page 8",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F8.png"
+       },
+       {
+          "label": "page 9",
+          "playerLabel": "parallax - page 9",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F9.png"
+       },
+       {
+          "label": "page 10",
+          "playerLabel": "parallax - page 10",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F10.png"
+       },
+       {
+          "label": "page 11",
+          "playerLabel": "parallax - page 11",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F11.png"
+       },
+       {
+          "label": "page 12",
+          "playerLabel": "parallax - page 12",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F12.png"
+       },
+       {
+          "label": "page 13",
+          "playerLabel": "parallax - page 13",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F13.png"
+       },
+       {
+          "label": "page 14",
+          "playerLabel": "parallax - page 14",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F14.png"
+       },
+       {
+          "label": "page 15",
+          "playerLabel": "parallax - page 15",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F15.png"
+       },
+       {
+          "label": "page 16",
+          "playerLabel": "parallax - page 16",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F16.png"
+       },
+       {
+          "label": "page 17",
+          "playerLabel": "parallax - page 17",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F17.png"
+       },
+       {
+          "label": "page 18",
+          "playerLabel": "parallax - page 18",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F18.png"
+       },
+       {
+          "label": "page 19",
+          "playerLabel": "parallax - page 19",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F19.png"
+       },
+       {
+          "label": "page 20",
+          "playerLabel": "parallax - page 20",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F20.png"
+       },
+       {
+          "label": "page 21",
+          "playerLabel": "parallax - page 21",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F21.png"
+       },
+       {
+          "label": "page 22",
+          "playerLabel": "parallax - page 22",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F22.png"
+       },
+       {
+          "label": "page 23",
+          "playerLabel": "parallax - page 23",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F23.png"
+       },
+       {
+          "label": "page 24",
+          "playerLabel": "parallax - page 24",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F24.png"
+       },
+       {
+          "label": "page 25",
+          "playerLabel": "parallax - page 25",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F25.png"
+       },
+       {
+          "label": "page 26",
+          "playerLabel": "parallax - page 26",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F26.png"
+       },
+       {
+          "label": "page 27",
+          "playerLabel": "parallax - page 27",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F27.png"
+       },
+       {
+          "label": "page 28",
+          "playerLabel": "parallax - page 28",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F28.png"
+       },
+       {
+          "label": "page 29",
+          "playerLabel": "parallax - page 29",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F29.png"
+       },
+       {
+          "label": "page 30",
+          "playerLabel": "parallax - page 30",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F30.png"
+       },
+       {
+          "label": "page 31",
+          "playerLabel": "parallax - page 31",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F31.png"
+       },
+       {
+          "label": "page 32",
+          "playerLabel": "parallax - page 32",
+          "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/parallax_202106/parallax.zip/parallax%2F32.png"
+       }
+    ]
+ }
