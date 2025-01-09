@@ -21,8 +21,8 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic-helvetica.json"
         },
         {
-            "label": "wallywizard",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic-wallywizard.json"
+            "label": "starhammer",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic-starhammer.json"
         },
         {
             "label": "planetterry",
