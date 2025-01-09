@@ -29,8 +29,8 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic-lostnightmare.json"
         },
         {
-            "label": "defendersofearth",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic-defendersofearth.json"
+            "label": "colorless",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic-colorless.json"
         },
         {
             "label": "mastersofuniverse",
