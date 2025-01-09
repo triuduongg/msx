@@ -1,0 +1,142 @@
+{
+   "type": "list",
+   "headline": "lostnightmare",
+   "template": {
+      "layout": "0,0,3,3",
+      "color": "msx-glass",
+      "icon": "photo",
+      "iconSize": "large"
+   },
+   "items": [
+      {
+         "label": "page 0",
+         "playerLabel": "lostnightmare - page 0",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F0.png"
+      },
+      {
+         "label": "page 1",
+         "playerLabel": "lostnightmare - page 1",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F1.png"
+      },
+      {
+         "label": "page 2",
+         "playerLabel": "lostnightmare - page 2",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F2.png"
+      },
+      {
+         "label": "page 3",
+         "playerLabel": "lostnightmare - page 3",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F3.png"
+      },
+      {
+         "label": "page 4",
+         "playerLabel": "lostnightmare - page 4",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F4.png"
+      },
+      {
+         "label": "page 5",
+         "playerLabel": "lostnightmare - page 5",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F5.png"
+      },
+      {
+         "label": "page 6",
+         "playerLabel": "lostnightmare - page 6",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F6.png"
+      },
+      {
+         "label": "page 7",
+         "playerLabel": "lostnightmare - page 7",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F7.png"
+      },
+      {
+         "label": "page 8",
+         "playerLabel": "lostnightmare - page 8",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F8.png"
+      },
+      {
+         "label": "page 9",
+         "playerLabel": "lostnightmare - page 9",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F9.png"
+      },
+      {
+         "label": "page 10",
+         "playerLabel": "lostnightmare - page 10",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F10.png"
+      },
+      {
+         "label": "page 11",
+         "playerLabel": "lostnightmare - page 11",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F11.png"
+      },
+      {
+         "label": "page 12",
+         "playerLabel": "lostnightmare - page 12",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F12.png"
+      },
+      {
+         "label": "page 13",
+         "playerLabel": "lostnightmare - page 13",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F13.png"
+      },
+      {
+         "label": "page 14",
+         "playerLabel": "lostnightmare - page 14",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F14.png"
+      },
+      {
+         "label": "page 15",
+         "playerLabel": "lostnightmare - page 15",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F15.png"
+      },
+      {
+         "label": "page 16",
+         "playerLabel": "lostnightmare - page 16",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F16.png"
+      },
+      {
+         "label": "page 17",
+         "playerLabel": "lostnightmare - page 17",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F17.png"
+      },
+      {
+         "label": "page 18",
+         "playerLabel": "lostnightmare - page 18",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F18.png"
+      },
+      {
+         "label": "page 19",
+         "playerLabel": "lostnightmare - page 19",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F19.png"
+      },
+      {
+         "label": "page 20",
+         "playerLabel": "lostnightmare - page 20",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F20.png"
+      },
+      {
+         "label": "page 21",
+         "playerLabel": "lostnightmare - page 21",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F21.png"
+      },
+      {
+         "label": "page 22",
+         "playerLabel": "lostnightmare - page 22",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F22.png"
+      },
+      {
+         "label": "page 23",
+         "playerLabel": "lostnightmare - page 23",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F23.png"
+      },
+      {
+         "label": "page 24",
+         "playerLabel": "lostnightmare - page 24",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F24.png"
+      },
+      {
+         "label": "page 25",
+         "playerLabel": "lostnightmare - page 25",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/lost-nightmare/Lost%20Nightmare.zip/Lost%20Nightmare%2F25.png"
+      }
+   ]
+}
