@@ -13,8 +13,8 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-parallax.json"
         },
         {
-            "label": "silverhawks",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-silverhawks.json"
+            "label": "widdershins",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-widdershins.json"
         },
         {
             "label": "fragglerock",
