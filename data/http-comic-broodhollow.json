@@ -1,0 +1,577 @@
+{
+   "type": "list",
+   "headline": "broodhollow",
+   "template": {
+      "layout": "0,0,3,3",
+      "color": "msx-glass",
+      "icon": "photo",
+      "iconSize": "large"
+   },
+   "items": [
+      {
+         "label": "page 0",
+         "playerLabel": "broodhollow - page 0",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F0.png"
+      },
+      {
+         "label": "page 1",
+         "playerLabel": "broodhollow - page 1",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F1.png"
+      },
+      {
+         "label": "page 2",
+         "playerLabel": "broodhollow - page 2",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F2.png"
+      },
+      {
+         "label": "page 3",
+         "playerLabel": "broodhollow - page 3",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F3.png"
+      },
+      {
+         "label": "page 4",
+         "playerLabel": "broodhollow - page 4",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F4.png"
+      },
+      {
+         "label": "page 5",
+         "playerLabel": "broodhollow - page 5",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F5.png"
+      },
+      {
+         "label": "page 6",
+         "playerLabel": "broodhollow - page 6",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F6.png"
+      },
+      {
+         "label": "page 7",
+         "playerLabel": "broodhollow - page 7",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F7.png"
+      },
+      {
+         "label": "page 8",
+         "playerLabel": "broodhollow - page 8",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F8.png"
+      },
+      {
+         "label": "page 9",
+         "playerLabel": "broodhollow - page 9",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F9.png"
+      },
+      {
+         "label": "page 10",
+         "playerLabel": "broodhollow - page 10",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F10.png"
+      },
+      {
+         "label": "page 11",
+         "playerLabel": "broodhollow - page 11",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F11.png"
+      },
+      {
+         "label": "page 12",
+         "playerLabel": "broodhollow - page 12",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F12.png"
+      },
+      {
+         "label": "page 13",
+         "playerLabel": "broodhollow - page 13",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F13.png"
+      },
+      {
+         "label": "page 14",
+         "playerLabel": "broodhollow - page 14",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F14.png"
+      },
+      {
+         "label": "page 15",
+         "playerLabel": "broodhollow - page 15",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F15.png"
+      },
+      {
+         "label": "page 16",
+         "playerLabel": "broodhollow - page 16",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F16.png"
+      },
+      {
+         "label": "page 17",
+         "playerLabel": "broodhollow - page 17",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F17.png"
+      },
+      {
+         "label": "page 18",
+         "playerLabel": "broodhollow - page 18",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F18.png"
+      },
+      {
+         "label": "page 19",
+         "playerLabel": "broodhollow - page 19",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F19.png"
+      },
+      {
+         "label": "page 20",
+         "playerLabel": "broodhollow - page 20",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F20.png"
+      },
+      {
+         "label": "page 21",
+         "playerLabel": "broodhollow - page 21",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F21.png"
+      },
+      {
+         "label": "page 22",
+         "playerLabel": "broodhollow - page 22",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F22.png"
+      },
+      {
+         "label": "page 23",
+         "playerLabel": "broodhollow - page 23",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F23.png"
+      },
+      {
+         "label": "page 24",
+         "playerLabel": "broodhollow - page 24",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F24.png"
+      },
+      {
+         "label": "page 25",
+         "playerLabel": "broodhollow - page 25",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F25.png"
+      },
+      {
+         "label": "page 26",
+         "playerLabel": "broodhollow - page 26",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F26.png"
+      },
+      {
+         "label": "page 27",
+         "playerLabel": "broodhollow - page 27",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F27.png"
+      },
+      {
+         "label": "page 28",
+         "playerLabel": "broodhollow - page 28",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F28.png"
+      },
+      {
+         "label": "page 29",
+         "playerLabel": "broodhollow - page 29",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F29.png"
+      },
+      {
+         "label": "page 30",
+         "playerLabel": "broodhollow - page 30",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F30.png"
+      },
+      {
+         "label": "page 31",
+         "playerLabel": "broodhollow - page 31",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F31.png"
+      },
+      {
+         "label": "page 32",
+         "playerLabel": "broodhollow - page 32",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F32.png"
+      },
+      {
+         "label": "page 33",
+         "playerLabel": "broodhollow - page 33",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F33.png"
+      },
+      {
+         "label": "page 34",
+         "playerLabel": "broodhollow - page 34",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F34.png"
+      },
+      {
+         "label": "page 35",
+         "playerLabel": "broodhollow - page 35",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F35.png"
+      },
+      {
+         "label": "page 36",
+         "playerLabel": "broodhollow - page 36",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F36.png"
+      },
+      {
+         "label": "page 37",
+         "playerLabel": "broodhollow - page 37",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F37.png"
+      },
+      {
+         "label": "page 38",
+         "playerLabel": "broodhollow - page 38",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F38.png"
+      },
+      {
+         "label": "page 39",
+         "playerLabel": "broodhollow - page 39",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F39.png"
+      },
+      {
+         "label": "page 40",
+         "playerLabel": "broodhollow - page 40",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F40.png"
+      },
+      {
+         "label": "page 41",
+         "playerLabel": "broodhollow - page 41",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F41.png"
+      },
+      {
+         "label": "page 42",
+         "playerLabel": "broodhollow - page 42",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F42.png"
+      },
+      {
+         "label": "page 43",
+         "playerLabel": "broodhollow - page 43",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F43.png"
+      },
+      {
+         "label": "page 44",
+         "playerLabel": "broodhollow - page 44",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F44.png"
+      },
+      {
+         "label": "page 45",
+         "playerLabel": "broodhollow - page 45",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F45.png"
+      },
+      {
+         "label": "page 46",
+         "playerLabel": "broodhollow - page 46",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F46.png"
+      },
+      {
+         "label": "page 47",
+         "playerLabel": "broodhollow - page 47",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F47.png"
+      },
+      {
+         "label": "page 48",
+         "playerLabel": "broodhollow - page 48",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F48.png"
+      },
+      {
+         "label": "page 49",
+         "playerLabel": "broodhollow - page 49",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F49.png"
+      },
+      {
+         "label": "page 50",
+         "playerLabel": "broodhollow - page 50",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F50.png"
+      },
+      {
+         "label": "page 51",
+         "playerLabel": "broodhollow - page 51",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F51.png"
+      },
+      {
+         "label": "page 52",
+         "playerLabel": "broodhollow - page 52",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F52.png"
+      },
+      {
+         "label": "page 53",
+         "playerLabel": "broodhollow - page 53",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F53.png"
+      },
+      {
+         "label": "page 54",
+         "playerLabel": "broodhollow - page 54",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F54.png"
+      },
+      {
+         "label": "page 55",
+         "playerLabel": "broodhollow - page 55",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F55.png"
+      },
+      {
+         "label": "page 56",
+         "playerLabel": "broodhollow - page 56",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F56.png"
+      },
+      {
+         "label": "page 57",
+         "playerLabel": "broodhollow - page 57",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F57.png"
+      },
+      {
+         "label": "page 58",
+         "playerLabel": "broodhollow - page 58",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F58.png"
+      },
+      {
+         "label": "page 59",
+         "playerLabel": "broodhollow - page 59",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F59.png"
+      },
+      {
+         "label": "page 60",
+         "playerLabel": "broodhollow - page 60",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F60.png"
+      },
+      {
+         "label": "page 61",
+         "playerLabel": "broodhollow - page 61",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F61.png"
+      },
+      {
+         "label": "page 62",
+         "playerLabel": "broodhollow - page 62",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F62.png"
+      },
+      {
+         "label": "page 63",
+         "playerLabel": "broodhollow - page 63",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F63.png"
+      },
+      {
+         "label": "page 64",
+         "playerLabel": "broodhollow - page 64",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F64.png"
+      },
+      {
+         "label": "page 65",
+         "playerLabel": "broodhollow - page 65",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F65.png"
+      },
+      {
+         "label": "page 66",
+         "playerLabel": "broodhollow - page 66",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F66.png"
+      },
+      {
+         "label": "page 67",
+         "playerLabel": "broodhollow - page 67",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F67.png"
+      },
+      {
+         "label": "page 68",
+         "playerLabel": "broodhollow - page 68",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F68.png"
+      },
+      {
+         "label": "page 69",
+         "playerLabel": "broodhollow - page 69",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F69.png"
+      },
+      {
+         "label": "page 70",
+         "playerLabel": "broodhollow - page 70",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F70.png"
+      },
+      {
+         "label": "page 71",
+         "playerLabel": "broodhollow - page 71",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F71.png"
+      },
+      {
+         "label": "page 72",
+         "playerLabel": "broodhollow - page 72",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F72.png"
+      },
+      {
+         "label": "page 73",
+         "playerLabel": "broodhollow - page 73",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F73.png"
+      },
+      {
+         "label": "page 74",
+         "playerLabel": "broodhollow - page 74",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F74.png"
+      },
+      {
+         "label": "page 75",
+         "playerLabel": "broodhollow - page 75",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F75.png"
+      },
+      {
+         "label": "page 76",
+         "playerLabel": "broodhollow - page 76",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F76.png"
+      },
+      {
+         "label": "page 77",
+         "playerLabel": "broodhollow - page 77",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F77.png"
+      },
+      {
+         "label": "page 78",
+         "playerLabel": "broodhollow - page 78",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F78.png"
+      },
+      {
+         "label": "page 79",
+         "playerLabel": "broodhollow - page 79",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F79.png"
+      },
+      {
+         "label": "page 80",
+         "playerLabel": "broodhollow - page 80",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F80.png"
+      },
+      {
+         "label": "page 81",
+         "playerLabel": "broodhollow - page 81",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F81.png"
+      },
+      {
+         "label": "page 82",
+         "playerLabel": "broodhollow - page 82",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F82.png"
+      },
+      {
+         "label": "page 83",
+         "playerLabel": "broodhollow - page 83",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F83.png"
+      },
+      {
+         "label": "page 84",
+         "playerLabel": "broodhollow - page 84",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F84.png"
+      },
+      {
+         "label": "page 85",
+         "playerLabel": "broodhollow - page 85",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F85.png"
+      },
+      {
+         "label": "page 86",
+         "playerLabel": "broodhollow - page 86",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F86.png"
+      },
+      {
+         "label": "page 87",
+         "playerLabel": "broodhollow - page 87",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F87.png"
+      },
+      {
+         "label": "page 88",
+         "playerLabel": "broodhollow - page 88",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F88.png"
+      },
+      {
+         "label": "page 89",
+         "playerLabel": "broodhollow - page 89",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F89.png"
+      },
+      {
+         "label": "page 90",
+         "playerLabel": "broodhollow - page 90",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F90.png"
+      },
+      {
+         "label": "page 91",
+         "playerLabel": "broodhollow - page 91",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F91.png"
+      },
+      {
+         "label": "page 92",
+         "playerLabel": "broodhollow - page 92",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F92.png"
+      },
+      {
+         "label": "page 93",
+         "playerLabel": "broodhollow - page 93",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F93.png"
+      },
+      {
+         "label": "page 94",
+         "playerLabel": "broodhollow - page 94",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F94.png"
+      },
+      {
+         "label": "page 95",
+         "playerLabel": "broodhollow - page 95",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F95.png"
+      },
+      {
+         "label": "page 96",
+         "playerLabel": "broodhollow - page 96",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F96.png"
+      },
+      {
+         "label": "page 97",
+         "playerLabel": "broodhollow - page 97",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F97.png"
+      },
+      {
+         "label": "page 98",
+         "playerLabel": "broodhollow - page 98",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F98.png"
+      },
+      {
+         "label": "page 99",
+         "playerLabel": "broodhollow - page 99",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F99.png"
+      },
+      {
+         "label": "page 100",
+         "playerLabel": "broodhollow - page 100",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F100.png"
+      },
+      {
+         "label": "page 101",
+         "playerLabel": "broodhollow - page 101",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F101.png"
+      },
+      {
+         "label": "page 102",
+         "playerLabel": "broodhollow - page 102",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F102.png"
+      },
+      {
+         "label": "page 103",
+         "playerLabel": "broodhollow - page 103",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F103.png"
+      },
+      {
+         "label": "page 104",
+         "playerLabel": "broodhollow - page 104",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F104.png"
+      },
+      {
+         "label": "page 105",
+         "playerLabel": "broodhollow - page 105",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F105.png"
+      },
+      {
+         "label": "page 106",
+         "playerLabel": "broodhollow - page 106",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F106.png"
+      },
+      {
+         "label": "page 107",
+         "playerLabel": "broodhollow - page 107",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F107.png"
+      },
+      {
+         "label": "page 108",
+         "playerLabel": "broodhollow - page 108",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F108.png"
+      },
+      {
+         "label": "page 109",
+         "playerLabel": "broodhollow - page 109",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F109.png"
+      },
+      {
+         "label": "page 110",
+         "playerLabel": "broodhollow - page 110",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F110.png"
+      },
+      {
+         "label": "page 111",
+         "playerLabel": "broodhollow - page 111",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F111.png"
+      },
+      {
+         "label": "page 112",
+         "playerLabel": "broodhollow - page 112",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Broodhollow-webcomic-online/Broodhollow.zip/Broodhollow%2F112.png"
+      }
+   ]
+}
