@@ -1,0 +1,312 @@
+{
+   "type": "list",
+   "headline": "widdershins",
+   "template": {
+      "layout": "0,0,3,3",
+      "color": "msx-glass",
+      "icon": "photo",
+      "iconSize": "large"
+   },
+   "items": [
+      {
+         "label": "page 0",
+         "playerLabel": "widdershins - page 0",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F0.png"
+      },
+      {
+         "label": "page 1",
+         "playerLabel": "widdershins - page 1",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F1.png"
+      },
+      {
+         "label": "page 2",
+         "playerLabel": "widdershins - page 2",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F2.png"
+      },
+      {
+         "label": "page 3",
+         "playerLabel": "widdershins - page 3",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F3.png"
+      },
+      {
+         "label": "page 4",
+         "playerLabel": "widdershins - page 4",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F4.png"
+      },
+      {
+         "label": "page 5",
+         "playerLabel": "widdershins - page 5",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F5.png"
+      },
+      {
+         "label": "page 6",
+         "playerLabel": "widdershins - page 6",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F6.png"
+      },
+      {
+         "label": "page 7",
+         "playerLabel": "widdershins - page 7",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F7.png"
+      },
+      {
+         "label": "page 8",
+         "playerLabel": "widdershins - page 8",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F8.png"
+      },
+      {
+         "label": "page 9",
+         "playerLabel": "widdershins - page 9",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F9.png"
+      },
+      {
+         "label": "page 10",
+         "playerLabel": "widdershins - page 10",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F10.png"
+      },
+      {
+         "label": "page 11",
+         "playerLabel": "widdershins - page 11",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F11.png"
+      },
+      {
+         "label": "page 12",
+         "playerLabel": "widdershins - page 12",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F12.png"
+      },
+      {
+         "label": "page 13",
+         "playerLabel": "widdershins - page 13",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F13.png"
+      },
+      {
+         "label": "page 14",
+         "playerLabel": "widdershins - page 14",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F14.png"
+      },
+      {
+         "label": "page 15",
+         "playerLabel": "widdershins - page 15",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F15.png"
+      },
+      {
+         "label": "page 16",
+         "playerLabel": "widdershins - page 16",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F16.png"
+      },
+      {
+         "label": "page 17",
+         "playerLabel": "widdershins - page 17",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F17.png"
+      },
+      {
+         "label": "page 18",
+         "playerLabel": "widdershins - page 18",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F18.png"
+      },
+      {
+         "label": "page 19",
+         "playerLabel": "widdershins - page 19",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F19.png"
+      },
+      {
+         "label": "page 20",
+         "playerLabel": "widdershins - page 20",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F20.png"
+      },
+      {
+         "label": "page 21",
+         "playerLabel": "widdershins - page 21",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F21.png"
+      },
+      {
+         "label": "page 22",
+         "playerLabel": "widdershins - page 22",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F22.png"
+      },
+      {
+         "label": "page 23",
+         "playerLabel": "widdershins - page 23",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F23.png"
+      },
+      {
+         "label": "page 24",
+         "playerLabel": "widdershins - page 24",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F24.png"
+      },
+      {
+         "label": "page 25",
+         "playerLabel": "widdershins - page 25",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F25.png"
+      },
+      {
+         "label": "page 26",
+         "playerLabel": "widdershins - page 26",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F26.png"
+      },
+      {
+         "label": "page 27",
+         "playerLabel": "widdershins - page 27",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F27.png"
+      },
+      {
+         "label": "page 28",
+         "playerLabel": "widdershins - page 28",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F28.png"
+      },
+      {
+         "label": "page 29",
+         "playerLabel": "widdershins - page 29",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F29.png"
+      },
+      {
+         "label": "page 30",
+         "playerLabel": "widdershins - page 30",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F30.png"
+      },
+      {
+         "label": "page 31",
+         "playerLabel": "widdershins - page 31",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F31.png"
+      },
+      {
+         "label": "page 32",
+         "playerLabel": "widdershins - page 32",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F32.png"
+      },
+      {
+         "label": "page 33",
+         "playerLabel": "widdershins - page 33",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F33.png"
+      },
+      {
+         "label": "page 34",
+         "playerLabel": "widdershins - page 34",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F34.png"
+      },
+      {
+         "label": "page 35",
+         "playerLabel": "widdershins - page 35",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F35.png"
+      },
+      {
+         "label": "page 36",
+         "playerLabel": "widdershins - page 36",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F36.png"
+      },
+      {
+         "label": "page 37",
+         "playerLabel": "widdershins - page 37",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F37.png"
+      },
+      {
+         "label": "page 38",
+         "playerLabel": "widdershins - page 38",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F38.png"
+      },
+      {
+         "label": "page 39",
+         "playerLabel": "widdershins - page 39",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F39.png"
+      },
+      {
+         "label": "page 40",
+         "playerLabel": "widdershins - page 40",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F40.png"
+      },
+      {
+         "label": "page 41",
+         "playerLabel": "widdershins - page 41",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F41.png"
+      },
+      {
+         "label": "page 42",
+         "playerLabel": "widdershins - page 42",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F42.png"
+      },
+      {
+         "label": "page 43",
+         "playerLabel": "widdershins - page 43",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F43.png"
+      },
+      {
+         "label": "page 44",
+         "playerLabel": "widdershins - page 44",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F44.png"
+      },
+      {
+         "label": "page 45",
+         "playerLabel": "widdershins - page 45",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F45.png"
+      },
+      {
+         "label": "page 46",
+         "playerLabel": "widdershins - page 46",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F46.png"
+      },
+      {
+         "label": "page 47",
+         "playerLabel": "widdershins - page 47",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F47.png"
+      },
+      {
+         "label": "page 48",
+         "playerLabel": "widdershins - page 48",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F48.png"
+      },
+      {
+         "label": "page 49",
+         "playerLabel": "widdershins - page 49",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F49.png"
+      },
+      {
+         "label": "page 50",
+         "playerLabel": "widdershins - page 50",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F50.png"
+      },
+      {
+         "label": "page 51",
+         "playerLabel": "widdershins - page 51",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F51.png"
+      },
+      {
+         "label": "page 52",
+         "playerLabel": "widdershins - page 52",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F52.png"
+      },
+      {
+         "label": "page 53",
+         "playerLabel": "widdershins - page 53",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F53.png"
+      },
+      {
+         "label": "page 54",
+         "playerLabel": "widdershins - page 54",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F54.png"
+      },
+      {
+         "label": "page 55",
+         "playerLabel": "widdershins - page 55",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F55.png"
+      },
+      {
+         "label": "page 56",
+         "playerLabel": "widdershins - page 56",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F56.png"
+      },
+      {
+         "label": "page 57",
+         "playerLabel": "widdershins - page 57",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F57.png"
+      },
+      {
+         "label": "page 58",
+         "playerLabel": "widdershins - page 58",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F58.png"
+      },
+      {
+         "label": "page 59",
+         "playerLabel": "widdershins - page 59",
+         "action": "video:plugin:http://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Widdershins-webcomic-online/Widdershins.zip/Widdershins%2F59.png"
+      }
+   ]
+}
