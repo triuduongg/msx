@@ -1,0 +1,202 @@
+{
+   "type": "list",
+   "headline": "starhammer",
+   "template": {
+      "layout": "0,0,3,3",
+      "color": "msx-glass",
+      "icon": "photo",
+      "iconSize": "large"
+   },
+   "items": [
+      {
+         "label": "page 0",
+         "playerLabel": "starhammer - page 0",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F0.png"
+      },
+      {
+         "label": "page 1",
+         "playerLabel": "starhammer - page 1",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F1.png"
+      },
+      {
+         "label": "page 2",
+         "playerLabel": "starhammer - page 2",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F2.png"
+      },
+      {
+         "label": "page 3",
+         "playerLabel": "starhammer - page 3",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F3.png"
+      },
+      {
+         "label": "page 4",
+         "playerLabel": "starhammer - page 4",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F4.png"
+      },
+      {
+         "label": "page 5",
+         "playerLabel": "starhammer - page 5",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F5.png"
+      },
+      {
+         "label": "page 6",
+         "playerLabel": "starhammer - page 6",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F6.png"
+      },
+      {
+         "label": "page 7",
+         "playerLabel": "starhammer - page 7",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F7.png"
+      },
+      {
+         "label": "page 8",
+         "playerLabel": "starhammer - page 8",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F8.png"
+      },
+      {
+         "label": "page 9",
+         "playerLabel": "starhammer - page 9",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F9.png"
+      },
+      {
+         "label": "page 10",
+         "playerLabel": "starhammer - page 10",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F10.png"
+      },
+      {
+         "label": "page 11",
+         "playerLabel": "starhammer - page 11",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F11.png"
+      },
+      {
+         "label": "page 12",
+         "playerLabel": "starhammer - page 12",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F12.png"
+      },
+      {
+         "label": "page 13",
+         "playerLabel": "starhammer - page 13",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F13.png"
+      },
+      {
+         "label": "page 14",
+         "playerLabel": "starhammer - page 14",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F14.png"
+      },
+      {
+         "label": "page 15",
+         "playerLabel": "starhammer - page 15",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F15.png"
+      },
+      {
+         "label": "page 16",
+         "playerLabel": "starhammer - page 16",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F16.png"
+      },
+      {
+         "label": "page 17",
+         "playerLabel": "starhammer - page 17",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F17.png"
+      },
+      {
+         "label": "page 18",
+         "playerLabel": "starhammer - page 18",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F18.png"
+      },
+      {
+         "label": "page 19",
+         "playerLabel": "starhammer - page 19",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F19.png"
+      },
+      {
+         "label": "page 20",
+         "playerLabel": "starhammer - page 20",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F20.png"
+      },
+      {
+         "label": "page 21",
+         "playerLabel": "starhammer - page 21",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F21.png"
+      },
+      {
+         "label": "page 22",
+         "playerLabel": "starhammer - page 22",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F22.png"
+      },
+      {
+         "label": "page 23",
+         "playerLabel": "starhammer - page 23",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F23.png"
+      },
+      {
+         "label": "page 24",
+         "playerLabel": "starhammer - page 24",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F24.png"
+      },
+      {
+         "label": "page 25",
+         "playerLabel": "starhammer - page 25",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F25.png"
+      },
+      {
+         "label": "page 26",
+         "playerLabel": "starhammer - page 26",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F26.png"
+      },
+      {
+         "label": "page 27",
+         "playerLabel": "starhammer - page 27",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F27.png"
+      },
+      {
+         "label": "page 28",
+         "playerLabel": "starhammer - page 28",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F28.png"
+      },
+      {
+         "label": "page 29",
+         "playerLabel": "starhammer - page 29",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F29.png"
+      },
+      {
+         "label": "page 30",
+         "playerLabel": "starhammer - page 30",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F30.png"
+      },
+      {
+         "label": "page 31",
+         "playerLabel": "starhammer - page 31",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F31.png"
+      },
+      {
+         "label": "page 32",
+         "playerLabel": "starhammer - page 32",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F32.png"
+      },
+      {
+         "label": "page 33",
+         "playerLabel": "starhammer - page 33",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F33.png"
+      },
+      {
+         "label": "page 34",
+         "playerLabel": "starhammer - page 34",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F34.png"
+      },
+      {
+         "label": "page 35",
+         "playerLabel": "starhammer - page 35",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F35.png"
+      },
+      {
+         "label": "page 36",
+         "playerLabel": "starhammer - page 36",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F36.png"
+      },
+      {
+         "label": "page 37",
+         "playerLabel": "starhammer - page 37",
+         "action": "video:plugin:https://msx.benzac.de/plugins/image.html?filler=fit&url=https://archive.org/download/Starhammer-webcomic-online/Starhammer.zip/Starhammer%2F37.png"
+      }
+   ]
+}
