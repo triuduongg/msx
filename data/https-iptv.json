@@ -17,10 +17,6 @@
            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-jsosao.json"
        },
        {
-           "label": "jsosao",
-           "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-jsosao.json"
-       },
-       {
            "label": "iptv-org",
            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-iptv-org.json"
        },
