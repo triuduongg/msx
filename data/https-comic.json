@@ -17,8 +17,8 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic-widdershins.json"
         },
         {
-            "label": "fragglerock",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic-fragglerock.json"
+            "label": "helvetica",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic-helvetica.json"
         },
         {
             "label": "wallywizard",
