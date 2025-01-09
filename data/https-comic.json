@@ -25,8 +25,8 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic-starhammer.json"
         },
         {
-            "label": "planetterry",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic-planetterry.json"
+            "label": "lostnightmare",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-comic-lostnightmare.json"
         },
         {
             "label": "defendersofearth",
