@@ -35,6 +35,10 @@
         {
             "label": "broodhollow",
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-broodhollow.json"
+        },
+        {
+            "label": "foxdad",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-foxdad.json"
         }
     ]
 }
