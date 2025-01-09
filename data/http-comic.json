@@ -35,14 +35,6 @@
         {
             "label": "broodhollow",
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-broodhollow.json"
-        },
-        {
-            "label": "inhumanoids",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-inhumanoids.json"
-        },
-        {
-            "label": "thundercats",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-thundercats.json"
         }
     ]
 }
