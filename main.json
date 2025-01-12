@@ -6,6 +6,11 @@
                "label": "main"
            },
            {
+               "icon": "info",
+               "label": "info",
+               "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/info.json"
+           },
+           {
                "icon": "http",
                "label": "http",
                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/http.json"
