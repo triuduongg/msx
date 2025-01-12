@@ -1,0 +1,64 @@
+{
+   "type": "list",
+   "headline": "info",
+   "template": {
+      "layout": "0,0,12,6",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "text": [
+            "{txt:msx-white:- triuduongg on media station x}{br}",
+            "{txt:msx-white:- Visit: [https://msx.benzac.de]}{br}",
+            "{txt:msx-white:- Download app:}{br}",
+            "{txt:msx-white:- Google Play: [https://play.google.com/store/apps/details?id=de.benzac.msx]}{br}",
+            "{txt:msx-white:- App Store: [https://apps.apple.com/us/app/media-station-x/id1363036077]}{br}",
+            "{txt:msx-white:- Microsoft Store: [https://apps.microsoft.com/detail/9p4z98mljplz]}{br}",
+            "{txt:msx-white:- LG Content Store: [https://us.lgappstv.com/main/tvapp/detail?appId=464834]}{br}",
+            "{txt:msx-white:- Amazon Appstore: [https://www.amazon.com/benzac-de-Media-Station-X/dp/B078TL932D]}{br}",
+            "{txt:msx-white:- The application is available on phones, computers, and televisions}{br}",
+            "{txt:msx-white:- Setting -> start parameter: [id:bly:triuduonggmsx]}{br}",
+            "{txt:msx-white:- The two prefixes http and https contain the same media. Because some devices can use the http prefix, but some can use the https prefix and others can use both. To know which prefix your device can use, the only way is to try both. The prefix here only applies to the application service (msx.benzac.de).}{br}",
+            "{txt:msx-white:- The prefix will have 8 entries.}{br}",
+            "{txt:msx-white:- The first 3 items are [comic], [music], [movie] taken from [archive.org], source: [https://archive.org/details/@tr_u_d_ngg/lists/1/triuduongg-media-station-x].}{br}",
+            "{txt:msx-white:- The next item is [action], it directly executes the command you enter, which means that here you must know about the programming of this application, see more at [https://msx.benzac.de/wiki/index.php?title=Welcome].}{br}",
+            "{txt:msx-white:- The next 2 items are [iptv], [feed], which are 2 items to watch TV channels from m3u or m3u8 sources and update information from the feeds.}{br}"
+         ]
+      },
+      {
+         "text": [
+            "{txt:msx-white:- iptv sources:}{br}",
+            "{txt:msx-white:- jsosao: [https://github.com/jsosao/m3u]}{br}",
+            "{txt:msx-white:- iptv-org: [https://github.com/iptv-org/iptv]}{br}",
+            "{txt:msx-white:- freetv.fun: [https://epg.pw/test_channel_page.html?lang=en]}{br}",
+            "{txt:msx-white:- free-tv: [https://github.com/Free-TV/IPTV]}{br}",
+            "{txt:msx-white:- i.mjh.nz: [https://i.mjh.nz/]}{br}",
+            "{txt:msx-white:- m3upt: [https://github.com/LITUATUI/M3UPT]}{br}",
+            "{txt:msx-white:- iptv-list.com: [https://github.com/LITUATUI/M3UPT]}{br}",
+            "{txt:msx-white:- inspiration: [https://github.com/inspirationlinks/m3u]}{br}",
+            "{txt:msx-white:- aktv.top: [https://aktv.top/]}{br}",
+            "{txt:msx-white:- yuechan: [https://github.com/YueChan/Live]}{br}"
+         ]
+      },
+      {
+         "text": [
+            "{txt:msx-white:- feeds sources:}{br}",
+            "{txt:msx-white:- crimejunkie: [https://crimejunkiepodcast.com/]}{br}",
+            "{txt:msx-white:- nytimes: [https://www.nytimes.com/rss]}{br}",
+            "{txt:msx-white:- dailymail: [https://www.dailymail.co.uk/home/rssMenu.html]}{br}",
+            "{txt:msx-white:- foxnews: [https://www.foxnews.com/story/foxnews-com-rss-feeds]}{br}",
+            "{txt:msx-white:- lequipe: [https://www.lequipe.fr/Tous-sports/Actualites/Les-flux-rss-de-l-equipe/1299546]}{br}",
+            "{txt:msx-white:- unnews: [https://news.un.org/en/rss-feeds]}{br}",
+            "{txt:msx-white:- thedaily: [https://www.nytimes.com/column/the-daily]}{br}",
+            "{txt:msx-white:- theage: [https://www.theage.com.au/rssheadlines]}{br}",
+            "{txt:msx-white:- smh: [https://www.smh.com.au/rssheadlines]}{br}"
+         ]
+      },
+      {
+         "text": [
+            "{txt:msx-white:- The next section is [widget], this is the section containing available utilities that the creator of this application has developed, details at [https://msx.benzac.de/info/?tab=Showcases]. The last item is [launcher], which allows you to add other contents while still using my content. You can create your own content easily if you know about the programming of this application. Experience it at [https://codepen.io/benzac-de].}{br}",
+            "{txt:msx-white:- That's all the information I can give you about my content, details at [https://github.com/triuduongg/msx]}{br}"
+         ]
+      }
+   ]
+}
