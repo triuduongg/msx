@@ -1,5 +1,5 @@
 # triuduongg and Media Station X
-# Webpage: https://msx.benzac.de
+# Visit: http://msx.benzac.de or https://msx.benzac.de
 # Download app:
 # Google Play: https://play.google.com/store/apps/details?id=de.benzac.msx
 # App Store: https://apps.apple.com/us/app/media-station-x/id1363036077
