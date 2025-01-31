@@ -1,0 +1,63 @@
+{
+    "type": "list",
+    "headline": "smile",
+    "template": {
+       "layout": "0,0,3,3",
+       "color": "msx-glass",
+       "icon": "music-note",
+       "iconSize": "large"
+    },
+    "items": [
+       {
+          "label": "butterfly",
+          "playerLabel": "smile - butterfly",
+          "action": "audio:https://archive.org/download/smile_202104/Smile/01%20Butterfly.mp3"
+       },
+       {
+          "label": "coconut",
+          "playerLabel": "smile - coconut",
+          "action": "audio:https://archive.org/download/smile_202104/Smile/02%20Coconut.mp3"
+       },
+       {
+          "label": "sweet senorita",
+          "playerLabel": "smile - sweet senorita",
+          "action": "audio:https://archive.org/download/smile_202104/Smile/03%20Sweet%20Senorita.mp3"
+       },
+       {
+          "label": "middle of the night",
+          "playerLabel": "smile - middle of the night",
+          "action": "audio:https://archive.org/download/smile_202104/Smile/04%20Middle%20Of%20The%20Night.mp3"
+       },
+       {
+          "label": "tic toc",
+          "playerLabel": "smile - tic toc",
+          "action": "audio:https://archive.org/download/smile_202104/Smile/05%20Tic%20Toc.mp3"
+       },
+       {
+          "label": "get out",
+          "playerLabel": "smile - get out",
+          "action": "audio:https://archive.org/download/smile_202104/Smile/06%20Get%20Out.mp3"
+       },
+       {
+          "label": "boys",
+          "playerLabel": "smile - boys",
+          "action": "audio:https://archive.org/download/smile_202104/Smile/07%20Boys.mp3"
+       },
+       {
+          "label": "mr. wonderful",
+          "playerLabel": "smile - mr. wonderful",
+          "action": "audio:https://archive.org/download/smile_202104/Smile/08%20Mr.%20Wonderful.mp3"
+       },
+       {
+          "label": "knock knock",
+          "playerLabel": "smile - knock knock",
+          "action": "audio:https://archive.org/download/smile_202104/Smile/09%20Knock%20Knock.mp3"
+       },
+       {
+          "label": "comme ci comme ca",
+          "playerLabel": "smile - comme ci comme ca",
+          "action": "audio:https://archive.org/download/smile_202104/Smile/10%20Comme%20Ci%20Comme%20CA.mp3"
+       }
+    ]
+ }
+ 
