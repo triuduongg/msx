@@ -13,7 +13,7 @@
             {
                 "icon": "photo-library",
                 "label": "comic",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/http.json"
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/comic.json"
             },
             {
                 "icon": "library-music",
