@@ -1,60 +1,60 @@
 {
-   "type": "list",
-   "headline": "movie",
-   "template": {
-      "layout": "0,0,8,2",
-      "color": "msx-glass",
-      "icon": "local-movies",
-      "iconSize": "medium"
-   },
-   "items": [
-       {
-           "label": "tom&jerrytales",
-           "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie-tom&jerrytales.json"
-       },
-       {
-           "label": "freewilly",
-           "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie-freewilly.json"
-       },
-       {
-           "label": "mrbean",
-           "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie-mrbean.json"
-       },
-       {
-           "label": "ultramangreat",
-           "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie-ultramangreat.json"
-       },
-       {
-           "label": "oscarsoasis",
-           "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie-oscarsoasis.json"
-       },
-       {
-           "label": "maskofzorro",
-           "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie-maskofzorro.json"
-       },
-       {
-           "label": "truelies",
-           "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie-truelies.json"
-       },
-       {
-           "label": "leagueofextraordinarygentlemen",
-           "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie-leagueofextraordinarygentlemen.json"
-       },
-       {
-           "label": "starshiptroopers",
-           "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie-starshiptroopers.json"
-       },
-       {
-         "label": "spawn",
-         "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie-spawn.json"
-       },
-       {
-         "label": "lockstock&2smokingbarrels",
-         "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie-lockstock&2smokingbarrels.json"
-       },
-       {
-         "label": "junglefury",
-         "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-movie-junglefury.json"
-       }
-   ]
-}
+    "type": "list",
+    "headline": "movie",
+    "template": {
+       "layout": "0,0,12,2",
+       "color": "msx-glass",
+       "icon": "local-movies",
+       "iconSize": "medium"
+    },
+    "items": [
+        {
+            "label": "tom&jerrytales",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/movie-tom&jerrytales.json"
+        },
+        {
+            "label": "freewilly",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/movie-freewilly.json"
+        },
+        {
+            "label": "mrbean",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/movie-mrbean.json"
+        },
+        {
+            "label": "ultramangreat",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/movie-ultramangreat.json"
+        },
+        {
+            "label": "oscarsoasis",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/movie-oscarsoasis.json"
+        },
+        {
+            "label": "maskofzorro",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/movie-maskofzorro.json"
+        },
+        {
+            "label": "truelies",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/movie-truelies.json"
+        },
+        {
+            "label": "leagueofextraordinarygentlemen",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/movie-leagueofextraordinarygentlemen.json"
+        },
+        {
+            "label": "starshiptroopers",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/movie-starshiptroopers.json"
+        },
+        {
+          "label": "spawn",
+          "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/movie-spawn.json"
+        },
+        {
+          "label": "lockstock&2smokingbarrels",
+          "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/movie-lockstock&2smokingbarrels.json"
+        },
+        {
+          "label": "junglefury",
+          "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/movie-junglefury.json"
+        }
+    ]
+ }
