@@ -1,0 +1,63 @@
+{
+    "type": "list",
+    "headline": "supertrouper",
+    "template": {
+       "layout": "0,0,3,3",
+       "color": "msx-glass",
+       "icon": "music-note",
+       "iconSize": "large"
+    },
+    "items": [
+       {
+          "label": "super trouper",
+          "playerLabel": "supertrouper - super trouper",
+          "action": "audio:https://archive.org/download/05-me-and-i/01%20-%20Super%20Trouper.mp3"
+       },
+       {
+          "label": "the winner takes it all",
+          "playerLabel": "supertrouper - the winner takes it all",
+          "action": "audio:https://archive.org/download/05-me-and-i/02%20-%20The%20Winner%20Takes%20It%20All.mp3"
+       },
+       {
+          "label": "on and on and on",
+          "playerLabel": "supertrouper - on and on and on",
+          "action": "audio:https://archive.org/download/05-me-and-i/03%20-%20On%20And%20On%20And%20On.mp3"
+       },
+       {
+          "label": "andante, andante",
+          "playerLabel": "supertrouper - andante, andante",
+          "action": "audio:https://archive.org/download/05-me-and-i/04%20-%20Andante%2C%20Andante.mp3"
+       },
+       {
+          "label": "me and i",
+          "playerLabel": "supertrouper - me and i",
+          "action": "audio:https://archive.org/download/05-me-and-i/05%20-%20Me%20And%20I.mp3"
+       },
+       {
+          "label": "happy new year",
+          "playerLabel": "supertrouper - happy new year",
+          "action": "audio:https://archive.org/download/05-me-and-i/06%20-%20Happy%20New%20Year.mp3"
+       },
+       {
+          "label": "our last summer",
+          "playerLabel": "supertrouper - our last summer",
+          "action": "audio:https://archive.org/download/05-me-and-i/07%20-%20Our%20Last%20Summer.mp3"
+       },
+       {
+          "label": "the piper",
+          "playerLabel": "supertrouper - the piper",
+          "action": "audio:https://archive.org/download/05-me-and-i/08%20-%20The%20Piper.mp3"
+       },
+       {
+          "label": "lay all your love on me",
+          "playerLabel": "supertrouper - lay all your love on me",
+          "action": "audio:https://archive.org/download/05-me-and-i/09%20-%20Lay%20All%20Your%20Love%20On%20Me.mp3"
+       },
+       {
+          "label": "the way old friends do",
+          "playerLabel": "supertrouper - the way old friends do",
+          "action": "audio:https://archive.org/download/05-me-and-i/10%20-%20The%20Way%20Old%20Friends%20Do.mp3"
+       }
+    ]
+ }
+ 
