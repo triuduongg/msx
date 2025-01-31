@@ -1,0 +1,18 @@
+{
+    "type": "list",
+    "headline": "spawn",
+    "template": {
+       "layout": "0,0,3,3",
+       "color": "msx-glass",
+       "icon": "movie",
+       "iconSize": "large"
+    },
+    "items": [
+       {
+          "label": "movie",
+          "playerLabel": "spawn - movie",
+          "action": "video:https://archive.org/download/spawn-vhs-rental-rip-mediahoarderz.com/Spawn%20%28VHS%20Rental%20Rip%29%20%5BMediaHoarderz.com%5D.ia.mp4"
+       }
+    ]
+ }
+ 
