@@ -1,0 +1,237 @@
+{
+    "type": "list",
+    "headline": "feed",
+    "template": {
+       "layout": "0,0,12,2",
+       "color": "msx-glass",
+       "icon": "feed",
+       "iconSize": "medium"
+    },
+    "items": [
+        {
+            "label": "nytimes",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-nytimes.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-nytimes.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "dailymail",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-dailymail.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-dailymail.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "foxnews",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-foxnews.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-foxnews.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "lequipe",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-lequipe.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-lequipe.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "unnews",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-unnews.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-unnews.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "thedaily",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-thedaily.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-thedaily.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "theage",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-theage.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-theage.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "crimejunkie",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-crimejunkie.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-crimejunkie.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "smh",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-smh.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-feed-smh.json"
+                    }
+                ]
+             }
+        }
+    ]
+ }
