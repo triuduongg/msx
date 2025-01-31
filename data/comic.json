@@ -2,7 +2,7 @@
     "type": "list",
     "headline": "comic",
     "template": {
-       "layout": "0,0,8,2",
+       "layout": "0,0,12,2",
        "color": "msx-glass",
        "icon": "photo-album",
        "iconSize": "medium"
@@ -10,35 +10,35 @@
     "items": [
         {
             "label": "parallax",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-parallax.json"
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/comic-parallax.json"
         },
         {
             "label": "widdershins",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-widdershins.json"
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/comic-widdershins.json"
         },
         {
             "label": "helvetica",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-helvetica.json"
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/comic-helvetica.json"
         },
         {
             "label": "starhammer",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-starhammer.json"
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/comic-starhammer.json"
         },
         {
             "label": "lostnightmare",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-lostnightmare.json"
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/comic-lostnightmare.json"
         },
         {
             "label": "colorless",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-colorless.json"
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/comic-colorless.json"
         },
         {
             "label": "broodhollow",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-broodhollow.json"
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/comic-broodhollow.json"
         },
         {
             "label": "broken",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-comic-broken.json"
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/comic-broken.json"
         }
     ]
 }
