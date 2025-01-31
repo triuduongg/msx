@@ -1,0 +1,68 @@
+{
+    "type": "list",
+    "headline": "aquarium",
+    "template": {
+       "layout": "0,0,3,3",
+       "color": "msx-glass",
+       "icon": "music-note",
+       "iconSize": "large"
+    },
+    "items": [
+       {
+          "label": "happy boys & girls",
+          "playerLabel": "aquarium - happy boys & girls",
+          "action": "audio:https://archive.org/download/aqua-aquarium-1997-flac./01%20-%20Happy%20Boys%20%26%20Girls.mp3"
+       },
+       {
+          "label": "my oh my",
+          "playerLabel": "aquarium - my oh my",
+          "action": "audio:https://archive.org/download/aqua-aquarium-1997-flac./02%20-%20My%20Oh%20My.mp3"
+       },
+       {
+          "label": "barbie girl",
+          "playerLabel": "aquarium - barbie girl",
+          "action": "audio:https://archive.org/download/aqua-aquarium-1997-flac./03%20-%20Barbie%20Girl.mp3"
+       },
+       {
+          "label": "good morning sunshine",
+          "playerLabel": "aquarium - good morning sunshine",
+          "action": "audio:https://archive.org/download/aqua-aquarium-1997-flac./04%20-%20Good%20Morning%20Sunshine.mp3"
+       },
+       {
+          "label": "doctor jones",
+          "playerLabel": "aquarium - doctor jones",
+          "action": "audio:https://archive.org/download/aqua-aquarium-1997-flac./05%20-%20Doctor%20Jones.mp3"
+       },
+       {
+          "label": "heat of the night",
+          "playerLabel": "aquarium - heat of the night",
+          "action": "audio:https://archive.org/download/aqua-aquarium-1997-flac./06%20-%20Heat%20Of%20The%20Night.mp3"
+       },
+       {
+          "label": "be a man",
+          "playerLabel": "aquarium - be a man",
+          "action": "audio:https://archive.org/download/aqua-aquarium-1997-flac./07%20-%20Be%20A%20Man.mp3"
+       },
+       {
+          "label": "lollipop",
+          "playerLabel": "aquarium - lollipop",
+          "action": "audio:https://archive.org/download/aqua-aquarium-1997-flac./08%20-%20Lollipop%20%28Candyman%29.mp3"
+       },
+       {
+          "label": "roses are red",
+          "playerLabel": "aquarium - roses are red",
+          "action": "audio:https://archive.org/download/aqua-aquarium-1997-flac./09%20-%20Roses%20Are%20Red.mp3"
+       },
+       {
+          "label": "turn back time",
+          "playerLabel": "aquarium - turn back time",
+          "action": "audio:https://archive.org/download/aqua-aquarium-1997-flac./10%20-%20Turn%20Back%20Time.mp3"
+       },
+       {
+          "label": "calling you",
+          "playerLabel": "aquarium - calling you",
+          "action": "audio:https://archive.org/download/aqua-aquarium-1997-flac./11%20-%20Calling%20You.mp3"
+       }
+    ]
+ }
+ 
