@@ -1,0 +1,24 @@
+{
+    "type": "list",
+    "headline": "maskofzorro",
+    "template": {
+       "layout": "0,0,3,3",
+       "color": "msx-glass",
+       "icon": "movie",
+       "iconSize": "large"
+    },
+    "items": [
+       {
+          "label": "movie 1",
+          "playerLabel": "maskofzorro - movie 1",
+          "action": "video:https://archive.org/download/the-mask-of-zorro-1998/The%20Mask%20Of%20Zorro%201998.mp4"
+       },
+       {
+         "icon": "movie",
+         "label": "movie 2",
+         "playerLabel": "maskofzorro - movie 2",
+         "action": "video:https://archive.org/download/the-legend-of-zorro-2005_202406/The%20Legend%20Of%20Zorro%202005.mp4"
+      }
+    ]
+ }
+ 
