@@ -7,7 +7,7 @@
 #### - LG Content Store: [https://us.lgappstv.com/main/tvapp/detail?appId=464834]
 #### - Amazon Appstore: [https://www.amazon.com/benzac-de-Media-Station-X/dp/B078TL932D]
 #### - The application is available on phones, computers, and televisions
-#### - Setting -> start parameter: [id:trl:triuduonggvsmsx]
+#### - Setting -> start parameter: [id:trl:triuduonggmsx]
 #### - The two prefixes http and https contain the same media. Because some devices can use the http prefix, but some can use the https prefix and others can use both. To know which prefix your device can use, the only way is to try both. The prefix here only applies to the application service (msx.benzac.de).
 #### - The prefix will have 8 entries.
 #### - The first 3 items are [comic], [album], [movie] taken from [archive.org], source: [https://archive.org/details/@tr_u_d_ngg/lists/1/triuduongg-media-station-x].
