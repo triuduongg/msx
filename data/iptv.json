@@ -1,0 +1,287 @@
+{
+    "type": "list",
+    "headline": "iptv",
+    "template": {
+       "layout": "0,0,12,2",
+       "color": "msx-glass",
+       "icon": "tv",
+       "iconSize": "medium"
+    },
+    "items": [
+        {
+            "label": "favorites",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&context=favorites"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&context=favorites"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "jsosao",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-iptv-jsosao.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-jsosao.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "iptv-org",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-iptv-iptv-org.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-iptv-org.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "freetv.fun",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-iptv-freetv.fun.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-freetv.fun.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "free-tv",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-iptv-free-tv.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-free-tv.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "i.mjh.nz",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-iptv-i.mjh.nz.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-i.mjh.nz.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "m3upt",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-iptv-m3upt.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-m3upt.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "iptv-list.com",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-iptv-iptv-list.com.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-iptv-list.com.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "inspiration",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-iptv-inspiration.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-inspiration.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "aktv.top",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-iptv-aktv.top.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-aktv.top.json"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "yuechan",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "prefix",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/http-iptv-yuechan.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/https-iptv-yuechan.json"
+                    }
+                ]
+             }
+        }
+    ]
+ }
