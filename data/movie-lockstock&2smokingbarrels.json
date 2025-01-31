@@ -1,0 +1,18 @@
+{
+    "type": "list",
+    "headline": "lockstock&2smokingbarrels",
+    "template": {
+       "layout": "0,0,3,3",
+       "color": "msx-glass",
+       "icon": "movie",
+       "iconSize": "large"
+    },
+    "items": [
+       {
+          "label": "movie",
+          "playerLabel": "lockstock&2smokingbarrels - movie",
+          "action": "video:https://archive.org/download/c-2-t-01_202407/LOCKSTOK/B1_t00.mp4"
+       }
+    ]
+ }
+ 
