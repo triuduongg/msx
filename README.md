@@ -8,11 +8,10 @@
 #### - Amazon Appstore: [https://www.amazon.com/benzac-de-Media-Station-X/dp/B078TL932D]
 #### - The application is available on phones, computers, and televisions
 #### - Setting -> start parameter: [id:bly:triuduonggmsx]
-#### - The two prefixes http and https contain the same media. Because some devices can use the http prefix, but some can use the https prefix and others can use both. To know which prefix your device can use, the only way is to try both. The prefix here only applies to the application service (msx.benzac.de).
-#### - The prefix will have 8 entries.
 #### - The first 3 items are [comic], [album], [movie] taken from [archive.org], source: [https://archive.org/details/@tr_u_d_ngg/lists/1/triuduongg-media-station-x].
 #### - The next item is [action], it directly executes the command you enter, which means that here you must know about the programming of this application, see more at [https://msx.benzac.de/wiki/index.php?title=Welcome].
-#### - The next 2 items are [iptv], [feed], which are 2 items to watch TV channels from m3u or m3u8 sources and update information from the feeds.
+#### - The next 3 items are [iptv], [feed], [widget] which are 3 items to watch TV channels from m3u or m3u8 sources, update information from the feeds, access integrated applications.
+#### - The two prefixes http and https contain the same media. Because some devices can use the http prefix, but some can use the https prefix and others can use both. To know which prefix your device can use, the only way is to try both. The prefix here only applies to the application service (msx.benzac.de).
 #### - iptv sources:
 #### - jsosao: [https://github.com/jsosao/m3u]
 #### - iptv-org: [https://github.com/iptv-org/iptv]
@@ -34,5 +33,6 @@
 #### - thedaily: [https://www.nytimes.com/column/the-daily]
 #### - theage: [https://www.theage.com.au/rssheadlines]
 #### - smh: [https://www.smh.com.au/rssheadlines]
-#### - The next section is [widget], this is the section containing available utilities that the creator of this application has developed, details at [https://msx.benzac.de/info/?tab=Showcases]. The last item is [launcher], which allows you to add other contents while still using my content. You can create your own content easily if you know about the programming of this application. Experience it at [https://codepen.io/benzac-de].
+#### - [widget] is the section containing available utilities that the creator of this application has developed, details at [https://msx.benzac.de/info/?tab=Showcases]. 
+#### - You can create your own content easily if you know about the programming of this application. Experience it at [https://codepen.io/benzac-de].
 #### - That's all the information I can give you about my content, take a look at [https://github.com/triuduongg/msx]. Thank you for using my content!
