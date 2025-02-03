@@ -9,10 +9,6 @@
     },
     "items": [
         {
-            "label": "supertrouper",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/album-supertrouper.json"
-        },
-        {
             "label": "everytimewetouch",
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/album-everytimewetouch.json"
         },
