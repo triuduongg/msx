@@ -21,10 +21,6 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/movie-mrbean.json"
         },
         {
-            "label": "ultramangreat",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/movie-ultramangreat.json"
-        },
-        {
             "label": "oscarsoasis",
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/movie-oscarsoasis.json"
         },
