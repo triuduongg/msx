@@ -12,12 +12,12 @@
             },
             {
                 "icon": "photo-library",
-                "label": "picture",
+                "label": "comic",
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/picture.json"
             },
             {
                 "icon": "library-music",
-                "label": "music",
+                "label": "album",
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/music.json"
             },
             {
@@ -38,6 +38,11 @@
             {
                 "icon": "widgets",
                 "label": "widget",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/widget.json"
+            },
+            {
+                "icon": "call-to-action",
+                "label": "action",
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/widget.json"
             }
         ]
