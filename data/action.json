@@ -23,12 +23,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/image.html?url={INPUT}&type=action|default|en|action@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/image.html?url={INPUT}&type=action|default|en|image@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/image.html?url={INPUT}&type=action|default|en|action@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/image.html?url={INPUT}&type=action|default|en|image@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
@@ -49,12 +49,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/html5.html?url={INPUT}&type=action|default|en|action@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/html5.html?url={INPUT}&type=audio|default|en|action@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/html5.html?url={INPUT}&type=action|default|en|action@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/html5.html?url={INPUT}&type=audio|default|en|action@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
@@ -75,12 +75,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/html5x.html?url={INPUT}&type=action|default|en|action@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/hls.html?url={INPUT}&type=action|default|en|video@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/html5x.html?url={INPUT}&type=action|default|en|action@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/hls.html?url={INPUT}&type=action|default|en|video@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
@@ -101,12 +101,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url={INPUT}&type=action|default|en|action@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url={INPUT}&type=action|default|en|m3u@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url={INPUT}&type=action|default|en|action@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url={INPUT}&type=action|default|en|m3u@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
@@ -127,12 +127,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:request:interaction:{INPUT}@http://msx.benzac.de/interaction/mrss.html&type=action|default|en|action@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:request:interaction:{INPUT}@http://msx.benzac.de/interaction/mrss.html&type=action|default|en|rss@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:request:interaction:{INPUT}@https://msx.benzac.de/interaction/mrss.html&type=action|default|en|action@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:request:interaction:{INPUT}@https://msx.benzac.de/interaction/mrss.html&type=action|default|en|rss@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
