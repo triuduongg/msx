@@ -1,6 +1,6 @@
 {
     "type": "list",
-    "headline": "m3u",
+    "headline": "playlist",
     "template": {
        "layout": "0,0,2,2",
        "color": "msx-glass",
@@ -216,12 +216,12 @@
              }
         },
         {
-            "label": "morem3u",
+            "label": "morelist",
             "icon": "playlist-add",
             "action": "panel:data",
             "data": {
                 "type": "list",
-                "headline": "morem3u",
+                "headline": "morelist",
                 "template": {
                    "layout": "0,0,4,6",
                    "color": "msx-glass",
@@ -231,12 +231,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://tinyurl.com/{INPUT}&type=action|default|en|morem3u@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://tinyurl.com/{INPUT}&type=action|default|en|morelist@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://tinyurl.com/{INPUT}&type=action|default|en|morem3u@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://tinyurl.com/{INPUT}&type=action|default|en|morelist@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
