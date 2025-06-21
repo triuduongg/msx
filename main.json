@@ -12,12 +12,12 @@
             },
             {
                 "icon": "photo-library",
-                "label": "comic",
+                "label": "picture",
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/picture.json"
             },
             {
                 "icon": "library-music",
-                "label": "album",
+                "label": "music",
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/music.json"
             },
             {
