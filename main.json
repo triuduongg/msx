@@ -43,7 +43,7 @@
             {
                 "icon": "call-to-action",
                 "label": "action",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/widget.json"
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/action.json"
             }
         ]
  }
