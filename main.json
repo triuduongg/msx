@@ -12,38 +12,33 @@
             },
             {
                 "icon": "photo-library",
-                "label": "comic",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/picture.json"
+                "label": "image",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/image.json"
             },
             {
                 "icon": "library-music",
-                "label": "album",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/music.json"
+                "label": "audio",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/audio.json"
             },
             {
                 "icon": "video-library",
-                "label": "movie",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/movie.json"
+                "label": "video",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/video.json"
             },
             {
                 "icon": "live-tv",
-                "label": "iptv",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/iptv.json"
+                "label": "m3u",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/m3u.json"
             },
             {
                 "icon": "rss-feed",
-                "label": "feed",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/feed.json"
+                "label": "mrss",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/mrss.json"
             },
             {
                 "icon": "widgets",
-                "label": "widget",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/widget.json"
-            },
-            {
-                "icon": "stream",
-                "label": "stream",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/stream.json"
+                "label": "app",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/app.json"
             }
         ]
  }
