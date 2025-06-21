@@ -1,0 +1,287 @@
+{
+    "type": "list",
+    "headline": "widget",
+    "template": {
+       "layout": "0,0,2,2",
+       "color": "msx-glass",
+       "icon": "extension",
+       "iconSize": "medium"
+    },
+    "items": [
+        {
+            "label": "action",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "action",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={INPUT}&type=action|default|en|action@http://msx.benzac.de/interaction/input.html"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input={INPUT}&type=action|default|en|action@https://msx.benzac.de/interaction/input.html"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "launcher",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "launcher",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
+                    }
+                ]
+             }
+        },  
+        {
+            "label": "soundcloud",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "soundcloud",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:http://sc.msx.benzac.de/msx/service.php"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://sc.msx.benzac.de/msx/service.php"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "googledrive",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "googledrive",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:request:interaction:init@http://gd.msx.benzac.de/interaction"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:request:interaction:init@https://gd.msx.benzac.de/interaction"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "onedrive",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "onedrive",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:request:interaction:init@http://od.msx.benzac.de/interaction"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:request:interaction:init@https://od.msx.benzac.de/interaction"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "dropbox",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "dropbox",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:request:interaction:init@http://db.msx.benzac.de/interaction"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:request:interaction:init@https://db.msx.benzac.de/interaction"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "nodebrowser",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "nodebrowser",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:request:interaction:init@http://nb.msx.benzac.de/interaction"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:request:interaction:init@https://nb.msx.benzac.de/interaction"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "tmdb",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "tmdb",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:http://tmdb.msx.benzac.de/msx/service.php"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://tmdb.msx.benzac.de/msx/service.php"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "twitch",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "twitch",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "link:https://msx.benzac.de/?start=menu:request:interaction:init@http://ttv.msx.benzac.de/interaction&leave=1"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "link:https://msx.benzac.de/?start=menu:request:interaction:init@https://ttv.msx.benzac.de/interaction&leave=1"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "rbtv",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "rbtv",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:request:interaction:init@http://rbtv.msx.benzac.de/"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:request:interaction:init@https://rbtv.msx.benzac.de/"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "euronews",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "euronews",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:http://en.msx.benzac.de/msx/service.php"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://en.msx.benzac.de/msx/service.php"
+                    }
+                ]
+             }
+        }
+    ]
+ }

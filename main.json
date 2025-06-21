@@ -1,0 +1,44 @@
+{
+    "headline": "TRIUDUONGG MSX",
+    "menu": [   
+            {
+                "type": "separator",
+                "label": "main"
+            },
+            {
+                "icon": "info",
+                "label": "info",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/info.json"
+            },
+            {
+                "icon": "photo-library",
+                "label": "comic",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/picture.json"
+            },
+            {
+                "icon": "library-music",
+                "label": "album",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/music.json"
+            },
+            {
+                "icon": "video-library",
+                "label": "movie",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/movie.json"
+            },
+            {
+                "icon": "live-tv",
+                "label": "iptv",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/iptv.json"
+            },
+            {
+                "icon": "rss-feed",
+                "label": "feed",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/feed.json"
+            },
+            {
+                "icon": "widgets",
+                "label": "widget",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/widget.json"
+            }
+        ]
+ }

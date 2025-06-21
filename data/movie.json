@@ -1,0 +1,42 @@
+{
+    "type": "list",
+    "headline": "movie",
+    "template": {
+       "layout": "0,0,2,2",
+       "color": "msx-glass",
+       "icon": "movie",
+       "iconSize": "medium"
+    },
+    "items": [
+        {
+            "label": "truelies",
+            "playerLabel": "truelies",
+            "action": "video:https://archive.org/download/true-lies-1994-d-theater/True%20Lies%20%281994%29%20%5BD-Theater%5D.mp4"
+        },
+        {
+            "label": "leagueofextraordinarygentlemen",
+            "playerLabel": "leagueofextraordinarygentlemen",
+            "action": "video:https://archive.org/download/the-league-of-extraordinary-gentlemen-2003-blu-ray-1080p-dts-ac-3-x-264-3-li/The%20League%20of%20Extraordinary%20Gentlemen%202003%20BluRay%201080p%20DTS%20AC3%20x264-3Li.mp4"
+        },
+        {
+            "label": "spawn",
+            "playerLabel": "spawn",
+            "action": "video:https://archive.org/download/spawn-vhs-rental-rip-mediahoarderz.com/Spawn%20%28VHS%20Rental%20Rip%29%20%5BMediaHoarderz.com%5D.ia.mp4"
+        },
+        {
+            "label": "lockstock&2smokingbarrels",
+            "playerLabel": "lockstock&2smokingbarrels",
+            "action": "video:https://archive.org/download/c-2-t-01_202407/LOCKSTOK/B1_t00.mp4"
+        },
+        {
+            "label": "maskofzorro",
+            "playerLabel": "maskofzorro",
+            "action": "video:https://archive.org/download/the-mask-of-zorro-1998/The%20Mask%20Of%20Zorro%201998.mp4"
+        },
+        {
+            "label": "legendofzorro",
+            "playerLabel": "legendofzorro",
+            "action": "video:https://archive.org/download/the-legend-of-zorro-2005_202406/The%20Legend%20Of%20Zorro%202005.mp4"
+        }
+    ]
+ }

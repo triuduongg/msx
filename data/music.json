@@ -1,0 +1,52 @@
+{
+    "type": "list",
+    "headline": "music",
+    "template": {
+       "layout": "0,0,2,2",
+       "color": "msx-glass",
+       "icon": "music-note",
+       "iconSize": "medium"
+    },
+    "items": [
+        {
+            "label": "everytimewetouch",
+            "playerLabel": "everytimewetouch",
+            "action": "audio:https://archive.org/download/EverytimeWeTouch_201701/01%20Everytime%20We%20Touch.mp3"
+        },
+        {
+            "label": "badboy",
+            "playerLabel": "badboy",
+            "action": "audio:https://archive.org/download/EverytimeWeTouch_201701/03%20Bad%20Boy.mp3"
+        },
+        {
+            "label": "barbiegirl",
+            "playerLabel": "barbiegirl",
+            "action": "audio:https://archive.org/download/aqua-aquarium-1997-flac./03%20-%20Barbie%20Girl.mp3"
+        },
+        {
+            "label": "butterfly",
+            "playerLabel": "butterfly",
+            "action": "audio:https://archive.org/download/smile_202104/Smile/01%20Butterfly.mp3"
+        },
+        {
+            "label": "attention",
+            "playerLabel": "attention",
+            "action": "audio:https://archive.org/download/voicenotes_181105/02%20Attention.mp3"
+        },
+        {
+            "label": "paradise",
+            "playerLabel": "paradise",
+            "action": "audio:https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/03%20Paradise.mp3"
+        },
+        {
+            "label": "brotherlouie",
+            "playerLabel": "brotherlouie",
+            "action": "audio:https://archive.org/download/modern-talking-ready-for-romance-the-3rd-album/01%20-%20Brother%20Louie.mp3"
+        },
+        {
+            "label": "brotherlouie",
+            "playerLabel": "brotherlouie",
+            "action": "audio:https://archive.org/download/modern-talking-ready-for-romance-the-3rd-album/01%20-%20Brother%20Louie.mp3"
+        }
+    ]
+ }
