@@ -4,12 +4,12 @@
     "template": {
        "layout": "0,0,2,2",
        "color": "msx-glass",
-       "icon": "feed",
        "iconSize": "medium"
     },
     "items": [
         {
             "label": "nytimes",
+            "icon": "feed",
             "action": "panel:data",
             "data": {
                 "type": "list",
@@ -35,6 +35,7 @@
         },
         {
             "label": "dailymail",
+            "icon": "feed",
             "action": "panel:data",
             "data": {
                 "type": "list",
@@ -60,6 +61,7 @@
         },
         {
             "label": "foxnews",
+            "icon": "feed",
             "action": "panel:data",
             "data": {
                 "type": "list",
@@ -85,6 +87,7 @@
         },
         {
             "label": "lequipe",
+            "icon": "feed",
             "action": "panel:data",
             "data": {
                 "type": "list",
@@ -110,6 +113,7 @@
         },
         {
             "label": "unnews",
+            "icon": "feed",
             "action": "panel:data",
             "data": {
                 "type": "list",
@@ -135,6 +139,7 @@
         },
         {
             "label": "thedaily",
+            "icon": "feed",
             "action": "panel:data",
             "data": {
                 "type": "list",
@@ -160,6 +165,7 @@
         },
         {
             "label": "theage",
+            "icon": "feed",
             "action": "panel:data",
             "data": {
                 "type": "list",
@@ -185,6 +191,7 @@
         },
         {
             "label": "smh",
+            "icon": "feed",
             "action": "panel:data",
             "data": {
                 "type": "list",
@@ -210,6 +217,7 @@
         },
         {
             "label": "crimejunkie",
+            "icon": "feed",
             "action": "panel:data",
             "data": {
                 "type": "list",
@@ -229,6 +237,32 @@
                         "label": "https",
                         "icon": "https",
                         "action": "content:request:interaction:https://feeds.simplecast.com/qm_9xx0g@https://msx.benzac.de/interaction/mrss.html"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "morefeed",
+            "icon": "dynamic-feed",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "morefeed",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:request:interaction:https://tinyurl.com/{INPUT}@http://msx.benzac.de/interaction/mrss.html&type=action|default|en|morefeed@http://msx.benzac.de/interaction/input.html"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:request:interaction:https://tinyurl.com/{INPUT}@https://msx.benzac.de/interaction/mrss.html&type=action|default|en|morefeed@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
