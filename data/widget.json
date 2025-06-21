@@ -282,6 +282,31 @@
                     }
                 ]
              }
+        },
+        {
+            "label": "youtube",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "youtube",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:http://yt.msx.benzac.de/services/content.php"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://yt.msx.benzac.de/services/content.php"
+                    }
+                ]
+             }
         }
     ]
  }
