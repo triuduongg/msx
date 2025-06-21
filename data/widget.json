@@ -9,31 +9,6 @@
     },
     "items": [
         {
-            "label": "action",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "action",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input={INPUT}&type=action|default|en|action@http://msx.benzac.de/interaction/input.html"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input={INPUT}&type=action|default|en|action@https://msx.benzac.de/interaction/input.html"
-                    }
-                ]
-             }
-        },
-        {
             "label": "launcher",
             "action": "panel:data",
             "data": {
