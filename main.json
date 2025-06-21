@@ -27,13 +27,13 @@
             },
             {
                 "icon": "live-tv",
-                "label": "m3u",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/m3u.json"
+                "label": "playlist",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/playlist.json"
             },
             {
                 "icon": "rss-feed",
-                "label": "mrss",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/mrss.json"
+                "label": "feed",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/feed.json"
             },
             {
                 "icon": "widgets",
