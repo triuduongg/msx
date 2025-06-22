@@ -23,12 +23,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=favorites&type=video&mode=extended-header&context=favorites"
+                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=favorites&mode=extended-header&context=favorites"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=favorites&type=video&mode=extended-header&context=favorites"
+                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=favorites&mode=extended-header&context=favorites"
                     }
                 ]
              }
@@ -49,12 +49,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=iptv-org&type=video&mode=extended-header&url=https://iptv-org.github.io/iptv/index.m3u"
+                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=iptv-org&mode=extended-header&url=https://iptv-org.github.io/iptv/index.m3u"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=iptv-org&type=video&mode=extended-header&url=https://iptv-org.github.io/iptv/index.m3u"
+                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=iptv-org&mode=extended-header&url=https://iptv-org.github.io/iptv/index.m3u"
                     }
                 ]
              }
@@ -75,12 +75,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=freetv.fun&type=video&mode=extended-header&url=https://freetv.fun/test_channels_all.m3u"
+                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=freetv.fun&mode=extended-header&url=https://freetv.fun/test_channels_all.m3u"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=freetv.fun&type=video&mode=extended-header&url=https://freetv.fun/test_channels_all.m3u"
+                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=freetv.fun&mode=extended-header&url=https://freetv.fun/test_channels_all.m3u"
                     }
                 ]
              }
@@ -101,12 +101,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=free-tv&type=video&mode=extended-header&url=https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
+                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=free-tv&mode=extended-header&url=https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=free-tv&type=video&mode=extended-header&url=https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
+                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=free-tv&mode=extended-header&url=https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
                     }
                 ]
              }
@@ -127,12 +127,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=i.mjh.nz&type=video&mode=extended-header&url=https://i.mjh.nz/all/raw.m3u8"
+                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=i.mjh.nz&mode=extended-header&url=https://i.mjh.nz/all/raw.m3u8"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=i.mjh.nz&type=video&mode=extended-header&url=https://i.mjh.nz/all/raw.m3u8"
+                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=i.mjh.nz&mode=extended-header&url=https://i.mjh.nz/all/raw.m3u8"
                     }
                 ]
              }
@@ -153,12 +153,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=m3upt&type=video&mode=extended-header&url=https://m3upt.com/iptv"
+                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=m3upt&mode=extended-header&url=https://m3upt.com/iptv"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=m3upt&type=video&mode=extended-header&url=https://m3upt.com/iptv"
+                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=m3upt&mode=extended-header&url=https://m3upt.com/iptv"
                     }
                 ]
              }
@@ -179,12 +179,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=inspirationlinks&type=video&mode=extended-header&url=https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/tv.m3u"
+                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=inspirationlinks&mode=extended-header&url=https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/tv.m3u"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=inspirationlinks&type=video&mode=extended-header&url=https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/tv.m3u"
+                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=inspirationlinks&mode=extended-header&url=https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/tv.m3u"
                     }
                 ]
              }
@@ -205,12 +205,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=yuechan&type=video&mode=extended-header&url=https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u"
+                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=yuechan&mode=extended-header&url=https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=yuechan&type=video&mode=extended-header&url=https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u"
+                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=yuechan&mode=extended-header&url=https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u"
                     }
                 ]
              }
@@ -231,12 +231,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=video%26mode=extended-header%26url=https://tinyurl.com/{INPUT}&type=action|default|en|m3ulist@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?mode=extended-header%26url=https://tinyurl.com/{INPUT}&type=action|default|en|m3ulist@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=video%26mode=extended-header%26url=https://tinyurl.com/{INPUT}&type=action|default|en|m3ulist@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?mode=extended-header%26url=https://tinyurl.com/{INPUT}&type=action|default|en|m3ulist@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
@@ -257,12 +257,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/pls.php?type=video%26mode=extended-header%26url=https://tinyurl.com/{INPUT}&type=action|default|en|plslist@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/pls.php?mode=extended-header%26url=https://tinyurl.com/{INPUT}&type=action|default|en|plslist@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/pls.php?type=video%26mode=extended-header%26url=https://tinyurl.com/{INPUT}&type=action|default|en|plslist@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/pls.php?mode=extended-header%26url=https://tinyurl.com/{INPUT}&type=action|default|en|plslist@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
