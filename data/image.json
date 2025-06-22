@@ -10,199 +10,57 @@
         {
             "label": "waterlilies",
             "icon": "image",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "waterlilies",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "playerLabel": "waterlilies",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/clevelandart-1960.81-water-lilies-agapant/1960.81_full.jpg"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/clevelandart-1960.81-water-lilies-agapant/1960.81_full.jpg"
-                    }
-                ]
-             }
+            "imageLabel": "waterlilies",
+            "action": "image:https://archive.org/download/clevelandart-1960.81-water-lilies-agapant/1960.81_full.jpg"
         },
         {
             "label": "gardenershouse",
             "icon": "image",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "gardenershouse",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "playerLabel": "gardenershouse",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/clevelandart-1916.1044-gardener-s-house-at/1916.1044_full.jpg"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/clevelandart-1916.1044-gardener-s-house-at/1916.1044_full.jpg"
-                    }
-                ]
-             }
+            "imageLabel": "gardenershouse",
+            "action": "image:https://archive.org/download/clevelandart-1916.1044-gardener-s-house-at/1916.1044_full.jpg"
         },
         {
             "label": "lowtide",
             "icon": "image",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "lowtide",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "playerLabel": "lowtide",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/clevelandart-1947.196-low-tide-at-pourvill/1947.196_full.jpg"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/clevelandart-1947.196-low-tide-at-pourvill/1947.196_full.jpg"
-                    }
-                ]
-             }
+            "imageLabel": "lowtide",
+            "action": "image:https://archive.org/download/clevelandart-1947.196-low-tide-at-pourvill/1947.196_full.jpg"
         },
         {
             "label": "largeplanetrees",
             "icon": "image",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "largeplanetrees",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "playerLabel": "largeplanetrees",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/clevelandart-1947.209-the-large-plane-tree/1947.209_full.jpg"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/clevelandart-1947.209-the-large-plane-tree/1947.209_full.jpg"
-                    }
-                ]
-             }
+            "imageLabel": "largeplanetrees",
+            "action": "image:https://archive.org/download/clevelandart-1947.209-the-large-plane-tree/1947.209_full.jpg"
         },
         {
             "label": "lanescapewithwheelbarrow",
             "icon": "image",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "lanescapewithwheelbarrow",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "playerLabel": "lanescapewithwheelbarrow",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/clevelandart-1958.30-landscape-with-wheel/1958.30_full.jpg"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/clevelandart-1958.30-landscape-with-wheel/1958.30_full.jpg"
-                    }
-                ]
-             }
+            "imageLabel": "lanescapewithwheelbarrow",
+            "action": "image:https://archive.org/download/clevelandart-1958.30-landscape-with-wheel/1958.30_full.jpg"
         },
         {
             "label": "cafewepler",
             "icon": "image",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "cafewepler",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "playerLabel": "cafewepler",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/clevelandart-1950.90-cafe-wepler/1950.90_full.jpg"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/clevelandart-1950.90-cafe-wepler/1950.90_full.jpg"
-                    }
-                ]
-             }
+            "imageLabel": "cafewepler",
+            "action": "image:https://archive.org/download/clevelandart-1950.90-cafe-wepler/1950.90_full.jpg"
         },
         {
             "label": "orchard",
             "icon": "image",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "orchard",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "playerLabel": "orchard",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/clevelandart-2020.120-orchard-le-verger/2020.120_full.jpg"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/clevelandart-2020.120-orchard-le-verger/2020.120_full.jpg"
-                    }
-                ]
-             }
+            "imageLabel": "orchard",
+            "action": "image:https://archive.org/download/clevelandart-2020.120-orchard-le-verger/2020.120_full.jpg"
         },
         {
-            "label": "imagevideo",
+            "label": "simpleimage",
+            "icon": "image-search",
+            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=image:https://tinyurl.com/{INPUT}&type=action|default|en|simpleimage@http://msx.benzac.de/interaction/input.html"
+        },
+        {
+            "label": "videoimage",
             "icon": "image-search",
             "action": "panel:data",
             "data": {
                 "type": "list",
-                "headline": "imagevideo",
+                "headline": "videoimage",
                 "template": {
                    "layout": "0,0,4,6",
                    "color": "msx-glass",
@@ -212,12 +70,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/image.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|imagevideo@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/image.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|videoimage@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/image.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|imagevideo@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/image.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|videoimage@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
