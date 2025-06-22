@@ -27,7 +27,7 @@
       {
          "action": "link:https://github.com/triuduongg/msx",
          "text": [
-            "{txt:msx-white:- iptv sources:}{br}",
+            "{txt:msx-white:- playlist sources:}{br}",
             "{txt:msx-white:- iptv-org: [https://github.com/iptv-org/iptv]}{br}",
             "{txt:msx-white:- freetv.fun: [https://epg.pw/test_channel_page.html?lang=en]}{br}",
             "{txt:msx-white:- free-tv: [https://github.com/Free-TV/IPTV]}{br}",
@@ -55,7 +55,7 @@
       {
          "action": "link:https://github.com/triuduongg/msx",
          "text": [
-            "{txt:msx-white:- [widget] is the section containing available utilities that the creator of this application has developed, details at [https://msx.benzac.de/info/?tab=Showcases].}{br}",
+            "{txt:msx-white:- [app] is the section containing available utilities that the creator of this application has developed, details at [https://msx.benzac.de/info/?tab=Showcases].}{br}",
             "{txt:msx-white:- You can create your own content easily if you know about the programming of this application. Experience it at [https://codepen.io/benzac-de].}{br}",
             "{txt:msx-white:- That's all the information I can give you about my content, take a look at [https://github.com/triuduongg/msx]. Thank you for using my content!}{br}"
          ]
