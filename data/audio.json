@@ -10,191 +10,49 @@
         {
             "label": "everytimewetouch",
             "icon": "audiotrack",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "everytimewetouch",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "playerLabel": "everytimewetouch",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "audio:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/EverytimeWeTouch_201701/01%20Everytime%20We%20Touch.mp3"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "audio:plugin:https://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/EverytimeWeTouch_201701/01%20Everytime%20We%20Touch.mp3"
-                    }
-                ]
-             }
+            "playerLabel": "everytimewetouch",
+            "action": "audio:https://archive.org/download/EverytimeWeTouch_201701/01%20Everytime%20We%20Touch.mp3"
         },
         {
             "label": "badboy",
             "icon": "audiotrack",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "badboy",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "playerLabel": "badboy",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "audio:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/EverytimeWeTouch_201701/03%20Bad%20Boy.mp3"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "audio:plugin:https://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/EverytimeWeTouch_201701/03%20Bad%20Boy.mp3"
-                    }
-                ]
-             }
+            "playerLabel": "badboy",
+            "action": "audio:https://archive.org/download/EverytimeWeTouch_201701/03%20Bad%20Boy.mp3"
         },
         {
             "label": "barbiegirl",
             "icon": "audiotrack",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "barbiegirl",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "playerLabel": "barbiegirl",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "audio:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/aqua-aquarium-1997-flac./03%20-%20Barbie%20Girl.mp3"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "audio:plugin:https://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/aqua-aquarium-1997-flac./03%20-%20Barbie%20Girl.mp3"
-                    }
-                ]
-             }
+            "playerLabel": "barbiegirl",
+            "action": "audio:https://archive.org/download/aqua-aquarium-1997-flac./03%20-%20Barbie%20Girl.mp3"
         },
         {
             "label": "butterfly",
             "icon": "audiotrack",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "butterfly",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "playerLabel": "butterfly",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "audio:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/smile_202104/Smile/01%20Butterfly.mp3"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "audio:plugin:https://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/smile_202104/Smile/01%20Butterfly.mp3"
-                    }
-                ]
-             }
+            "playerLabel": "butterfly",
+            "action": "audio:https://archive.org/download/smile_202104/Smile/01%20Butterfly.mp3"
         },
         {
             "label": "attention",
             "icon": "audiotrack",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "attention",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "playerLabel": "attention",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "audio:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/voicenotes_181105/02%20Attention.mp3"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "audio:plugin:https://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/voicenotes_181105/02%20Attention.mp3"
-                    }
-                ]
-             }
+            "playerLabel": "attention",
+            "action": "audio:https://archive.org/download/voicenotes_181105/02%20Attention.mp3"
         },
         {
             "label": "paradise",
             "icon": "audiotrack",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "paradise",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "playerLabel": "paradise",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "audio:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/03%20Paradise.mp3"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "audio:plugin:https://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/03%20Paradise.mp3"
-                    }
-                ]
-             }
+            "playerLabel": "paradise",
+            "action": "audio:https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/03%20Paradise.mp3"
         },
         {
             "label": "brotherlouie",
             "icon": "audiotrack",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "brotherlouie",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "playerLabel": "brotherlouie",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "audio:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/modern-talking-ready-for-romance-the-3rd-album/01%20-%20Brother%20Louie.mp3"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "audio:plugin:https://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/modern-talking-ready-for-romance-the-3rd-album/01%20-%20Brother%20Louie.mp3"
-                    }
-                ]
-             }
+            "playerLabel": "brotherlouie",
+            "action": "audio:https://archive.org/download/modern-talking-ready-for-romance-the-3rd-album/01%20-%20Brother%20Louie.mp3"
+        },
+        {
+            "label": "simpleaudio",
+            "icon": "audio-file",
+            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:https://tinyurl.com/{INPUT}&type=action|default|en|simpleaudio@http://msx.benzac.de/interaction/input.html"
         },
         {
             "label": "html5audio",
@@ -332,7 +190,7 @@
             "action": "panel:data",
             "data": {
                 "type": "list",
-                "headline": "videojsadio",
+                "headline": "videojsaudio",
                 "template": {
                    "layout": "0,0,4,6",
                    "color": "msx-glass",
@@ -348,6 +206,188 @@
                         "label": "https",
                         "icon": "https",
                         "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/videojs.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|videojsaudio@https://msx.benzac.de/interaction/input.html"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "youtubeaudio",
+            "icon": "audio-file",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "youtubeaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/youtube.html?id={INPUT}&type=action|default|en|youtubeaudio@http://msx.benzac.de/interaction/input.html"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/youtube.html?id={INPUT}&type=action|default|en|youtubeaudio@https://msx.benzac.de/interaction/input.html"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "vimeoaudio",
+            "icon": "audio-file",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "vimeoaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/vimeo.html?id={INPUT}&type=action|default|en|vimeoaudio@http://msx.benzac.de/interaction/input.html"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/vimeo.html?id={INPUT}&type=action|default|en|vimeoaudio@https://msx.benzac.de/interaction/input.html"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "dailymotionaudio",
+            "icon": "audio-file",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "dailymotionaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/dailymotion.html?id={INPUT}&type=action|default|en|dailymotionaudio@http://msx.benzac.de/interaction/input.html"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/dailymotion.html?id={INPUT}&type=action|default|en|dailymotionaudio@https://msx.benzac.de/interaction/input.html"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "twitchaudio",
+            "icon": "audio-file",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "twitchaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/twitch.html?id={INPUT}&type=action|default|en|twitchaudio@http://msx.benzac.de/interaction/input.html"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/twitch.html?id={INPUT}&type=action|default|en|twitchaudio@https://msx.benzac.de/interaction/input.html"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "facebookaudio",
+            "icon": "audio-file",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "facebookaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/facebook.html?id={INPUT}&type=action|default|en|facebookaudio@http://msx.benzac.de/interaction/input.html"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/facebook.html?id={INPUT}&type=action|default|en|facebookaudio@https://msx.benzac.de/interaction/input.html"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "wistiaaudio",
+            "icon": "audio-file",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "wistiaaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/wistia.html?id={INPUT}&type=action|default|en|wistiaaudio@http://msx.benzac.de/interaction/input.html"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/wistia.html?id={INPUT}&type=action|default|en|wistiaaudio@https://msx.benzac.de/interaction/input.html"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "soundcloudaudio",
+            "icon": "audio-file",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "soundcloudaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/soundcloud.html?id={INPUT}&type=action|default|en|soundcloudaudio@http://msx.benzac.de/interaction/input.html"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/soundcloud.html?id={INPUT}&type=action|default|en|soundcloudaudio@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
