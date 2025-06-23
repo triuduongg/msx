@@ -9,7 +9,7 @@
     "items": [
         {
             "label": "favorites",
-            "icon": "favorite",
+            "icon": "playlist-add-check",
             "action": "panel:data",
             "data": {
                 "type": "list",
