@@ -26,7 +26,7 @@
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/video.json"
             },
             {
-                "icon": "live-tv",
+                "icon": "featured-play-list",
                 "label": "playlist",
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/playlist.json"
             },
