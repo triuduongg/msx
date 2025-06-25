@@ -1,0 +1,23 @@
+{
+    "type": "list",
+    "headline": "web",
+    "template": {
+       "layout": "0,0,2,2",
+       "color": "msx-glass",
+       "iconSize": "medium"
+    },
+    "items": [
+        {
+            "label": "http",
+            "icon": "http",
+            "playerLabel": "http",
+            "action": "link:http://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json"
+        },
+        {
+            "label": "https",
+            "icon": "https",
+            "playerLabel": "https",
+            "action": "link:https://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json"
+        }
+    ]
+ }
