@@ -179,12 +179,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "link:https://msx.benzac.de/?start=menu:request:interaction:init@http://ttv.msx.benzac.de/interaction&leave=1"
+                        "action": "menu:request:interaction:init@http://ttv.msx.benzac.de/interaction"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "link:https://msx.benzac.de/?start=menu:request:interaction:init@https://ttv.msx.benzac.de/interaction&leave=1"
+                        "action": "menu:request:interaction:init@https://ttv.msx.benzac.de/interaction"
                     }
                 ]
              }
