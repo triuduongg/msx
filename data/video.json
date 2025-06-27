@@ -56,6 +56,36 @@
             "action": "video:https://archive.org/download/the-little-mermaid-ii-return-to-the-sea-2000-vhs/The%20Little%20Mermaid%20II%20Return%20To%20The%20Sea%20%282000%20VHS%29.ia.mp4"
         },
         {
+            "label": "mickeyschristmas",
+            "icon": "movie",
+            "playerLabel": "mickeyschristmas",
+            "action": "video:https://archive.org/download/mickeys-christmas/MICKEYS_CHRISTMAS.mp4"
+        },
+        {
+            "label": "timon&pumbaa",
+            "icon": "movie",
+            "playerLabel": "timon&pumbaa",
+            "action": "video:https://archive.org/download/6705AS/Timon%20%26%20Pumbaa%27s%20Wild%20Adventures.mp4"
+        },
+        {
+            "label": "hunchbackofnotredame2",
+            "icon": "movie",
+            "playerLabel": "hunchbackofnotredame2",
+            "action": "video:https://archive.org/download/2022-09-04-19-19-23/2022-09-04%2019-19-23.mp4"
+        },
+        {
+            "label": "treasureplanet",
+            "icon": "movie",
+            "playerLabel": "treasureplanet",
+            "action": "video:https://archive.org/download/2002-treasure-planet/2002%20-%20Treasure%20Planet.mp4"
+        },
+        {
+            "label": "melodytime",
+            "icon": "movie",
+            "playerLabel": "melodytime",
+            "action": "video:https://archive.org/download/melody-time-1948/Melody%20Time%20%281948%29.ia.mp4"
+        },
+        {
             "label": "simplevideo",
             "icon": "movie-edit",
             "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:https://tinyurl.com/{INPUT}&type=action|default|en|simplevideo@http://msx.benzac.de/interaction/input.html"
