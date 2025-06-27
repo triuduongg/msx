@@ -38,6 +38,24 @@
             "action": "video:https://archive.org/download/tigger-movie/TiggerMovie.mp4"
         },
         {
+            "label": "oliver&company",
+            "icon": "movie",
+            "playerLabel": "oliver&company",
+            "action": "video:https://archive.org/download/oliver-company-2002-thx-vhs/Oliver%20%26%20Company%20%282002%20THX%20VHS%29.ia.mp4"
+        },
+        {
+            "label": "ichabod&mrtoad",
+            "icon": "movie",
+            "playerLabel": "ichabod&mrtoad",
+            "action": "video:https://archive.org/download/1539AS/The%20Adventures%20of%20Ichabod%20and%20Mr.%20Toad.mp4"
+        },
+        {
+            "label": "littlemermaid2",
+            "icon": "movie",
+            "playerLabel": "littlemermaid2",
+            "action": "video:https://archive.org/download/the-little-mermaid-ii-return-to-the-sea-2000-vhs/The%20Little%20Mermaid%20II%20Return%20To%20The%20Sea%20%282000%20VHS%29.ia.mp4"
+        },
+        {
             "label": "simplevideo",
             "icon": "movie-edit",
             "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:https://tinyurl.com/{INPUT}&type=action|default|en|simplevideo@http://msx.benzac.de/interaction/input.html"
