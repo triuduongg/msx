@@ -86,6 +86,18 @@
             "action": "video:https://archive.org/download/melody-time-1948/Melody%20Time%20%281948%29.ia.mp4"
         },
         {
+            "label": "robinhood",
+            "icon": "movie",
+            "playerLabel": "robinhood",
+            "action": "video:https://archive.org/download/robin-hood-1986-vhs/Robin%20Hood%20%281986%20VHS%29.ia.mp4"
+        },
+        {
+            "label": "101dalmatians",
+            "icon": "movie",
+            "playerLabel": "101dalmatians",
+            "action": "video:https://archive.org/download/one-hundred-one-dalmatians/One%20Hundred%20%26%20One%20Dalmatians.mp4"
+        },
+        {
             "label": "simplevideo",
             "icon": "movie-edit",
             "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:https://tinyurl.com/{INPUT}&type=action|default|en|simplevideo@http://msx.benzac.de/interaction/input.html"
