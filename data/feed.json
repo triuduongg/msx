@@ -257,12 +257,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:request:interaction:https://tinyurl.com/{INPUT}%40http://msx.benzac.de/interaction/mrss.html&type=action|default|en|mrssfeed@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:request:interaction:https://tg.pe/{INPUT}%40http://msx.benzac.de/interaction/mrss.html&type=action|default|en|mrssfeed@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:request:interaction:https://tinyurl.com/{INPUT}%40https://msx.benzac.de/interaction/mrss.html&type=action|default|en|mrssfeed@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:request:interaction:https://tg.pe/{INPUT}%40https://msx.benzac.de/interaction/mrss.html&type=action|default|en|mrssfeed@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
