@@ -8,46 +8,94 @@
     },
     "items": [
         {
-            "label": "everytimewetouch",
+            "label": "heroestonight",
             "icon": "audiotrack",
-            "playerLabel": "everytimewetouch",
-            "action": "audio:https://archive.org/download/EverytimeWeTouch_201701/01%20Everytime%20We%20Touch.mp3"
+            "playerLabel": "heroestonight",
+            "action": "audio:https://archive.org/download/soundcloud-209579854/Janji_-_Heroes_Tonight_feat._Johnning_NCS_Release-209579854.mp3"
         },
         {
-            "label": "badboy",
+            "label": "skyhigh",
             "icon": "audiotrack",
-            "playerLabel": "badboy",
-            "action": "audio:https://archive.org/download/EverytimeWeTouch_201701/03%20Bad%20Boy.mp3"
+            "playerLabel": "skyhigh",
+            "action": "audio:https://archive.org/download/soundcloud-300693150/Elektronomia_-_Sky_High_NCS_Release-300693150.mp3"
         },
         {
-            "label": "barbiegirl",
+            "label": "heartafire",
             "icon": "audiotrack",
-            "playerLabel": "barbiegirl",
-            "action": "audio:https://archive.org/download/aqua-aquarium-1997-flac./03%20-%20Barbie%20Girl.mp3"
+            "playerLabel": "heartafire",
+            "action": "audio:https://archive.org/download/DefqwopHeartAfirefeat.StrixNCSRelease/Defqwop%20-%20Heart%20Afire%20%28feat.%20Strix%29%20%5BNCS%20Release%5D.mp3"
         },
         {
-            "label": "butterfly",
+            "label": "on&on",
             "icon": "audiotrack",
-            "playerLabel": "butterfly",
-            "action": "audio:https://archive.org/download/smile_202104/Smile/01%20Butterfly.mp3"
+            "playerLabel": "on&on",
+            "action": "audio:https://archive.org/download/soundcloud-245224505/245224505.mp3"
         },
         {
-            "label": "attention",
+            "label": "myheart",
             "icon": "audiotrack",
-            "playerLabel": "attention",
-            "action": "audio:https://archive.org/download/voicenotes_181105/02%20Attention.mp3"
+            "playerLabel": "myheart",
+            "action": "audio:https://archive.org/download/soundcloud-231896138/My_Heart_NCS-231896138.mp3"
         },
         {
-            "label": "paradise",
+            "label": "whywelose",
             "icon": "audiotrack",
-            "playerLabel": "paradise",
-            "action": "audio:https://archive.org/download/04-charlie-brown/Mylo%20Xyloto/03%20Paradise.mp3"
+            "playerLabel": "whywelose",
+            "action": "audio:https://archive.org/download/soundcloud-210195404/210195404.mp3"
         },
         {
-            "label": "brotherlouie",
+            "label": "fearless2",
             "icon": "audiotrack",
-            "playerLabel": "brotherlouie",
-            "action": "audio:https://archive.org/download/modern-talking-ready-for-romance-the-3rd-album/01%20-%20Brother%20Louie.mp3"
+            "playerLabel": "fearless2",
+            "action": "audio:https://archive.org/download/soundcloud-375365648/375365648.mp3"
+        },
+        {
+            "label": "shine",
+            "icon": "audiotrack",
+            "playerLabel": "shine",
+            "action": "audio:https://archive.org/download/SpektremShineNCSRelease_201612/Spektrem%20-%20Shine%20%5BNCS%20Release%5D.mp3"
+        },
+        {
+            "label": "invisible",
+            "icon": "audiotrack",
+            "playerLabel": "invisible",
+            "action": "audio:https://archive.org/download/soundcloud-592872405/592872405.mp3"
+        },
+        {
+            "label": "saygoodbye",
+            "icon": "audiotrack",
+            "playerLabel": "saygoodbye",
+            "action": "audio:https://archive.org/download/soundcloud-710274121/710274121.mp3"
+        },
+        {
+            "label": "superhero",
+            "icon": "audiotrack",
+            "playerLabel": "superhero",
+            "action": "audio:https://archive.org/download/soundcloud-294880565/Unknown_Brain_-_Superhero_feat._Chris_Linton_NCS_Release-294880565.mp3"
+        },
+        {
+            "label": "cradles",
+            "icon": "audiotrack",
+            "playerLabel": "cradles",
+            "action": "audio:https://archive.org/download/soundcloud-554484609/554484609.mp3"
+        },
+        {
+            "label": "feelgood",
+            "icon": "audiotrack",
+            "playerLabel": "feelgood",
+            "action": "audio:https://archive.org/download/soundcloud-317700011/317700011.mp3"
+        },
+        {
+            "label": "lightitup",
+            "icon": "audiotrack",
+            "playerLabel": "lightitup",
+            "action": "audio:https://archive.org/download/soundcloud-484120113/Robin_Hustin_x_Tobimorrow_-_Light_It_Up_feat._Jex_NCS_Release-484120113.mp3"
+        },
+        {
+            "label": "dreams2",
+            "icon": "audiotrack",
+            "playerLabel": "dreams2",
+            "action": "audio:https://archive.org/download/soundcloud-549905559/Lost_Sky_-_Dreams_pt.II_feat._Sara_Skinner_NCS_Release-549905559.mp3"
         },
         {
             "label": "simpleaudio",
