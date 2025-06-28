@@ -100,7 +100,7 @@
         {
             "label": "simplevideo",
             "icon": "movie-edit",
-            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:https://tg.pe/{INPUT}&type=action|default|en|simplevideo@http://msx.benzac.de/interaction/input.html"
+            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:https://{INPUT}&type=action|default|en|simplevideo@http://msx.benzac.de/interaction/input.html"
         },
         {
             "label": "html5video",
@@ -118,12 +118,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://tg.pe/{INPUT}&type=action|default|en|html5video@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://{INPUT}&type=action|default|en|html5video@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://tg.pe/{INPUT}&type=action|default|en|html5video@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://{INPUT}&type=action|default|en|html5video@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
@@ -144,12 +144,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/dash.html?url=https://tg.pe/{INPUT}&type=action|default|en|dashvideo@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/dash.html?url=https://{INPUT}&type=action|default|en|dashvideo@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/dash.html?url=https://tg.pe/{INPUT}&type=action|default|en|dashvideo@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/dash.html?url=https://{INPUT}&type=action|default|en|dashvideo@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
@@ -170,12 +170,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/shaka.html?url=https://tg.pe/{INPUT}&type=action|default|en|shakavideo@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/shaka.html?url=https://{INPUT}&type=action|default|en|shakavideo@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/shaka.html?url=https://tg.pe/{INPUT}&type=action|default|en|shakavideo@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/shaka.html?url=https://{INPUT}&type=action|default|en|shakavideo@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
@@ -196,12 +196,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/has.html?url=https://tg.pe/{INPUT}&type=action|default|en|hasvideo@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/has.html?url=https://{INPUT}&type=action|default|en|hasvideo@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/has.html?url=https://tg.pe/{INPUT}&type=action|default|en|hasvideo@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/has.html?url=https://{INPUT}&type=action|default|en|hasvideo@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
@@ -222,12 +222,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://tg.pe/{INPUT}&type=action|default|en|hlsvideo@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://{INPUT}&type=action|default|en|hlsvideo@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://tg.pe/{INPUT}&type=action|default|en|hlsvideo@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://{INPUT}&type=action|default|en|hlsvideo@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
@@ -248,12 +248,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/videojs.html?url=https://tg.pe/{INPUT}&type=action|default|en|videojsvideo@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/videojs.html?url=https://{INPUT}&type=action|default|en|videojsvideo@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/videojs.html?url=https://tg.pe/{INPUT}&type=action|default|en|videojsvideo@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/videojs.html?url=https://{INPUT}&type=action|default|en|videojsvideo@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
@@ -456,12 +456,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://tg.pe/{INPUT}&type=action|default|en|html5xvideo@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://{INPUT}&type=action|default|en|html5xvideo@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/html5x.html?url=https://tg.pe/{INPUT}&type=action|default|en|html5xvideo@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/html5x.html?url=https://{INPUT}&type=action|default|en|html5xvideo@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
