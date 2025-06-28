@@ -52,7 +52,7 @@
         {
             "label": "simpleimage",
             "icon": "image-search",
-            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=image:https://tg.pe/{INPUT}&type=action|default|en|simpleimage@http://msx.benzac.de/interaction/input.html"
+            "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=image:https://{INPUT}&type=action|default|en|simpleimage@http://msx.benzac.de/interaction/input.html"
         },
         {
             "label": "videoimage",
@@ -70,12 +70,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/image.html?url=https://tg.pe/{INPUT}&type=action|default|en|videoimage@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/image.html?url=https://{INPUT}&type=action|default|en|videoimage@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/image.html?url=https://tg.pe/{INPUT}&type=action|default|en|videoimage@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/image.html?url=https://{INPUT}&type=action|default|en|videoimage@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
