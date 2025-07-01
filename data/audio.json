@@ -11,91 +11,97 @@
             "label": "heroestonight",
             "icon": "audiotrack",
             "playerLabel": "heroestonight",
-            "action": "audio:https://archive.org/download/soundcloud-209579854/Janji_-_Heroes_Tonight_feat._Johnning_NCS_Release-209579854.mp3"
+            "action": "audio:https://ncs.io/track/download/2ede9de2-8386-4210-b2a0-b36d731c8a4e"
         },
         {
             "label": "skyhigh",
             "icon": "audiotrack",
             "playerLabel": "skyhigh",
-            "action": "audio:https://archive.org/download/soundcloud-300693150/Elektronomia_-_Sky_High_NCS_Release-300693150.mp3"
+            "action": "audio:https://ncs.io/track/download/6d744632-0472-463c-8a13-da071971fbdf"
         },
         {
-            "label": "heartafire",
+            "label": "mortals",
             "icon": "audiotrack",
-            "playerLabel": "heartafire",
-            "action": "audio:https://archive.org/download/DefqwopHeartAfirefeat.StrixNCSRelease/Defqwop%20-%20Heart%20Afire%20%28feat.%20Strix%29%20%5BNCS%20Release%5D.mp3"
+            "playerLabel": "mortals",
+            "action": "audio:https://ncs.io/track/download/784a2ccc-5ace-48d1-8af1-9da55c383960"
         },
         {
-            "label": "on&on",
+            "label": "makememove",
             "icon": "audiotrack",
-            "playerLabel": "on&on",
-            "action": "audio:https://archive.org/download/soundcloud-245224505/245224505.mp3"
+            "playerLabel": "makememove",
+            "action": "audio:https://ncs.io/track/download/00475073-2e06-4c49-bbd8-e1c1797d5697"
         },
         {
             "label": "myheart",
             "icon": "audiotrack",
             "playerLabel": "myheart",
-            "action": "audio:https://archive.org/download/soundcloud-231896138/My_Heart_NCS-231896138.mp3"
+            "action": "audio:https://ncs.io/track/download/db1bcfe4-1999-4b5e-879c-2d21b3456285"
         },
         {
             "label": "whywelose",
             "icon": "audiotrack",
             "playerLabel": "whywelose",
-            "action": "audio:https://archive.org/download/soundcloud-210195404/210195404.mp3"
+            "action": "audio:https://ncs.io/track/download/84a06f66-d649-4224-b3a3-d35857fcf752"
         },
         {
             "label": "fearless2",
             "icon": "audiotrack",
             "playerLabel": "fearless2",
-            "action": "audio:https://archive.org/download/soundcloud-375365648/375365648.mp3"
+            "action": "audio:https://ncs.io/track/download/ef6f5144-a8fc-4c3b-9641-bc385832b847"
         },
         {
             "label": "shine",
             "icon": "audiotrack",
             "playerLabel": "shine",
-            "action": "audio:https://archive.org/download/SpektremShineNCSRelease_201612/Spektrem%20-%20Shine%20%5BNCS%20Release%5D.mp3"
+            "action": "audio:https://ncs.io/track/download/ba50e6b1-19de-4b9a-9c91-d63a3fa105cb"
         },
         {
             "label": "invisible",
             "icon": "audiotrack",
             "playerLabel": "invisible",
-            "action": "audio:https://archive.org/download/soundcloud-592872405/592872405.mp3"
+            "action": "audio:https://ncs.io/track/download/385c76af-4cd7-4442-ba26-02570d5efa91"
         },
         {
             "label": "saygoodbye",
             "icon": "audiotrack",
             "playerLabel": "saygoodbye",
-            "action": "audio:https://archive.org/download/soundcloud-710274121/710274121.mp3"
+            "action": "audio:https://ncs.io/track/download/27b305f1-6f79-47a1-a929-5a3c72658509"
         },
         {
             "label": "superhero",
             "icon": "audiotrack",
             "playerLabel": "superhero",
-            "action": "audio:https://archive.org/download/soundcloud-294880565/Unknown_Brain_-_Superhero_feat._Chris_Linton_NCS_Release-294880565.mp3"
+            "action": "audio:https://ncs.io/track/download/56facf61-7e12-46ed-a219-a01eedb08ea6"
         },
         {
             "label": "cradles",
             "icon": "audiotrack",
             "playerLabel": "cradles",
-            "action": "audio:https://archive.org/download/soundcloud-554484609/554484609.mp3"
+            "action": "audio:https://ncs.io/track/download/87079052-d78a-4f77-bbdf-b6224d9db645"
         },
         {
             "label": "feelgood",
             "icon": "audiotrack",
             "playerLabel": "feelgood",
-            "action": "audio:https://archive.org/download/soundcloud-317700011/317700011.mp3"
+            "action": "audio:https://ncs.io/track/download/be608f27-74a5-4785-9a7d-192fdaf0dd4e"
         },
         {
             "label": "lightitup",
             "icon": "audiotrack",
             "playerLabel": "lightitup",
-            "action": "audio:https://archive.org/download/soundcloud-484120113/Robin_Hustin_x_Tobimorrow_-_Light_It_Up_feat._Jex_NCS_Release-484120113.mp3"
+            "action": "audio:https://ncs.io/track/download/0a76f43d-a31d-4a84-b446-641c15dc9f24"
         },
         {
             "label": "dreams2",
             "icon": "audiotrack",
             "playerLabel": "dreams2",
-            "action": "audio:https://archive.org/download/soundcloud-549905559/Lost_Sky_-_Dreams_pt.II_feat._Sara_Skinner_NCS_Release-549905559.mp3"
+            "action": "audio:https://ncs.io/track/download/f603d043-7f49-4d0b-bcf7-b6f7e045cb08"
+        },
+        {
+            "label": "invincible",
+            "icon": "audiotrack",
+            "playerLabel": "invincible",
+            "action": "audio:https://ncs.io/track/download/817ec1ef-bac0-4c8a-9671-857fdd13cfa9"
         },
         {
             "label": "simpleaudio",
