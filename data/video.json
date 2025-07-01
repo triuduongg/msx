@@ -8,94 +8,100 @@
     },
     "items": [
         {
-            "label": "peterpan",
+            "label": "elephantsdream",
             "icon": "movie",
-            "playerLabel": "peterpan",
-            "action": "video:https://archive.org/download/peter-pan-2002-vhs-full-rip-60fps/peter%20pan%202002%20vhs%20full%20rip%2060fps.ia.mp4"
+            "playerLabel": "elephantsdream",
+            "action": "video:https://video.blender.org/download/web-videos/cccc3e60-0291-4ecc-aa56-39b2e2c7d0d5-720.mp4"
         },
         {
-            "label": "bugslife",
+            "label": "bigbuckbunny",
             "icon": "movie",
-            "playerLabel": "bugslife",
-            "action": "video:https://archive.org/download/a-bugs-life-1998-uk-vhs/A%20Bug%27s%20Life%20%281998%20UK%20VHS%29.ia.mp4"
+            "playerLabel": "bigbuckbunny",
+            "action": "video:https://video.blender.org/download/web-videos/6402b77c-b61f-4a06-96ca-c8420a2becf4-1080.mp4"
         },
         {
-            "label": "fox&hound",
+            "label": "sintel",
             "icon": "movie",
-            "playerLabel": "fox&hound",
-            "action": "video:https://archive.org/download/the-fox-and-he-hound-1994-vhs/The%20Fox%20and%20he%20Hound%20%281994%20VHS%29.mp4"
+            "playerLabel": "sintel",
+            "action": "video:https://video.blender.org/download/web-videos/0eb052d0-fd51-43e6-aa33-ecdbf77a5d40-818.mp4"
         },
         {
-            "label": "snowwhite&7dwarfs",
+            "label": "tearsofsteel",
             "icon": "movie",
-            "playerLabel": "snowwhite&7dwarfs",
-            "action": "video:https://archive.org/download/snow-white-and-the-seven-dwarfs-1994-vhs/Snow%20White%20and%20the%20Seven%20Dwarfs%20%281994%20VHS%29.mp4"
+            "playerLabel": "tearsofsteel",
+            "action": "video:https://video.blender.org/download/web-videos/8533ea43-4271-4a57-9694-e9d0b35e1aa1-800.mp4"
         },
         {
-            "label": "tiggermovie",
+            "label": "caminandes2",
             "icon": "movie",
-            "playerLabel": "tiggermovie",
-            "action": "video:https://archive.org/download/tigger-movie/TiggerMovie.mp4"
+            "playerLabel": "caminandes2",
+            "action": "video:https://video.blender.org/download/web-videos/fb70d459-48d2-4db5-adba-813c84f9200a-1080.mp4"
         },
         {
-            "label": "oliver&company",
+            "label": "caminandes3",
             "icon": "movie",
-            "playerLabel": "oliver&company",
-            "action": "video:https://archive.org/download/oliver-company-2002-thx-vhs/Oliver%20%26%20Company%20%282002%20THX%20VHS%29.ia.mp4"
+            "playerLabel": "caminandes3",
+            "action": "video:https://video.blender.org/download/web-videos/23f3ef79-15dc-44c5-aa45-cf92e78a4509-1080.mp4"
         },
         {
-            "label": "ichabod&mrtoad",
+            "label": "cosmoslaundromat",
             "icon": "movie",
-            "playerLabel": "ichabod&mrtoad",
-            "action": "video:https://archive.org/download/1539AS/The%20Adventures%20of%20Ichabod%20and%20Mr.%20Toad.mp4"
+            "playerLabel": "cosmoslaundromat",
+            "action": "video:https://video.blender.org/download/web-videos/f507dfdc-e73e-45a4-9778-d758cbe1ce96-804.mp4"
         },
         {
-            "label": "littlemermaid2",
+            "label": "glasshalf",
             "icon": "movie",
-            "playerLabel": "littlemermaid2",
-            "action": "video:https://archive.org/download/the-little-mermaid-ii-return-to-the-sea-2000-vhs/The%20Little%20Mermaid%20II%20Return%20To%20The%20Sea%20%282000%20VHS%29.ia.mp4"
+            "playerLabel": "glasshalf",
+            "action": "video:https://video.blender.org/download/web-videos/64222c8a-c4c7-4b3b-9850-7fb2078edcf6-1080.mp4"
         },
         {
-            "label": "mickeyschristmas",
+            "label": "agent327",
             "icon": "movie",
-            "playerLabel": "mickeyschristmas",
-            "action": "video:https://archive.org/download/mickeys-christmas/MICKEYS_CHRISTMAS.mp4"
+            "playerLabel": "agent327",
+            "action": "video:https://video.blender.org/download/web-videos/264ff760-803e-430e-8d81-15648e904183-804.mp4"
         },
         {
-            "label": "timon&pumbaa",
+            "label": "dailydweebs",
             "icon": "movie",
-            "playerLabel": "timon&pumbaa",
-            "action": "video:https://archive.org/download/6705AS/Timon%20%26%20Pumbaa%27s%20Wild%20Adventures.mp4"
+            "playerLabel": "dailydweebs",
+            "action": "video:https://video.blender.org/download/web-videos/7b2eff2a-35f2-4403-9d88-d0dd6e4b5ba1-1080.mp4"
         },
         {
-            "label": "hunchbackofnotredame2",
+            "label": "spring",
             "icon": "movie",
-            "playerLabel": "hunchbackofnotredame2",
-            "action": "video:https://archive.org/download/2022-09-04-19-19-23/2022-09-04%2019-19-23.mp4"
+            "playerLabel": "spring",
+            "action": "video:https://video.blender.org/download/web-videos/3d95fb3d-c866-42c8-9db1-fe82f48ccb95-804.mp4"
         },
         {
-            "label": "treasureplanet",
+            "label": "coffeerun",
             "icon": "movie",
-            "playerLabel": "treasureplanet",
-            "action": "video:https://archive.org/download/2002-treasure-planet/2002%20-%20Treasure%20Planet.mp4"
+            "playerLabel": "coffeerun",
+            "action": "video:https://video.blender.org/download/web-videos/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1-804.mp4"
         },
         {
-            "label": "melodytime",
+            "label": "coffeerun",
             "icon": "movie",
-            "playerLabel": "melodytime",
-            "action": "video:https://archive.org/download/melody-time-1948/Melody%20Time%20%281948%29.ia.mp4"
+            "playerLabel": "coffeerun",
+            "action": "video:https://video.blender.org/download/web-videos/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1-804.mp4"
         },
         {
-            "label": "robinhood",
+            "label": "spritefright",
             "icon": "movie",
-            "playerLabel": "robinhood",
-            "action": "video:https://archive.org/download/robin-hood-1986-vhs/Robin%20Hood%20%281986%20VHS%29.ia.mp4"
+            "playerLabel": "spritefright",
+            "action": "video:https://video.blender.org/download/web-videos/a69d68a5-a0e0-4a80-9d66-49f093c97aaf-804.mp4"
         },
         {
-            "label": "101dalmatians",
+            "label": "charge",
             "icon": "movie",
-            "playerLabel": "101dalmatians",
-            "action": "video:https://archive.org/download/one-hundred-one-dalmatians/One%20Hundred%20%26%20One%20Dalmatians.mp4"
+            "playerLabel": "charge",
+            "action": "video:https://video.blender.org/download/web-videos/04da454b-9893-4184-98f3-248d00625efe-1608.mp4"
+        },
+        {
+            "label": "wingit",
+            "icon": "movie",
+            "playerLabel": "wingit",
+            "action": "video:https://video.blender.org/download/web-videos/ee623d80-fd8d-4a2a-8aae-1f5acf796f27-1080.mp4"
         },
         {
             "label": "simplevideo",
