@@ -33,6 +33,16 @@
             "action": "link:https://icva.mx"
         },
         {
+            "label": "filmix",
+            "icon": "link",
+            "action": "link:https://filmix.tv/"
+        },
+        {
+            "label": "akterblack",
+            "icon": "link",
+            "action": "link:https://abmsx.tech/"
+        },
+        {
             "label": "simplelink",
             "icon": "add-link",
             "action": "panel:data",
