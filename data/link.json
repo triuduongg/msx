@@ -13,11 +13,6 @@
             "action": "link:https://www.youtube.com/tv"
         },
         {
-            "label": "google",
-            "icon": "link",
-            "action": "link:https://www.google.com"
-        },
-        {
             "label": "simplelink",
             "icon": "add-link",
             "action": "panel:data",
