@@ -19,45 +19,8 @@
             "{txt:msx-white:- Amazon Appstore: [https://www.amazon.com/benzac-de-Media-Station-X/dp/B078TL932D]}{br}",
             "{txt:msx-white:- The application is available on phones, computers, and televisions}{br}",
             "{txt:msx-white:- Setting -> start parameter: [id:bly:triuduonggmsx]}{br}",
-            "{txt:msx-white:- The first 3 items are [image], [audio], [video] taken from [archive.org], [https://archive.org/details/@tr_u_d_ngg/lists/1/triuduongg-media-station-x], and players that support media as shortened link codes from [tinyurl.com].}{br}",
-            "{txt:msx-white:- The next 3 items are [playlist], [feed], [app] which are 3 items to watch TV channels from m3u or m3u8 sources, update information from the feeds, access integrated applications and can be added from other sources as shortened link codes from [tinyurl.com].}{br}",
+            "{txt:msx-white:- All menus are provided with available media and link play tools with shortened link codes using [tinyurl.com] or media codes of integrated social networks.}{br}",
             "{txt:msx-white:- The two prefixes http and https contain the same media. Because some devices can use the http prefix, but some can use the https prefix and others can use both. To know which prefix your device can use, the only way is to try both. The prefix here only applies to the application service (msx.benzac.de).}{br}"
-         ]
-      },
-      {
-         "action": "link:https://github.com/triuduongg/msx",
-         "text": [
-            "{txt:msx-white:- playlist sources:}{br}",
-            "{txt:msx-white:- iptv-org: [https://github.com/iptv-org/iptv]}{br}",
-            "{txt:msx-white:- freetv.fun: [https://epg.pw/test_channel_page.html?lang=en]}{br}",
-            "{txt:msx-white:- free-tv: [https://github.com/Free-TV/IPTV]}{br}",
-            "{txt:msx-white:- i.mjh.nz: [https://i.mjh.nz/]}{br}",
-            "{txt:msx-white:- m3upt: [https://github.com/LITUATUI/M3UPT]}{br}",
-            "{txt:msx-white:- inspiration: [https://github.com/inspirationlinks/m3u]}{br}",
-            "{txt:msx-white:- yuechan: [https://github.com/YueChan/Live]}{br}"
-         ]
-      },
-      {
-         "action": "link:https://github.com/triuduongg/msx",
-         "text": [
-            "{txt:msx-white:- feeds sources:}{br}",
-            "{txt:msx-white:- nytimes: [https://www.nytimes.com/rss]}{br}",
-            "{txt:msx-white:- dailymail: [https://www.dailymail.co.uk/home/rssMenu.html]}{br}",
-            "{txt:msx-white:- foxnews: [https://www.foxnews.com/story/foxnews-com-rss-feeds]}{br}",
-            "{txt:msx-white:- lequipe: [https://www.lequipe.fr/Tous-sports/Actualites/Les-flux-rss-de-l-equipe/1299546]}{br}",
-            "{txt:msx-white:- unnews: [https://news.un.org/en/rss-feeds]}{br}",
-            "{txt:msx-white:- thedaily: [https://www.nytimes.com/column/the-daily]}{br}",
-            "{txt:msx-white:- theage: [https://www.theage.com.au/rssheadlines]}{br}",
-            "{txt:msx-white:- smh: [https://www.smh.com.au/rssheadlines]}{br}",
-            "{txt:msx-white:- crimejunkie: [https://crimejunkiepodcast.com/]}{br}"
-         ]
-      },
-      {
-         "action": "link:https://github.com/triuduongg/msx",
-         "text": [
-            "{txt:msx-white:- [app] is the section containing available utilities that the creator of this application has developed, details at [https://msx.benzac.de/info/?tab=Showcases].}{br}",
-            "{txt:msx-white:- You can create your own content easily if you know about the programming of this application. Experience it at [https://codepen.io/benzac-de].}{br}",
-            "{txt:msx-white:- That's all the information I can give you about my content, take a look at [https://github.com/triuduongg/msx]. Thank you for using my content!}{br}"
          ]
       }
    ]
