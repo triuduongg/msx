@@ -41,6 +41,11 @@
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/app.json"
             },
             {
+                "icon": "dataset-linked",
+                "label": "link",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/link.json"
+            },
+            {
                 "icon": "web",
                 "label": "web",
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/web.json"
