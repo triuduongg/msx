@@ -13,6 +13,11 @@
             "action": "link:https://www.youtube.com/tv"
         },
         {
+            "label": "stremio",
+            "icon": "link",
+            "action": "link:https://tv.strem.io"
+        },
+        {
             "label": "simplelink",
             "icon": "add-link",
             "action": "panel:data",
