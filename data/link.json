@@ -18,6 +18,11 @@
             "action": "link:https://tv.strem.io"
         },
         {
+            "label": "lampa",
+            "icon": "link",
+            "action": "link:http://lampa.mx"
+        },
+        {
             "label": "simplelink",
             "icon": "add-link",
             "action": "panel:data",
