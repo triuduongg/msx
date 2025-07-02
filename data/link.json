@@ -23,6 +23,16 @@
             "action": "link:http://lampa.mx"
         },
         {
+            "label": "prisma",
+            "icon": "link",
+            "action": "link:https://prisma.ws"
+        },
+        {
+            "label": "icva",
+            "icon": "link",
+            "action": "link:https://icva.mx"
+        },
+        {
             "label": "simplelink",
             "icon": "add-link",
             "action": "panel:data",
