@@ -1,0 +1,47 @@
+{
+    "type": "list",
+    "headline": "link",
+    "template": {
+       "layout": "0,0,2,2",
+       "color": "msx-glass",
+       "iconSize": "medium"
+    },
+    "items": [
+        {
+            "label": "youtube",
+            "icon": "link",
+            "action": "link:https://www.youtube.com/"
+        },
+        {
+            "label": "google",
+            "icon": "link",
+            "action": "link:https://www.google.com"
+        },
+        {
+            "label": "accesslink",
+            "icon": "add-link",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "accesslink",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=link:https://tinyurl.com/{INPUT}&type=action|default|en|accesslink@http://msx.benzac.de/interaction/input.html"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=link:https://tinyurl.com/{INPUT}&type=action|default|en|accesslink@https://msx.benzac.de/interaction/input.html"
+                    }
+                ]
+             }
+        }
+    ]
+ }
