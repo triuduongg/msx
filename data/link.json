@@ -10,7 +10,7 @@
         {
             "label": "youtube",
             "icon": "link",
-            "action": "link:https://www.youtube.com/"
+            "action": "link:https://www.youtube.com/tv"
         },
         {
             "label": "google",
