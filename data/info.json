@@ -20,7 +20,9 @@
             "{txt:msx-white:- The application is available on phones, computers, and televisions}{br}",
             "{txt:msx-white:- Setting -> start parameter: [id:bly:triuduonggmsx]}{br}",
             "{txt:msx-white:- All menus are provided with available media and link play tools with shortened link codes using [tinyurl.com] or media codes of integrated social networks.}{br}",
-            "{txt:msx-white:- The two prefixes http and https contain the same media. Because some devices can use the http prefix, but some can use the https prefix and others can use both. To know which prefix your device can use, the only way is to try both. The prefix here only applies to the application service (msx.benzac.de).}{br}"
+            "{txt:msx-white:- The two prefixes http and https contain the same media. Because some devices can use the http prefix, but some can use the https prefix and others can use both. To know which prefix your device can use, the only way is to try both. The prefix here only applies to the application service (msx.benzac.de).}{br}",
+            "{txt:msx-white:- You can create your own content easily if you know about the programming of this application. Experience it at [https://codepen.io/benzac-de].}{br}",
+            "{txt:msx-white:- That's all the information I can give you about my content, take a look at [https://github.com/triuduongg/msx]. Thank you for using my content!}{br}"
          ]
       }
    ]
