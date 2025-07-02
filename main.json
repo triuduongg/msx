@@ -36,14 +36,14 @@
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/feed.json"
             },
             {
-                "icon": "widgets",
-                "label": "app",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/app.json"
-            },
-            {
                 "icon": "dataset-linked",
                 "label": "link",
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/link.json"
+            },
+            {
+                "icon": "widgets",
+                "label": "app",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/app.json"
             },
             {
                 "icon": "web",
