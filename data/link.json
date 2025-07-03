@@ -43,6 +43,26 @@
             "action": "link:https://abmsx.tech/"
         },
         {
+            "label": "mytuner",
+            "icon": "link",
+            "action": "link:https://devices.mytuner.mobi/"
+        },
+        {
+            "label": "radioplayer",
+            "icon": "link",
+            "action": "link:http://tv.radioplayer.de/HiSense"
+        },
+        {
+            "label": "twitch",
+            "icon": "link",
+            "action": "link:https://webos.tv.twitch.tv/"
+        },
+        {
+            "label": "vkvideo",
+            "icon": "link",
+            "action": "link:https://tv.vk.com/app/2.4.14/webos/"
+        },
+        {
             "label": "simplelink",
             "icon": "add-link",
             "action": "panel:data",
