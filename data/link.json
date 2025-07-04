@@ -63,9 +63,9 @@
             "action": "link:https://tv.vk.com/app/2.4.14/webos/"
         },
         {
-            "label": "yandex",
+            "label": "duckduckgo",
             "icon": "link",
-            "action": "link:https://yandex.com/"
+            "action": "link:https://duckduckgo.com/"
         },
         {
             "label": "simplelink",
