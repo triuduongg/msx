@@ -41,7 +41,7 @@
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/link.json"
             },
             {
-                "icon": "widgets",
+                "icon": "apps",
                 "label": "app",
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/app.json"
             },
