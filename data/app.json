@@ -242,12 +242,12 @@
              }
         },
         {
-            "label": "youtube",
+            "label": "ytfeed",
             "icon": "apps-outage",
             "action": "panel:data",
             "data": {
                 "type": "list",
-                "headline": "youtube",
+                "headline": "ytfeed",
                 "template": {
                    "layout": "0,0,4,6",
                    "color": "msx-glass",
