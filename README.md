@@ -8,7 +8,7 @@
 #### - Amazon Appstore: [https://www.amazon.com/benzac-de-Media-Station-X/dp/B078TL932D]
 #### - The application is available on phones, computers, and televisions
 #### - Setting -> start parameter: [id:bly:triuduonggmsx]
-#### - All menus are provided with available media and link play tools with shortened link codes using [tinyurl.com] or media codes of integrated social networks.
+#### - All menus are provided with available media and link play tools with shortened link codes using [https://tinyurl.com/] or media codes of integrated social networks.
 #### - The two prefixes http and https contain the same media. Because some devices can use the http prefix, but some can use the https prefix and others can use both. To know which prefix your device can use, the only way is to try both. The prefix here only applies to the application service (msx.benzac.de).
 #### - You can create your own content easily if you know about the programming of this application. Experience it at [https://codepen.io/benzac-de].
 #### - That's all the information I can give you about my content, take a look at [https://github.com/triuduongg/msx]. Thank you for using my content!
