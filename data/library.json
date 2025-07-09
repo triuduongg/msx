@@ -23,12 +23,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:user:http://msx.benzac.de/services/m3u.php?headline=favorites&mode=extended-header&context=favorites"
+                        "action": "content:user:http://msx.benzac.de/services/m3u.php?mode=extended-header&context=favorites"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:user:https://msx.benzac.de/services/m3u.php?headline=favorites&mode=extended-header&context=favorites"
+                        "action": "content:user:https://msx.benzac.de/services/m3u.php?mode=extended-header&context=favorites"
                     }
                 ]
              }
