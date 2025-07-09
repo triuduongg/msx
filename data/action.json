@@ -832,6 +832,56 @@
                     }
                 ]
              }
+        },
+        {
+            "label": "launcher",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "launcher",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
+                    }
+                ]
+             }
+        },
+        {
+            "label": "webversion",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "webversion",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "link:http://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json&leave=1"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "link:https://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json&leave=1"
+                    }
+                ]
+             }
         }
     ]
 }
