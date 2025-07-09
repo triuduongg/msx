@@ -4,7 +4,7 @@
     "template": {
        "layout": "0,0,6,6",
        "color": "msx-glass",
-       "iconSize": "medium"
+       "iconSize": "extra-large"
     },
     "items": [
         {
