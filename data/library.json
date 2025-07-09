@@ -156,12 +156,12 @@
                                 {
                                     "label": "http",
                                     "icon": "http",
-                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=image%26mode=extended-header%26url=https://dpaste.com/{INPUT}.txt&type=action|default|en|images@http://msx.benzac.de/interaction/input.html"
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=image%26mode=extended-header%26url=https://tinyurl.com/{INPUT}&type=action|default|en|images@http://msx.benzac.de/interaction/input.html"
                                 },
                                 {
                                     "label": "https",
                                     "icon": "https",
-                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=image%26mode=extended-header%26url=https://dpaste.com/{INPUT}.txt&type=action|default|en|images@https://msx.benzac.de/interaction/input.html"
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=image%26mode=extended-header%26url=https://tinyurl.com/{INPUT}&type=action|default|en|images@https://msx.benzac.de/interaction/input.html"
                                 }
                             ]
                         }
@@ -182,12 +182,12 @@
                                 {
                                     "label": "http",
                                     "icon": "http",
-                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=audio%26mode=extended-header%26url=https://dpaste.com/{INPUT}.txt&type=action|default|en|audios@http://msx.benzac.de/interaction/input.html"
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=audio%26mode=extended-header%26url=https://tinyurl.com/{INPUT}&type=action|default|en|audios@http://msx.benzac.de/interaction/input.html"
                                 },
                                 {
                                     "label": "https",
                                     "icon": "https",
-                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=audio%26mode=extended-header%26url=https://dpaste.com/{INPUT}.txt&type=action|default|en|audios@https://msx.benzac.de/interaction/input.html"
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=audio%26mode=extended-header%26url=https://tinyurl.com/{INPUT}&type=action|default|en|audios@https://msx.benzac.de/interaction/input.html"
                                 }
                             ]
                         }
@@ -208,12 +208,12 @@
                                 {
                                     "label": "http",
                                     "icon": "http",
-                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=video%26mode=extended-header%26url=https://dpaste.com/{INPUT}.txt&type=action|default|en|videos@http://msx.benzac.de/interaction/input.html"
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=video%26mode=extended-header%26url=https://tinyurl.com/{INPUT}&type=action|default|en|videos@http://msx.benzac.de/interaction/input.html"
                                 },
                                 {
                                     "label": "https",
                                     "icon": "https",
-                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=video%26mode=extended-header%26url=https://dpaste.com/{INPUT}.txt&type=action|default|en|videos@https://msx.benzac.de/interaction/input.html"
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=video%26mode=extended-header%26url=https://tinyurl.com/{INPUT}&type=action|default|en|videos@https://msx.benzac.de/interaction/input.html"
                                 }
                             ]
                         }
