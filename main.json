@@ -11,44 +11,14 @@
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/info.json"
             },
             {
-                "icon": "photo-library",
-                "label": "image",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/image.json"
+                "icon": "local-library",
+                "label": "library",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/library.json"
             },
             {
-                "icon": "library-music",
-                "label": "audio",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/audio.json"
-            },
-            {
-                "icon": "video-library",
-                "label": "video",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/video.json"
-            },
-            {
-                "icon": "featured-play-list",
-                "label": "playlist",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/playlist.json"
-            },
-            {
-                "icon": "rss-feed",
-                "label": "feed",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/feed.json"
-            },
-            {
-                "icon": "dataset-linked",
-                "label": "link",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/link.json"
-            },
-            {
-                "icon": "apps",
-                "label": "app",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/app.json"
-            },
-            {
-                "icon": "web",
-                "label": "web",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/web.json"
+                "icon": "call-to-action",
+                "label": "action",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/action.json"
             }
         ]
  }
