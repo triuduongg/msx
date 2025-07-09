@@ -16,6 +16,11 @@
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/library.json"
             },
             {
+                "icon": "extension",
+                "label": "extension",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/extension.json"
+            },
+            {
                 "icon": "call-to-action",
                 "label": "action",
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/action.json"
