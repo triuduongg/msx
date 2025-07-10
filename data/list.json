@@ -1,6 +1,6 @@
 {
     "type": "list",
-    "headline": "library",
+    "headline": "list",
     "template": {
        "layout": "0,0,4,6",
        "color": "msx-glass",
