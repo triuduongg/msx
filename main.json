@@ -11,9 +11,9 @@
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/info.json"
             },
             {
-                "icon": "local-library",
+                "icon": "list",
                 "label": "library",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/library.json"
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/list.json"
             },
             {
                 "icon": "extension",
