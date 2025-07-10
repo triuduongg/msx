@@ -21,7 +21,7 @@
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/extension.json"
             },
             {
-                "icon": "call-to-action",
+                "icon": "pending-actions",
                 "label": "action",
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/action.json"
             }
