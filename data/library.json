@@ -126,7 +126,7 @@
                     },
                     {
                         "label": "plugins",
-                        "icon": "video-library",
+                        "icon": "library-books",
                         "action": "panel:data",
                         "data": {
                             "type": "list",
@@ -246,7 +246,7 @@
                     },
                     {
                         "label": "plugins",
-                        "icon": "video-library",
+                        "icon": "library-books",
                         "action": "panel:data",
                         "data": {
                             "type": "list",
