@@ -12,7 +12,7 @@
             },
             {
                 "icon": "list",
-                "label": "library",
+                "label": "list",
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/list.json"
             },
             {
