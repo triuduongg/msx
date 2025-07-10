@@ -43,7 +43,7 @@
                 "template": {
                    "layout": "0,0,2,6",
                    "color": "msx-glass",
-                   "iconSize": "medium"
+                   "iconSize": "large"
                 },
                 "items": [
                     {
@@ -163,7 +163,7 @@
                 "template": {
                    "layout": "0,0,2,6",
                    "color": "msx-glass",
-                   "iconSize": "medium"
+                   "iconSize": "large"
                 },
                 "items": [
                     {
