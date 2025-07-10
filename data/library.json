@@ -34,12 +34,12 @@
              }
         },
         {
-            "label": "mylib",
-            "icon": "library-books",
+            "label": "local",
+            "icon": "local-library",
             "action": "panel:data",
             "data": {
                 "type": "list",
-                "headline": "mylib",
+                "headline": "local",
                 "template": {
                    "layout": "0,0,2,6",
                    "color": "msx-glass",
