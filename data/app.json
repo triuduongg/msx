@@ -34,30 +34,9 @@
              }
         },
         {
-            "label": "webversion",
+            "label": "link",
             "icon": "apps-outage",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "webversion",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "link:http://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json&leave=1"
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "link:https://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json&leave=1"
-                    }
-                ]
-             }
+            "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/link.json"
         }
     ]
 }
