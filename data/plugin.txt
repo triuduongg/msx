@@ -20,9 +20,9 @@ facebook:1577067552306322
 #EXTINF:-1,How to Make an Amazing Steak | Season 8 Episode 2 | MASTERCHEF
 facebook:1573219146024496
 #EXTINF:-1,What's the difference between Wistia and Zoom? - Wistia Overview
-Wistia:suy064k0o4
+wistia:suy064k0o4
 #EXTINF:-1,What's the difference between Wistia and Vimeo? - Wistia Overview
-Wistia:qqegwwkg5r
+wistia:qqegwwkg5r
 #EXTINF:-1,OST 40 3Hours Studio Ghibli Animation OST by. Amanda J.young 
 soundcloud:950519119
 #EXTINF:-1,1 Hour Epic Music - Best Of Two Steps From Hell Vol. II
