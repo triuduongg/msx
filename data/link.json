@@ -1,0 +1,14 @@
+{"type":"list","headline":"link","template":{"layout":"0,0,8,1","color":"msx-glass"},"items":[
+{"label":"youtube","action":"link:https://www.youtube.com/tv"},
+{"label":"stremio","action":"link:https://tv.strem.io"},
+{"label":"lampa","action":"link:http://lampa.mx"},
+{"label":"prisma","action":"link:https://prisma.ws"},
+{"label":"icva","action":"link:https://icva.mx"},
+{"label":"filmix","action":"link:https://filmix.tv/"},
+{"label":"akterblack","action":"link:https://abmsx.tech/"},
+{"label":"mytuner","action":"link:https://devices.mytuner.mobi/"},
+{"label":"radioplayer","action":"link:http://tv.radioplayer.de/HiSense"},
+{"label":"twitch","action":"link:https://webos.tv.twitch.tv/"},
+{"label":"vkvideo","action":"link:https://tv.vk.com/app/2.4.14/webos/"},
+{"label":"duckduckgo","action":"link:https://duckduckgo.com/"}
+]}
