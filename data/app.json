@@ -1,6 +1,6 @@
 {
     "type": "list",
-    "headline": "extension",
+    "headline": "app",
     "template": {
        "layout": "0,0,6,6",
        "color": "msx-glass",
@@ -9,7 +9,7 @@
     "items": [
         {
             "label": "launcher",
-            "icon": "launch",
+            "icon": "app-registration",
             "action": "panel:data",
             "data": {
                 "type": "list",
@@ -35,7 +35,7 @@
         },
         {
             "label": "webversion",
-            "icon": "web",
+            "icon": "apps-outage",
             "action": "panel:data",
             "data": {
                 "type": "list",
