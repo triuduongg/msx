@@ -9,11 +9,11 @@
     },
     "items": [
         {
-            "label": "content",
+            "label": "urlcontent",
             "action": "panel:data",
             "data": {
                 "type": "list",
-                "headline": "content",
+                "headline": "urlcontent",
                 "template": {
                    "layout": "0,0,4,6",
                    "color": "msx-glass",
@@ -23,22 +23,22 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:https://tinyurl.com/{INPUT}&type=action|default|en|content@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:https://tinyurl.com/{INPUT}&type=action|default|en|urlcontent@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:https://tinyurl.com/{INPUT}&type=action|default|en|content@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:https://tinyurl.com/{INPUT}&type=action|default|en|urlcontent@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
         },
         {
-            "label": "menu",
+            "label": "urlmenu",
             "action": "panel:data",
             "data": {
                 "type": "list",
-                "headline": "menu",
+                "headline": "urlmenu",
                 "template": {
                    "layout": "0,0,4,6",
                    "color": "msx-glass",
@@ -48,22 +48,22 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=menu:https://tinyurl.com/{INPUT}&type=action|default|en|menu@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=menu:https://tinyurl.com/{INPUT}&type=action|default|en|urlmenu@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=menu:https://tinyurl.com/{INPUT}&type=action|default|en|menu@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=menu:https://tinyurl.com/{INPUT}&type=action|default|en|urlmenu@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
         },
         {
-            "label": "image",
+            "label": "simpleimage",
             "action": "panel:data",
             "data": {
                 "type": "list",
-                "headline": "image",
+                "headline": "simpleimage",
                 "template": {
                    "layout": "0,0,4,6",
                    "color": "msx-glass",
@@ -73,12 +73,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=image:https://tinyurl.com/{INPUT}&type=action|default|en|image@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=image:https://tinyurl.com/{INPUT}&type=action|default|en|simpleimage@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=image:https://tinyurl.com/{INPUT}&type=action|default|en|image@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=image:https://tinyurl.com/{INPUT}&type=action|default|en|simpleimage@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
@@ -109,11 +109,11 @@
              }
         },
         {
-            "label": "audio",
+            "label": "simpleaudio",
             "action": "panel:data",
             "data": {
                 "type": "list",
-                "headline": "audio",
+                "headline": "simpleaudio",
                 "template": {
                    "layout": "0,0,4,6",
                    "color": "msx-glass",
@@ -123,12 +123,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:https://tinyurl.com/{INPUT}&type=action|default|en|audio@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:https://tinyurl.com/{INPUT}&type=action|default|en|simpleaudio@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:https://tinyurl.com/{INPUT}&type=action|default|en|audio@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:https://tinyurl.com/{INPUT}&type=action|default|en|simpleaudio@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
@@ -484,11 +484,11 @@
              }
         },
         {
-            "label": "video",
+            "label": "simplevideo",
             "action": "panel:data",
             "data": {
                 "type": "list",
-                "headline": "video",
+                "headline": "simplevideo",
                 "template": {
                    "layout": "0,0,4,6",
                    "color": "msx-glass",
@@ -498,12 +498,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:https://tinyurl.com/{INPUT}&type=action|default|en|video@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:https://tinyurl.com/{INPUT}&type=action|default|en|simplevideo@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:https://tinyurl.com/{INPUT}&type=action|default|en|video@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:https://tinyurl.com/{INPUT}&type=action|default|en|simplevideo@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
@@ -859,11 +859,11 @@
              }
         },
         {
-            "label": "link",
+            "label": "simplelink",
             "action": "panel:data",
             "data": {
                 "type": "list",
-                "headline": "link",
+                "headline": "simplelink",
                 "template": {
                    "layout": "0,0,4,6",
                    "color": "msx-glass",
@@ -873,12 +873,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=link:https://tinyurl.com/{INPUT}&type=action|default|en|link@http://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=link:https://tinyurl.com/{INPUT}&type=action|default|en|simplelink@http://msx.benzac.de/interaction/input.html"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=link:https://tinyurl.com/{INPUT}&type=action|default|en|link@https://msx.benzac.de/interaction/input.html"
+                        "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=link:https://tinyurl.com/{INPUT}&type=action|default|en|simplelink@https://msx.benzac.de/interaction/input.html"
                     }
                 ]
              }
