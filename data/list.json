@@ -34,80 +34,9 @@
              }
         },
         {
-            "label": "library",
-            "icon": "local-library",
-            "action": "panel:data",
-            "data": {
-                "type": "list",
-                "headline": "library",
-                "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "iconSize": "extra-large"
-                },
-                "items": [
-                    {
-                        "label": "http",
-                        "icon": "http",
-                        "action": "menu:data",
-                        "data": {
-                            "headline": "library",
-                            "menu": [   
-                                {
-                                    "icon": "photo-library",
-                                    "label": "imagelibrary",
-                                    "data": "user:http://msx.benzac.de/services/m3u.php?type=image&mode=extended-header&url=https://github.com/triuduongg/msx/raw/refs/heads/main/data/image.m3u"
-                                },
-                                {
-                                    "icon": "library-music",
-                                    "label": "audiolibrary",
-                                    "data": "user:http://msx.benzac.de/services/m3u.php?type=audio&mode=extended-header&url=https://github.com/triuduongg/msx/raw/refs/heads/main/data/audio.m3u"
-                                },
-                                {
-                                    "icon": "video-library",
-                                    "label": "videolibrary",
-                                    "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/triuduongg/msx/raw/refs/heads/main/data/video.m3u"
-                                },
-                                {
-                                    "icon": "library-books",
-                                    "label": "pluginlibrary",
-                                    "data": "user:http://msx.benzac.de/services/m3u.php?type=plugin&mode=extended-header&url=https://github.com/triuduongg/msx/raw/refs/heads/main/data/plugin.m3u"
-                                }
-                                ]
-                            }
-                    },
-                    {
-                        "label": "https",
-                        "icon": "https",
-                        "action": "menu:data",
-                        "data": {
-                            "headline": "library",
-                            "menu": [   
-                                {
-                                    "icon": "photo-library",
-                                    "label": "imagelibrary",
-                                    "data": "user:https://msx.benzac.de/services/m3u.php?type=image&mode=extended-header&url=https://github.com/triuduongg/msx/raw/refs/heads/main/data/image.m3u"
-                                },
-                                {
-                                    "icon": "library-music",
-                                    "label": "audiolibrary",
-                                    "data": "user:https://msx.benzac.de/services/m3u.php?type=audio&mode=extended-header&url=https://github.com/triuduongg/msx/raw/refs/heads/main/data/audio.m3u"
-                                },
-                                {
-                                    "icon": "video-library",
-                                    "label": "videolibrary",
-                                    "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/triuduongg/msx/raw/refs/heads/main/data/video.m3u"
-                                },
-                                {
-                                    "icon": "library-books",
-                                    "label": "pluginlibrary",
-                                    "data": "user:https://msx.benzac.de/services/m3u.php?type=plugin&mode=extended-header&url=https://github.com/triuduongg/msx/raw/refs/heads/main/data/plugin.m3u"
-                                }
-                                ]
-                            }
-                    }
-                ]
-            }
+            "label": "collection",
+            "icon": "collections-bookmark",
+            "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/collection.json"
         },
         {
             "label": "m3u",
