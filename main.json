@@ -11,7 +11,7 @@
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/info.json"
             },
             {
-                "icon": "list",
+                "icon": "type-specimen",
                 "label": "list",
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/list.json"
             },
