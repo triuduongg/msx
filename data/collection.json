@@ -5,6 +5,8 @@
 {"icon":"book","label":"i.mjh.nz","data":"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://i.mjh.nz/all/raw.m3u8"},
 {"icon":"book","label":"m3upt","data":"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://m3upt.com/iptv"},
 {"icon":"book","label":"inspirationlinks","data":"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/inspirationlinks/m3u/raw/live/tv.m3u"},
+{"icon":"book","label":"free-tv","data":"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/Free-TV/IPTV/raw/refs/heads/master/playlist.m3u8"},
+{"icon":"book","label":"freelivesportstv","data":"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/HelmerLuzo/FreeLiveSportsTV_HL/raw/refs/heads/main/tv/m3u/FreeLiveSportsTV_tv.m3u"},
 {"icon":"book","label":"yuechanlive","data":"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/YueChan/Live/raw/refs/heads/main/Global.m3u"}
 ]}},
 {"label":"https","icon":"https","action":"menu:data","data":{"headline":"collection","menu":[   
@@ -13,5 +15,7 @@
 {"icon":"book","label":"i.mjh.nz","data":"user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://i.mjh.nz/all/raw.m3u8"},
 {"icon":"book","label":"m3upt","data":"user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://m3upt.com/iptv"},
 {"icon":"book","label":"inspirationlinks","data":"user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/inspirationlinks/m3u/raw/live/tv.m3u"},
+{"icon":"book","label":"free-tv","data":"user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/Free-TV/IPTV/raw/refs/heads/master/playlist.m3u8"},
+{"icon":"book","label":"freelivesportstv","data":"user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/HelmerLuzo/FreeLiveSportsTV_HL/raw/refs/heads/main/tv/m3u/FreeLiveSportsTV_tv.m3u"},
 {"icon":"book","label":"yuechanlive","data":"user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/YueChan/Live/raw/refs/heads/main/Global.m3u"}
 ]}}]}
