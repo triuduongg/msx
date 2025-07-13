@@ -1,0 +1,188 @@
+{
+    "type": "list",
+    "headline": "library",
+    "template": {
+        "layout": "0,0,3,2",
+        "color": "msx-glass",
+        "icon": "upload-file",
+        "iconSize": "medium"
+    },
+    "items": [
+        {
+            "label": "urlcontent",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/urlcontent.json"
+        },
+        {
+            "label": "urlmenu",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/urlmenu.json"
+        },
+        {
+            "label": "simpleimage",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/simpleimage.json"
+        },
+        {
+            "label": "videoimage",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/videoimage.json"
+        },
+        {
+            "label": "simpleaudio",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/simpleaudio.json"
+        },
+        {
+            "label": "html5audio",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/html5audio.json"
+        },
+        {
+            "label": "dashaudio",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/dashaudio.json"
+        },
+        {
+            "label": "shakaaudio",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/shakaaudio.json"
+        },
+        {
+            "label": "hasaudio",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/hasaudio.json"
+        },
+        {
+            "label": "hlsaudio",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/hlsaudio.json"
+        },
+        {
+            "label": "videojsaudio",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/videojsaudio.json"
+        },
+        {
+            "label": "youtubeaudio",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/youtubeaudio.json"
+        },
+        {
+            "label": "vimeoaudio",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/vimeoaudio.json"
+        },
+        {
+            "label": "dailymotionaudio",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/dailymotionaudio.json"
+        },
+        {
+            "label": "twitchaudio",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/twitchaudio.json"
+        },
+        {
+            "label": "facebookaudio",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/facebookaudio.json"
+        },
+        {
+            "label": "wistiaaudio",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/wistiaaudio.json"
+        },
+        {
+            "label": "soundcloudaudio",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/soundcloudaudio.json"
+        },
+        {
+            "label": "html5xaudio",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/html5xaudio.json"
+        },
+        {
+            "label": "simplevideo",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/simplevideo.json"
+        },
+        {
+            "label": "html5video",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/html5video.json"
+        },
+        {
+            "label": "dashvideo",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/dashvideo.json"
+        },
+        {
+            "label": "shakavideo",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/shakavideo.json"
+        },
+        {
+            "label": "hasvideo",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/hasvideo.json"
+        },
+        {
+            "label": "hlsvideo",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/hlsvideo.json"
+        },
+        {
+            "label": "videojsvideo",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/videojsvideo.json"
+        },
+        {
+            "label": "youtubevideo",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/youtubevideo.json"
+        },
+        {
+            "label": "vimeovideo",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/vimeovideo.json"
+        },
+        {
+            "label": "dailymotionvideo",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/dailymotionvideo.json"
+        },
+        {
+            "label": "twitchvideo",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/twitchvideo.json"
+        },
+        {
+            "label": "facebookvideo",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/facebookvideo.json"
+        },
+        {
+            "label": "wistiavideo",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/wistiavideo.json"
+        },
+        {
+            "label": "soundcloudvideo",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/soundcloudvideo.json"
+        },
+        {
+            "label": "html5xvideo",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/html5xvideo.json"
+        },
+        {
+            "label": "simplelink",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/simplelink.json"
+        },
+        {
+            "label": "imagem3u",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/imagem3u.json"
+        },
+        {
+            "label": "audiom3u",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/audiom3u.json"
+        },
+        {
+            "label": "videom3u",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/videom3u.json"
+        },
+        {
+            "label": "pluginm3u",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/pluginm3u.json"
+        },
+        {
+            "label": "imagepls",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/imagepls.json"
+        },
+        {
+            "label": "audiopls",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/audiopls.json"
+        },
+        {
+            "label": "videopls",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/videopls.json"
+        },
+        {
+            "label": "pluginpls",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/pluginpls.json"
+        },
+        {
+            "label": "mrss",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/mrss.json"
+        }
+    ]
+}
