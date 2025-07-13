@@ -1,4 +1,4 @@
 {"headline":"simplelink","template":{"layout":"0,0,6,6"},"items":[
-{"label":"link1","action":"link:https://raw.githubusercontent.com/triuduongg/msx/main/README.md"},
-{"label":"link2","action":"link:https://raw.githubusercontent.com/triuduongg/msx/main/README.md"}
+{"label":"link1","action":"link:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/start.md"},
+{"label":"link2","action":"link:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/editor.md"}
 ]}
