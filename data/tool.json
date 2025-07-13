@@ -18,11 +18,6 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/action.json"
         },
         {
-            "label": "action",
-            "icon": "drive-folder-upload",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/action.json"
-        },
-        {
             "label": "webversion",
             "icon": "drive-file-move-outline",
             "action": "panel:data",
