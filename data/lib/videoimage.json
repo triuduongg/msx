@@ -1,0 +1,4 @@
+{"headline":"videoimage","template":{"layout":"0,0,6,6"},"items":[
+{"label":"http","action":"video:plugin:http://msx.benzac.de/plugins/image.html?url=https://archive.org/download/CHAN-600/0158_hst.jpg"},
+{"label":"https","action":"video:plugin:https://msx.benzac.de/plugins/image.html?url=https://archive.org/download/CHAN-600/0158_hst.jpg"}
+]}
