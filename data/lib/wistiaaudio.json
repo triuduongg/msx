@@ -1,0 +1,4 @@
+{"headline":"wistiaaudio","template":{"layout":"0,0,6,6"},"items":[
+{"label":"http","action":"audio:plugin:http://msx.benzac.de/plugins/wistia.html?id=suy064k0o4"},
+{"label":"https","action":"audio:plugin:https://msx.benzac.de/plugins/wistia.html?id=suy064k0o4"}
+]}
