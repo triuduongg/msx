@@ -1,0 +1,21 @@
+{
+    "type": "list",
+    "headline": "tool",
+    "template": {
+        "layout": "0,0,6,6",
+        "iconSize": "extra-large",
+        "color": "msx-glass"
+    },
+    "items": [
+        {
+            "label": "library",
+            "icon": "local-library",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/library.json"
+        },
+        {
+            "label": "action",
+            "icon": "call-to-action",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/action.json"
+        }
+    ]
+}
