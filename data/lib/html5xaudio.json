@@ -1,0 +1,4 @@
+{"headline":"html5xaudio","template":{"layout":"0,0,6,6"},"items":[
+{"label":"http","action":"audio:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/soundcloud-209541707/Janji_Feat._Johnning_-_Heroes_Tonight_NCS_Release_STREAM_ON_SPOTIFY-209541707.mp3"},
+{"label":"https","action":"audio:plugin:https://msx.benzac.de/plugins/html5x.html?url=https://archive.org/download/soundcloud-209541707/Janji_Feat._Johnning_-_Heroes_Tonight_NCS_Release_STREAM_ON_SPOTIFY-209541707.mp3"}
+]}
