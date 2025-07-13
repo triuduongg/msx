@@ -85,6 +85,10 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/html5xaudio.json"
         },
         {
+            "label": "simplelink",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/simplelink.json"
+        },
+        {
             "label": "simplevideo",
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/simplevideo.json"
         },
@@ -145,8 +149,8 @@
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/html5xvideo.json"
         },
         {
-            "label": "simplelink",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/simplelink.json"
+            "label": "mrss",
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/mrss.json"
         },
         {
             "label": "imagem3u",
@@ -179,10 +183,6 @@
         {
             "label": "pluginpls",
             "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/pluginpls.json"
-        },
-        {
-            "label": "mrss",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/mrss.json"
         }
     ]
 }
