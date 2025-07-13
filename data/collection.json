@@ -7,7 +7,10 @@
 {"icon":"book","label":"inspirationlinks","data":"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/inspirationlinks/m3u/raw/live/tv.m3u"},
 {"icon":"book","label":"free-tv","data":"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/Free-TV/IPTV/raw/refs/heads/master/playlist.m3u8"},
 {"icon":"book","label":"freelivesportstv","data":"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/HelmerLuzo/FreeLiveSportsTV_HL/raw/refs/heads/main/tv/m3u/FreeLiveSportsTV_tv.m3u"},
-{"icon":"book","label":"yuechanlive","data":"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/YueChan/Live/raw/refs/heads/main/Global.m3u"}
+{"icon":"book","label":"drewlive","data":"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewAll.m3u8"},
+{"icon":"book","label":"yuechanlive","data":"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/YueChan/Live/raw/refs/heads/main/Global.m3u"},
+{"icon":"book","label":"piratestv","data":"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u"},
+{"icon":"book","label":"mine","data":"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/triuduongg/msx/raw/refs/heads/main/data/lib/video.m3u"}
 ]}},
 {"label":"https","icon":"https","action":"menu:data","data":{"headline":"collection","menu":[   
 {"icon":"book","label":"iptv-org","data":"user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://iptv-org.github.io/iptv/index.m3u"},
@@ -17,5 +20,8 @@
 {"icon":"book","label":"inspirationlinks","data":"user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/inspirationlinks/m3u/raw/live/tv.m3u"},
 {"icon":"book","label":"free-tv","data":"user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/Free-TV/IPTV/raw/refs/heads/master/playlist.m3u8"},
 {"icon":"book","label":"freelivesportstv","data":"user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/HelmerLuzo/FreeLiveSportsTV_HL/raw/refs/heads/main/tv/m3u/FreeLiveSportsTV_tv.m3u"},
-{"icon":"book","label":"yuechanlive","data":"user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/YueChan/Live/raw/refs/heads/main/Global.m3u"}
+{"icon":"book","label":"drewlive","data":"user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewAll.m3u8"},
+{"icon":"book","label":"yuechanlive","data":"user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/YueChan/Live/raw/refs/heads/main/Global.m3u"},
+{"icon":"book","label":"piratestv","data":"user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u"},
+{"icon":"book","label":"mine","data":"user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://github.com/triuduongg/msx/raw/refs/heads/main/data/lib/video.m3u"}
 ]}}]}
