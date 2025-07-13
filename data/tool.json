@@ -9,12 +9,12 @@
     "items": [
         {
             "label": "library",
-            "icon": "local-library",
+            "icon": "folder-open",
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/library.json"
         },
         {
             "label": "action",
-            "icon": "call-to-action",
+            "icon": "drive-folder-upload",
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/action.json"
         }
     ]
