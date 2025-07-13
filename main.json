@@ -21,9 +21,9 @@
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/app.json"
             },
             {
-                "icon": "pending-actions",
-                "label": "action",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/action.json"
+                "icon": "pan-tool",
+                "label": "tool",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/tool.json"
             }
         ]
  }
