@@ -1,0 +1,4 @@
+{"headline":"pluginm3u","menu":[   
+{"label":"http","data":"user:http://msx.benzac.de/services/m3u.php?type=plugin&mode=extended-header&url=https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/plugin.m3u"},
+{"label":"https","data":"user:https://msx.benzac.de/services/m3u.php?type=plugin&mode=extended-header&url=https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/plugin.m3u"}
+]}
