@@ -1,0 +1,11 @@
+#### http://msx.benzac.de/?alias=urlcontent&start=content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/urlcontent.json
+#### https://msx.benzac.de/?alias=urlcontent&start=content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/urlcontent.json
+
+#### http://msx.benzac.de/?alias=urlmenu&start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/urlmenu.json
+#### https://msx.benzac.de/?alias=urlmenu&start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/urlmenu.json
+
+#### http://msx.benzac.de/?alias=jsoncontent&start=content:json:eyJoZWFkbGluZSI6InVybGNvbnRlbnQiLCJ0ZW1wbGF0ZSI6eyJsYXlvdXQiOiIwLDAsMiwyIn0sIml0ZW1zIjpbCnsibGFiZWwiOiJjb250ZW50MSIsImFjdGlvbiI6ImltYWdlOmh0dHBzOi8vYXJjaGl2ZS5vcmcvZG93bmxvYWQvQ0hBTi02MDAvMDE1OF9oc3QuanBnIn0sCnsibGFiZWwiOiJjb250ZW50MiIsImFjdGlvbiI6InZpZGVvOmh0dHBzOi8vYXJjaGl2ZS5vcmcvZG93bmxvYWQvRWxlcGhhbnRzRHJlYW0vZWRfMTAyNC5tcDQifQpdfQ==
+#### https://msx.benzac.de/?alias=jsoncontent&start=content:json:eyJoZWFkbGluZSI6InVybGNvbnRlbnQiLCJ0ZW1wbGF0ZSI6eyJsYXlvdXQiOiIwLDAsMiwyIn0sIml0ZW1zIjpbCnsibGFiZWwiOiJjb250ZW50MSIsImFjdGlvbiI6ImltYWdlOmh0dHBzOi8vYXJjaGl2ZS5vcmcvZG93bmxvYWQvQ0hBTi02MDAvMDE1OF9oc3QuanBnIn0sCnsibGFiZWwiOiJjb250ZW50MiIsImFjdGlvbiI6InZpZGVvOmh0dHBzOi8vYXJjaGl2ZS5vcmcvZG93bmxvYWQvRWxlcGhhbnRzRHJlYW0vZWRfMTAyNC5tcDQifQpdfQ==
+
+#### http://msx.benzac.de/?alias=jsonmenu&start=menu:json:eyJoZWFkbGluZSI6InVybG1lbnUiLCJtZW51IjpbICAgCnsibGFiZWwiOiJtZW51MSIsImRhdGEiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdHJpdWR1b25nZy9tc3gvbWFpbi9kYXRhL2luZm8uanNvbiJ9LAp7ImxhYmVsIjoibWVudTIiLCJkYXRhIjoiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3RyaXVkdW9uZ2cvbXN4L21haW4vZGF0YS9pbmZvLmpzb24ifQpdfQ==
+#### https://msx.benzac.de/?alias=jsonmenu&start=menu:json:eyJoZWFkbGluZSI6InVybG1lbnUiLCJtZW51IjpbICAgCnsibGFiZWwiOiJtZW51MSIsImRhdGEiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vdHJpdWR1b25nZy9tc3gvbWFpbi9kYXRhL2luZm8uanNvbiJ9LAp7ImxhYmVsIjoibWVudTIiLCJkYXRhIjoiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3RyaXVkdW9uZ2cvbXN4L21haW4vZGF0YS9pbmZvLmpzb24ifQpdfQ==
