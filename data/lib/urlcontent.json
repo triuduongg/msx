@@ -1,0 +1,4 @@
+{"headline":"urlcontent","template":{"layout":"0,0,2,2"},"items":[
+{"label":"content1","action":"content:https://raw.githubusercontent.com/triuduongg/msx/main/data/info.json"},
+{"label":"content2","action":"content:https://raw.githubusercontent.com/triuduongg/msx/main/data/info.json"}
+]}
