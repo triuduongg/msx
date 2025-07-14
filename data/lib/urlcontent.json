@@ -1,4 +1,3 @@
-{"headline":"urlcontent","template":{"layout":"0,0,2,2"},"items":[
-{"label":"content1","action":"image:https://archive.org/download/CHAN-600/0158_hst.jpg"},
-{"label":"content2","action":"video:https://archive.org/download/ElephantsDream/ed_1024.mp4"}
+{"template":{"layout":"0,0,12,6"},"items":[
+{"label":"urlcontent","action":"content:https://tinyurl.com/yw8qkyn2"}
 ]}
