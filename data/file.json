@@ -2,7 +2,7 @@
     "type": "list",
     "headline": "file",
     "template": {
-        "layout": "0,0,4,6",
+        "layout": "0,0,6,6",
         "iconSize": "extra-large",
         "color": "msx-glass"
     },
