@@ -1,29 +1,54 @@
 {
     "headline": "TRIUDUONGG MSX",
-    "menu": [   
-            {
-                "type": "separator",
-                "label": "main"
-            },
-            {
-                "icon": "info",
-                "label": "info",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/info.json"
-            },
-            {
-                "icon": "type-specimen",
-                "label": "list",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/list.json"
-            },
-            {
-                "icon": "apps",
-                "label": "app",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/app.json"
-            },
-            {
-                "icon": "folder",
-                "label": "file",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/file.json"
+    "menu": [
+        {
+            "type": "separator",
+            "label": "main"
+        },
+        {
+            "icon": "info",
+            "label": "info",
+            "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/info.json"
+        },
+        {
+            "icon": "type-specimen",
+            "label": "list",
+            "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/list.json"
+        },
+        {
+            "icon": "apps",
+            "label": "app",
+            "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/app.json"
+        },
+        {
+            "icon": "folder",
+            "label": "file",
+            "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/file.json"
+        },
+        {
+            "icon": "open-in-browser",
+            "label": "webversion",
+            "data": {
+                "type": "list",
+                "headline": "webversion",
+                "template": {
+                    "layout": "0,0,6,6",
+                    "color": "msx-glass",
+                    "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "link:http://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json&leave=1"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "link:https://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json&leave=1"
+                    }
+                ]
             }
-        ]
- }
+        }
+    ]
+}
