@@ -1,4 +1,0 @@
-{"headline":"soundcloudaudio","template":{"layout":"0,0,6,6"},"items":[
-{"label":"http","action":"audio:plugin:http://msx.benzac.de/plugins/soundcloud.html?id=950519119"},
-{"label":"https","action":"audio:plugin:https://msx.benzac.de/plugins/soundcloud.html?id=950519119"}
-]}
