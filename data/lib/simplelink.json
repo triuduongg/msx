@@ -1,4 +1,6 @@
-{"headline":"simplelink","template":{"layout":"0,0,6,6"},"items":[
-{"label":"link1","action":"link:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/start.md"},
-{"label":"link2","action":"link:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/editor.md"}
+{"template":{"layout":"0,0,12,6"},"items":[
+{"label":
+"simplelink",
+"action":
+"link:https://tinyurl.com/ytvjfx3f"}
 ]}
