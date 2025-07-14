@@ -1,4 +1,0 @@
-{"headline":"mrss","menu":[   
-{"label":"http","data":"request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml@http://msx.benzac.de/interaction/mrss.html"},
-{"label":"https","data":"request:interaction:https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml@https://msx.benzac.de/interaction/mrss.html"}
-]}
