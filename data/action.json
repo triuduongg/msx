@@ -4,7 +4,7 @@
     "template": {
        "layout": "0,0,3,2",
        "color": "msx-glass",
-       "icon": "upload-file",
+       "icon": "file-open",
        "iconSize": "medium"
     },
     "items": [
