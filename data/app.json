@@ -2,11 +2,16 @@
     "type": "list",
     "headline": "app",
     "template": {
-       "layout": "0,0,6,6",
-       "color": "msx-glass",
-       "iconSize": "extra-large"
+        "layout": "0,0,6,6",
+        "color": "msx-glass",
+        "iconSize": "extra-large"
     },
     "items": [
+        {
+            "label": "link",
+            "icon": "apps-outage",
+            "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/link.json"
+        },
         {
             "label": "launcher",
             "icon": "app-registration",
@@ -15,9 +20,9 @@
                 "type": "list",
                 "headline": "launcher",
                 "template": {
-                   "layout": "0,0,4,6",
-                   "color": "msx-glass",
-                   "iconSize": "extra-large"
+                    "layout": "0,0,4,6",
+                    "color": "msx-glass",
+                    "iconSize": "extra-large"
                 },
                 "items": [
                     {
@@ -31,12 +36,7 @@
                         "action": "menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
                     }
                 ]
-             }
-        },
-        {
-            "label": "link",
-            "icon": "apps-outage",
-            "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/link.json"
+            }
         }
     ]
 }
