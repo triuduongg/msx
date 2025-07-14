@@ -1,4 +1,0 @@
-{"headline":"wistiavideo","template":{"layout":"0,0,6,6"},"items":[
-{"label":"http","action":"video:plugin:http://msx.benzac.de/plugins/wistia.html?id=suy064k0o4"},
-{"label":"https","action":"video:plugin:https://msx.benzac.de/plugins/wistia.html?id=suy064k0o4"}
-]}
