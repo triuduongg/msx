@@ -1,4 +1,0 @@
-{"headline":"dailymotionvideo","template":{"layout":"0,0,6,6"},"items":[
-{"label":"http","action":"video:plugin:http://msx.benzac.de/plugins/dailymotion.html?id=xt3nxd"},
-{"label":"https","action":"video:plugin:https://msx.benzac.de/plugins/dailymotion.html?id=xt3nxd"}
-]}
