@@ -2,10 +2,10 @@
     "type": "list",
     "headline": "library",
     "template": {
-        "layout": "0,0,3,2",
-        "color": "msx-glass",
-        "icon": "insert-drive-file",
-        "iconSize": "medium"
+       "layout": "0,0,3,2",
+       "color": "msx-glass",
+       "icon": "insert-drive-file",
+       "iconSize": "medium"
     },
     "items": [
         {
@@ -22,7 +22,28 @@
         },
         {
             "label": "videoimage",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/videoimage.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "videoimage",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/videoimage.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/videoimage.json"
+                    }
+                ]
+             }
         },
         {
             "label": "simpleaudio",
@@ -30,59 +51,353 @@
         },
         {
             "label": "html5audio",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/html5audio.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "html5audio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/html5audio.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/html5audio.json"
+                    }
+                ]
+             }
         },
         {
             "label": "dashaudio",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/dashaudio.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "dashaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/dashaudio.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/dashaudio.json"
+                    }
+                ]
+             }
         },
         {
             "label": "shakaaudio",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/shakaaudio.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "shakaaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/shakaaudio.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/shakaaudio.json"
+                    }
+                ]
+             }
         },
         {
             "label": "hasaudio",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/hasaudio.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "hasaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/hasaudio.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/hasaudio.json"
+                    }
+                ]
+             }
         },
         {
             "label": "hlsaudio",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/hlsaudio.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "hlsaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/hlsaudio.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/hlsaudio.json"
+                    }
+                ]
+             }
         },
         {
             "label": "videojsaudio",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/videojsaudio.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "videojsaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/videojsaudio.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/videojsaudio.json"
+                    }
+                ]
+             }
         },
         {
             "label": "youtubeaudio",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/youtubeaudio.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "youtubeaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/youtubeaudio.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/youtubeaudio.json"
+                    }
+                ]
+             }
         },
         {
             "label": "vimeoaudio",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/vimeoaudio.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "vimeoaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/vimeoaudio.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/vimeoaudio.json"
+                    }
+                ]
+             }
         },
         {
             "label": "dailymotionaudio",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/dailymotionaudio.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "dailymotionaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/dailymotionaudio.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/dailymotionaudio.json"
+                    }
+                ]
+             }
         },
         {
             "label": "twitchaudio",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/twitchaudio.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "twitchaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/twitchaudio.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/twitchaudio.json"
+                    }
+                ]
+             }
         },
         {
             "label": "facebookaudio",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/facebookaudio.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "facebookaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/facebookaudio.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/facebookaudio.json"
+                    }
+                ]
+             }
         },
         {
             "label": "wistiaaudio",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/wistiaaudio.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "wistiaaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/wistiaaudio.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/wistiaaudio.json"
+                    }
+                ]
+             }
         },
         {
             "label": "soundcloudaudio",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/soundcloudaudio.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "soundcloudaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/soundcloudaudio.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/soundcloudaudio.json"
+                    }
+                ]
+             }
         },
         {
             "label": "html5xaudio",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/html5xaudio.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "html5xaudio",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/html5xaudio.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/html5xaudio.json"
+                    }
+                ]
+             }
         },
         {
             "label": "simplelink",
@@ -94,95 +409,578 @@
         },
         {
             "label": "html5video",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/html5video.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "html5video",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/html5video.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/html5video.json"
+                    }
+                ]
+             }
         },
         {
             "label": "dashvideo",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/dashvideo.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "dashvideo",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/dashvideo.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/dashvideo.json"
+                    }
+                ]
+             }
         },
         {
             "label": "shakavideo",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/shakavideo.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "shakavideo",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/shakavideo.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/shakavideo.json"
+                    }
+                ]
+             }
         },
         {
             "label": "hasvideo",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/hasvideo.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "hasvideo",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/hasvideo.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/hasvideo.json"
+                    }
+                ]
+             }
         },
         {
             "label": "hlsvideo",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/hlsvideo.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "hlsvideo",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/hlsvideo.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/hlsvideo.json"
+                    }
+                ]
+             }
         },
         {
             "label": "videojsvideo",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/videojsvideo.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "videojsvideo",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/videojsvideo.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/videojsvideo.json"
+                    }
+                ]
+             }
         },
         {
             "label": "youtubevideo",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/youtubevideo.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "youtubevideo",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/youtubevideo.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/youtubevideo.json"
+                    }
+                ]
+             }
         },
         {
             "label": "vimeovideo",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/vimeovideo.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "vimeovideo",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/vimeovideo.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/vimeovideo.json"
+                    }
+                ]
+             }
         },
         {
             "label": "dailymotionvideo",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/dailymotionvideo.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "dailymotionvideo",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/dailymotionvideo.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/dailymotionvideo.json"
+                    }
+                ]
+             }
         },
         {
             "label": "twitchvideo",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/twitchvideo.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "twitchvideo",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/twitchvideo.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/twitchvideo.json"
+                    }
+                ]
+             }
         },
         {
             "label": "facebookvideo",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/facebookvideo.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "facebookvideo",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/facebookvideo.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/facebookvideo.json"
+                    }
+                ]
+             }
         },
         {
             "label": "wistiavideo",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/wistiavideo.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "wistiavideo",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/wistiavideo.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/wistiavideo.json"
+                    }
+                ]
+             }
         },
         {
             "label": "soundcloudvideo",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/soundcloudvideo.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "soundcloudvideo",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/soundcloudvideo.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/soundcloudvideo.json"
+                    }
+                ]
+             }
         },
         {
             "label": "html5xvideo",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/html5xvideo.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "html5xvideo",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/html5xvideo.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/html5xvideo.json"
+                    }
+                ]
+             }
         },
         {
             "label": "mrss",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/mrss.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "mrss",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/mrss.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/mrss.json"
+                    }
+                ]
+             }
         },
         {
             "label": "imagem3u",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/imagem3u.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "imagem3u",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/imagem3u.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/imagem3u.json"
+                    }
+                ]
+             }
         },
         {
             "label": "audiom3u",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/audiom3u.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "audiom3u",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/audiom3u.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/audiom3u.json"
+                    }
+                ]
+             }
         },
         {
             "label": "videom3u",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/videom3u.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "videom3u",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/videom3u.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/videom3u.json"
+                    }
+                ]
+             }
         },
         {
             "label": "pluginm3u",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/pluginm3u.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "pluginm3u",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/pluginm3u.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/pluginm3u.json"
+                    }
+                ]
+             }
         },
         {
             "label": "imagepls",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/imagepls.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "imagepls",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/imagepls.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/imagepls.json"
+                    }
+                ]
+             }
         },
         {
             "label": "audiopls",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/audiopls.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "audiopls",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/audiopls.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/audiopls.json"
+                    }
+                ]
+             }
         },
         {
             "label": "videopls",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/videopls.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "videopls",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/videopls.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/videopls.json"
+                    }
+                ]
+             }
         },
         {
             "label": "pluginpls",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/pluginpls.json"
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "pluginpls",
+                "template": {
+                   "layout": "0,0,4,6",
+                   "color": "msx-glass",
+                   "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/pluginpls.json"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/pluginpls.json"
+                    }
+                ]
+             }
         }
     ]
 }
