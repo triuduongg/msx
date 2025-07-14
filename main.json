@@ -21,9 +21,9 @@
                 "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/app.json"
             },
             {
-                "icon": "pan-tool",
-                "label": "tool",
-                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/tool.json"
+                "icon": "folder",
+                "label": "file",
+                "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/file.json"
             }
         ]
  }
