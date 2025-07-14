@@ -1,4 +1,6 @@
-{"headline":"simplevideo","template":{"layout":"0,0,6,6"},"items":[
-{"label":"video1","action":"video:https://archive.org/download/ElephantsDream/ed_1024.mp4"},
-{"label":"video2","action":"video:https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"}
+{"template":{"layout":"0,0,12,6"},"items":[
+{"label":
+"simplevideo",
+"action":
+"video:https://tinyurl.com/yaulvpal"}
 ]}
