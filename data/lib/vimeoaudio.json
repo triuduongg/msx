@@ -1,4 +1,0 @@
-{"headline":"vimeoaudio","template":{"layout":"0,0,6,6"},"items":[
-{"label":"http","action":"audio:plugin:http://msx.benzac.de/plugins/vimeo.html?id=7809605"},
-{"label":"https","action":"audio:plugin:https://msx.benzac.de/plugins/vimeo.html?id=7809605"}
-]}
