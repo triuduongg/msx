@@ -1,4 +1,0 @@
-{"headline":"videopls","menu":[   
-{"label":"http","data":"user:http://msx.benzac.de/services/pls.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/video.pls"},
-{"label":"https","data":"user:https://msx.benzac.de/services/pls.php?type=video&mode=extended-header&url=https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/video.pls"}
-]}
