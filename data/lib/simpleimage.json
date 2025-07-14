@@ -1,3 +1,4 @@
 {"template":{"layout":"0,0,12,6"},"items":[
-{"label":"simpleimage","action":"image:https://tinyurl.com/yqmc9dm8"}
+{"label":"simpleimage",
+"action":"image:https://tinyurl.com/yqmc9dm8"}
 ]}
