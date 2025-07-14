@@ -1,4 +1,0 @@
-{"headline":"imagepls","menu":[   
-{"label":"http","data":"user:http://msx.benzac.de/services/pls.php?type=image&mode=extended-header&url=https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/image.pls"},
-{"label":"https","data":"user:https://msx.benzac.de/services/pls.php?type=image&mode=extended-header&url=https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/image.pls"}
-]}
