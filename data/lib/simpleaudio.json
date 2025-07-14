@@ -1,4 +1,3 @@
-{"headline":"simpleaudio","template":{"layout":"0,0,6,6"},"items":[
-{"label":"audio1","action":"audio:https://archive.org/download/soundcloud-209541707/Janji_Feat._Johnning_-_Heroes_Tonight_NCS_Release_STREAM_ON_SPOTIFY-209541707.mp3"},
-{"label":"audio2","action":"audio:https://archive.org/download/soundcloud-300693150/Elektronomia_-_Sky_High_NCS_Release-300693150.mp3"}
+{"template":{"layout":"0,0,12,6"},"items":[
+{"label":"simpleaudio","action":"audio:https://tinyurl.com/ysp8a6md"}
 ]}
