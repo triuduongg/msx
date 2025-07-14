@@ -1,0 +1,6 @@
+{"template":{"layout":"0,0,12,6"},"items":[
+{"label":
+"hlsaudio",
+"action":
+"audio:plugin:https://msx.benzac.de/plugins/hls.html?url=https://tinyurl.com/ysp8a6md"}
+]}
