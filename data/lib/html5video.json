@@ -1,4 +1,0 @@
-{"headline":"html5video","template":{"layout":"0,0,6,6"},"items":[
-{"label":"http","action":"video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ElephantsDream/ed_1024.mp4"},
-{"label":"https","action":"video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://archive.org/download/ElephantsDream/ed_1024.mp4"}
-]}
