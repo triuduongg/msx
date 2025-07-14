@@ -1,4 +1,0 @@
-{"headline":"facebookaudio","template":{"layout":"0,0,6,6"},"items":[
-{"label":"http","action":"audio:plugin:http://msx.benzac.de/plugins/facebook.html?id=1577067552306322"},
-{"label":"https","action":"audio:plugin:https://msx.benzac.de/plugins/facebook.html?id=1577067552306322"}
-]}
