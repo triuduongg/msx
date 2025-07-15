@@ -1,31 +1,28 @@
+### URLCONTENT
 #### http://msx.benzac.de/?alias=urlcontent&start=content:https://tinyurl.com/ynpzol3u
 ##### https://tinyurl.com/ymftulde
 ###### `id:trl:ymftulde`
-
 #### https://msx.benzac.de/?alias=urlcontent&start=content:https://tinyurl.com/ynpzol3u
 ##### https://tinyurl.com/ywbe2ogd
 ###### `id:trl:ywbe2ogd`
-
+### URLMENU
 #### http://msx.benzac.de/?alias=urlmenu&start=menu:https://tinyurl.com/yljrpm4q
 ##### https://tinyurl.com/ymxklw2f
 ###### `id:trl:ymxklw2f`
-
 #### https://msx.benzac.de/?alias=urlmenu&start=menu:https://tinyurl.com/yljrpm4q
 ##### https://tinyurl.com/yrst2rm9
 ###### `id:trl:yrst2rm9`
-
+### JSONCONTENT
 #### http://msx.benzac.de/?alias=jsoncontent&start=content:json:eyJ0ZW1wbGF0ZSI6eyJsYXlvdXQiOiIwLDAsMTIsNiJ9LCJpdGVtcyI6Wwp7ImxhYmVsIjoKInVybGNvbnRlbnQiLAoiYWN0aW9uIjoKImNvbnRlbnQ6aHR0cHM6Ly90aW55dXJsLmNvbS95dzhxa3luMiJ9Cl19
 ##### https://tinyurl.com/2xff88wy
 ###### `id:trl:2xff88wy`
-
 #### https://msx.benzac.de/?alias=jsoncontent&start=content:json:eyJ0ZW1wbGF0ZSI6eyJsYXlvdXQiOiIwLDAsMTIsNiJ9LCJpdGVtcyI6Wwp7ImxhYmVsIjoKInVybGNvbnRlbnQiLAoiYWN0aW9uIjoKImNvbnRlbnQ6aHR0cHM6Ly90aW55dXJsLmNvbS95dzhxa3luMiJ9Cl19
 ##### https://tinyurl.com/yl24vu4k
 ###### `id:trl:yl24vu4k`
-
+### JSONMENU
 #### http://msx.benzac.de/?alias=jsonmenu&start=menu:json:eyJtZW51IjpbCnsibGFiZWwiOgoidXJsbWVudSIsCiJkYXRhIjoKImh0dHBzOi8vdGlueXVybC5jb20veXc4cWt5bjIifQpdfQ==
 ##### https://tinyurl.com/yo4jgfnb
 ###### `id:trl:yo4jgfnb`
-
 #### https://msx.benzac.de/?alias=jsonmenu&start=menu:json:eyJtZW51IjpbCnsibGFiZWwiOgoidXJsbWVudSIsCiJkYXRhIjoKImh0dHBzOi8vdGlueXVybC5jb20veXc4cWt5bjIifQpdfQ==
 ##### https://tinyurl.com/ypck68ho
 ###### `id:trl:ypck68ho`
