@@ -3,10 +3,9 @@
     <channel>
 
         <item>
-            <guid>video1</guid>
-            <media:title>Video 1</media:title>
-            <media:content url="http://msx.benzac.de/media/video1.mp4"></media:content>
+            <media:title>mrss</media:title>
+            <media:content url="https://tinyurl.com/yaulvpal"></media:content>
         </item>
-        
+
     </channel>
 </rss>
