@@ -1,6 +1,6 @@
 {
     "type": "list",
-    "headline": "file",
+    "headline": "play",
     "template": {
         "layout": "0,0,6,6",
         "iconSize": "extra-large",
@@ -9,12 +9,12 @@
     "items": [
         {
             "label": "library",
-            "icon": "folder-zip",
+            "icon": "play-lesson",
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/library.json"
         },
         {
             "label": "action",
-            "icon": "create-new-folder",
+            "icon": "play-circle",
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/action.json"
         }
     ]
