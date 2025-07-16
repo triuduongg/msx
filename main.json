@@ -21,9 +21,9 @@
             "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/app.json"
         },
         {
-            "icon": "folder",
-            "label": "file",
-            "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/file.json"
+            "icon": "play-arrow",
+            "label": "play",
+            "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/play.json"
         },
         {
             "icon": "open-in-browser",
