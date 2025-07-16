@@ -1,4 +1,4 @@
-{"type":"list","headline":"link","template":{"layout":"0,0,8,1","color":"msx-glass"},"items":[
+{"type":"list","headline":"link","template":{"layout":"0,0,2,2","icon":"link","color":"msx-glass"},"items":[
 {"label":"youtube","action":"link:https://www.youtube.com/tv"},
 {"label":"duckduckgo","action":"link:https://duckduckgo.com/"},
 {"label":"stremio","action":"link:https://tv.strem.io"},
