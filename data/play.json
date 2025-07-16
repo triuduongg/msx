@@ -14,7 +14,7 @@
         },
         {
             "label": "action",
-            "icon": "play-circle",
+            "icon": "playlist-play",
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/action.json"
         },
         {
