@@ -2,7 +2,7 @@
     "type": "list",
     "headline": "play",
     "template": {
-        "layout": "0,0,6,6",
+        "layout": "0,0,4,6",
         "iconSize": "extra-large",
         "color": "msx-glass"
     },
@@ -16,6 +16,32 @@
             "label": "action",
             "icon": "play-circle",
             "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/action.json"
+        },
+        {
+            "label": "web",
+            "icon": "play-circle-outline",
+            "action": "panel:data",
+            "data": {
+                "type": "list",
+                "headline": "web",
+                "template": {
+                    "layout": "0,0,4,6",
+                    "color": "msx-glass",
+                    "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "link:http://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json&leave=1"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "link:https://msx.benzac.de/?start=menu:https://raw.githubusercontent.com/triuduongg/msx/main/main.json&leave=1"
+                    }
+                ]
+            }
         }
     ]
 }
