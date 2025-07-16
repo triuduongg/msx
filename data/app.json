@@ -2,7 +2,7 @@
     "type": "list",
     "headline": "app",
     "template": {
-        "layout": "0,0,6,6",
+        "layout": "0,0,4,6",
         "color": "msx-glass",
         "iconSize": "extra-large"
     },
