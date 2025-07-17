@@ -1,6 +1,1 @@
-{"template":{"layout":"0,0,12,6"},"items":[
-{"label":
-"shakaaudio",
-"action":
-"audio:plugin:http://msx.benzac.de/plugins/shaka.html?url=https://tinyurl.com/ysp8a6md"}
-]}
+{"template":{"layout":"0,0,12,6"},"items":[{"label":"shakaaudio","action":"audio:plugin:http://msx.benzac.de/plugins/shaka.html?url=https://tinyurl.com/ysp8a6md"}]}
