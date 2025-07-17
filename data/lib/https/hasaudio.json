@@ -1,6 +1,1 @@
-{"template":{"layout":"0,0,12,6"},"items":[
-{"label":
-"hasaudio",
-"action":
-"audio:plugin:https://msx.benzac.de/plugins/has.html?url=https://tinyurl.com/ysp8a6md"}
-]}
+{"template":{"layout":"0,0,12,6"},"items":[{"label":"hasaudio","action":"audio:plugin:https://msx.benzac.de/plugins/has.html?url=https://tinyurl.com/ysp8a6md"}]}
