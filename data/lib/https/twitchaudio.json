@@ -1,6 +1,1 @@
-{"template":{"layout":"0,0,12,6"},"items":[
-{"label":
-"twitchaudio",
-"action":
-"audio:plugin:https://msx.benzac.de/plugins/twitch.html?id=511289637"}
-]}
+{"template":{"layout":"0,0,12,6"},"items":[{"label":"twitchaudio","action":"audio:plugin:https://msx.benzac.de/plugins/twitch.html?id=511289637"}]}
