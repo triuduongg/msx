@@ -1,6 +1,1 @@
-{"template":{"layout":"0,0,12,6"},"items":[
-{"label":
-"videojsvideo",
-"action":
-"video:plugin:http://msx.benzac.de/plugins/videojs.html?url=https://tinyurl.com/yaulvpal"}
-]}
+{"template":{"layout":"0,0,12,6"},"items":[{"label":"videojsvideo","action":"video:plugin:http://msx.benzac.de/plugins/videojs.html?url=https://tinyurl.com/yaulvpal"}]}
