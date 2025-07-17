@@ -1,6 +1,1 @@
-{"menu":[   
-{"label":
-"audiom3u",
-"data":
-"user:http://msx.benzac.de/services/m3u.php?type=audio&mode=extended-header&url=https://tinyurl.com/ykjjekg4"}
-]}
+{"menu":[   {"label":"audiom3u","data":"user:http://msx.benzac.de/services/m3u.php?type=audio&mode=extended-header&url=https://tinyurl.com/ykjjekg4"}]}
