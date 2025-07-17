@@ -1,6 +1,1 @@
-{"template":{"layout":"0,0,12,6"},"items":[
-{"label":
-"soundcloudaudio",
-"action":
-"audio:plugin:https://msx.benzac.de/plugins/soundcloud.html?id=950519119"}
-]}
+{"template":{"layout":"0,0,12,6"},"items":[{"label":"soundcloudaudio","action":"audio:plugin:https://msx.benzac.de/plugins/soundcloud.html?id=950519119"}]}
