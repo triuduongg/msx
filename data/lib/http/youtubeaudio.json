@@ -1,6 +1,1 @@
-{"template":{"layout":"0,0,12,6"},"items":[
-{"label":
-"youtubeaudio",
-"action":
-"audio:plugin:http://msx.benzac.de/plugins/youtube.html?id=RgKAFK5djSk"}
-]}
+{"template":{"layout":"0,0,12,6"},"items":[{"label":"youtubeaudio","action":"audio:plugin:http://msx.benzac.de/plugins/youtube.html?id=RgKAFK5djSk"}]}
