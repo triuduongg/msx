@@ -1,6 +1,1 @@
-{"template":{"layout":"0,0,12,6"},"items":[
-{"label":
-"vimeovideo",
-"action":
-"video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=7809605"}
-]}
+{"template":{"layout":"0,0,12,6"},"items":[{"label":"vimeovideo","action":"video:plugin:http://msx.benzac.de/plugins/vimeo.html?id=7809605"}]}
