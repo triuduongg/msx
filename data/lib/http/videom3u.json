@@ -1,6 +1,1 @@
-{"menu":[   
-{"label":
-"videom3u",
-"data":
-"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://tinyurl.com/yq4nse98"}
-]}
+{"menu":[{"label":"videom3u","data":"user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://tinyurl.com/yq4nse98"}]}
