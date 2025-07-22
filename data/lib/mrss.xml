@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-
         <item>
-            <media:title>mrss</media:title>
+            <media:title>image</media:title>
+            <media:content url="https://tinyurl.com/yqmc9dm8"></media:content>
+        </item>
+        <item>
+            <media:title>audio</media:title>
+            <media:content url="https://tinyurl.com/ysp8a6md"></media:content>
+        </item>
+        <item>
+            <media:title>video</media:title>
             <media:content url="https://tinyurl.com/yaulvpal"></media:content>
         </item>
-
+        <item>
+            <media:title>plugin</media:title>
+            <media:content url="youtube:RgKAFK5djSk"></media:content>
+        </item>
     </channel>
 </rss>
