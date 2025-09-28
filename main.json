@@ -24,6 +24,11 @@
             "icon": "pending-actions",
             "label": "action",
             "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/action.json"
+        },
+        {
+            "icon": "web",
+            "label": "web",
+            "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/web.json"
         }
     ]
 }
