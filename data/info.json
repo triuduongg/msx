@@ -3,6 +3,7 @@
    "headline": "info",
    "template": {
       "layout": "0,0,12,6",
+      "iconSize": "extra-large",
       "color": "msx-glass"
    },
    "items": [
