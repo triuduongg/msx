@@ -24,6 +24,11 @@
             "{txt:msx-white:- You can create your own content easily if you know about the programming of this application. Experience it at [https://codepen.io/benzac-de].}{br}",
             "{txt:msx-white:- That's all the information I can give you about my content, take a look at [https://github.com/triuduongg/msx]. Thank you for using my content!}{br}"
          ]
+      },
+      {
+            "label": "library",
+            "icon": "play-lesson",
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/library.json"
       }
    ]
 }
