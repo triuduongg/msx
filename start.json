@@ -1,7 +1,7 @@
 {
     "name": "TRIUDUONGG MSX",
     "version": "1.0.3",
-    "parameter": "menu:https://triuduongg.github.io/msx/main.json",
+    "parameter": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/main.json",
     "launcher": {
         "icon": "pages"
     }
