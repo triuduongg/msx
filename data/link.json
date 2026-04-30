@@ -11,6 +11,6 @@
 {"label":"radioplayer","action":"link:http://tv.radioplayer.de/HiSense"},
 {"label":"twitch","action":"link:https://webos.tv.twitch.tv/"},
 {"label":"vkvideo","action":"link:https://tv.vk.com/app/2.4.14/webos/"},
-{"label":"telegram","action":"link:https://web.telegram.org/k/"},
+{"label":"telegram","action":"link:http://web.telegram.org/k/"},
 {"label":"mine","action":"link:https://github.com/triuduongg/msx"}
 ]}
