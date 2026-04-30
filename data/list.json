@@ -36,7 +36,7 @@
         {
             "label": "collection",
             "icon": "collections-bookmark",
-            "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/collection.json"
+            "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/collection.json"
         },
         {
             "label": "m3u",
