@@ -29,7 +29,7 @@
       {
             "label": "library",
             "icon": "play-lesson",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/library.json"
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/library.json"
       }
    ]
 }
