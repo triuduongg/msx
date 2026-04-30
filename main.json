@@ -8,27 +8,27 @@
         {
             "icon": "info",
             "label": "info",
-            "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/info.json"
+            "data": "https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/info.json"
         },
         {
             "icon": "type-specimen",
             "label": "list",
-            "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/list.json"
+            "data": "https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/list.json"
         },
         {
             "icon": "apps",
             "label": "app",
-            "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/app.json"
+            "data": "https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/app.json"
         },
         {
             "icon": "pending-actions",
             "label": "action",
-            "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/action.json"
+            "data": "https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/action.json"
         },
         {
             "icon": "web",
             "label": "web",
-            "data": "https://raw.githubusercontent.com/triuduongg/msx/main/data/web.json"
+            "data": "https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/web.json"
         }
     ]
 }
