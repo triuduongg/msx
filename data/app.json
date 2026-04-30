@@ -10,12 +10,12 @@
         {
             "label": "feed",
             "icon": "apps-outage",
-            "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/feed.json"
+            "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/feed.json"
         },
         {
             "label": "link",
             "icon": "apps-outage",
-            "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/main/data/link.json"
+            "action": "panel:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/link.json"
         },
         {
             "label": "launcher",
