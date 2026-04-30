@@ -10,15 +10,15 @@
     "items": [
         {
             "label": "urlcontent",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/urlcontent.json"
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/urlcontent.json"
         },
         {
             "label": "urlmenu",
-            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/urlmenu.json"
+            "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/urlmenu.json"
         },
         {
             "label": "simpleimage",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/simpleimage.json"
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/simpleimage.json"
         },
         {
             "label": "videoimage",
@@ -35,19 +35,19 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/videoimage.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/videoimage.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/videoimage.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/videoimage.json"
                     }
                 ]
              }
         },
         {
             "label": "simpleaudio",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/simpleaudio.json"
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/simpleaudio.json"
         },
         {
             "label": "html5audio",
@@ -64,12 +64,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/html5audio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/html5audio.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/html5audio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/html5audio.json"
                     }
                 ]
              }
@@ -89,12 +89,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/dashaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/dashaudio.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/dashaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/dashaudio.json"
                     }
                 ]
              }
@@ -114,12 +114,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/shakaaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/shakaaudio.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/shakaaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/shakaaudio.json"
                     }
                 ]
              }
@@ -139,12 +139,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/hasaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/hasaudio.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/hasaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/hasaudio.json"
                     }
                 ]
              }
@@ -164,12 +164,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/hlsaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/hlsaudio.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/hlsaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/hlsaudio.json"
                     }
                 ]
              }
@@ -189,12 +189,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/videojsaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/videojsaudio.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/videojsaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/videojsaudio.json"
                     }
                 ]
              }
@@ -214,12 +214,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/youtubeaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/youtubeaudio.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/youtubeaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/youtubeaudio.json"
                     }
                 ]
              }
@@ -239,12 +239,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/vimeoaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/vimeoaudio.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/vimeoaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/vimeoaudio.json"
                     }
                 ]
              }
@@ -264,12 +264,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/dailymotionaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/dailymotionaudio.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/dailymotionaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/dailymotionaudio.json"
                     }
                 ]
              }
@@ -289,12 +289,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/twitchaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/twitchaudio.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/twitchaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/twitchaudio.json"
                     }
                 ]
              }
@@ -314,12 +314,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/facebookaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/facebookaudio.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/facebookaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/facebookaudio.json"
                     }
                 ]
              }
@@ -339,12 +339,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/wistiaaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/wistiaaudio.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/wistiaaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/wistiaaudio.json"
                     }
                 ]
              }
@@ -364,12 +364,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/soundcloudaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/soundcloudaudio.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/soundcloudaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/soundcloudaudio.json"
                     }
                 ]
              }
@@ -389,23 +389,23 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/html5xaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/html5xaudio.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/html5xaudio.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/html5xaudio.json"
                     }
                 ]
              }
         },
         {
             "label": "simplelink",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/simplelink.json"
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/simplelink.json"
         },
         {
             "label": "simplevideo",
-            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/simplevideo.json"
+            "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/simplevideo.json"
         },
         {
             "label": "html5video",
@@ -422,12 +422,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/html5video.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/html5video.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/html5video.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/html5video.json"
                     }
                 ]
              }
@@ -447,12 +447,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/dashvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/dashvideo.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/dashvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/dashvideo.json"
                     }
                 ]
              }
@@ -472,12 +472,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/shakavideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/shakavideo.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/shakavideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/shakavideo.json"
                     }
                 ]
              }
@@ -497,12 +497,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/hasvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/hasvideo.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/hasvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/hasvideo.json"
                     }
                 ]
              }
@@ -522,12 +522,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/hlsvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/hlsvideo.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/hlsvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/hlsvideo.json"
                     }
                 ]
              }
@@ -547,12 +547,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/videojsvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/videojsvideo.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/videojsvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/videojsvideo.json"
                     }
                 ]
              }
@@ -572,12 +572,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/youtubevideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/youtubevideo.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/youtubevideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/youtubevideo.json"
                     }
                 ]
              }
@@ -597,12 +597,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/vimeovideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/vimeovideo.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/vimeovideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/vimeovideo.json"
                     }
                 ]
              }
@@ -622,12 +622,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/dailymotionvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/dailymotionvideo.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/dailymotionvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/dailymotionvideo.json"
                     }
                 ]
              }
@@ -647,12 +647,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/twitchvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/twitchvideo.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/twitchvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/twitchvideo.json"
                     }
                 ]
              }
@@ -672,12 +672,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/facebookvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/facebookvideo.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/facebookvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/facebookvideo.json"
                     }
                 ]
              }
@@ -697,12 +697,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/wistiavideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/wistiavideo.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/wistiavideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/wistiavideo.json"
                     }
                 ]
              }
@@ -722,12 +722,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/soundcloudvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/soundcloudvideo.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/soundcloudvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/soundcloudvideo.json"
                     }
                 ]
              }
@@ -747,12 +747,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/html5xvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/html5xvideo.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/html5xvideo.json"
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/html5xvideo.json"
                     }
                 ]
              }
@@ -772,12 +772,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/mrss.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/mrss.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/mrss.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/mrss.json"
                     }
                 ]
              }
@@ -797,12 +797,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/imagem3u.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/imagem3u.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/imagem3u.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/imagem3u.json"
                     }
                 ]
              }
@@ -822,12 +822,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/audiom3u.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/audiom3u.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/audiom3u.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/audiom3u.json"
                     }
                 ]
              }
@@ -847,12 +847,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/videom3u.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/videom3u.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/videom3u.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/videom3u.json"
                     }
                 ]
              }
@@ -872,12 +872,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/pluginm3u.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/pluginm3u.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/pluginm3u.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/pluginm3u.json"
                     }
                 ]
              }
@@ -897,12 +897,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/imagepls.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/imagepls.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/imagepls.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/imagepls.json"
                     }
                 ]
              }
@@ -922,12 +922,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/audiopls.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/audiopls.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/audiopls.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/audiopls.json"
                     }
                 ]
              }
@@ -947,12 +947,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/videopls.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/videopls.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/videopls.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/videopls.json"
                     }
                 ]
              }
@@ -972,12 +972,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/http/pluginpls.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/http/pluginpls.json"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/main/data/lib/https/pluginpls.json"
+                        "action": "menu:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/https/pluginpls.json"
                     }
                 ]
              }
