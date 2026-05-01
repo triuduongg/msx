@@ -1,0 +1,1701 @@
+{
+    "headline": "TRIUDUONGG MSX",
+    "menu": [
+        {
+            "type": "separator",
+            "label": "main"
+        },
+        {
+            "icon": "info",
+            "label": "info",
+            "data": {
+                "type": "list",
+                "headline": "info",
+                "template": {
+                    "layout": "0,0,12,6",
+                    "iconSize": "extra-large",
+                    "color": "msx-glass"
+                },
+                "items": [
+                    {
+                        "action": "link:https://github.com/triuduongg/msx",
+                        "text": [
+                            "{txt:msx-white:- TRIUDUONGG ON MEDIA STATION X}{br}",
+                            "{txt:msx-white:- Visit: [https://msx.benzac.de]}{br}",
+                            "{txt:msx-white:- Download app:}{br}",
+                            "{txt:msx-white:- Google Play: [https://play.google.com/store/apps/details?id=de.benzac.msx]}{br}",
+                            "{txt:msx-white:- App Store: [https://apps.apple.com/us/app/media-station-x/id1363036077]}{br}",
+                            "{txt:msx-white:- Microsoft Store: [https://apps.microsoft.com/detail/9p4z98mljplz]}{br}",
+                            "{txt:msx-white:- LG Content Store: [https://us.lgappstv.com/main/tvapp/detail?appId=464834]}{br}",
+                            "{txt:msx-white:- Amazon Appstore: [https://www.amazon.com/benzac-de-Media-Station-X/dp/B078TL932D]}{br}",
+                            "{txt:msx-white:- The application is available on phones, computers, and televisions}{br}",
+                            "{txt:msx-white:- Setting -> start parameter: [id:bly:triuduonggmsx]}{br}",
+                            "{txt:msx-white:- All menus are provided with available media and link play tools with shortened link codes using [https://tinyurl.com/] or media codes of integrated social networks.}{br}",
+                            "{txt:msx-white:- The two prefixes http and https contain the same media. Because some devices can use the http prefix, but some can use the https prefix and others can use both. To know which prefix your device can use, the only way is to try both. The prefix here only applies to the application service (msx.benzac.de).}{br}",
+                            "{txt:msx-white:- You can create your own content easily if you know about the programming of this application. Experience it at [https://codepen.io/benzac-de].}{br}",
+                            "{txt:msx-white:- That's all the information I can give you about my content, take a look at [https://github.com/triuduongg/msx]. Thank you for using my content!}{br}"
+                        ]
+                    },
+                    {
+                        "label": "library",
+                        "icon": "play-lesson",
+                        "action": "content:https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/library.json"
+                    }
+                ]
+            }
+        },
+        {
+            "icon": "type-specimen",
+            "label": "list",
+            "data": {
+                "type": "list",
+                "headline": "list",
+                "template": {
+                    "layout": "0,0,4,6",
+                    "color": "msx-glass",
+                    "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "favorites",
+                        "icon": "library-add-check",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "favorites",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:user:http://msx.benzac.de/services/m3u.php?mode=extended-header&context=favorites"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:user:https://msx.benzac.de/services/m3u.php?mode=extended-header&context=favorites"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "collection",
+                        "icon": "collections-bookmark",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "collection",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "menu:data",
+                                    "data": {
+                                        "headline": "collection",
+                                        "menu": [
+                                            {
+                                                "icon": "list",
+                                                "label": "iptv-org",
+                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://iptv-org.github.io/iptv/index.m3u"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "freetv.fun",
+                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://freetv.fun/test_channels_all.m3u"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "i.mjh.nz",
+                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://i.mjh.nz/all/raw.m3u8"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "bearlivetv",
+                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/linhbear2021/bearlivetv/raw/refs/heads/main/tv369.mkv"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "m3upt",
+                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://m3upt.com/iptv"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "inspirationlinks",
+                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/inspirationlinks/m3u/raw/live/tv.m3u"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "free-tv",
+                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/Free-TV/IPTV/raw/refs/heads/master/playlist.m3u8"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "freelivesportstv",
+                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/HelmerLuzo/FreeLiveSportsTV_HL/raw/refs/heads/main/tv/m3u/FreeLiveSportsTV_tv.m3u"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "drewlive",
+                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewAll.m3u8"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "yuechanlive",
+                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/YueChan/Live/raw/refs/heads/main/Global.m3u"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "piratestv",
+                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "ipstreet312",
+                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/all.m3u"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "mine",
+                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/triuduongg/msx/raw/refs/heads/main/data/lib/video.m3u"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "menu:data",
+                                    "data": {
+                                        "headline": "collection",
+                                        "menu": [
+                                            {
+                                                "icon": "list",
+                                                "label": "iptv-org",
+                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://iptv-org.github.io/iptv/index.m3u"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "freetv.fun",
+                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://freetv.fun/test_channels_all.m3u"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "i.mjh.nz",
+                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://i.mjh.nz/all/raw.m3u8"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "bearlivetv",
+                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/linhbear2021/bearlivetv/raw/refs/heads/main/tv369.mkv"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "m3upt",
+                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://m3upt.com/iptv"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "inspirationlinks",
+                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/inspirationlinks/m3u/raw/live/tv.m3u"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "free-tv",
+                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/Free-TV/IPTV/raw/refs/heads/master/playlist.m3u8"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "freelivesportstv",
+                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/HelmerLuzo/FreeLiveSportsTV_HL/raw/refs/heads/main/tv/m3u/FreeLiveSportsTV_tv.m3u"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "drewlive",
+                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewAll.m3u8"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "yuechanlive",
+                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/YueChan/Live/raw/refs/heads/main/Global.m3u"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "piratestv",
+                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "ipstreet312",
+                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/all.m3u"
+                                            },
+                                            {
+                                                "icon": "list",
+                                                "label": "mine",
+                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/triuduongg/msx/raw/refs/heads/main/data/lib/video.m3u"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "m3u",
+                        "icon": "library-add",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "m3u",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "menu:data",
+                                    "data": {
+                                        "headline": "m3u",
+                                        "menu": [
+                                            {
+                                                "icon": "photo-library",
+                                                "label": "imagem3u",
+                                                "data": "request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=image%26mode=extended-header%26url=http://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|imagem3u@http://msx.benzac.de/interaction/input.html"
+                                            },
+                                            {
+                                                "icon": "library-music",
+                                                "label": "audiom3u",
+                                                "data": "request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=audio%26mode=extended-header%26url=http://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|audiom3u@http://msx.benzac.de/interaction/input.html"
+                                            },
+                                            {
+                                                "icon": "video-library",
+                                                "label": "videom3u",
+                                                "data": "request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=video%26mode=extended-header%26url=http://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|videom3u@http://msx.benzac.de/interaction/input.html"
+                                            },
+                                            {
+                                                "icon": "library-books",
+                                                "label": "pluginm3u",
+                                                "data": "request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=plugin%26mode=extended-header%26url=http://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|pluginm3u@http://msx.benzac.de/interaction/input.html"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "menu:data",
+                                    "data": {
+                                        "headline": "m3u",
+                                        "menu": [
+                                            {
+                                                "icon": "photo-library",
+                                                "label": "imagem3u",
+                                                "data": "request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=image%26mode=extended-header%26url=https://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|imagem3u@https://msx.benzac.de/interaction/input.html"
+                                            },
+                                            {
+                                                "icon": "library-music",
+                                                "label": "audiom3u",
+                                                "data": "request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=audio%26mode=extended-header%26url=https://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|audiom3u@https://msx.benzac.de/interaction/input.html"
+                                            },
+                                            {
+                                                "icon": "video-library",
+                                                "label": "videom3u",
+                                                "data": "request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=video%26mode=extended-header%26url=https://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|videom3u@https://msx.benzac.de/interaction/input.html"
+                                            },
+                                            {
+                                                "icon": "library-books",
+                                                "label": "pluginm3u",
+                                                "data": "request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=plugin%26mode=extended-header%26url=https://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|pluginm3u@https://msx.benzac.de/interaction/input.html"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "icon": "apps",
+            "label": "app",
+            "data": {
+                "type": "list",
+                "headline": "app",
+                "template": {
+                    "layout": "0,0,4,6",
+                    "color": "msx-glass",
+                    "iconSize": "extra-large"
+                },
+                "items": [
+                    {
+                        "label": "feed",
+                        "icon": "apps-outage",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "feed",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "menu:data",
+                                    "data": {
+                                        "headline": "feed",
+                                        "menu": [
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "newyorktimes",
+                                                "data": "request:interaction:http://msx.benzac.de/services/proxy.php?url=https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml@http://msx.benzac.de/interaction/mrss.html"
+                                            },
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "dailymail",
+                                                "data": "request:interaction:http://msx.benzac.de/services/proxy.php?url=https://www.dailymail.co.uk/home/index.rss@http://msx.benzac.de/interaction/mrss.html"
+                                            },
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "foxnews",
+                                                "data": "request:interaction:http://msx.benzac.de/services/proxy.php?url=https://moxie.foxnews.com/google-publisher/latest.xml@http://msx.benzac.de/interaction/mrss.html"
+                                            },
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "thedaily",
+                                                "data": "request:interaction:http://msx.benzac.de/services/proxy.php?url=https://rss.art19.com/the-daily@http://msx.benzac.de/interaction/mrss.html"
+                                            },
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "lequipe",
+                                                "data": "request:interaction:http://msx.benzac.de/services/proxy.php?url=http://dwh.lequipe.fr/api/edito/rss?path=/@http://msx.benzac.de/interaction/mrss.html"
+                                            },
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "theage",
+                                                "data": "request:interaction:http://msx.benzac.de/services/proxy.php?url=https://www.theage.com.au/rss/feed.xml@http://msx.benzac.de/interaction/mrss.html"
+                                            },
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "sydneymorningherald",
+                                                "data": "request:interaction:http://msx.benzac.de/services/proxy.php?url=https://www.smh.com.au/rss/feed.xml@http://msx.benzac.de/interaction/mrss.html"
+                                            },
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "mine",
+                                                "data": "request:interaction:http://msx.benzac.de/services/proxy.php?url=https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/mrss.xml@http://msx.benzac.de/interaction/mrss.html"
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "menu:data",
+                                    "data": {
+                                        "headline": "feed",
+                                        "menu": [
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "newyorktimes",
+                                                "data": "request:interaction:https://msx.benzac.de/services/proxy.php?url=https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml@https://msx.benzac.de/interaction/mrss.html"
+                                            },
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "dailymail",
+                                                "data": "request:interaction:https://msx.benzac.de/services/proxy.php?url=https://www.dailymail.co.uk/home/index.rss@https://msx.benzac.de/interaction/mrss.html"
+                                            },
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "foxnews",
+                                                "data": "request:interaction:https://msx.benzac.de/services/proxy.php?url=https://moxie.foxnews.com/google-publisher/latest.xml@https://msx.benzac.de/interaction/mrss.html"
+                                            },
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "thedaily",
+                                                "data": "request:interaction:https://msx.benzac.de/services/proxy.php?url=https://rss.art19.com/the-daily@https://msx.benzac.de/interaction/mrss.html"
+                                            },
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "lequipe",
+                                                "data": "request:interaction:https://msx.benzac.de/services/proxy.php?url=http://dwh.lequipe.fr/api/edito/rss?path=/@https://msx.benzac.de/interaction/mrss.html"
+                                            },
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "theage",
+                                                "data": "request:interaction:https://msx.benzac.de/services/proxy.php?url=https://www.theage.com.au/rss/feed.xml@https://msx.benzac.de/interaction/mrss.html"
+                                            },
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "sydneymorningherald",
+                                                "data": "request:interaction:https://msx.benzac.de/services/proxy.php?url=https://www.smh.com.au/rss/feed.xml@https://msx.benzac.de/interaction/mrss.html"
+                                            },
+                                            {
+                                                "icon": "rss-feed",
+                                                "label": "mine",
+                                                "data": "request:interaction:https://msx.benzac.de/services/proxy.php?url=https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/data/lib/mrss.xml@https://msx.benzac.de/interaction/mrss.html"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "link",
+                        "icon": "apps-outage",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "link",
+                            "template": {
+                                "layout": "0,0,2,2",
+                                "icon": "link",
+                                "color": "msx-glass"
+                            },
+                            "items": [
+                                {
+                                    "label": "youtube",
+                                    "action": "link:https://www.youtube.com/tv#/"
+                                },
+                                {
+                                    "label": "duckduckgo",
+                                    "action": "link:https://duckduckgo.com/"
+                                },
+                                {
+                                    "label": "stremio",
+                                    "action": "link:https://tv.strem.io"
+                                },
+                                {
+                                    "label": "lampa",
+                                    "action": "link:http://lampa.mx"
+                                },
+                                {
+                                    "label": "prisma",
+                                    "action": "link:https://prisma.ws"
+                                },
+                                {
+                                    "label": "icva",
+                                    "action": "link:https://icva.mx"
+                                },
+                                {
+                                    "label": "filmix",
+                                    "action": "link:https://filmix.tv/"
+                                },
+                                {
+                                    "label": "akterblack",
+                                    "action": "link:https://abmsx.tech/"
+                                },
+                                {
+                                    "label": "mytuner",
+                                    "action": "link:https://devices.mytuner.mobi/"
+                                },
+                                {
+                                    "label": "radioplayer",
+                                    "action": "link:http://tv.radioplayer.de/HiSense"
+                                },
+                                {
+                                    "label": "twitch",
+                                    "action": "link:https://webos.tv.twitch.tv/"
+                                },
+                                {
+                                    "label": "vkvideo",
+                                    "action": "link:https://tv.vk.com/app/2.4.14/webos/"
+                                },
+                                {
+                                    "label": "telegram",
+                                    "action": "link:http://web.telegram.org/k/"
+                                },
+                                {
+                                    "label": "mine",
+                                    "action": "link:https://github.com/triuduongg/msx"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "launcher",
+                        "icon": "app-registration",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "launcher",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "menu:request:interaction:init@http://launcher.msx.benzac.de/interaction"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "menu:request:interaction:init@https://launcher.msx.benzac.de/interaction"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "icon": "pending-actions",
+            "label": "action",
+            "data": {
+                "type": "list",
+                "headline": "action",
+                "template": {
+                    "layout": "0,0,3,2",
+                    "color": "msx-glass",
+                    "icon": "call-to-action",
+                    "iconSize": "medium"
+                },
+                "items": [
+                    {
+                        "label": "urlcontent",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "urlcontent",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:http://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|urlcontent@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:https://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|urlcontent@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "urlmenu",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "urlmenu",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=menu:http://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|urlmenu@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=menu:https://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|urlmenu@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "simpleimage",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "simpleimage",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=image:https://tinyurl.com/{INPUT}&type=action|default|en|simpleimage@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=image:https://tinyurl.com/{INPUT}&type=action|default|en|simpleimage@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "videoimage",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "videoimage",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/image.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|videoimage@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/image.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|videoimage@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "simpleaudio",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "simpleaudio",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:https://tinyurl.com/{INPUT}&type=action|default|en|simpleaudio@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:https://tinyurl.com/{INPUT}&type=action|default|en|simpleaudio@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "html5audio",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "html5audio",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/html5.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|html5audio@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/html5.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|html5audio@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "dashaudio",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "dashaudio",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/dash.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|dashaudio@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/dash.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|dashaudio@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "shakaaudio",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "shakaaudio",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/shaka.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|shakaaudio@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/shaka.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|shakaaudio@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "hasaudio",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "hasaudio",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/has.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|hasaudio@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/has.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|hasaudio@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "hlsaudio",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "hlsaudio",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/hls.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|hlsaudio@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/hls.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|hlsaudio@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "videojsaudio",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "videojsaudio",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/videojs.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|videojsaudio@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/videojs.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|videojsaudio@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "youtubeaudio",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "youtubeaudio",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/youtube.html?id={INPUT}&type=action|default|en|youtubeaudio@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/youtube.html?id={INPUT}&type=action|default|en|youtubeaudio@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "vimeoaudio",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "vimeoaudio",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/vimeo.html?id={INPUT}&type=action|default|en|vimeoaudio@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/vimeo.html?id={INPUT}&type=action|default|en|vimeoaudio@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "dailymotionaudio",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "dailymotionaudio",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/dailymotion.html?id={INPUT}&type=action|default|en|dailymotionaudio@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/dailymotion.html?id={INPUT}&type=action|default|en|dailymotionaudio@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "twitchaudio",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "twitchaudio",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/twitch.html?id={INPUT}&type=action|default|en|twitchaudio@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/twitch.html?id={INPUT}&type=action|default|en|twitchaudio@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "facebookaudio",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "facebookaudio",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/facebook.html?id={INPUT}&type=action|default|en|facebookaudio@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/facebook.html?id={INPUT}&type=action|default|en|facebookaudio@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "wistiaaudio",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "wistiaaudio",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/wistia.html?id={INPUT}&type=action|default|en|wistiaaudio@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/wistia.html?id={INPUT}&type=action|default|en|wistiaaudio@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "soundcloudaudio",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "soundcloudaudio",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/soundcloud.html?id={INPUT}&type=action|default|en|soundcloudaudio@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/soundcloud.html?id={INPUT}&type=action|default|en|soundcloudaudio@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "html5xaudio",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "html5xadio",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=audio:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|html5xaudio@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=audio:plugin:https://msx.benzac.de/plugins/html5x.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|html5xaudio@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "simplelink",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "simplelink",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=link:https://tinyurl.com/{INPUT}&type=action|default|en|simplelink@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=link:https://tinyurl.com/{INPUT}&type=action|default|en|simplelink@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "simplevideo",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "simplevideo",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:https://tinyurl.com/{INPUT}&type=action|default|en|simplevideo@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:https://tinyurl.com/{INPUT}&type=action|default|en|simplevideo@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "html5video",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "html5video",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/html5.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|html5video@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/html5.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|html5video@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "dashvideo",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "dashvideo",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/dash.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|dashvideo@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/dash.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|dashvideo@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "shakavideo",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "shakavideo",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/shaka.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|shakavideo@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/shaka.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|shakavideo@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "hasvideo",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "hasvideo",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/has.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|hasvideo@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/has.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|hasvideo@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "hlsvideo",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "hlsvideo",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/hls.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|hlsvideo@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/hls.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|hlsvideo@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "videojsvideo",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "videojsvideo",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/videojs.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|videojsvideo@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/videojs.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|videojsvideo@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "youtubevideo",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "youtubevideo",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/youtube.html?id={INPUT}&type=action|default|en|youtubevideo@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/youtube.html?id={INPUT}&type=action|default|en|youtubevideo@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "vimeovideo",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "vimeovideo",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/vimeo.html?id={INPUT}&type=action|default|en|vimeovideo@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/vimeo.html?id={INPUT}&type=action|default|en|vimeovideo@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "dailymotionvideo",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "dailymotionvideo",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/dailymotion.html?id={INPUT}&type=action|default|en|dailymotionvideo@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/dailymotion.html?id={INPUT}&type=action|default|en|dailymotionvideo@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "twitchvideo",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "twitchvideo",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/twitch.html?id={INPUT}&type=action|default|en|twitchvideo@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/twitch.html?id={INPUT}&type=action|default|en|twitchvideo@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "facebookvideo",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "facebookvideo",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/facebook.html?id={INPUT}&type=action|default|en|facebookvideo@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/facebook.html?id={INPUT}&type=action|default|en|facebookvideo@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "wistiavideo",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "wistiavideo",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/wistia.html?id={INPUT}&type=action|default|en|wistiavideo@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/wistia.html?id={INPUT}&type=action|default|en|wistiavideo@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "soundcloudvideo",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "soundcloudvideo",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/soundcloud.html?id={INPUT}&type=action|default|en|soundcloudvideo@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/soundcloud.html?id={INPUT}&type=action|default|en|soundcloudvideo@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "html5xvideo",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "html5xvideo",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|html5xvideo@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=video:plugin:https://msx.benzac.de/plugins/html5x.html?url=https://tinyurl.com/{INPUT}&type=action|default|en|html5xvideo@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "mrss",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "mrss",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:request:interaction:http://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}%40http://msx.benzac.de/interaction/mrss.html&type=action|default|en|mrss@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:request:interaction:https://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}%40https://msx.benzac.de/interaction/mrss.html&type=action|default|en|mrss@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "imagem3u",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "imagem3u",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=image%26mode=extended-header%26url=http://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|imagem3u@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=image%26mode=extended-header%26url=https://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|imagem3u@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "audiom3u",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "audiom3u",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=audio%26mode=extended-header%26url=http://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|audiom3u@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=audio%26mode=extended-header%26url=https://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|audiom3u@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "videom3u",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "videom3u",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=video%26mode=extended-header%26url=http://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|videom3u@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=video%26mode=extended-header%26url=https://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|videom3u@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "pluginm3u",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "pluginm3u",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/m3u.php?type=plugin%26mode=extended-header%26url=http://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|pluginm3u@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/m3u.php?type=plugin%26mode=extended-header%26url=https://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|pluginm3u@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "imagepls",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "imagepls",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/pls.php?type=image%26mode=extended-header%26url=http://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|imagepls@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/pls.php?type=image%26mode=extended-header%26url=https://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|imagepls@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "audiopls",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "audiopls",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/pls.php?type=audio%26mode=extended-header%26url=http://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|audiopls@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/pls.php?type=audio%26mode=extended-header%26url=https://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|audiopls@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "videopls",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "videopls",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/pls.php?type=video%26mode=extended-header%26url=http://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|videopls@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/pls.php?type=video%26mode=extended-header%26url=https://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|videopls@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "label": "pluginpls",
+                        "action": "panel:data",
+                        "data": {
+                            "type": "list",
+                            "headline": "pluginpls",
+                            "template": {
+                                "layout": "0,0,4,6",
+                                "color": "msx-glass",
+                                "iconSize": "extra-large"
+                            },
+                            "items": [
+                                {
+                                    "label": "http",
+                                    "icon": "http",
+                                    "action": "content:request:interaction:http://msx.benzac.de/services/input.php?input=content:user:http://msx.benzac.de/services/pls.php?type=plugin%26mode=extended-header%26url=http://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|pluginpls@http://msx.benzac.de/interaction/input.html"
+                                },
+                                {
+                                    "label": "https",
+                                    "icon": "https",
+                                    "action": "content:request:interaction:https://msx.benzac.de/services/input.php?input=content:user:https://msx.benzac.de/services/pls.php?type=plugin%26mode=extended-header%26url=https://msx.benzac.de/services/proxy.php?url=https://tinyurl.com/{INPUT}&type=action|default|en|pluginpls@https://msx.benzac.de/interaction/input.html"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "icon": "web",
+            "label": "web",
+            "data": {
+                "type": "list",
+                "headline": "web",
+                "template": {
+                    "layout": "0,0,6,6",
+                    "iconSize": "extra-large",
+                    "color": "msx-glass"
+                },
+                "items": [
+                    {
+                        "label": "http",
+                        "icon": "http",
+                        "action": "link:http://msx.benzac.de/?start=menu:http://msx.benzac.de/services/proxy.php?url=https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/main.json&leave=1"
+                    },
+                    {
+                        "label": "https",
+                        "icon": "https",
+                        "action": "link:https://msx.benzac.de/?start=menu:https://msx.benzac.de/services/proxy.php?url=https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/main.json&leave=1"
+                    }
+                ]
+            }
+        }
+    ]
+}
