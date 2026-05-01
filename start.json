@@ -1,7 +1,7 @@
 {
     "name": "TRIUDUONGG MSX",
     "version": "1.0.3",
-    "parameter": "menu:https://github.com/triuduongg/msx/raw/refs/heads/main/main.json",
+    "parameter": "menu:http://msx.benzac.de/services/proxy.php?url=https://github.com/triuduongg/msx/raw/refs/heads/main/main.json",
     "launcher": {
         "icon": "pages"
     }
