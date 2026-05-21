@@ -119,8 +119,8 @@
                                             },
                                             {
                                                 "icon": "list",
-                                                "label": "bearlivetv",
-                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/linhbear2021/bearlivetv/raw/refs/heads/main/tv369.mkv"
+                                                "label": "giangnam0201",
+                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/giangnam0201/All-In-One-IPTV/raw/refs/heads/main/channels.m3u"
                                             },
                                             {
                                                 "icon": "list",
@@ -194,8 +194,8 @@
                                             },
                                             {
                                                 "icon": "list",
-                                                "label": "bearlivetv",
-                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/linhbear2021/bearlivetv/raw/refs/heads/main/tv369.mkv"
+                                                "label": "giangnam0201",
+                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/giangnam0201/All-In-One-IPTV/raw/refs/heads/main/channels.m3u"
                                             },
                                             {
                                                 "icon": "list",
