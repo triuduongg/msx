@@ -119,19 +119,9 @@
                                             },
                                             {
                                                 "icon": "list",
-                                                "label": "giangnam0201",
-                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/giangnam0201/All-In-One-IPTV/raw/refs/heads/main/channels.m3u"
-                                            },
-                                            {
-                                                "icon": "list",
                                                 "label": "m3upt",
                                                 "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://m3upt.com/iptv"
-                                            },
-                                            {
-                                                "icon": "list",
-                                                "label": "inspirationlinks",
-                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/inspirationlinks/m3u/raw/live/tv.m3u"
-                                            },
+                                            },                                          
                                             {
                                                 "icon": "list",
                                                 "label": "free-tv",
@@ -141,27 +131,12 @@
                                                 "icon": "list",
                                                 "label": "freelivesportstv",
                                                 "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/HelmerLuzo/FreeLiveSportsTV_HL/raw/refs/heads/main/tv/m3u/FreeLiveSportsTV_tv.m3u"
-                                            },
-                                            {
-                                                "icon": "list",
-                                                "label": "drewlive",
-                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewAll.m3u8"
-                                            },
+                                            },                                            
                                             {
                                                 "icon": "list",
                                                 "label": "yuechanlive",
                                                 "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/YueChan/Live/raw/refs/heads/main/Global.m3u"
-                                            },
-                                            {
-                                                "icon": "list",
-                                                "label": "piratestv",
-                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u"
-                                            },
-                                            {
-                                                "icon": "list",
-                                                "label": "ipstreet312",
-                                                "data": "user:http://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=http://msx.benzac.de/services/proxy.php?url=https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/all.m3u"
-                                            },
+                                            },                                            
                                             {
                                                 "icon": "list",
                                                 "label": "mine",
@@ -191,22 +166,12 @@
                                                 "icon": "list",
                                                 "label": "i.mjh.nz",
                                                 "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://i.mjh.nz/all/raw.m3u8"
-                                            },
-                                            {
-                                                "icon": "list",
-                                                "label": "giangnam0201",
-                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/giangnam0201/All-In-One-IPTV/raw/refs/heads/main/channels.m3u"
-                                            },
+                                            },                                      
                                             {
                                                 "icon": "list",
                                                 "label": "m3upt",
                                                 "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://m3upt.com/iptv"
-                                            },
-                                            {
-                                                "icon": "list",
-                                                "label": "inspirationlinks",
-                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/inspirationlinks/m3u/raw/live/tv.m3u"
-                                            },
+                                            },                                          
                                             {
                                                 "icon": "list",
                                                 "label": "free-tv",
@@ -216,27 +181,12 @@
                                                 "icon": "list",
                                                 "label": "freelivesportstv",
                                                 "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/HelmerLuzo/FreeLiveSportsTV_HL/raw/refs/heads/main/tv/m3u/FreeLiveSportsTV_tv.m3u"
-                                            },
-                                            {
-                                                "icon": "list",
-                                                "label": "drewlive",
-                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewAll.m3u8"
-                                            },
+                                            },                                          
                                             {
                                                 "icon": "list",
                                                 "label": "yuechanlive",
                                                 "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/YueChan/Live/raw/refs/heads/main/Global.m3u"
-                                            },
-                                            {
-                                                "icon": "list",
-                                                "label": "piratestv",
-                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u"
-                                            },
-                                            {
-                                                "icon": "list",
-                                                "label": "ipstreet312",
-                                                "data": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended-header&url=https://msx.benzac.de/services/proxy.php?url=https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/all.m3u"
-                                            },
+                                            },                                                                                   
                                             {
                                                 "icon": "list",
                                                 "label": "mine",
