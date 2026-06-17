@@ -420,7 +420,7 @@
                             "items": [
                                 {
                                     "label": "youtube",
-                                    "action": "link:https://www.youtube.com/tv#/"
+                                    "action": "interaction:https://www.youtube.com/tv#/"
                                 },
                                 {
                                     "label": "duckduckgo",
