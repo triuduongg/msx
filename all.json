@@ -420,15 +420,15 @@
                             "items": [
                                 {
                                     "label": "youtube",
-                                    "action": "link:https://www.youtube.com/tv#/"
+                                    "action": "link:http://www.youtube.com/tv#/"
                                 },
                                 {
                                     "label": "duckduckgo",
-                                    "action": "link:https://duckduckgo.com/"
+                                    "action": "link:http://duckduckgo.com/"
                                 },
                                 {
                                     "label": "stremio",
-                                    "action": "link:https://tv.strem.io"
+                                    "action": "link:http://tv.strem.io"
                                 },
                                 {
                                     "label": "lampa",
@@ -436,23 +436,23 @@
                                 },
                                 {
                                     "label": "prisma",
-                                    "action": "link:https://prisma.ws"
+                                    "action": "link:http://prisma.ws"
                                 },
                                 {
                                     "label": "icva",
-                                    "action": "link:https://icva.mx"
+                                    "action": "link:http://icva.mx"
                                 },
                                 {
                                     "label": "filmix",
-                                    "action": "link:https://filmix.tv/"
+                                    "action": "link:http://filmix.tv/"
                                 },
                                 {
                                     "label": "akterblack",
-                                    "action": "link:https://abmsx.tech/"
+                                    "action": "link:http://abmsx.tech/"
                                 },
                                 {
                                     "label": "mytuner",
-                                    "action": "link:https://devices.mytuner.mobi/"
+                                    "action": "link:http://devices.mytuner.mobi/"
                                 },
                                 {
                                     "label": "radioplayer",
@@ -460,11 +460,11 @@
                                 },
                                 {
                                     "label": "twitch",
-                                    "action": "link:https://webos.tv.twitch.tv/"
+                                    "action": "link:http://webos.tv.twitch.tv/"
                                 },
                                 {
                                     "label": "vkvideo",
-                                    "action": "link:https://tv.vk.com/app/2.4.14/webos/"
+                                    "action": "link:http://tv.vk.com/app/2.4.14/webos/"
                                 },
                                 {
                                     "label": "telegram",
@@ -472,7 +472,7 @@
                                 },
                                 {
                                     "label": "mine",
-                                    "action": "link:https://github.com/triuduongg/msx"
+                                    "action": "link:http://github.com/triuduongg/msx"
                                 }
                             ]
                         }
