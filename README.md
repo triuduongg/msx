@@ -7,7 +7,7 @@
 #### - LG Content Store: [https://us.lgappstv.com/main/tvapp/detail?appId=464834]
 #### - Amazon Appstore: [https://www.amazon.com/benzac-de-Media-Station-X/dp/B078TL932D]
 #### - The application is available on phones, computers, and televisions
-#### - Setting -> start parameter: [id:bly:triuduonggmsx]
+#### - Setting -> start parameter: [id:trl:mb4ynrda]
 #### - All menus are provided with available media and link play tools with shortened link codes using [https://tinyurl.com/] or media codes of integrated social networks.
 #### - The two prefixes http and https contain the same media. Because some devices can use the http prefix, but some can use the https prefix and others can use both. To know which prefix your device can use, the only way is to try both. The prefix here only applies to the application service (msx.benzac.de).
 #### - You can create your own content easily if you know about the programming of this application. Experience it at [https://codepen.io/benzac-de].
