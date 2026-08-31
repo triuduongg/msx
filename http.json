@@ -481,12 +481,12 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "link:http://msx.benzac.de/?start=menu:http://msx.benzac.de/services/proxy.php?url=https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/http.json&leave=1"
+                        "action": "link:http://msx.benzac.de/?alias=TRIUDUONGGMSX&start=menu:http://msx.benzac.de/services/proxy.php?url=https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/http.json&leave=1"
                     },
                     {
                         "label": "https",
                         "icon": "https",
-                        "action": "link:https://msx.benzac.de/?start=menu:https://msx.benzac.de/services/proxy.php?url=https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/https.json&leave=1"
+                        "action": "link:https://msx.benzac.de/?alias=TRIUDUONGGMSX&start=menu:https://msx.benzac.de/services/proxy.php?url=https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/https.json&leave=1"
                     }
                 ]
             }
