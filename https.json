@@ -1,5 +1,5 @@
 {
-    "headline": "TRIUDUONGG MSX",
+    "headline": "TRIUDUONGG MSX HTTPS",
     "menu": [
         {
             "type": "separator",
@@ -29,7 +29,9 @@
                             "{txt:msx-white:- LG Content Store: [https://us.lgappstv.com/main/tvapp/detail?appId=464834]}{br}",
                             "{txt:msx-white:- Amazon Appstore: [https://www.amazon.com/benzac-de-Media-Station-X/dp/B078TL932D]}{br}",
                             "{txt:msx-white:- The application is available on phones, computers, and televisions}{br}",
-                            "{txt:msx-white:- Setting -> start parameter: [id:bly:triuduonggmsx]}{br}",
+                            "{txt:msx-white:- Setting -> start parameter:{br}",
+                            "{txt:msx-white:- HTTP: [id:trl:4fmcy8n2]}{br}",
+                            "{txt:msx-white:- HTTPS: [id:trl:ycyrrznp]}{br}",
                             "{txt:msx-white:- All menus are provided with available media and link play tools with shortened link codes using [https://ume.la/] or media codes of integrated social networks.}{br}",
                             "{txt:msx-white:- The two prefixes http and https contain the same media. Because some devices can use the http prefix, but some can use the https prefix and others can use both. To know which prefix your device can use, the only way is to try both. The prefix here only applies to the application service (msx.benzac.de).}{br}",
                             "{txt:msx-white:- You can create your own content easily if you know about the programming of this application. Experience it at [https://codepen.io/benzac-de].}{br}",
@@ -479,7 +481,7 @@
                     {
                         "label": "http",
                         "icon": "http",
-                        "action": "link:http://msx.benzac.de/?start=menu:http://msx.benzac.de/services/proxy.php?url=https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/http.json&leave=1"
+                        "action": "link:https://msx.benzac.de/?start=menu:https://msx.benzac.de/services/proxy.php?url=https://raw.githubusercontent.com/triuduongg/msx/refs/heads/main/http.json&leave=1"
                     },
                     {
                         "label": "https",
